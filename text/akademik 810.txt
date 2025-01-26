@@ -1,12 +1,4 @@
-<!DOCTYPE html>
-<html lang="uz">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Test Savollari</title>
-</head>
-<body>
-   <p>
+
 Qaysi uslubda qo‘shma gaplar faol qo‘llanadi?
 ====
 #Ilmiy uslubda
@@ -18,7 +10,7 @@ Ommabop uslubda
 Badiiy uslubda
 
 +++++
-<br>
+
 Axborot so‘zi qaysi tildan olingan?
 ====
 Yunoncha
@@ -30,7 +22,7 @@ Yunoncha
  #Lotincha
 
 +++++
-<br>
+ 
 Ekspressiv matn bu----
 ====
 izoh matndir
@@ -42,7 +34,7 @@ hikoya matni
 xabar matni
 
 +++++
-<br>
+
  Matn hosil qiluvchi vositalarga nimalar kiradi?
 ====
   so‘z, so‘z birikmasi
@@ -54,7 +46,7 @@ xabar matni
  #barcha javoblar to‘g‘ri
 
 +++++
-<br>
+
  Akademik yozuv fani “Davlat tili” to‘g‘risidagi qonunning nechanchi moddalariga tayanadi.
 ====
  6,8,10
@@ -66,7 +58,7 @@ xabar matni
  7,8,9-moddalar
 
 +++++
-<br>
+
  Nemischadan olingan bo‘lib, “ich tomon, orqa tomon yurmoq” ma’nosini bildiruvchi atamani toping.
 ====
 #Abzas
@@ -1924,7 +1916,3 @@ Argumentli matn bu-
  # Buyruq
 ====
   Izoh
-
-</p>
-</body>
-</html>
