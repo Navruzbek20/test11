@@ -1,2428 +1,1512 @@
-
-
-…. - mavjud tahdidni amalga oshirilgan ko‘rinishi bo‘lib, bunda kutilgan tahdid amalga oshiriladi.====
-#Hujum====
-Tahdid====
-Zaiflik====
-Buzish
-
-+++++
-
-Kiberxavfsizlik nechta bilim sohasini o‘z ichiga oladi? ====
-#8 ta====
-6 ta ====
-5 ta====
-7 ta
-
-+++++
-
-
-Kimlar o‘zining harakatlari bilan sanoat josusi yetkazadigan muammoga teng (undan ham ko‘p bo‘lishi mumkin) muammoni yuzaga keltiradi? ====
-#Ishonchsiz xodimlar====
-Xaker-professional====
-Sarguzasht qidiruvchilar====
-G‘oyaviy xakerlar
-
-+++++
-
-
-Kompyuter bilan bog‘liq falsafiy soha bo‘lib, foydalanuvchilarning xatti-harakatlari, komyuterlar nimaga dasturlashtirilganligi va umuman insonlarga va jamiyatga qanday ta’sir ko‘rsatishini o‘rgatadigan soha nima deb ataladi? ====
-#Kiberetika====
-Kiberhuquq====
-Kiberqoida====
-Kiberxavfsizlik
-
-+++++
-
-
-Bir-biriga osonlik bilan ma’lumot va resurslarni taqsimlash uchun ulangan  kompyuterlar guruhi…====
-#Kompyuter tarmoqlari ====
-Kompyuter markazi====
-Ma’lumotlar bazasi====
-Tarmoq xavfsizligi
-
-+++++
-
-
-….kompyuter tizimiga tahdid qilish imkoniyatiga ega hamda troyanlar, viruslar, “qurt”lar ko‘rinishida bo‘lishi mumkin. ====
-#Zararli dastur====
-.exe fayl====
-Boshqariluvchi dastur====
-Kengaytmaga ega bo‘lgan fayl
-
-+++++
-
-….bir qarashda yaxshi va foydali kabi ko‘rinuvchi dasturiy vosita sifatida o‘zini ko‘rsatsada, yashiringan zararli koddan iborat.====
-#troyan otlari====
-adware====
-spyware====
-rootkits
-
-+++++
-
-….zararli dasturiy vosita bo‘lib, biror mantiqiy shart qanoatlantirilgan vaqtda o‘z harakatini amalga oshiradi. ====
-#mantiqiy bombalar====
-adware====
-spyware====
-rootkits
-
-+++++
-
-…. keng qamrovli nishondagi tizim va tarmoq resurlarida xizmatdan foydalanishni buzishga qaratilgan hujum bo‘lib, Internetdagi ko‘plab zombi kompyuterlar orqali bilvosita amalga oshiriladi. ====
-#Taqsimlangan DOS hujumlar====
-O‘rtada turgan odam hujumi====
-Parolga qaratilgan hujumlar====
-Passiv razvedka hujumlari
-
-+++++
-
-Qaysi hujumlar asosan portlarni va operatsion tizimni skanerlashni maqsad qiladi? ====
-#Aktiv razvedka hujumlari====
-O‘rtada turgan odam hujumi====
-Parolga qaratilgan hujumlar====
-Passiv razvedka hujumlari
-
-+++++
-
-Ma’lum qilingan foydalanuvchi, jarayon yoki qurilmaning haqiqiy ekanligini tekshirish jarayoni qanday ataladi? ====
-#Autentifikatsiya====
-Identifikatsiya====
-Ma’murlash (accounting) ====
-Avtorizatsiya
-
-+++++
-
-
-Axborotni uzatish va saqlash jarayonida o‘z strukturasi va yoki mazmunini saqlash xususiyati nima deb ataladi? ====
-Axborotning maxfiyligi====
-Foydalanuvchanligi====
-#Ma’lumotlar butunligi====
-Ixchamligi
-
-+++++
-
-
-OSI modelining yettinchi sathi nomini belgilang ====
-#Ilova sathi (application)====
-Seans sathi (session)====
-Fizik sathi (physical)====
-Tarmoq sathi (network)
-
-+++++
-
-
-Biometrik autentifikatsiyalashning avfzalliklari-bu: ====
-Bir marta ishlatilishi====
-#Biometrik parametrlarning noyobligi====
-Biometrik parametrlarni o‘zgartirish imkoniyati====
-Autentifikatsiyalash jarayonining soddaligi
-
-+++++
-
-Qog‘oz ma’lumotlarni yo‘q qilish odatda necha xil usulidan foydalaniladi? ====
-#4 xil====
-8 xil====
-7 xil====
-5 xil
-
-+++++
-
-
-Ma’lumotlarni zaxira nusxalash bu – …====
-#Muhim  bo‘lgan axborot nusxalash yoki saqlash jarayoni ====
-Axborotni turli dasturlar yordamida tiklash imkoniyati====
-Ma’lumotlarni ishonchli o‘chirish imkoniyati====
-Ma’lumotlar xavfsizligini ta’minlash uchun qo‘llaniladigan shifrlash jarayoni
-
-+++++
-
-
-Turli ofis ilovalari:  MS Word hujjati, MS Excel elektron jadvali kabi fayllarni qaysi virus turi zararlaydi? ====
-#Makroviruslar====
-Troyanlar====
-Botnetlar====
-Mutantvirus
-
-+++++
-
-
-Ma’lumotlarni zaxira nusxasini saqlovchi va qayta tiklovchi dasturni belgilang. ====
-#Redo Backup and Recovery ====
-BestCrypt====
-Cryptool 1.4====
-Eset32
-
-+++++
-
-
-Nomuntazam siyosat (Promiscuous Policy) nima? ====
-#Tizim resurslaridan foydalanishda hech qanday cheklovlar qo‘ymaydi  ====
-Faqat ma’lum xizmatlar/hujumlar/harakatlar bloklanadi ====
-Hamma narsa ta’qiqlanadi ====
-Barcha xizmatlar blokirovka qilingandan so‘ng bog‘lanadi
-
-+++++
-
-
-OSI modelining birinchi sathi nomini belgilang.====
-#Fizik sathi (physical)====
-Ilova sathi (application)====
-Seans sathi (session)====
-Kanal sathi (data link)
-
-+++++
-
-
-OSI modelining ikkinchi sathi nomini belgilang.====
-#Kanal sathi (data link)====
-Fizik sathi (physical)====
-Ilova sathi (application)====
-Seans sathi (session)
-
-+++++
-
-
-OSI modelining uchinchi sathi nomini belgilang.====
-#Tarmoq sathi (network)====
-Fizik sathi (physical)====
-Ilova sathi (application)====
-Seans sathi (session)
-
-+++++
-
-
-OSI modelining to‘rtinchi sathi nomini belgilang.====
-#Transport sathi (transport)====
-Fizik sathi (physical)====
-Ilova sathi (application)====
-Taqdimot sathi (presentation)
-
-+++++
-
-
-OSI modelining beshinchi sathi nomini belgilang.====
-#Seans sathi (session)====
-Fizik sathi (physical)====
-Ilova sathi (application)====
-Taqdimot sathi (presentation)
-
-+++++
-
-
-OSI modelining oltinchi sathi nomini belgilang.====
-#Taqdimot sathi (presentation)====
-Fizik sathi (physical)====
-Ilova sathi (application)====
-Tarmoq sathi (network)
-
-+++++
-
-
-Simmetrik shifrlashning noqulayligi – bu: ====
-#Maxfiy kalitlar bilan ayirboshlash zaruriyatidir====
-Kalitlar maxfiyligi====
-Kalitlar uzunligi====
-Shifrlashga ko‘p vaqt sarflanishi va ko‘p yuklanishi
-
-+++++
-
-
-Yuliy Sezar ma’lumotlarni shifrlashda alfavit xarflarni nechtaga surib shifrlagan? ====
-4 taga====
-2 taga====
-5 taga====
-#3 taga
-
-+++++
-
-
-Quyidagi parollarning qaysi biri “bardoshli parol”ga kiradi? ====
-#Knx1@8&h ====
-qwertyu====
-salomDunyo====
-Mashina505
-
-+++++
-
-
-OSI modeli nechta sathdan iborat? ====
-#7 ta====
-4 ta====
-5 ta====
-3 ta
-
-+++++
-
-
-OSI modelining fizik (physical) sathida qanday tarmoq qurilmalari qo‘llaniladi? ====
-Marshrutizator====
-Ko‘prik====
-Tarmoq adapter====
-#Kontsentrator
-
-+++++
-Axborot xavfsizligining asosiy maqsadlaridan biri-bu…====
-Obyektga bevosita ta’sir qilish====
-#Axborotlarni o‘g‘irlanishini, yo‘qolishini, soxtalashtirilishini oldini olish====
-Axborotlarni shifrlash, saqlash, yetkazib berish====
-Tarmoqdagi foydalanuvchilarni ma’lumotini ta’minlab berish
-
-+++++
-
-Windows OTda necha turdagi hodisa ro‘yxatga olinadi?====
-#5 ta====
-2 ta====
-3 ta====
-4 ta
-
-+++++
-
-
-Kriptografiyada matn –bu.. ====
-#alifbo elementlarining tartiblangan to‘plami====
-matnni shifrlash va shifrini ochish uchun kerakli axborot====
-axborot belgilarini kodlash uchun foydalaniladigan chekli to‘plam====
-kalit axborotni shifrlovchi kalitlar
-
-+++++
-
-
-Shifrmatnni ochiq matntga akslantirish jarayoni nima deb ataladi? ====
-#Deshifrlash====
-Xabar====
-Shifrlangan xabar====
-Shifrlash
-
-+++++
-
-
-Kriptotizimga qo‘yiladigan umumiy talablardan biri nima? ====
-#shifr matn uzunligi ochiq matn uzunligiga teng bo‘lishi kerak====
-shifrlash algoritmining tarkibiy elementlarini o‘zgartirish imkoniyati bo‘lishi lozim====
-ketma-ket qo‘llaniladigan kalitlar o‘rtasida oddiy va oson bog‘liqlik bo‘lishi kerak====
-maxfiylik o‘ta yuqori darajada bo‘lmoqligi lozim
-
-+++++
-
-
-Berilgan ta’riflardan qaysi biri Assimetrik tizimlarga xos? ====
-#Assimmetrik kriptotizimlarda k1≠k2 bo‘lib, k1 ochiq kalit, k2 yopiq kalit deb yuritiladi, k1 bilan axborot shifrlanadi, k2 bilan esa deshifrlanadi====
-Assimetrik tizimlarda k1=k2 bo‘ladi, ya’ni k – kalit bilan axborot ham shifrlanadi, ham deshifrlanadi====
-Assimetrik kriptotizimlarda yopiq kalit axborot almashinuvining barcha ishtirokchilariga ma’lum bo‘ladi, ochiq kalitni esa faqat qabul qiluvchi biladi====
-Assimetrik kriptotizimlarda k1≠k2 bo‘lib, kalitlar hammaga oshkor etiladi
-
-+++++
-
-
-
-Shaxsning, axborot kommunikatsiya tizimidan foydalanish huquqiga ega bo‘lish uchun foydalaniluvchining maxfiy bo‘lmagan qayd yozuvi – bu…====
-#login====
-parol====
-identifikatsiya====
-token
-
-+++++
-
-
-Uning egasi haqiqiyligini aniqlash jarayonida matn axboroti sifatida ishlatiladigan belgilar 
-ketma-ketligi (maxfiy so‘z) – nima? ====
-#parol====
-login====
-identifikatsiya====
-maxfiy maydon
- 
-+++++
-
-
-Ro‘yxatdan o‘tish-bu…====
-#foydalanuvchilarni ro‘yxatga olish va ularga dasturlar va ma’lumotlarni ishlatishga huquq berish jarayoni====
-axborot tizimlari ob’yekt va subyektlariga uni tanish uchun nomlar (identifikator) berish va berilgan nom bo‘yicha solishtirib uni aniqlash jarayoni====
-obyekt yoki subyektni unga berilgan identifikatorga mosligini tekshirish va belgilar ketma-ketligidan iborat maxfiy kodini tekshirish orqali aslligini aniqlash====
-foydalanuvchining resursdan foydalanish huquqlari va ruxsatlarini tekshirish jarayoni
-
-+++++
-
-
-Axborot qanday sifatlarga ega bo‘lishi kerak? ====
-#ishonchli, qimmatli va to‘liq====
-uzluksiz va uzlukli====
-ishonchli, qimmatli va uzlukli====
-ishonchli, qimmatli va uzluksiz
-
-+++++
-
-
-Maxfiy xabarni soxta xabar ichiga berkitish orqali aloqani yashirish nima deb ataladi?====
-sirli yozuv====
-#steganografiya====
-skrembler====
-shifr mashinalar
-
-+++++
-
-
-Ochiq kalitli kriptotizimlarning mohiyati nimadan iborat? ====
-Ochiq kalitli kriptotizimlarda shifrlash va deshifrlashda 1 ta –kalitdan foydalaniladi====
-#Ochiq kalitli kriptotizimlarda bir-biri bilan matematik bog‘langan 2 ta – ochiq va yopiq kalitlardan foydalaniladi====
-Ochiq kalitli kriptotizimlarda ma’lumotlarni faqat shifrlash mumkin====
-Ochiq kalitli kriptotizimlarda ma’lumotlarni faqat deshifrlash mumkin
-
-+++++
-
-
-Ma’lumotlar butunligi qanday algritmlar orqali amalga oshiriladi? ====
-Simmetrik algoritmlar====
-Assimmetrik algoritmlar====
-#Xesh funksiyalar====
-Kodlash
-
-+++++
-
-
-Identifikatsiya, autentifikatsiya jarayonlaridan o‘tgan foydalanuvchi uchun tizimda bajarishi mumkin bo‘lgan amallarga ruxsat berish jarayoni bu... ====
-#Avtorizatsiya====
-Shifrlash====
-Identifikatsiya====
-Autentifikatsiya
-
-+++++
-
-
-Autentifikatsiya faktorlari nechta? ====
-4 ta====
-#3 ta====
-5 ta====
-6 ta
-
-+++++
-
-
-Ko‘z pardasi, yuz tuzilishi, ovoz tembri, -bular autentifikatsiyaning qaysi faktoriga mos belgilar? ====
-#Biometrik autentifikatsiya====
-Biron nimaga egalik asosida====
-Biron nimani bilish asosida====
-Parolga asoslangan
-
-+++++
-
-
-Shifrlash kaliti noma’lum bo‘lganda shifrlangan ma’lumotni deshifrlash qiyinlik darajasini belgilaydigan atamani toping.====
-Shifr matn uzunligi====
-#Kriptobardoshlik====
-Shifrlash algoritmi====
-Texnika va texnologiyalar
-
-+++++
-
-
-Qog‘oz ma’lumotlarni yo‘q qilish odatda necha xil usuldan foydalaniladi? ====
-#4 xil====
-8 xil====
-7 xil====
-5 xil
-
-+++++
-
-
-Kiberjinoyat qanday turlarga bo‘linadi?====
-#Ichki va tashqi====
-Faol va passiv====
-Asosiy va quyi====
-Xalqaro va milliy
-
-+++++
-
-
-“Kiberxavfsizlik to‘g‘risida”gi Qonun qachon tasdiqlangan?====
-#15.04.2022 y====
-20.03.2021 y====
-02.01.2000 y====
-15.01.1995 y
-
-+++++
-
-
-Kiberjinoyatchilik bu –. . . ====
-#Kompyuter yoki boshqa qurilmalarga qarshi qilingan yoki kompyuter va boshqa qurilmalar orqali qilingan jinoiy faoliyat ====
-Kompyuter o‘yinlari====
-Faqat banklardan va bank kartalaridan pul o‘g‘irlanishi====
-Autentifikatsiya jarayonini buzish
-
-+++++
-
-
-OSI modelining tarmoq (network) sathida qanday tarmoq qurilmalar qo‘llaniladi? ====
-#Marshrutizator====
-Ko‘prik====
-Tarmoq ekrani====
-Kommutator
-
-+++++
-
-
-Parollash siyosatiga ko‘ra parol tanlash shartlari qanday? ====
-Kamida 7 belgi; katta va kichik xavflar, sonlar qo‘llanishi kerak. ====
-#Kamida 8 belgi; katta va kichik xavflar, sonlar , kamida bitta maxsus simvol qo‘llanishi kerak. ====
-Kamida 6 belgi; katta xarflar, sonlar , kamida bitta maxsus simvol qo‘llanishi kerak. ====	
-Kamida 6 belgi; katta va kichik xarflar, kamida bitta maxsus simvol qo‘llanishi kerak.
-
-+++++
-
-
-MD5, SHA1, SHA256, O‘z DSt 1106:2009- qanday algoritmlar deb ataladi? ====
-Kodlash====
-#Xeshlash====
-Shifrlash====
-Stegonografiya
-
-+++++
-
-
-Zimmermann telegrami, Enigma shifri, SIGABA kriptografiyaning qaysi davriga to‘g‘ri keladi? ====
-O‘rta asr davrida====
-XV asr davrida====
-#1-2 jahon urushu davri====
-XXI asr davrida
-
-+++++
-
-
-"Fishing" tushunchasi-bu…:====
-Kompyuter va kompyuter tarmoqlarida odamlarning etikasi====
-Kompyuter, dasturlar va tarmoqlar xavfsizligi====
-#Tashkilot va odamlarning maxsus va shaxsiy ma’lumotlarini olishga qaratilgan internet-hujumi====
-Kompyuter tizimlariga ruxsatsiz ta’sir ko‘rsatish
-
-+++++
-
-
-Axborot xavfsizligi boshqaruv tizimida "Aktiv" so‘zi nimani anglatadi?====
-Tashkilot va uning AKT doirasida aktivlarni shu jumladan, kritik axborotni boshqarish, himoyalash va taqsimlashni belgilovchi qoidalar, ko‘rsatmalar, amaliyot.====
-Hisoblash tizimi xizmatlaridan foydalanish huquqiga ega shaxs (shaxslar guruxi, tashkilot).====
-#Axborot xavfsizligida tashkilot uchun qimmatbaho bo‘lgan va himoyalanishi lozim bo‘lgan narsalar====
-Ma’lumotlarni va axborotni yaratish, uzatish, ishlash, tarqatish, saqlash va/yoki boshqarishga va hisoblashlarni amalga oshirishga mo‘ljallangan dasturiy va apparat vositalar
-
-+++++
-
-
-Axborot xavfsizligi timsollarini ko‘rsating.====
-Haker, Krakker====
-#Alisa, Bob, Eva====
-Buzg‘unchi, hujumchi====
-subyekt, user
-
-+++++
-
-
-Axborot xavfsizligini ta’minlashda birinchi darajadagi me’yoriy hujjat nomini belgilang.====
-#Qonunlar====
-Qarorlar====
-Standartlar====
-Farmonlar
-
-+++++
-
-
-Qaysi siyosat tizim resurslarini foydalanishda hech qanday cheklovlar qo‘ymaydi?====
-Ruxsat berishga asoslangan siyosat====
-Paranoid siyosat====
-Extiyotkorlik siyosati====
-#Nomuntazam siyosat
-
-+++++
-
-
-OSI modelining fizik (physical) sathida axborot tipi qanday nomlanadi? ====
-#bit====
-kadr====
-paket====
-segment
-
-+++++
-
-
-Ehtiyotkorlik siyosati (Prudent Policy) – bu ….====
-Faqat ma’lum hizmatlar/hujumlar/harakatlar bloklanadi====
-Hamma narsa ta’qiqlanadi====
-Tizim resurslaridan foydalanishda hech qanday cheklovlar qo‘ymaydi====
-#Barcha hizmatlar blokirovka qilingandan so‘ng bog‘lanadi
-
-+++++
-
-
-... - faqat foydalanuvchiga ma’lum va biror tizimda autentifikatsiya jarayonidan o‘tishni ta’minlovchi biror axborot. ====
-#Parol ==== 	
-Login====	
-Maxfiy kalit ====	
-Shifrlangan axborot
-
-+++++
-
-
-“Dasturiy ta’minotlar xavfsizligi” bilim sohasi - bu ... ====
-#foydalanilayotgan tizim yoki axborot xavfsizligini ta’minlovchi dasturiy ta’minotlarni ishlab chiqish va foydalanish jarayoniga e’tibor qaratadi. ====
-katta tizimlarda integrallashgan tashkil etuvchilarni loyihalash, sotib olish, testlash, analiz qilish va texnik xizmat ko‘rsatishga e’tibor qaratadi. ====
-tashkil etuvchilar o‘rtasidagi aloqani himoyalashga e’tibor qaratib, o‘zida fizik va mantiqiy ulanishni birlashtiradi. ====
-kiberxavfsizlik bilan bog‘liq inson hatti harakatlarini o‘rganishdan tashqari, tashkilotlar (masalan, xodim) va shaxsiy hayot sharoitida shaxsiy ma’lumotlarni va shaxsiy hayotni himoya qilishga e’tibor qaratadi.
-
-+++++
-
-
-“Jamoat xavfsizligi” bilim sohasi  - bu …	====
-#u yoki bu darajada jamiyatda ta’sir ko‘rsatuvchi kiberxavfsizlik omillariga e’tibor qaratadi. ====	
-tashkilotni kiberxavfsizlik tahdidlaridan himoyalash va tashkilot vazifasini muvaffaqiyatli bajarishini====	
-foydalanilayotgan tizim yoki axborot xavfsizligini ta’minlovchi dasturiy ta’minotlarni ishlab chiqish va foydalanish jarayoniga e’tibor qaratadi====
-katta tizimlarda integrallashgan tashkil etuvchilarni loyihalash, sotib olish, testlash, analiz qilish va texnik xizmat ko‘rsatishga e’tibor qaratadi.
-
-+++++
-
-
-“Ma’lumotlar xavfsizligi” bilim sohasi - bu …====
-#ma’lumotlarni saqlashda, qayta ishlashda va uzatishda himoyani ta’minlashni maqsad qiladi.====
-foydalanilayotgan tizim yoki axborot xavfsizligini ta’minlovchi dasturiy ta’minotlarni ishlab chiqish va foydalanish jarayoniga e’tibor qaratadi====
-katta tizimlarda integrallashgan tashkil etuvchilarni loyihalash, sotib olish, testlash, analiz qilish va texnik xizmat ko‘rsatishga e’tibor qaratadi.====
-tashkil etuvchilar o‘rtasidagi aloqani himoyalashga e’tibor qaratib, o‘zida fizik va mantiqiy ulanishni birlashtiradi.
-
-+++++
-
-
-OSI modelining tarmoq (network) sathida axborot tipi qanday nomlanadi? ====
-ma’lumot====
-bit/kadr====
-#paket====
-segment/datagramma
-
-+++++
-
-
-Autentifikatsiya jarayoni qanday jarayon? ====
-#obyekt yoki subyektni unga berilgan identifikatorga mosligini tekshirish va belgilar ketma-ketligidan iborat maxfiy axborotni tekshirish orqali asilligini aniqlash====
-axborot tizimlari obyekt va subyektlariga uni tanish uchun nomlar (identifikator) berish va berilgan nom bo‘yicha solishtirib uni aniqlash jarayoni====
-foydalanuvchining resursdan foydalanish huquqlari va ruxsatlarini tekshirish jarayoni====
-foydalanuvchilarni ro‘yxatga olish va ularga dasturlar va ma’lumotlarni ishlatishga huquq berish jarayoni
-
-+++++
-
-
-Avtorizatsiya nima? ====
-#Identifikatsiya va autentifikatsiyadan o‘tgan foydalanuvchilarga tizimda bajarishi mumkin bo‘lgan amallarga ruxsat berish  jarayoni====  
-Subyekt identifikatorini tizimga yoki talab qilgan subyektga taqdim qilish jarayoni====
-Foydalanuvchini (yoki biror tomonni) tizimdan foydalanish uchun ruxsati mavjudligini aniqlash jarayoni====
-Identifikatsiya va autentifikatsiyadan o‘tgan foydalanuvchilar 
-
-+++++
-
-
-
-Axborot xavfsizligi qanday asosiy xarakteristikalarga ega? ====
-#Butunlik, konfidentsiallik, foydalanuvchanlik====
-Butunlik, himoya, ishonchlilikni o‘rganib chiqishlilik====
-Konfidentsiallik, foydalana olishlik====
-Himoyalanganlik, ishonchlilik, butunlik
-
-+++++
-
-
-Axborot xavfsizligining huquqiy ta’minotiga nimalar kiradi? ====
-#Qonunlar, aktlar, me’yoriy-huquqiy hujjatlar, qoidalar, yo‘riqnomalar, qo‘llanmalar majmui====
-Qoidalar yo‘riqnomalar, tizim arxetikturasi, xodimlar malakasi, yangi qoidalar, yangi yo‘riqnomalar, qo‘llanmalar majmui====
-Qoidalar, yo‘riqnomalar, tizim strukturasi, dasturiy ta’minot====
-Himoya tizimini loyihalash, nazorat usullari
-
-+++++
-
-"Barcha xizmatlar blokirovka qilingandan so‘ng bog‘lanadi". -Bu qaysi xavfsizlik siyosatiga hos? ====
-#Ehtiyotkorlik siyosati (Prudent Policy)====
-Nomuntazam siyosat (Promiscuous Policy) ==== 
-Paranoid siyosati (Paranoid Policy) ==== 
-Ruxsat berishga asoslangan siyosat (Permissive Policy)
-
-+++++
-
-
-Barcha simmetrik shifrlash algoritmlari qanday shifrlash usullariga bo‘linadi? ====
-#Blokli va oqimli====
-DES va oqimli====
-Feystel va Verman====
-SP− tarmoq va IP
-
-+++++
-
-
-Elektron pochtaga kirishda foydalanuvchi qanday autetntifikasiyalashdan o‘tadi? ====
-#Parol asosida====
-Smart karta asosida====
-Biometrik asosida====
-Ikki tomonlama
-
-+++++
-
-
-Oqimli shifrlashning mohiyati nimada? ==== 
-#Oqimli shifrlash birinchi navbatda axborotni bloklarga bo‘lishning imkoni bo‘lmagan hollarda zarur, ====
-Qandaydir ma’lumotlar oqimini har bir belgisini shifrlab, boshqa belgilarini kutmasdan kerakli joyga jo‘natish uchun oqimli shifrlash zarur, ====
-Oqimli shifrlash algoritmlari ma’lumotlarnbi bitlar yoki belgilar bo‘yicha shifrlaydi====
-Oqimli shifrlash birinchi navbatda axborotni bloklarga bo‘lishning imkoni bo‘lgan hollarda zarur,
-
-+++++
-
-
-RSA algoritmi qanday jarayonlardan tashkil topgan? ====
-#Kalitni generatsiyalash; Shifrlash; Deshifrlash. ====
-Shifrlash; Imzoni tekshirish; Deshifrlash====
-Kalitni generatsiyalash; imzolash; Deshifrlash. ====
-Imzoni tekshirish ; Shifrlash; Deshifrlash.
-
-+++++
-
-
-Shaxsning, o‘zini axborot kommunikatsiya tizimiga tanishtirish jarayonida qo‘llaniladigan belgilar ketma-ketligi bo‘lib, axborot-kommunikatsiya tizimidan foydalanish huquqiga ega bo‘lish uchun foydalaniluvchining maxfiy bo‘lmagan qayd yozuvi – bu? ====
-#login====
-parol====
-identifikatsiya====
-maxfiy maydon
-
-+++++
-
-
-Shifrlash qanday jarayon? ====
-#akslantirish jarayoni: ochiq matn deb nomlanadigan matn shifrmatnga almashtiriladi====
-kalit asosida shifrmatn ochiq matnga akslantiriladi====
-shifrlashga teskari jarayon====
-almashtirish jarayoni bo‘lib: ochiq matn deb nomlanadigan matn o‘girilgan holatga almashtiriladi
-
-+++++
-
-
-Kichik xajmdagi xotira va hisoblash imkoniyatiga ega bo‘lgan, o‘zida parol yoki kalitni saqlovchi qurilma nima deb ataladi? ====
-#Token, Smartkarta ====
-Chip ====
-Fleshka ====
-Disk  
-
-+++++
-
-
-Cisco tashkiloti “kiberxavfsizlik” atamasiga qanday ta’rif bergan?====
-#Kiberxavfsizlik - tizim, tarmoq va dasturlarni raqamli hujumlardan himoyalash amaliyoti====
-Hisoblashga asoslangan bilim sohasi bo‘lib, buzg‘unchilar mavjud bo‘lgan sharoitda amallarni kafolatlash uchun o‘zida texnologiya, inson, axborot va jarayonni mujassamlashtirgan
+Suyuqlik yoki gazga ta’sir ettirilgan tashqi bosim uning har bir nuqtasiga o’zgarishsiz uzatiladi. Bu kimning qonuni?
+==== 
+Dalton qonuni
+==== 
+#Paskal qonuni
+==== 
+Avagadro qonuni
+==== 
+Arhimed qonuni
++++++
+Bir hil bosim va bir hil haroratda istalgan moddaning bir moli bir hil xajmni egallaydi. Bu kimning qonuni?
+==== 
+Dalton qonuni
+==== 
+Paskal qonuni
+==== 
+#Avagadro qonuni
+==== 
+Arhimed qonuni
++++++
+Jism aylananing to‘rtdan bir qismini bosib o‘tganda qanday burchakka buriladi?
+====                   
+#𝜋/2
 ====
-Bu yozilgan va xabar qilingan ma’luotlarning haqiqiyligini, to‘g‘riligini, butunligini saqlash qobiliyati====
-Ma’lumotlarni saqlashda, qayta ishlashda va uzatishda himoyani ta’minlashni maqsad qiladi.
-
+𝜋/3
+==== 
+𝜋/5
+==== 
+𝜋/7
 +++++
-
-
-…. protokolidan odatda o‘yin va video ilovalar tomonidan keng foydalaniladi.====
-#UDP====
-HTTP====
-TCP====
-FTP
-
+Magnit maydonining to‘kli o‘tkazgichga ta’sirini aniqlash uchun …… …… formulasidan foydalanamiz. 
+Nuqtalar o‘rnini to‘g’ri mazmunda to‘ldiring. 
+==== 
+Nyutonning ikkinchi qonuni 
+==== 
+#Amper kuchi
+==== 
+Kulon qonuni 
+==== 
+Paskal qonuni 
 +++++
-
-Muammoga qaratilgan xavfsizlik siyosatlari …====
-mazkur siyosat turi tashkilot xavfsiz muhitini, unga g‘oya, maqsad va usullarni taklif qilish orqali, madadlaydi. U xavfsizlik dasturlarini ishlab chiqish, amalga oshirish va boshqarish usullarini belgilaydi. ====
-#bu siyosatlar tashkilotdagi aynan xavfsizlik muammosiga qaratilgan bo‘lib, ushbu xavfsizlik siyosatlarining qamrovi va qo‘llanilish sohasi muammo turi va unda foydalanilgan usullarga bog‘liq bo‘ladi. ====
-mazkur xavfsizlik siyosatini amalga oshirishda tashkilotdagi biror tizimning umumiy xavfsizligini ta’minlash ko‘zda tutiladi. ====
-mazkur siyosat Internetdan foydalanishdagi cheklanishlarni aniqlab, xodimlar uchun Internet tarmog‘idan foydalanish tartibini belgilaydi. 
-
+Nuqta x o’qi bo’ylab х=0,08cos(20t+π), m qonun bo’yicha tebranmoqda. Tebranishning siklik chastotasini toping. Birliklar SI da
+==== 
+#20 rad/s
+==== 
+17 rad/s
+==== 
+15 rad/s
+==== 
+13 rad/s
 +++++
-
-
-Tizimga qaratilgan xavfsizlik siyosatlari …====
-mazkur siyosat turi tashkilot xavfsiz muhitini, unga g‘oya, maqsad va usullarni taklif qilish orqali, madadlaydi. U xavfsizlik dasturlarini ishlab chiqish, amalga oshirish va boshqarish usullarini belgilaydi. ====
-bu siyosatlar tashkilotdagi aynan xavfsizlik muammosiga qaratilgan bo‘lib, ushbu xavfsizlik siyosatlarining qamrovi va qo‘llanilish sohasi muammo turi va unda foydalanilgan usullarga bog‘liq bo‘ladi. ====
-#mazkur xavfsizlik siyosatini amalga oshirishda tashkilotdagi biror tizimning umumiy xavfsizligini ta’minlash ko‘zda tutiladi. ====
-mazkur siyosat Internetdan foydalanishdagi cheklanishlarni aniqlab, xodimlar uchun Internet tarmog‘idan foydalanish tartibini belgilaydi. 
-
+Nuqta x o’qi bo’ylab х=0,05cos(80t+12π), m qonun bo’yicha tebranmoqda. Tebranishning boshlang’ich fazasini toping. Birliklar SI da
+==== 
+9π
+==== 
+10π
+==== 
+11π
+==== 
+#12π
 +++++
-
-
-Internetdan foydalanish siyosati. …====
-mazkur siyosat turi tashkilot xavfsiz muhitini, unga g‘oya, maqsad va usullarni taklif qilish orqali, madadlaydi. U xavfsizlik dasturlarini ishlab chiqish, amalga oshirish va boshqarish usullarini belgilaydi. ====
-bu siyosatlar tashkilotdagi aynan xavfsizlik muammosiga qaratilgan bo‘lib, ushbu xavfsizlik siyosatlarining qamrovi va qo‘llanilish sohasi muammo turi va unda foydalanilgan usullarga bog‘liq bo‘ladi. ====
-mazkur xavfsizlik siyosatini amalga oshirishda tashkilotdagi biror tizimning umumiy xavfsizligini ta’minlash ko‘zda tutiladi. ====
-#mazkur siyosat Internetdan foydalanishdagi cheklanishlarni aniqlab, xodimlar uchun Internet tarmog‘idan foydalanish tartibini belgilaydi. 
-
+Nuqta x o’qi bo’ylab х=0,05cos(80t+12π), m qonun bo’yicha tebranmoqda. Tebranishning fazasini ko’rsating. Birliklar SI da
+==== 
+#80t+12π
+==== 
+10t+10π
+==== 
+7t+5π
+==== 
+90t+14π
 +++++
-
-
-Ochiq matnni, har biri mos algoritm va kalit orqali aniqlanuvchi, shifrmatnga qaytariluvchan o‘zgartirishlar oilasi-…====
-#Kriptotizim====
-Deshifrlash====
-Rasshifrovkalash====
-Shifrlash
-
+Tezlikni o‘lchovchi asbob nomini toping? 
+==== 
+#spidometr
+==== 
+dinamometr
+==== 
+sekundamer
+==== 
+ampermetr
 +++++
-
-
-O‘zgartirishlar oilasidan birini tanlashni ta’minlovchi kriptografik algoritmning qandaydir parametrlarining muayyan qiymati-…====
-Kriptotizim====
-#Kalit====
-Rasshifrovkalash====
-Shifrlash
-
+Jisming harakat davomida fazoda qoldirgan faraziy izi nima deb yuritiladi?
+==== 
+#trayektoriya
+==== 
+Ko‘chish
+==== 
+tezlik
+==== 
+kuch
 +++++
-
-
-Axborotni himoyalash uchun ... usullari qo‘llaniladi. ====
-#kodlashtirish, kriptografiya, steganografiya====
-shifrlash va kriptografiya, maxsus yozilgan kod====
-steganografiya, kriptografiya, orfografiya====
-kriptoanaliz, kodlashtirish, zahiralash
-
+Suyuqlik yoki gazga to’la botirilgan jism o’z xajmi qadar suyuqlik yoki gazni siqib chiqaradi va jismga shu siqib chiqarilgan suyuqlik yoki gazning og’irligicha yuqoriga yo’nalgan kuch ta’sir qiladi. Bu kimning qonuni?
+==== 
+Dalton qonuni
+==== 
+Paskal qonuni
+==== 
+Avagadro qonuni
+==== 
+#Arhimed qonuni
 +++++
-
-
-"Axborot olish va kafolatlari va erkinligi to‘g‘risda"gi Qonuning maqsadi nimadan iborat?====
-#Har kimning axborotni erkin va moneliksiz izlash, olish, tadqiq etish, uzatish hamda tarqatishga doir konstitutsiyaviy huquqini amalga oshirish jarayonida yuzaga keladigan munosabatlarni tartibga solish====
-Axborotlarni maxfiylashtirish va maxfiylikdan chiqarish ushbu Qonunga hamda O‘zbekiston Respublikasi Vazirlar Mahkamasi tasdiqlaydigan ma’lumotlarning maxfiylik darajasini aniqlash va belgilash ====
-Shaxsga doir ma’lumotlar sohasidagi munosabatlarni tartibga solish.====
-Axborotlashtirish, axborot resurslari va axborot tizimlaridan foydalanish sohasidagi munosabatlarni tartibga solish.
-
+Jismning olgan tezlanishi unga qo‘yilgan natijaviy kuchga to‘g’ri, o‘zining massasiga teskari propartsional. Bu qaysi qonun?
+==== 
+#Nyutonning ikkinchi qonuni 
+==== 
+zanjirning bir qismi uchun Om qonuni 
+==== 
+Kulon qonuni
+==== 
+butun olam tortishish qonuni
 +++++
-
-
-"Axborotlashtirish to‘g‘risida"gi Qonunning maqsadi nimadan iborat?====
-#Axborotlashtirish, axborot resurslari va axborot tizimlaridan foydalanish sohasidagi munosabatlarni tartibga solish.====
-Shaxsga doir ma’lumotlar sohasidagi munosabatlarni tartibga solish.====
-Har kimning axborotni erkin va moneliksiz izlash, olish, tadqiq etish, uzatish hamda tarqatishga doir konstitutsiyaviy huquqini amalga oshirish jarayonida yuzaga keladigan munosabatlarni tartibga solish====
-Axborotlarni maxfiylashtirish va maxfiylikdan chiqarish ushbu Qonunga hamda O‘zbekiston Respublikasi Vazirlar Mahkamasi tasdiqlaydigan ma’lumotlarning maxfiylik darajasini aniqlash va belgilash 
-
+Quyidagilar orasidan ortiqchasini belgilang.
+==== 
+massa     
+==== 
+kuch      
+==== 
+energiya        
+==== 
+#metr       
 +++++
-
-
-"Backdoors"-qanday zararli dastur?====
-#zararli dasturiy kodlar bo‘lib, hujumchiga autentifikatsiyani amalga oshirmasdan aylanib o‘tib tizimga kirish imkonini beradi, masalan, administrator parolisiz imtiyozga ega bo‘lish====
-foydalanuvchi ma’lumotlarini qo‘lga kirituvchi va uni hujumchiga yuboruvchi dasturiy kod====
-ushbu zararli dasturiy vosita operatsion tizim tomonidan aniqlanmasligi uchun ma’lum harakatlarini yashiradi====
-marketing maqsadida yoki reklamani namoyish qilish uchun foydalanuvchini ko‘rish rejimini kuzutib boruvchi dasturiy ta’minot
-
+To’lqinning tarqalish yo’nalishidagi chiziqda joylashgan ikkita nuqtaning tebranish fazalar farqi 4𝜋 ga teng. Agar nuqtalar orasidagi masofa 32 m bo’lsa to’lqin uzunligi qanday (m) bo’ladi?
+==== 
+3           
+==== 
+11    
+==== 
+#16              
+==== 
+15     
 +++++
-
-
-.... – o‘zida IMSI raqamini, autentifikatsiyalash kaliti, foydalanuvchi ma’lumoti va xavfsizlik algoritmlarini saqlaydi.====
-#Sim karta ====
-Token ====
-Smart karta ====
-Elektron raqamli imzo 
-
+Agar har qaysi to’lqinning amplitudasi 3 A ga teng bo’lib, nuqtaga qarama-qarshi fazada yetib kelsa, natijaviy amplitude nimaga teng bo’ladi? 
+==== 
+-3 A        
+==== 
+#0             
+==== 
+5 A    
+====  
+3 A             
 +++++
-
-
-.... kompyuter tarmoqlari bo‘yicha tarqalib, kompyuterlarning tarmoqdagi manzilini aniqlaydi va u yerda o‘zining nusxasini qoldiradi.====
-#“Chuvalchang” va replikatorli virus====
-Kvazivirus va troyan virus====
-Troyan dasturi====
-Mantiqiy bomba
-
+o’lqinning tarqalish yo’nalishida joylashgan va tebranish fazalar farqi  5π/3 ga teng bo’lgan ikki nuqtalar orasidagi masofa 4 m bo’lsa, to’lqinning uzunligini (m) toping. 
+==== 
+2,5       
+==== 
+#4,8   
+==== 
+1,3
+==== 
+6,5
 +++++
-
-
-Axborotning buzilishi yoki yo‘qotilishi xavfiga olib keluvchi himoyalanuvchi obyektga qarshi qilingan harakatlar qanday nomlanadi? ====
-#Tahdid====
-Zaiflik====
-Hujum====
-Butunlik
-
+Ballondagi ideal gazning yarmi chiqarib yuborilishi natijasida uning temperaturasi selsiy shkalasi bo‘yicha   57 dan 2 gacha pasaygan bo’lsa, ideal gaz ichki energiyasi necha marta kamayadi?
+====
+1,8.      
+====
+2,1       
+====
+1,4            
+====
+#2,4
 +++++
-
-
-“Adware” zararli dastur xususiyati nimadan iborat?====
-#marketing maqsadida yoki reklamani namoyish qilish uchun foydalanuvchini ko‘rish rejimini kuzutib boruvchi dasturiy ta’minot.====
-foydalanuvchi ma’lumotlarini qo‘lga kirituvchi va uni hujumchiga yuboruvchi dasturiy kod.====
-bir qarashda yaxshi va foydali kabi ko‘rinuvchi dasturiy vosita sifatida ko‘rinsada, yashiringan zararli koddan iborat bo‘ladi.====
-o‘zini o‘zi ko‘paytiradigan programma bo‘lib, o‘zini boshqa programma ichiga, kompyuterning yuklanuvchi sektoriga yoki hujjat ichiga biriktiradi
-
+Hajmi 2 m<sup>3</sup>, ichki energiyasi 1200 J bo‘lgan bir atomli ideal gazning bosimi qanday (Pa)?
+======
+125
+======
+1517
+======
+255
+======
+#400
 +++++
-
-
-Agar foydalanuvchi tizimda ma’lumot bilan ishlash vaqtida ham zahiralash amalga oshirilishi …. deb ataladi?====
-#"Issiq zaxiralash"====
-"Sovuq saxiralash"====
-"Iliq saxiralash"====
-"To‘liq zaxiralash"
-
+20 m/s tezlikda sekinlab ketayotgan “Damas” tezlanishi 2m/s<sup>2</sup> bo‘lganda 10 sekunddan qancha masofa bosib o‘tadi?
+======
+55 m
+======
+70 m
+======
+90 m
+======
+#100 m
 +++++
-
-Qaysi  zaxiralash usuli offlayn zaxiralash deb ham atalib, tizim ishlamay turganida yoki foydalanuvchi tomonidan boshqarilmagan vaqtda amalga oshiriladi?====
-#"Sovuq saxiralash"====
-"Issiq zaxiralash"====
-"Iliq saxiralash"====
-"To‘liq zaxiralash"
-
-+++++
-
-Qaysi zaxiralashda tizim muntazam yangilanishni amalga oshirish uchun tarmoqqa bog‘lanishi kerak bo‘ladi?====
-#"Iliq saxiralash"====
-"Sovuq saxiralash"====
-"Issiq zaxiralash"====
-"To‘liq zaxiralash"
-
-+++++
-
-
-Agar RSA algotirmida e-ochiq kalitni, d-maxfiy kalitni, n-modul  ifodalasa, qaysi formula deshifrlashni ifodalaydi?====
-#M = C^d mod n; ====
-C = M^d mod n; ====
-C = M^ed  mod n; ====
-M = C^e mod n;
-
-+++++
-
-Agar RSA algotirmida e-ochiq kalitni, d-maxfiy kalitni, n-modul , qaysi formula shifrlashni ifodalaydi? ====
-#C = M^e mod n; ==== 
-C = M^d mod n; ====
-C = M^ed  mod n; ====
-M = C^e mod n;
-
-+++++
-
-Aksariyat tijorat tashkilotlari uchun ichki tarmoq xavfsizligini taminlashning zaruriy sharti-bu... ====
-#Tamoqlararo ekranlarning o‘rnatilishi====
-Tashkiliy ishlarni bajarilishi====
-Global tarmoqdan uzib qo‘yish====
-Aloqa kanallarida optik toladan foydalanish
-
-+++++
-
-
-Antivirus dasturlarini ko‘rsating. ====
-#Drweb, Nod32, Kaspersky====
-arj, rar, pkzip, pkunzip====
-winrar, winzip, winarj====
-pak, lha
-
-+++++
-
-
-Antiviruslar viruslarni asosan qanday usulda aniqlaydi? ====
-#Signaturaga asoslangan====
-Anomaliyaga asoslangan====
-O‘zgarishni aniqlashga asoslangan====
-Defragmentatsiya qilishga asoslangan
-
-+++++
-
-Axbоrоt tizimlari xavfsizligining auditi-bu…====
-#Axborot tizimlarining himoyalanishining joriy holati, tizim haqida obyektiv ma’lumotlarni olish va baholash====
-Ma’lumotlarini tahlillash va chоra ko‘rishni tizim haqida subyektiv ma’lumotlarni olish va baholashni tahlil qiladi====
-Ma’lumotlarini tarqatish va boshqarish====
-Axbоrоtni yig‘ish va korxona tarmog‘ini tahlillash
-
-+++++
-
-"Bag" atamasi nima ma’noni anglatadi?====
-#Dasturiy ta’minotni amalga oshirish bosqichiga tegishli bo‘lgan muammo====
-Mualliflik huquqini buzilishi====
-Dasturlardagi ortiqcha reklamalar====
-Autentifikatsiya jarayonini buzish
-
-+++++
-
-"Barcha kabel va tarmoq tizimlari; tizim va kabellarni fizik nazoratlash; tizim va kabel uchun quvvat manbai; tizimni madadlash muhiti".- Bular tarmoqning qaysi sathiga kiradi? ====
-#Fizik sath (physical) ====
-Tarmoq sathi====
-Amaliy sath====
-Tadbiqiy sath
-
-+++++
-
-Bell-LaPadula (BLP) modeli  -bu.. ====
-#Bu hukumat va harbiy dasturlarda kirishni boshqarishni kuchaytirish uchun ishlatiladigan avtomatlashgan modeli====
-Axborotlarni nazoratlovchi model====
-Foydalanuvchilarni ro‘yxatga olish, nazoratlash va tahlil qiluvchi model====
-Tarmoqni boshqarish va tahlil qiluvchi model
-
-+++++
-
-
-Bell-LaPadula axborot xavfsizligida axborotni qaysi parametrini ta’minlash uchun xizmat qiladi? ====
-#Konfidentsiallikni====
-Yaxlitlikni====
-Butunlikni====
-O‘zgarmaslikni
-
-+++++
-
-
-Biba modeli obyektni qaysi xusuiyatiga e’tibor qaratilgan? ====
-#Yaxlitligi====
-Maxfiyligi====
-Xavfsizligi====
-Konfidentsialligi
-
-+++++
-
-
-BiBa modeli qaysi modelning keygaytirilgan varianti hisoblanadi? ====
-#Bell-Lapadula modeli====
-RBAC====
-MAC====
-ABAC
-
-+++++
-
-Biometrik parametrlarning xavfsizlik tomonidan kamchiligi nimadan iborat? ====
-#ID ni almashtirish murakkabligi====
-Foydalanish davrida maxfiylik kamayib boradi====
-Qalbakilashtirish oson====
-Parol va PIN kod ishlatilmasligi
-
-+++++
-
-Bluetooth, IEEE 802.15, IRDA standartida ishlovchi simsiz tarmoq turini aniqlang. ====
-#Shaxsiy simsiz tarmoq ====
-Lokal simsiz tarmoq ====
-Regional simsiz tarmoq ====
-Global simsiz tarmoq 
-
-+++++
-
-Foydalanishni boshqarishda inson, dastur, jarayon va hokazolar qanday vazifani bajaradi? ====
-#Subyekt====
-Obyekt====
-Tizim====
-Ruxsat
-
-+++++
-
-Botnet-nima? ====
-#internet tarmog‘idagi obro‘sizlantirilgan kompyuterlar bo‘lib, taqsimlangan hujumlarni amalga oshirish uchun hujumchi tomonidan foydalaniladi.====
-zararli dasturiy vosita bo‘lib, biror mantiqiy shart qanoatlantirilgan vaqtda o‘z harakatini amalga oshiradi.====
-zararli dasturiy kodlar bo‘lib, hujumchiga autentifikatsiyani amalga oshirmasdan aylanib o‘tib tizimga kirish imkonini beradi, masalan, administrator parolisiz imtiyozga ega bo‘lish. ====
-ushbu zararli dasturiy vosita operatsion tizim tomonidan aniqlanmasligi uchun ma’lum harakatlarini yashiradi.
-
-+++++
-
-
-…-bu so‘z ingliz tilidan olingan bo‘lib- yorib tashlash, chopish, buzish degan ma’nolarni anglatadi. Ular haddan ziyod malakali va bilimli, axborot texnologiyalarini puxta biluvchi insondir.-Yuqorida kim to‘g‘risida ta’rif berilgan? ====
-#Xaker====
-Dasturchi====
-Tarmoq josusi====
-Administrator
-
-+++++
-
-GSM, GPRS, EDGE, HSPA+, LTE standartida ishlovchi simsiz tarmoq turini aniqlang. ====
-#Global simsiz tarmoq ====
-Shaxsiy simsiz tarmoq ====
-Lokal simsiz tarmoq ====
-Regional simsiz tarmoq 
-
-+++++
-
-Dastur kodini tashkil qilish yondashuviga ko‘ra viruslar turlari? ====
-#Shifrlangan, shifrlanmagan, polimorf====
-Dasturiy, yuklanuvchi, makroviruslar, multiplatformali viruslar====
-Rezident, norezident====
-Virus parazit, virus cherv
-
-+++++
-
-Dasturlarni buzish va undagi mualliflik huquqini buzish uchun yo‘naltirilgan buzg‘unchi bu - ... ====
-#Krakker====
-Haker====
-Virus bot====
-Ishonchsiz dasturchi
-
-+++++
-
-
-Diskni shifrlash nima uchun amalga oshiriladi? ====
-#Ma’lumotni saqlash vositalarida saqlangan ma’lumot konfidensialligini ta’minlash uchun amalga oshiriladi====
-Xabarni yashirish uchun amalga oshiriladi====
-Ma’lumotni saqlash vositalarida saqlangan ma’lumot butunligini ta’minlash uchun amalga oshiriladi====
-Ma’lumotni saqlash vositalarida saqlangan ma’lumot foydalanuvchanligini ta’minlash uchun amalga oshiriladi
-
-+++++
-
-Doktorlar, detektorlarga xos bo‘lgan ishni bajargan holda zararlangan fayldan viruslarni chiqarib tashlaydigan va faylni oldingi holatiga qaytaradigan dasturiy ta’minot nomini belgilang. ====
-#Faglar====
-Detektorlar====
-Vaksinalar====
-Privivka
-
-+++++
-
-Foydalanishni boshqarishda subyekt bu - .... ====
-#Inson, dastur, jarayon ====
-Jarayon, dastur ====
-Ma’lumot, resurs, jarayon ====
-Resurs 
-
-+++++
-
-
-Elektr signallarini qabul qilish va uzatish vazifalarini OSI modelining qaysi sathi bajaradi? ====
-#Fizik sathi (physical)====
-Kanal sathi (data link)====
-Tarmoq sathi (network)====
-Transport sathi (transport)
-
-+++++
-
-Elektron raqamli imzo tizimi qanday muolajalarni amalga oshiradi? ====
-#raqamli imzoni shakllantirish va tekshirish muolajasi====
-raqamli imzoni hisoblash muolajasi====
-raqamli imzoni hisoblash va tekshirish muolajasi====
-raqamli imzoni shakllantirish muolajasi
-
-+++++
-
-Eng ko‘p axborot xavfsizligini buzilish holati-bu: ====
-#Tarmoqda ruxsatsiz ichki foydalanish====
-Tizimni loyihalash xatolaridan foydalanish====
-Tashqi tarmoq resursiga ulanish====
-Simsiz tarmoqqa ulanish
-
-+++++
-
-Enterprise Information Security Policies (EISP) – bu…====
-#Tashkilotning axborot xavfsizligi siyosati====
-Muammoga qaratilgan xavfsizlik siyosati====
-Tizimga qaratilgan xavfsizlik siyosati====
-Maqbul foydalanish siyosati
-
-+++++
-
-Ethernet konsentratori (hub) qanday vazifani bajaradi? ====
-#kompyuterdan kelayotgan axborotni qolgan barcha kompyuterga yo‘naltirib beradi====
-kompyuterdan kelayotgan axborotni bir kompyuterga yo‘naltirib beradi====
-kompyuterdan kelayotgan axborotni halqa bo‘ylab joylashgan keyingi kompyuterga====
-tarmoqning ikki segmentini bir biriga ulaydi
-
-+++++
-
-Faol hujum turi deb nimaga aytiladi? ====
-#Maxfiy uzatish jarayonini uzib qo‘yish, modifikatsiyalash, qalbaki shifr ma’lumotlar tayyorlash harakatlaridan iborat jarayon====
-Maxfiy ma’lumotni aloqa tarmog‘ida uzatilayotganda eshitish, tahrir qilish, yozib olish harakatlaridan iborat uzatilalayotgan ma’lumotni qabul qiluvchiga o‘zgartirishsiz yetkazish jarayoni====
-Ma’lumotga o‘zgartirish kiritmay uni kuzatish jarayoni====
-Sust hujumdan farq qilmaydigan jarayon
-
-+++++
-
-Faollashish prinspiga ko‘ra viruslar turlari? ====
-#Rezident, Norezident====
-Dasturiy, Makroviruslar, multiplatformali viruslar====
-Virus parazit, Virus cherv====
-Shifrlangan, shifrlanmagan, Polimorf
-
-+++++
-
-Faqat bir marta foydalaniluvchi, xar bir sessiya uchun o‘zgarib turadigan parol nima deyiladi? ====
-#One-time password (OTP) ====
-Only password (OP) ====
-First Password (FP) ====
-Primary Password (PP)  
-
-+++++
-
-
-Foydalanishni boshqarishning asosan nechta turi bor? ====
-#4 ====
-5 ====
-6 ====
+Fazoning elektr maydon kuchlanganligi 12 V/m bo‘lgan nuqtasiga kiritilgan 3 nC zaryadga maydon tomonidan ta’sir qiluvchi kuchni (nN) toping.
+==== 
+9
+==== 
+15
+==== 
+#36
+====
 7
-
-+++++
-
-Faqat ma’lum xizmatlar/hujumlar/harakatlar bloklanadi. Bu qaysi xavfsizlik siyosatiga xos? ====
-#Ruxsat berishga asoslangan siyosat (Permissive Policy) ====
-Ehtiyotkorlik siyosati (Prudent Policy) ====
-Nomuntazam siyosat (Promiscuous Policy) ====
-Paranoid siyosati (Paranoid Policy)
-
-+++++
-
-
-Firewall ning vazifasi... ====
-#Tarmoqlararo aloqa o‘rnatish jarayonida tashkilot va Internet tarmog‘i orasida   xavfsizlikni ta’minlaydi====
-Kompyuterlar tizimi xavfsizligini ta’minlaydi====
-Ikkita kompyuter o‘rtasida aloqa o‘rnatish jarayonida Internet tarmog‘i orasida xavfsizlikni ta’minlaydi====
-Uy tarmog‘ida aloqa o‘rnatish jarayonida tashkilot va Internet tarmog‘i orasida   xavfsizlikni ta’minlaydi
-
-+++++
-
-Fizik to‘siqlarni o‘rnatish , xavfsizlik qo‘riqchilarini ishga olish, fizik qulflar qo‘yishni amalga oshirish qanday nazorat turiga kiradi? ====
-#Fizik nazorat====
-Texnik nazorat====
-Ma’muriy nazorat====
-Tashkiliy nazorat
-
-+++++
-
-Fizik xavfsizlikda yong‘inga qarshi tizimlar necha turga bo‘linadi? ====
-#2 taga====
-4 taga====
-3 taga====
-5 taga
-
-+++++
-
-Fizik xavfsizlikni nazoratlashga nimalar kiradi? ====
-#Binoga to‘siqlar qo‘yish, eshikka qulflar o‘rnatish, xavfsizlik xodimlarini ishga olish ====
-Kompyuterlarga antivirus o‘rnatish, serverlarni ko‘paytirish, to‘siqlarni o‘rnatish====
-Hujjatlarni tashkillashtirish, xodimlarni o‘qitish, qulflarni o‘rnatish====
-Ruxsatni nazoratlash, shaxs xavfsizligini ta’minlash, muhitni nazoratlash
-
-+++++
-
-Foydalanish huquqini cheklovchi matritsa modeli bu... ====
-#Bella La-Padulla modeli====
-Dening modeli====
-Landver modeli====
-Huquqlarni cheklovchi model
-
-+++++
-
-Foydalanish huquqlariga (mualliflikka) ega barcha foydalanuvchilar axborotdan foydalana olishliklari-bu…====
-#Foydalanuvchanligi====
-Ma’lumotlar butunligi====
-Axborotning konfidensialligi====
-Ixchamligi
-
-+++++
-
-Foydalanishni boshqarishda  ma’lumot, resurs, jarayon  nima deb ataladi? ====
-#Obyekt====
-Subyekt====
-Tizim====
-Ruxsat
-
-+++++
-
-Foydalanishni boshqarish –bu... ====
-#Subyektni obyektga ishlash qobilyatini aniqlashdir. ====
-Subyektni subyektga ishlash qobilyatini aniqlashdir. ====
-Obyektni mijozga ishlash qobilyatini aniqlashdir. ====
-Autentifikatsiyalash jarayonidir.
-
-+++++
-
-
-Foydalanishni boshqarishning qaysi usuli tizimdagi shaxsiy obyektlarni himoyalash uchun qo‘llaniladi? ====
-#Discretionary access control (DAC) ====
-Mandatory access control (MAC) ====
-Role-based access control (RBAC) ====
-Atribute based access control (ABAC) 
-
-+++++
-
-Foydalanishni boshqarishning qaysi usulida foydalanishlar subyektlar va obyektlarni klassifikatsiyalashga asosan boshqariladi? ====
-#Mandatory access control (MAC) ====
-Discretionary access control (DAC) ====
-Role-based access control (RBAC) ====
-Atribute based access control (ABAC)
-
-+++++
-
-
-Foydalanishni boshqarishning qaysi usulida ruxsatlar va harakatni kim bajarayotganligi to‘g‘risidagi holatlar “agar, u holda” buyrug‘idan tashkil topgan qoidalarga asoslanadi? ====
-#Atribute based access control (ABAC) ====
-Discretionary access control ( DAC) ====
-Mandatory access control (MAC) ====
-Role-based access control (RBAC) 
-
-+++++
-
-Foydalanishni boshqarishning qaysi usulida subyekt va obyektlarga tegishli huquqlarni ma’murlash oson kechadi? ====
-#Role-based access control (RBAC) ====
-Discretionary access control (DAC) ====
-Mandatory access control (MAC) ====
-Atribute based access control (ABAC) 
-
-+++++
-
-Foydalanishni boshqarishning qaysi usulida xavfsizlik markazlashgan tarzda xavfsizlik siyosati ma’muri tomonidan amalga oshiriladi. ====
-#Mandatory access control (MAC) ====
-Discretionary access control (DAC) ====
-Role-based access control (RBAC) ====
-Atribute based access control (ABAC) 
-
-+++++
-
-
-Foydalanishni boshqarishning Discretionary access control (DAC) usulidan asosan qayerda qo‘llaniladi? ====
-#Operatsion tizimlarda====
-Ma’lumotlar bazasida====
-Web saytlarda====
-Kompyuter tarmoqlarida
-
-+++++
-
-Tarmoqda foydalanuvchilarga tegishli ma’lumotlarini qo‘lga kiritub, uni hujum qiluvchiga yuboradigan dasturiy kod qanday ataladi? ====
-#Spyware ====
-Rootkits ==== 
-Backdoors ====
-Ransomware
-
-+++++
-
-
-Kompyuter tarmoqdagi foydalanuvchilar harakatini, uning axborot resurslardan foydalanishga urinishini qayd etish qaysi atama bilan nomlanadi? ====
-#Ma’murlash====
-Identifikatsiyalash====
-Autentifikatsiyalash====
-Aniqlash
-
-+++++
-
-Global tarmoq dastlab paytda qaysi nom bilan atalgan? ====
-#ARPANET====
-NETWORK====
-INTRANET====
-INTERNET
-
-+++++
-
-…. hujumlari trafik orqali axborotni to‘plashga harakat qiladi. Buning uchun hujumchi sniffer deb nomlanuvchi dasturiy vositadan foydalanadi. ====
-#Passiv razvedka hujumlari====
-Aktiv razvedka hujumlari====
-O‘rtada turgan odam hujumi====
-Parolga qaratilgan hujumlar
-
-+++++
-
-…. nishondagi kompyuter tizimi uchun nazoratni qo‘lga kiritish yoki ruxsatsiz foydalanish maqsadida amalga oshiriladi. ====
-Passiv razvedka hujumlari====
-Aktiv razvedka hujumlari====
-O‘rtada turgan odam hujumi====
-#Parolga qaratilgan hujumlar
-
-+++++
-
-… hujumda hujum qiluvchi o‘rnatilgan aloqaga suqilib kiradi va aloqani uzadi.====
-Passiv razvedka hujumlari====
-Aktiv razvedka hujumlari====
-#O‘rtada turgan odam hujumi====
-Parolga qaratilgan hujumlar
-
-+++++
-
-
-Konfidentsial axborotdan foydalanish tushunchasi…====
-#Muayyan shaxsga tarkibida konfidensial xarakterli ma’lumot bo‘lgan axborot bilan tanishishga vakolatli mansabdor shaxsning ruxsati. ====
-Korxona o‘z faoliyatini buzilishsiz va to‘xtalishsiz yurgiza oladigan vaqt bo‘yicha barqaror bashoratlanuvchi atrof-muhit holati. ====
-Ma’lumotlarning ma’lumotlar bazasiga tegishli darajasini aniqlash va belgilash. ====
-Olingan ma’lumotlar jo‘natuvchisining so‘ralganiga mosligini tasdiqlash.
-
-+++++
-
-
-Kriptoanaliz qanday jarayonlarni o‘rganadi? ====
-#kalitlarni bilmasdan shifrni ochishga bardoshlilikni aniqlovchi shifrlash tavsifi====
-axborotni qayta akslantirishning texnik usullarini izlaydi va tadqiq qiladi====
-axborotni akslantirib, himoyalash muammosi bilan shug‘ullanadi====
-kalitni qo‘llab, matnni ochish imkoniyatlarini o‘rganadi
-
-+++++
-
-Kriptografiya qanday jarayonlarni o‘rganadi? ====
-#axborotni akslantirish va qayta akslantirishning matematik usullarini izlaydi va tadqiq qiladi====
-axborotni qayta akslantirib, himoyalash muammosi bilan shug‘ullanadi====
-kalitni bilmasdan shifrlangan matnni ochish imkoniyatlarini o‘rganadi====
-kalitlarni bilmasdan shifrni ochishga bardoshlilikni aniqlovchi shifrlash tavsifi
-
-+++++
-
-
-Kriptologiya nechta yo‘nalishga bo‘linadi? ====
-#2 ta====
-3 ta====
-4 ta====
-5 ta
-
-+++++
-
-Kompyuter tarmoqlarida qo‘llanuvchi topologiya turi qaysi? ====
-#Yulduz, shina, halqa====
-Markaziy, tengma-teng, aralash====
-To‘liq bog‘langan, shina, aylana====
-Shina, optik, koaksial
-
-+++++
-
-
-Paranoid siyosati (Paranoid Policy) – bu ….====
-#Hamma narsa ta’qiqlanadi ====
-Tizim resurslaridan foydalanishda hech qanday cheklovlar qo‘ymaydi ====
-Faqat ma’lum xizmatlar/hujumlar/harakatlar bloklanadi ====
-Barcha xizmatlar blokirovka qilingandan so‘ng bog‘lanadi 
-
-+++++
-
-
-Polimorf viruslar tushunchasi to‘g‘ri ko‘rsating. ====
-#Viruslar turli ko‘rinishdagi shifrlangan viruslar bo‘lib, o‘zining ikkilik shaklini nusxadan-nusxaga o‘zgartirib boradi====
-Odatda fayl tarkibida yashirinib tarqaydi ====
-O‘zini oddiy dasturlar kabi ko‘rsatadi va bunda dastur kodida hech qanday qo‘shimcha ishlashlar mavjud bo‘lmaydi====
-Viruslar yuklangan qattiq diskdagi, disketa yoki fleshka sektorlarida joylashgan kichik programmalarni zararlaydi yoki uni almashtiradi
-
-+++++
-
-
-Qanday tarmoq qisqa masofalarda qurilmalar o‘rtasida ma’lumot almashinish imkoniyatini taqdim etadi? ====
-#Shaxsiy tarmoq====
-Lokal tarmoq ====
-Mintaqaviy tarmoq ====
-Campus tarmoq
-
-+++++
-
-Qanday tizim host nomlari va internet nomlarini IP manzillarga o‘zgartirish yoki teskarisini amalga oshiradi? ====
-#DNS tizimlari ====
-TCP/IP ====
-Ethernet ====
-Token ring
-
-+++++
-
-Qanday hujum asosiy hujumlarni oson amalga oshirish uchun tashkilot va tarmoq haqidagi axborotni to‘plashni maqsad  qiladi? ====
-#Razvedka hujumlari====
-Kirish hujumlari====
-DOS hujumlari====
-Zararli hujumlar
-
-+++++
-
-Qanday hujumda hujumchi turli texnologiyalardan foydalangan holda tarmoqqa kirishga harakat qiladi? ====
-#Kirish hujumlari====
-Razvedka hujumlari====
-DOS hujumlar====
-Zararli hujumlar
-
-+++++
-
-Quyidagi ta’riflardan qaysi biri tarmoqning sozlanishdagi zaifligini ifodalaydi? ====
-#Tizim xizmatlarini xavfsiz bo‘lmagan tarzda sozlanishi, joriy sozlanish holatida qoldirish, parollarni noto‘g‘ri boshqarilishi====
-Tarmoq qurilmalari, switch yoki routerlardagi autentifikatsiya usullarining yetarlicha bardoshli bo‘lmasligi ====
-Xavfsizlik siyosatidagi zaiflikni yuzaga kelishiga tashkilotning xavfsizlik siyosatida qoidalar va qarshi choralarni noto‘g‘ri ishlab chiqilgani sabab bo‘ladi. ====
-Potensial zaiflikni aniqlash imkoniyati yo‘qligi
-
-+++++
-
-
-Quyidagi ta’riflardan qaysi biri tarmoqning texnologik zaifligini ifodalaydi? ====
-#Tarmoq qurilmalari, switch yoki routerlardagi autentifikatsiya usullarining yetarlicha bardoshli bo‘lmasligi====
-Tizim xizmatlarini xavfsiz bo‘lmagan tarzda sozlanishi, joriy sozlanish holatida qoldirish, parollarni noto‘g‘ri boshqarilishi====
-Xavfsizlik siyosatidagi zaiflikni yuzaga kelishiga tashkilotning xavfsizlik siyosatida qoidalar va qarshi choralarni noto‘g‘ri ishlab chiqilgani sabab bo‘ladi ====
-Potensial zaiflikni aniqlash imkoniyati yo‘qligi
-
-+++++
-
-
-Quyidagi ta’riflardan qaysi biri tarmoqning xavfsizlik siyosatidagi zaiflikni ifodalaydi? ====
-#Xavfsizlik siyosatidagi zaiflikni yuzaga kelishiga tashkilotning xavfsizlik siyosatida qoidalar va qarshi choralarni noto‘g‘ri ishlab chiqilgani sabab bo‘ladi. ====
-Tizim xizmatlarini xavfsiz bo‘lmagan tarzda sozlanishi, joriy sozlanish holatida qoldirish, parollarni noto‘g‘ri boshqarilishi====
-Tarmoq qurilmalari, switch yoki routerlardagi autentifikatsiya usullarining yetarlicha bardoshli bo‘lmasligi====
-Potensial zaiflikni aniqlash imkoniyati yo‘qligi
-
-+++++
-
-
-Quyidagilardan lokal tarmoqqa berilgan ta’rifni belgilang. ====
-#Kompyuterlar va ularni bog‘lab turgan qurilmalardan iborat bo‘lib, ular odatda bitta tarmoqda bo‘ladi ====
-Odatda ijaraga olingan telekommunikatsiya liniyalaridan foydalanadigan tarmoqlardagi tugunlarni bir-biriga bog‘laydi ====
-Bu tarmoq shahar yoki shaharcha bo‘ylab tarmoqlarning o‘zaro bog‘lanishini nazarda tutadi====
-Qisqa masofalarda qurilmalar o‘rtasida ma’lumot almashinish imkoniyatini taqdim etadi
-
-+++++
-
-
-Quyidagilardan MAN (metropolitan area network) tarmoqqa berilgan ta’rifni belgilang. ====
-#Bu tarmoq shahar yoki shaharcha bo‘ylab tarmoqlarning o‘zaro bog‘lanishini nazarda tutadi ====
-Odatda ijaraga olingan telekommunikatsiya liniyalaridan foydalanadigan tarmoqlardagi tugunlarni bir-biriga bog‘laydi. ====
-Kompyuterlar va ularni bog‘lab turgan qurilmalardan iborat bo‘lib, ular odatda bitta tarmoqda bo‘ladi. ====
-Qisqa masofalarda qurilmalar o‘rtasida ma’lumot almashinish imkoniyatini taqdim etadi
-
-+++++
-
-
-Kompyuter tarmoqlaridan “Umumiy shina” topologiyasi xususiyati qanday?====
-#Tarmoqda yagona kabel barcha kompyuterlarni o‘zida birlashtiradi====
-Tarmoqda har bir kompyuter yoki tugun markaziy tugunga individual bog‘langan bo‘ladi====
-Yuboriluvchi va qabul qilinuvchi ma’lumot token yordamida manziliga yetkaziladi====
-Tarmoqdagi barcha kompyuter va tugunlar bir-biri bilan o‘zaro bog‘langan bo‘ladi
-
-+++++
-
-
-Kompyuter tarmoqlaridan “Yulduzsimon”  topologiyasiga ta’rif bering. ====
-#Har bir kompyuterni markaziy konsentrator bilan ulash orqali tashkil etiladi ====
-Tarmoqda yagona kabel barcha kompyuterlarni o‘zida birlashtiradi====
-Yuboriluvchi va qabul qilinuvchi ma’lumot token yordamida manziliga yetkaziladi====
-Tarmoqdagi barcha kompyuter va tugunlar bir-biri bilan o‘zaro bog‘langan bo‘ladi
-
-+++++
-
-Kompyuter tarmoqlaridan “Xalqasimon”  topologiyasiga ta’rif bering. ====
-#Har bir kompyuter boshqa ikkita kompyuter bilan ulangan va signal aylana bo‘yicha o‘tadi ====
-Tarmoqda yagona kabel barcha kompyuterlarni o‘zida birlashtiradi ====
-Tarmoqda har bir kompyuter yoki tugun markaziy tugunga individual bog‘langan bo‘ladi  ====
-Tarmoqdagi barcha kompyuter va tugunlar bir-biri bilan o‘zaro bog‘langan bo‘ladi
-
-+++++
-
-
-Quyidagilardan qaysi birida tarmoqning “Uyali mesh” topologiyasiga ta’rif berilgan? ====
-#Tarmoqdagi barcha kompyuter va tugunlar bir-biri bilan o‘zaro bog‘langan bo‘ladi====
-Tarmoqda yagona kabel barcha kompyuterlarni o‘zida birlashtiradi====
-Yuboriluvchi va qabul qilinuvchi ma’lumot Token yordamida manziliga yetkaziladi====
-Tarmoqda har bir kompyuter yoki tugun markaziy tugunga individual bog‘langan bo‘ladi
-
-+++++
-
-
-Aksariyat tashkilotlar muhim ma’lumotlarini qaysi texnologiyasi asosida zaxira nusxalashni amalga oshiradilar? ====
-#Random Array of Independent Disks (RAID) ====
-Virtual private network (VPN) ====
-Point to Point====
-HyperText Transfer Protocol (HTTP)
-
-+++++
-
-
-Risklarni boshqarish –bu…====
-#Risklarni aniqlash, baholash, javob berish va bo‘lishi mumkin bo‘lgan ta’sirga tashkilot tomonidan javob berilishini amalga oshirish jarayoni====
-Risklarni baholash bosqichi tashkilotning risk darajasini baholaydi va risk ta’siri va ehtimolini o‘lchashni ta’minlaydi. ====
-Aniqlangan risklar uchun mos nazoratni tanlash va amalga oshirish jarayoni. ====
-Risk monitoringi yangi risklarni paydo bo‘lish imkoniyatini aniqlash
-
-+++++
-
-
-Ransomware zararli dasturi axborotlarga qanday zarar keltiradi?====
-#mazkur zararli dasturiy ta’minot qurbon kompyuterida mavjud qimmatli fayllarni shifrlaydi yoki qulflab qo‘yib, to‘lov amalga oshirilishini talab qiladi.====
-marketing maqsadida yoki reklamani namoyish qilish uchun foydalanuvchini ko‘rish rejimini kuzatib boruvchi dasturiy ta’minot.====
-foydalanuvchi ma’lumotlarini qo‘lga kirituvchi va uni hujumchiga yuboruvchi dasturiy kod.====
-bir qarashda yaxshi va foydali kabi ko‘rinuvchi dasturiy vosita sifatida ko‘rinsada, yashiringan zararli koddan iborat bo‘ladi.
-
-+++++
-
-
-Ma’murlash usuli bo‘yicha tarmoqlar qanday turlarga bo‘linadi? ====
-#“peer-to-peer” va “mijoz¬¬¬¬-server” turlarga====
-Server va kliyent turlarga====
-Asosiy va qo‘shimcha turlar====
-Korporativ va xalqaro turlarga
-
-+++++
-
-
-Rezident bo‘lmagan viruslar qachon xotirani zararlaydi? ====
-#Faqat faollashgan vaqtida====
-Faqat o‘chirilganda====
-Kompyuter yoqilganda====
-Tarmoq orqali ma’lumot almashishda
-
-+++++
-
-
-Risk, tahdid, zaiflik va ta’sir tushunchalari o‘rtasida o‘zaro bog‘lanish qanday ifodalanadi? ====
-#RISK = Tahdid x Zaiflik x Ta’sir====
-RISK = Tahdid +Zaiflik + Ta’sir====
-RISK = Tahdid x (Zaiflik +Ta’sir) ====
-RISK = Tahdid -Zaiflik +Ta’sir
-
-+++++
-
-
-Risk darajasi tarmoqqa (yoki tizimga) natijaviy ta’sirning bahosi bo‘lib, quyidagi tenglik bilan ifodalanadi: ====
-#Risk darajasi = natija * ehtimollik. ====
-Risk darajasi = natija +ehtimollik. ====
-Risk darajasi = natija /ehtimollik. ====
-Risk darajasi = natija - ehtimollik.
-
-+++++
-
-
-Samarali risklarni boshqarishning rejasi risklarni aniqlashni va baholashni kafolatli amalga oshirishda …. va qayta ko‘rib chiqishni talab etadi. ====
-#Risk monitoringi ====
-Riskni tahlillash  ====
-Muvaffaqiyatli risklar  ====
-Tanazzulga uchragan risklar 
-
-+++++
-
-
-Risk darajalari nechta turga bo‘linadi? ====
-4 ta ====
-3 ta====
-2 ta====
-#5 ta
-
-+++++
-
-
-Risklarni boshqarish jarayoni quyidagi asosiy nechta bosqichga ajratiladi? ====
-#4 ta====
-2 ta====
-5 ta====
-3 ta
-
-+++++
-
-Nima tashkilotning risklarni boshqarish usuliga amalga oshirish tadbirlarini belgilaydi va tashkilotda axborot xavfsizligi va risklarni boshqarish bo‘yicha faoliyatni birlashtiruvchi tarkibiy jarayonni ta’minlaydi?====
-#Risklarni boshqarish freymworki====
-Risk monitoringi ====
-Riskni tahlillash  ====
-Muvaffaqiyatli risklar  
-
-+++++
-
-
-Rootkitlar qanday zararli amallar bajaradi? ====
-#ushbu zararli dasturiy vosita operatsion tizim tomonidan aniqlanmasligi uchun ma’lum harakatlarini yashiradi====
-bir qarashda yaxshi va foydali kabi ko‘rinuvchi dasturiy vosita sifatida ko‘rinsada, yashiringan zararli koddan iborat bo‘ladi ====
-o‘zini o‘zi ko‘paytiradigan programma bo‘lib, o‘zini boshqa programma ichiga, kompyuterning yuklanuvchi sektoriga yoki hujjat ichiga biriktiradi====
-zararli dasturiy kodlar bo‘lib, hujumchiga autentifikatsiyani amalga oshirmasdan aylanib o‘tib tizimga kirish imkonini beradi, masalan, administrator parolisiz imtiyozga ega bo‘lish
-
-+++++
-
-
-Ruxsatlarni nazoratlash, “Qopqon”, yong‘inga qarshi tizimlar, yoritish tizimlari, ogohlantirish tizimlari , quvvat manbalari, video kuzatuv tizimlari, qurollarni aniqlash, muhitni nazoratlash amalga oshirish qanday nazorat turiga kiradi? ====
-#Fizik nazorat====
-Huquqiy nazorat====
-Ma’muriy nazorat====
-Tashkiliy nazorat
-
-+++++
-
-
-Shifrlash nima? ====
-#ochiq matnni shifrmatnga o‘zgartirish jarayoni ====
-shifrmatnni ochiq matnga o‘zgartiruvchi jarayon ====
-kalitni bilmasdan turib shifrmatn bo‘yicha ochiq matnni tiklash jarayoni ====
-alfavit elementlaridan tartiblangan nabor
-
-+++++
-
-
-Kriptotizim bu-…====
-#ochiq matnni, har biri mos algoritm va kalit orqali aniqlanuvchi, shifrmatnga qaytariluvchan o‘zgartirishlar oilasi====
-shifrmatnni ochiq matnga o‘zgartiruvchi teskari jarayoni ====
-kalitni bilmasdan turib shifrmatn bo‘yicha ochiq matnni tiklash jarayoni ====
-alfavit elementlaridan tartiblangan nabor
-
-+++++
-
-
-Simmetrik kriptotizimlarda ... .====
-#shifrlash va shifrni ochish uchun bitta va aynan shu kalitdan foydalaniladi====
-bir-biriga matematik usullar bilan bog‘langan ochiq va yopiq kalitlardan foydalaniladi====
-axborot ochiq kalit yordamida shifrlanadi, shifrni ochish esa faqat yopiq kalit yordamida amalga oshiriladi====
-kalitlardan biri ochiq boshqasi esa yopiq hisoblanadi
-
-+++++
-
- “nuqta-nuqta” xilidagi kanal sathining tunnel protokolini belgilang.====
-IPSec (IP Security)====
-#PPTP (Point-to-Point Tunneling Protocol)====
-SSH (Secure Shell) ====
-L2TP (Layer 2 Tunneling Protocol)
-
-+++++
-
-
-Simsiz tarmoqlarni kategoriyalarini to‘g‘ri ko‘rsating? ====
-#Simsiz shaxsiy tarmoq, simsiz lokal tarmoq, simsiz shahar tarmoq va simsiz global tarmoq====
-Simsiz internet tarmoq va simsiz telefon tarmoq, simsiz shaxsiy tarmoq va simsiz global tarmoq  ====
-Simsiz internet tarmoq va uy simsiz tarmog‘i====
-Simsiz chegaralanmagan tarmoq, simsiz kirish nuqtalari
-
-+++++
-
-
-Spyware-qanday zararli dastur?====
-#tarmoqda foydalanuvchilarga tegishli ma’lumotlarini qo‘lga kiritub, uni hujum qiluvchiga yuboradigan dasturiy kod ====
-ushbu zararli dasturiy vosita operatsion tizim tomonidan aniqlanmasligi uchun ma’lum harakatlarini yashiradi. ====
-internet tarmog‘idagi obro‘sizlantirilgan kompyuterlar bo‘lib, taqsimlangan hujumlarni amalga oshirish uchun hujumchi tomonidan foydalaniladi====
-zararli dasturiy vosita bo‘lib, biror mantiqiy shart qanoatlantirilgan vaqtda o‘z harakatini amalga oshiradi
-
-+++++
-
-Subyekt identifikatorini tizimga yoki talab qilgan subyektga taqdim qilish jarayoni nima? ====
-#Identifikatsiya ====
-Autentifikatsiya ====
-Avtorizatsiya ====
-Ma’murlash 
-
-+++++
-
-Kompyuter viruslari hayot davrining ikkita asosiy bosqichini toping.====
-#Saqlanish va bajarilish====
-Yaralish va yashash====
-Tarqalish va zararlash====
-Zararlash va yo‘q bo‘lish
-
-+++++
-
-Kompyuter viruslarining bajarilish davri, odatda, nechta bosqichni o‘z ichiga oladi?====
-#5 ta====
-2 ta====
-3 ta====
-4 ta
-
-+++++
-
-O‘z-o‘zidan tarqalish mexanizmi amalga oshiriluvchi, tizimga zarar keltirmaydi, faqat diskdagi bo‘sh xotirani sarflaydigan viruslar qanday viruslar deb ataladi? ====
-#Beziyon viruslar====
-Xavfsiz viruslar====
-Xavfli viruslar====
-Juda xavfli viruslar
-
-+++++
-
-Tizimda mavjudligi turli taassurot (ovoz, video) bilan bog‘liq, bo‘sh xotirani kamaytirsada, dastur va ma’lumotlarga ziyon yetkazmaydigan viruslar qanday viruslar deb ataladi?====
-#Xavfsiz viruslar====
-Beziyon viruslar====
-Xavfli viruslar====
-Juda xavfli viruslar
-
-+++++
-
-Kompyuter ishlashida jiddiy nuqsonlarga sabab bo‘luvchi, natijada dastur va ma’lumotlar buzilishiga olib kelivchi viruslar qanday viruslar deb ataladi? ====
-#Xavfli viruslar====
-Xavfsiz viruslar====
-Beziyon viruslar====
-Juda xavfli viruslar
-
-+++++
-
-Tarmoqlararo ekran (firewall, brandmaver) –bu…====
-#Trafikni filtrlash mexanizmiga asoslangan tarmoqdan foydalanishni cheklashning bazaviy vositasi====
-Qurilma perimetrli himoyalash masalasining kompleks yechimi hisoblanadi====
-Ma’lumotlarni inkapsulyatsiyalash mexanizmlari, hamda qo‘shimcha autentifikatsiya, shifrlash, yaxlitlikni nazoratlash====
-Faqatgina viruslar va zararli dasturlardan himoya qilish uchun mo‘ljallangan qurilma
-
-+++++
-
-Kiruvchi ma’lumotning uzunligi o‘zgaruvchan, chiqishda esa o‘zgarmas uzunlikdagi qiymatni qaytaradigan jarayon qanday ataladi?====
-#Xesh funksiya====
-О‘rniga qo‘yish akslantirish====
-O‘rin almashtirish akslantirish====
-Elektron raqamli imzo
-
-+++++
-
-Ochiq matn simvollari bir alfavitdan olinib, unga mos shifrmatn simvollari boshqa bir alfavitdan olinadigan jarayon nomini belgilang. ====
-#О‘rniga qo‘yish akslantirish====
-Xesh funksiya====
-O‘rin almashtirish akslantirish====
-Elektron raqamli imzo
-
-+++++
-
-Ochiq matnda ishtirok etgan simvollar shifrmatnda ham ishtirok etib, faqat ularning o‘rni almashadigan jarayon nomini belgilang.====
-#O‘rin almashtirish akslantirish====
-О‘rniga qo‘yish akslantirish====
-Xesh funksiya====
-Elektron raqamli imzo
-
-+++++
-
-Nima tashkilotning va u bilan bog‘liq boshqa komponentlar va interfeyslarning istalgan axborot xavfsizligi tizimi holatini tavsiflaydi?====
-#Kiberxavfsizlik arxitekturasi====
-Kiberxavfsizlik siyosati====
-Simmetrik shifrlash====
-Elektron raqamli imzo
-
-+++++
-
-
-Kriptografiya fan sifatida shakllanishida nechta davrlarga bo‘linadi?====
-#4 ga====
-3 ga====
-2 ga====
-5 ga
-
-+++++
-
-Konfidentsiallikga to‘g‘ri ta’rif keltiring.====
-#axborot inshonchliligi, tarqatilishi mumkin emasligi, maxfiyligi kafolati; ====
-axborot konfidensialligi, tarqatilishi mumkinligi, maxfiyligi kafolati; ====
-axborot inshonchliligi, tarqatilishi mumkin emasligi, parollanganligi kafolati; ====
-axborot inshonchliligi, axborotlashganligi, maxfiyligi kafolati;
-
-+++++
-
-
-Kriptografiya faninining asosiy maqsadi nima? ====
-#maxfiylik, yaxlitlilikni ta’minlash====
-ishonchlilik, butunlilikni ta’minlash====
-autentifikatsiya, identifikatsiya====
-ma’lumotlarni shaklini o‘zgartish
- 
-+++++
-
-
-Kriptografiyada kalitning vazifasi nima? ====
-Bir qancha kalitlar yig‘indisi====
-#Matnni shifrlash va shifrini ochish uchun kerakli axborot====
-Axborotli kalitlar to‘plami====
-Belgini va raqamlarni shifrni ochish uchun kerakli axborot
-
-+++++
-
-
-Qo‘yish, o‘rin almashtirish, gammalash kriptografiyaning qaysi turiga bog‘liq? ====
-#simmetrik kriptotizimlar====
-assimetrik kriptotizimlar====
-ochiq kalitli kriptotizimlar====
-autentifikatsiyalash
-
-+++++
-
-
-Autentifikatsiya nima? ====
-#Ma’lum qilingan foydalanuvchi, jarayon yoki qurilmaning haqiqiy ekanligini tekshirish muolajasi====
-Tizim me’yoriy va g‘ayritabiiy hollarda rejalashtirilgandek o‘zini tutishligi holati====
-Istalgan vaqtda dastur majmuasining mumkinligini kafolati====
-Tizim noodatiy va tabiiy hollarda qurilmaning haqiqiy ekanligini tekshirish muolajasi
-
-+++++
-
-
-Identifikatsiya bu- …====
-#Foydalanuvchini uning identifikatori (nomi) bo‘yicha aniqlash jarayoni====
-Ishonchliligini tarqalishi mumkin emasligi kafolati====
-Axborot boshlang‘ich ko‘rinishda ekanligi uni saqlash, uzatishda ruxsat etilmagan o‘zgarishlar====
-Axborotni butunligini saqlab qolgan holda uni elementlarini o‘zgartirishga yo‘l qo‘ymaslik
-
-+++++
-
-
-
-Kriptobardoshlilik deb nimaga aytilladi? ====
-#kalitlarni bilmasdan shifrni ochishga bardoshlilikni aniqlovchi shifrlash tavsifi====
-axborotni qayta akslantirib himoyalash muammosi bilan shug‘ullanadi====
-kalitni bilmasdan shifrlangan matnni ochish imkoniyatlarini o‘rganadi====
-axborotni qayta akslantirishning matematik usullarini izlaydi va tadqiq qiladi 
-
-+++++
-
-
-OSI modelining kanal (data link) sathida qanday tarmoq qurilmalar qo‘llaniladi? ====
-Marshrutizator====
-Ko‘prik====
-Tarmoq ekrani====
-#Kommutator
-
-+++++
-
-
-Risk-tushunchasi nima? ====
-#Belgilangan sharoitda tahdidning manbalarga bo‘lishi mumkin bo‘lgan zarar yetkazilishini kutish ====
-Tashkilotga istalmagan holda zarar yetkazish ====
-Shifrmatnni ochiq matntga akslantirish jarayoni ====
-Kalitlarni generatsiya qilish usuli
-
-+++++
-
-
-Tahdid-tushunchasi nima? ====
-#Tashkilotga zarar yetkazishi mumkin bo‘lgan istalmagan hodisa====
-Tashkilot uchun qadrli bo‘lgan ixtiyoriy narsa====
-Bu riskni o‘zgartiradigan harakatlar====
-Bu noaniqlikning maqsadlarga ta’siri
-
-+++++
-
-
-Kodlash terminiga berilgan ta’rifni belgilang.====
-#Ma’lumotni osongina qaytarish uchun hammaga ochiq bo‘lgan sxema yordamida ma’lumotlarni boshqa formatga o‘zgartirishdir====
-Ma’lumot boshqa formatga o‘zgartiriladi, biroq uni faqat maxsus shaxslar qayta o‘zgartirishi
-mumkin bo‘ladi====
-Ma’lumot boshqa formatga o‘zgartiriladi, barcha shaxslar kalit yordamida qayta o‘zgartirishi
-mumkin bo‘ladi====
-Maxfiy xabarni soxta xabar ichiga berkitish orqali aloqani yashirish hisoblanadi
-
-+++++
-
-
-Axborotni shifrni ochish (deshifrlash) bilan qaysi fan shug‘ullanadi? ====
-Kartografiya====
-#Kriptoanaliz====
-Kriptologiya====
-Adamar usuli
-
-+++++
-
-
-Qaysi juftlik RSA algoritmining  yopiq va ochiq kalitlarini ifodalaydi? ====
-#{d, n} – yopiq, {e, n} – ochiq; ====
-{d, e} – ochiq, {e, n} – yopiq; ====
-{e, n} – yopiq, {d, n} – ochiq; ====
-{e, n} – ochiq, {d, e} – yopiq; 
-
-+++++
-
-
-Zamonaviy kriptografiya qanday bo‘limlardan iborat? ====
-#Simmetrik kriptotizimlar; Ochiq kalitli kriptotizimlar; Elektron raqamli imzo; Kalitlarni boshqarish ====
-Elektron raqamli imzo; Kalitlarni boshqarish, Sertifikatlash, Shifrlash;====
-Simmetrik kriptotizimlar; Ochiq kalitli kriptotizimlar; ====
-Simmetrik kriptotizimlar; Ochiq kalitli kriptotizimlar; Kalitlarni yaratish, Litsenziyalsh;
-
-+++++
-
-
-Shifr nima?====
-#Shifrlash va deshifrlashda foydalaniladigan matematik funktsiyadan iborat bo‘lgan krptografik algoritm ====
-Kalitlarni taqsimlash usuli====
-Kalitlarni boshqarish usuli ====
-Kalitlarni generatsiya qilish usuli
-
-+++++
-
-
-Axborot xavfsizligiga bo‘ladigan tahdidlarning qaysi biri tasodifiy tahdidlar deb hisoblanadi? ====
-Axborotdan ruhsatsiz foydalanish====
-Zararkunanda dasturlar====
-An’anaviy josuslik va diversiya haqidagi ma’lumotlar tahlili====
-#Texnik vositalarning buzilishi va ishlamasligi
-
-+++++
-
-
-Token, smartkartalarning xavfsizlik tomonidan kamchiligi nimada? ====
-Foydalanish davrida maxfiylik kamayib boradi====
-Qurilmalarni ishlab chiqarish murakkab jarayon====
-#Qurilmani yo‘qotilishi katta xavf olib kelishi mumkin====
-Qurilmani qalbakilashtirish oson
-
-+++++
-
-
-Ma’lumotlarni yo‘qolishiga sabab bo‘luvchi tabiiy tahdidlarni ko‘rsating====
-Quvvat o‘chishi, dasturiy ta’minot to‘satdan o‘zgarishi yoki qurilmani to‘satdan zararlanishi====
-#Zilzila, yong‘in, suv toshqini va hokazo ====
-Tashkilotdagi muhim ma’lumotlarni modifikatsiyalanishi yoki o‘g‘irlanishi====
-Qasddan yoki tasodifiy ma’lumotni o‘chirib yuborilishi, ma’lumotlarni saqlash vositasini to‘g‘ri joylashtirilmaganligi 
-
-+++++
-
-
-Ma’lumotlarni tasodifiy sabablar tufayli yo‘qolishi sababini belgilang====
-#Quvvat o‘chishi, dasturiy ta’minot to‘satdan o‘zgarishi yoki qurilmani to‘satdan zararlanishi====
-Tashkilotdagi muhim ma’lumotlarni modifikatsiyalanishi yoki o‘g‘irlanishi====
-Ma’lumotlarni saqlash vositasini to‘g‘ri joylashtirilmaganligi yoki ma’lumotlar bazasini xatolik bilan boshqarilganligi ====
-Zilzila, yong‘in, suv toshqini va hokazo
-
-+++++
-
-
-Ma’lumotlarni inson xatosi tufayli yo‘qolish sababini belgilang. ====
-Tashkilotdagi muhim ma’lumotlarni modifikatsiyalanishi yoki o‘g‘irlanishi. ====
-#Ma’lumotlarni saqlash vositasini to‘g‘ri joylashtirilmagani yoki ma’lumotlar bazasini xatolik bilan boshqarilganligi. ====
-Quvvat o‘chishi, dasturiy ta’minot to‘satdan o‘zgarishi yoki qurilmani to‘satdan zararlanishi====
-Zilzila, yong‘in, suv toshqini va hak.
-
-+++++
-
-
-"Parol", "PIN" kodlarni xavfsizlik tomonidan kamchiligi nimadan iborat? ====
-Parolni esda saqlash kerak bo‘ladi ====
-Parolni almashtirish jarayoni murakkabligi====
-Parol uzunligi soni cheklangan====
-#Foydalanish davrida maxfiylik kamayib boradi
-
-+++++
-
-
-Nima uchun autentifikatsiyalashda parol ko‘p qo‘llaniladi? ====
-#Sarf xarajati kam, almashtirish oson====
-Parolni foydalanuvchi ishlab chiqadi====
-Parolni o‘g‘irlash qiyin====
-Serverda parollar saqlanmaydi
-
-+++++
-
-
-Elektron xujjatlarni yo‘q qilish usullari qaysilar? ====
-Yoqish, ko‘mish, yanchish====
-#Shrederlash, magnitsizlantirish, yanchish====
-Shrederlash, yoqish, ko‘mish====
-Kimyoviy usul, yoqish.
-
-+++++
-
-
-“Hаmmа nаrsа tа’qiqlаnаdi.” Bu qаysi xаvfsizlik siyosаtigа xos?====
-Ruxsаt berishgа аsoslаngаn siyosаt (Permissive Policy)====
-#Pаrаnoid siyosаti (Pаrаnoid Policy)====
-Ehtiyotkorlik siyosаti (Prudent Policy)====
-Nomuntаzаm siyosаt (Promiscuous Policy)
-
-+++++
-
-
-Kompyuter yoki boshqa qurilmalarga qarshi qilingan yoki kompyuter va boshqa qurilmalar orqali qilingan jinoyat-…====
-Kibersport deb ataladi====
-Kiberterror deb ataladi====
-#Kiberjinoyat deb ataladi====
-Hakerlar uyushmasi deyiladi
-
-+++++
-
-
-Qaysi siyosat turli hisoblash resurslaridan to‘g‘ri foydalanishni belgilaydi?====
-#Maqbul foydalanish siyosati====
-Paranoid siyosat====
-Ruxsat berishga asoslangan siyosat====
-Nomuntazam siyosat
-
-+++++
-
-
-Qaysi siyosatda Adminstrator xavfsiz va zarur xizmatlarga indvidual ravishda ruxsat beradi?====
-Paranoid siyosat====
-Ruxsat berishga asoslangan siyosat====
-Nomuntazam siyosat====
-#Extiyotkorlik siyosati
-
-+++++
-
-
-Qaysi siyosatga ko‘ra faqat ma’lum xavfli xizmatlar/hujumlar yoki harakatlar bloklanadi?====
-Nomuntazam siyosat====
-Paranoid siyosat====
-#Ruxsat berishga asoslangan siyosat====
-Extiyotkorlik siyosati
-
-+++++
-
-
-Qaysi siyosatga ko‘ra hamma narsa ta’qiqlanadi?====
-Ruxsat berishga asoslangan siyosat====
-Nomuntazam siyosat====
-Extiyotkorlik siyosati====
-#Paranoid siyosat
-
-+++++
-
-
-Tashkilotni himoyalash maqsadida amalga oshirilgan xavfsizlik nazoratini tavsiflovchi yuqori sathli hujjat yoki hujjatlar to‘plami nima deyiladi?====
-#Xavfsizlik siyosati====
-Standart====
-Qaror====
-Buyruq
-
-+++++
-
-
-Xavfsizlikni ta’minlashning bir yoki bir necha tizimi hamda loyihalashni nazoratlash va ulardan foydalanish xususida to‘liq tasavvurga ega shaxs kim deb ataladi?====
-Xavfsizlik mutaxasisi====
-Rahbar====
-Foydalanuvchi====
-#Xavfsizlik ma’muri (admin)
-
-+++++
-
-
-Axborot xavfsizligining huquqiy ta’minoti qaysi me’yorlarni o‘z ichiga oladi?====
-#Xalqaro va milliy huquqiy me’yorlarni====
-Tashkiliy va xalqaro me’yorlarni====
-An’anaviy va korporativ me’yorlarni====
-Davlat va nodavlat tashkilotlari me’yorlarini
-
-+++++
-
-
-OSI modelining kanal (data link) sathida axborot tipi qanday nomlanadi? ====
-ma’lumot====
-#kadr====
-paket====
-segment/datagramma
-
-+++++
-
-
-“Tizim xavfsizligi” bilim sohasi - bu …====
-#tashkil etuvchilar, ulanishlar va dasturiy ta’minotdan iborat bo‘lgan tizim xavfsizligining aspektlariga e’tibor qaratadi.====
-katta tizimlarda integrallashgan tashkil etuvchilarni loyihalash, sotib olish, testlash, analiz qilish va texnik xizmat ko‘rsatishga e’tibor qaratadi.====
-tashkil etuvchilar o‘rtasidagi aloqani himoyalashga e’tibor qaratib, o‘zida fizik va mantiqiy ulanishni birlashtiradi.====
-kiberxavfsizlik bilan bog‘liq inson hatti harakatlarini o‘rganishdan tashqari, tashkilotlar (masalan, xodim) va shaxsiy hayot sharoitida shaxsiy ma’lumotlarni va shaxsiy hayotni himoya qilishga e’tibor qaratadi.
-
-+++++
-
-
-“Xodim xavfsizligi” tushunchasi- bu…====
-#Qandaydir jiddiy axborotdan foydalanish imkoniyatiga ega barcha xodimlarning kerakli avtorizatsiyaga va barcha kerakli ruxsatnomalarga egalik kafolatini ta’minlovchi usul.====
-Axborot tarmog‘ini ruxsatsiz foydalanishdan, me’yoriy harakatiga tasodifan aralashishdan yoki komponentlarini buzishga urinishdan saqlash choralari.====
-Destruktiv harakatlarga va yolg‘on axborotni zo‘rlab qabul qilinishiga olib keluvchi ishlanadigan va saqlanuvchi axborotdan ruxsatsiz foydalanishga urinishlarga kompyuter tizimining qarshi tura olish hususiyati.====
-Korxona o‘z faoliyatini buzilishsiz va to‘xtalishsiz yurgiza oladigan vaqt bo‘yicha barqaror bashoratlanuvchi atrof-muhit holati.
-
-+++++
-
-
-“Yaxlitlik” atamasiga berilgan ta’rifni belgilang.====
-#Bu yozilgan va xabar qilingan ma’luotlarning haqiqiyligini, to‘g‘riligini, butunligini saqlash qobiliyati====
-Funksionala imkoniyatni o‘z vaqtida foydalanish====
-Tizimning ruxsat berilgan foydalanish uchun ma’lumot tarqatishni cheklash====
-Korxona o‘z faoliyatini buzilishsiz va to‘xtalishsiz yurgiza oladigan vaqt bo‘yicha barqaror bashoratlanuvchi atrof-muhit holati
-
-+++++
-
-
-……–hisoblashga asoslangan bilim sohasi bo‘lib, buzg‘unchilar mavjud bo‘lgan sharoitda amallarni kafolatlash uchun o‘zida texnologiya, inson, axborot va jarayonni mujassamlashtirgan.====
-#Kiberxavfsizlik====
-Axborot xavfsizligi====
-Kiberjtnoyatchilik====
-Risklar
-
-+++++
-
-
-Assimetrik kriptotizimlarda axborotni shifrlashda va deshifrlash uchun qanday kalit ishlatiladi? ====
-#Ikkita kalit: ochiq va yopiq====	
-Bitta kalit====	
-Elektron raqamli imzo====
-Foydalanuvchi identifikatori
-
-+++++
-
-
-Elektron raqamli imzo - bu …====
-#xabar muallifi va tarkibini aniqlash maqsadida shifrmatnga qo‘shilgan qo‘shimcha====
-matnni shifrlash va shifrini ochish uchun kerakli axborot====
-axborot belgilarini kodlash uchun foydalaniladigan chekli to‘plam====
-kalit axborotni shifrlovchi kalitlar
-
-+++++
-
-
-Elektron raqamli imzo algoritmi qanday bosqichlardan iborat bo‘ladi? ====
-#Imzo qo‘yish va imzoni tekshirishdan====
-Faqat imzo qo‘yishdan====
-Faqat imzoni tekshirishdan====
-Kalitlarni taqsimlashdan
-
-+++++
-
-
-Elektron raqamli imzo kalitlari ro‘yxatga olish qaysi tashkilot tomonidan bajariladi====
-#Sertifikatlari roʻyxatga olish markazlari====
-Tegishli Vazirliklar====
-Axborot xavfsizligi markazlari====
-Davlat Hokimiyati
-
-+++++
-
-
-Foydalanuvchini (yoki biror tomonni) tizimdan foydalanish uchun ruxsati mavjudligini aniqlash jarayoni nima? ====
-Autentifikatsiya ====
-Identifikatsiya ====
-#Avtorizatsiya ====
-Ma’murlash 
-
-+++++
-
-
-Kriptografiyada kalit – bu …====
-#Matnni shifrlash va shifrini ochish uchun kerakli axborot====
-Bir qancha kalitlar yig‘indisi====
-Axborotli kalitlar to‘plami====
-Belgini va raqamlarni shifrlash uchun kerakli axborot
-
-+++++
-
-
-Kiberetika tushunchasi-bu…====
-#Kompyuter va kompyuter tarmoqlarida odamlarning etikasi====
-Kompyuter, dasturlar va tarmoqlar xavfsizligi====
-Kompyuter tizimlariga ruxsatsiz ta’sir ko‘rsatish====
-Tashkilot va odamlarning mahsus va shahsiy ma’lumotlarini olishka qaratilgan internet-atakasi
-
-+++++
-
-
-Kiberxavfsizlik siyosati tashkilotda nimani ta’minlaydi? ====
-#tashkilot masalalarini yechish himoyasini yoki ish jarayoni himoyasini ta’minlaydi ====
-tashkilot xodimlari himoyasini ta’minlaydi ====
-tashkilot axborotlari va binolarining himoyasini ta’minlaydi ====
-tashkilot omborini va axborotlari himoyasini ta’minlaydi 
-
-+++++
-
-
-Kriptografik elektron raqamli imzolarda qaysi kalitlar ma’lumotni yaxlitligini ta’minlashda qo‘llaniladi? ====
-#ochiq kalitlar====
-yopiq kalitlar====
-seans kalitlari====
-Barcha tutdagi kalitlar
-
-+++++
-
-
-Kriptografiyada "alifbo" deganda nima tushuniladi? ====
-#axborotni ifodalashda ishlatiluvchi belgilarning chekli to‘plami tushuniladi ====
-matnni shifrlash va shifrini ochish uchun kerakli axborot====
-xabar muallifi va tarkibini aniqlash maqsadida shifrmatnga qo‘shilgan qo‘shimcha====
-alfavit elementlaridan tartiblangan nabor 
-
-+++++
-
-
-O‘zbekistonda masofadan elektron raqamli imzo olish uchun qaysi internet manzilga murojaat qilinadi? ====
-#e-imzo.uz====
-elektron-imzo.uz====
-imzo.uz====
-eri.uz
-
-+++++
-
-
-Foydalanuvchanlik-bu…====
-#avtorizatsiyalangan mantiqiy obyekt so‘rovi bo‘yicha axborotning tayyorlik va foydalanuvchanlik holatida bo‘lishi xususiyati====
-axborotning buzilmagan ko‘rinishida (axborotning qandaydir qayd etilgan holatiga nisbatan o‘zgarmagan shaklda) mavjud bo‘lishi ifodalangan xususiyati====
-axborot yoki uni eltuvchisining shunday holatiki, undan ruxsatsiz tanishishning yoki nusxalashning oldi olingan bo‘ladi====
-potensial foyda yoki zarar bo‘lib, umumiy holda har qanday vaziyatga biror bir hodisani yuzaga kelish ehtimoli qo‘shilganida risk paydo bo‘ladi
-
-+++++
-
-
-Kiberxavfsizlik bilim sohasi nechta bilim sohasini o‘z ichiga oladi?====
-#8 ta====
-7 ta====
-6 ta====
-5 ta
-
-+++++
-
-
-Ijtimoiy (sotsial) injineriya-bu…====
-#turli psixologik usullar va firibgarlik amaliyotining to‘plami, uning maqsadi firibgarlik yo‘li bilan shaxs to‘g‘risida maxfiy ma’lumotlarni olish====
-Axborotlarni o‘g‘irlanishini, yo‘qolishini, soxtalashtirilishini oldini olish====
-axborot tizimi tarkibidagi elektron shakldagi axborot, ma’lumotlar banki, ma’lumotlar bazasi====
-foydalanuvchining resursdan foydalanish huquqlari va ruxsatlarini tekshirish jarayoni
-
-+++++
-
-
-Kiberxavfsizlik arxitekturasi nechta sathga ajratiladi?====
-#3ta====
-2 ta====
-4 ta====
-5 ta
-
-+++++
-
-
-Tashkilot axborot xavfsizligi siyosati-bu…====
-#mazkur siyosat turi tashkilot xavfsiz muhitini, unga g‘oya, maqsad va usullarni taklif qilish orqali, madadlaydi. U xavfsizlik dasturlarini ishlab chiqish, amalga oshirish va boshqarish usullarini belgilaydi. ====
-bu siyosatlar tashkilotdagi aynan xavfsizlik muammosiga qaratilgan bo‘lib, ushbu xavfsizlik siyosatlarining qamrovi va qo‘llanilish sohasi muammo turi va unda foydalanilgan usullarga bog‘liq bo‘ladi. ====
-mazkur xavfsizlik siyosatini amalga oshirishda tashkilotdagi biror tizimning umumiy xavfsizligini ta’minlash ko‘zda tutiladi. ====
-mazkur siyosat Internetdan foydalanishdagi cheklanishlarni aniqlab, xodimlar uchun Internet tarmog‘idan foydalanish tartibini belgilaydi.
-
-+++++
-
-
-….. protokoli ulanishga asoslangan protokol bo‘lib, internet orqali ma’lumotlarni almashinuvchi turli ilovalar uchun tarmoq ulanishlarini sozlashga yordam beradi.====
-#TCP====
-IP====
-HTTP====
-FTP
-
-+++++
-
-
-Access control list va Capability list bu nimaning asosiy elementi hisoblanadi?====
-#Lampson matritsasining====
-XASML standartining ====
-Role-based access control RBACning==== 
-Atribute based access control (ABAC)ning
-
-+++++
-
-
-“Aloqa xavfsizligi” bilim sohasi - bu …====
-#tashkil etuvchilar o‘rtasidagi aloqani himoyalashga e’tibor qaratib, o‘zida fizik va mantiqiy ulanishni birlashtiradi.====
-katta tizimlarda integrallashgan tashkil etuvchilarni loyihalash, sotib olish, testlash, analiz qilish va texnik xizmat ko‘rsatishga e’tibor qaratadi.====
-foydalanilayotgan tizim yoki axborot xavfsizligini ta’minlovchi dasturiy ta’minotlarni ishlab chiqish va foydalanish jarayoniga e’tibor qaratadi.====
-kiberxavfsizlik bilan bog‘liq inson hatti harakatlarini o‘rganishdan tashqari, tashkilotlar (masalan, xodim) va shaxsiy hayot sharoitida shaxsiy ma’lumotlarni va shaxsiy hayotni himoya qilishga e’tibor qaratadi.
-
-+++++
-
-
-“Avtorizatsiya” atamasi qaysi tushuncha bilan sinonim sifatida ham foydalanadi?====
-#Foydalanishni boshqarish====
-Tarmoqni loyihalash====
-Foydalanish====
-Identifikatsiya
-
-+++++
-
-
- “Inson xavfsizligi” bilim sohasi - bu …====
-#kiberxavfsizlik bilan bog‘liq inson hatti harakatlarini o‘rganishdan tashqari, tashkilotlar (masalan, xodim) va shaxsiy hayot sharoitida shaxsiy ma’lumotlarni va shaxsiy hayotni himoya qilishga e’tibor qaratadi====
-katta tizimlarda integrallashgan tashkil etuvchilarni loyihalash, sotib olish, testlash, analiz qilish va texnik xizmat ko‘rsatishga e’tibor qaratadi====
-tashkil etuvchilar o‘rtasidagi aloqani himoyalashga e’tibor qaratib, o‘zida fizik va mantiqiy ulanishni birlashtiradi.====
-foydalanilayotgan tizim yoki axborot xavfsizligini ta’minlovchi dasturiy ta’minotlarni ishlab chiqish va foydalanish jarayoniga e’tibor qaratadi
-
-+++++
-
-
-“Tashkil etuvchilar xavfsizligi” - bu …====
-#katta tizimlarda integrallashgan tashkil etuvchilarni loyihalash, sotib olish, testlash, analiz qilish va texnik xizmat ko‘rsatishga e’tibor qaratadi====
-foydalanilayotgan tizim yoki axborot xavfsizligini ta’minlovchi dasturiy ta’minotlarni ishlab chiqish va foydalanish jarayoniga e’tibor qaratadi====
-tashkil etuvchilar o‘rtasidagi aloqani himoyalashga e’tibor qaratib, o‘zida fizik va mantiqiy ulanishni birlashtiradi====
-kiberxavfsizlik bilan bog‘liq inson hatti harakatlarini o‘rganishdan tashqari, tashkilotlar (masalan, xodim) va shaxsiy hayot sharoitida shaxsiy ma’lumotlarni va shaxsiy hayotni himoya qilishga e’tibor qaratadi
-
-+++++
-
-
-“Tashkilot xavfsizligi” bilim sohasi  - bu …====
-#tashkilotni kiberxavfsizlik tahdidlaridan himoyalash va tashkilot vazifasini muvaffaqqiyatli bajarishini====
-foydalanilayotgan tizim yoki axborot xavfsizligini ta’minlovchi dasturiy ta’minotlarni ishlab chiqish va foydalanish jarayoniga e’tibor qaratadi====
-katta tizimlarda integrallashgan tashkil etuvchilarni loyihalash, sotib olish, testlash, analiz qilish va texnik xizmat ko‘rsatishga e’tibor qaratadi====
-tashkil etuvchilar o‘rtasidagi aloqani himoyalashga e’tibor qaratib, o‘zida fizik va mantiqiy ulanishni birlashtiradi
-
-+++++
-
-
-
-Assimetrik kriptotizimlar qanday maqsadlarda ishlatiladi? ====
-#shifrlash, deshifrlash, ERI yaratish va tekshirish, kalitlar almashish uchun====
-shifrlash, deshifrlash, kalit generatsiyalash====
-ERI hosil qilsih, maxfiylikni ta’minlash, kalitlar almashish uchun====
-shifrlash, deshifrlash, kalitlar boshqarish uchun
-
-+++++
-
-Assimetrik kriptotizimlarda axborotni shifrlashda va deshifrlash uchun nechta kalit ishlatiladi?====
-#Ikkita kalit====
-Bitta kalit====
-Uchta kalit====
-Foydalanuvchi identifikatori
-
-+++++
-
-Asosan tarmoq, tizim va tashkilot haqidagi axborotni olish maqasadida amalga oshiriladigan tarmoq hujumini belgilang. ====
-#Razvedka hujumlari====
-Kirish hujumlari====
-DOS hujumi====
-Zararli hujumlar
-
-+++++
-
-Atribute based access control (ABAC) usuli atributlari qaysilar? ====
-#Foydalanuvchi atributlari====
-Asosiy va qo‘shimcha atributlar ====
-Tizim atributlari, server atributlari ====
-Ichki va tashqi atributlar
-
-+++++
-
-
-Avtorizatsiya qanday jarayon?====
-#foydalanuvchining resursdan foydalanish huquqlari va ruxsatlarini tekshirish jarayoni====
-axborot tizimlari obyekt va subyektlariga uni tanish uchun nomlar (identifikator) berish va berilgan nom bo‘yicha solishtirib uni aniqlash jarayoni====
-obyekt yoki subyektni unga berilgan identifikatorga mosligini tekshirish va belgilar ketma-ketligidan iborat maxfiy kodini tekshirish orqali aslligini aniqlash ====
-foydalanuvchilarni ro‘yxatga olish va ularga dasturlar va ma’lumotlarni ishlatishga huquq berish jarayoni
-
-+++++
-
-
-
-Axborot paketlarini qachon ushlab qolish mumkin? ====
-#Aloqa kanallari orqali uzatishda====
-Xotira qurilmalarida saqlanayotganda====
-Kompyuter ishga tushganda====
-Ma’lumotlar nusxalanayotganda
-
-+++++
-
-
-Axborot tizimi tarkibidagi elektron shakldagi axborot, ma’lumotlar banki, ma’lumotlar bazasi nima deb ataladi? ====
-#Axborot resursi ====
-Axborot xavfsizligi====
-Ma’lumotlar bazasi====
-Axborot tizimlari
-
-+++++
-
-
-Axborot xavfsizligini ta’minlovchi choralarni ko‘rsating? ====
-#1-huquqiy, 2-tashkiliy-ma’muriy, 3-dasturiy-texnik====
-1-axloqiy, 2-tashkiliy-ma’muriy, 3-fizikaviy-kimyoviy====
-1-amaliy, 2-tashkiliy-ma’muriy, 3-huquqiy====
-1-apparat, 2-texnikaviy, 3-huquqiy
-
-+++++
-
-
-OSI modelining transport sathida axborot tipi qanday nomlanadi? ====
-ma’lumot====
-bit/kadr====
-paket====
-#segment/datagramma
-
-+++++
-
-Identifikatsiya va autentifikatsiyadan o‘tgan foydalanuvchilarga tizimda bajarishi mumkin bo‘lgan amallarga ruxsat berish jarayoni bu –…====
-#Avtorizatsiya ====
-Identifikatsiya ====
-Autentifikatsiya ====
-Ma’murlash
-
-+++++
-
-IEEE 802.11, Wi-Fi standartini qo‘llaydigan tarmoq turini aniqlang. ====
-#Lokal simsiz tarmoq==== 
-Shaxsiy simsiz tarmoq ====
-Regional simsiz tarmoq ====
-Global simsiz tarmoq 
-
-+++++
-
-
-IEEE 802.16, WiMAX standartini qo‘llaydigan tarmoq turini aniqlang. ====
-#Shahar simsiz tarmoq ====
-Shaxsiy simsiz tarmoq ====
-Lokal simsiz tarmoq ====
-Global simsiz tarmoq
-
-+++++
-
-
-Elektron imzoni haqiqiyligini tekshirish qanday amalga oshiriladi? ====
-#Imzo muallifining ochiq kaliti yordamida====
-Ma’lumotni qabul qilgan foydalanuvchining ochiq kaliti yordamida====
-Ma’lumotni qabul qilgan foydalanuvchining maxfiy kaliti yordamida====
-Imzo muallifining maxfiy kaliti yordamida
-
-+++++
-
-DoS hujumlari oqibatida quyidagilardan qaysi biri sodir bo‘ladi? ====
-#Foydalanuvchilar kerakli axborot resurlariga murojaat qilish imkoniyatidan mahrum qilinadilar====
-Foydalanuvchilarning maxfiy axborotlari kuzatilib, masofadan buzg‘unchilarga yetkaziladi====
-Axborot tizimidagi ma’lumotlar bazasi o‘g‘irlanib qo‘lga kiritilgach, ular yo‘q qilinadi====
-Foydalanuvchilar axborotlariga ruxsatsiz o‘zgartirishlar kiritilib, ularning yaxlitligi buziladi
-
-+++++
-
-Kriptografiyada “kalit” atamasiga qanday ta’rif beriladi? ====
-#Axborotni shifrlash va deshifrlash uchun kerakli axborot====
-Bir qancha kalitlar yig‘indisi====
-Axborotli kalitlar to‘plami====
-Raqamlarni shifrini ochish uchun kerakli axborot
-
-+++++
-
-Kalitlar boshqaruvi qanday elementga ega bo‘ladi? ====
-#hosil qilish, yig‘ish, taqsimlash====
-ishonchliligi, maxfiyligi, aniqligi====
-xavfsizlik, tez ishlashi, to‘g‘ri taqsimlanishi====
-abonentlar soni, xavfsizligi, maxfiyligi
-
-+++++
-
-
-Kiberxavfsizlikda “tahdid” atamasi qanday ta’riflanadi? ====
-#Tizim yoki tashkilotga zarar yetkazishi mumkin bo‘lgan istalmagan hodisa====
-Tashkilot uchun qadrli bo‘lgan ixtiyoriy narsa====
-Bu riskni o‘zgartiradigan harakatlar====
-Bu noaniqlikning maqsadlarga ta’siri
++++++
+Termodinamik sistemaga 250 J issiqlik miqdori berilganda gaz tashqi kuchlar ustida 130 J ish bajargan bo‘lsa uning ichki energiyasi necha J ga o‘zgargan?
+==== 
+#120
+==== 
+130
+==== 
+250
+==== 
+270
++++++
+Normal sharoitda 2 mol kislorod qanday xajmni egallaydi?
+==== 
+#44,8 litr
+==== 
+15 litr
+==== 
+7 litr
+==== 
+35 litr
++++++
+Gorizontal otilgan jismning normal tezlanishi 6 m/s<sup>2</sup>  bo‘lgan momentdagi tangensal tezlanishi (m/s<sup>2</sup>) qanday? g=10 m/s<sup>2</sup> deb oling.
+==== 
+#8
+==== 
+7 
+==== 
+5
+==== 
+9
++++++
+ To`lqinning tarqalish yo`nalishida joylashgan va tebranishlar fazalar farqi 2π/5 ga teng bo`lgan ikki nuqtalar orasidagi masofa 12 m bo`lsa, to`lqin uzunligini (m) toping? 
+==== 
+70 m    
+==== 
+12,5𝜋      
+==== 
+6 m      
+==== 
+#60 m      
++++++
+ Tebranish manbaidan 10 m va 2 m uzoqlikda joylashgan nuqtalar tebranishlarining fazalar farqini aniqlang. Tebranish davri 0,5 s, to’lqinning tarqalish tezligi 8 m/s.   
+==== 
+3𝜋;                                          
+==== 
+#4𝜋;        
+==== 
+𝜋/2      
+==== 
+2,5      
++++++
+Agar elektromagnit to’lqinning bo’shliqdagi tebranish davri 4*10<sup>-8</sup> s bo’lsa, uning to’lqin uzunligini toping.    
+==== 
+7 m;          
+==== 
+5 m;
+==== 
+3 m;
+==== 
+#12 m;   
++++++
+Kosmik kema tomonidan 15 MHz chastotada radio to’lqin uzatilayotgan bo’lsa, uning to’lqin uzunligini aniqlang.   
+====
+4,5 m;         
+==== 
+#20 m;        
+==== 
+15 m;           
+==== 
+17 m
++++++
+Elektr o'tkazuvchanligiga ko'ra ayrim xolatlarda o'zini o'tkazgichday va ayrim xolatlarda o'zini  dielektrikday tutadigan moddalarga qanday nom berilgan?
+==== 
+Metallar
+==== 
+Rezistorlar 
+==== 
+#Yarim o’tkazgichlar                   
+==== 
+Dielektriklar 
++++++
+Elektr tokini asosan erkin elektronlar xisobiga o’tkazadigan yarim o’tkazgichlar qanday turdagi yarim o’tkazgichlar xisoblanadi?
+==== 
+Akseptorli                    
+==== 
+#Donorli                     
+==== 
+Kirishmali                
+==== 
+Metalli                    
++++++
+ Elektr tokini asosan kovaklar xisobiga o’tkazadigan yarim o’tkazgichlar qanday turdagi yarim o’tkazgichlar xisoblanadi?
+==== 
+#Akseptorli                
+==== 
+Donorli                  
+==== 
+Kirishmali            
+==== 
+Metalli                   
++++++
+To’rt valentli toza yarim o’tkazgich tarkibiga besh valentli toza yarim o’tkazgich elementi kiritilsa qanday turdagi yarim o’tkazgich xosil bo’ladi?
+==== 
+Toza yarim o’tkazgich saqlanib qoladi                 
+==== 
+Kirishmali yarim o’tkazgich                           
+==== 
+#Donorli yarim o’tkazgich                                
+==== 
+Akseptorli yarim o’tkazgich
++++++
+To’rt valentli toza yarim o’tkazgich tarkibiga uch valentli toza yarim o’tkazgich elementi kiritilsa qanday turdagi yarim o’tkazgich xosil bo’ladi?
+==== 
+Toza yarim o’tkazgich saqlanib qoladi            
+==== 
+Kirishmali yarim o’tkazgich                              
+==== 
+Donorli yarim o’tkazgich                                      
+==== 
+#Akseptorli yarim o’tkazgich                              
++++++
+Kosmik kema tomonidan 75 MHz chastotada radioto’lqin uzatilayotgan bo’lsa, uning to’lqin uzunligini toping.
+==== 
+1 m; 
+==== 
+2 m;        
+==== 
+3 m;           
+==== 
+#4 m.
++++++
+O’zgaruvchan tok zanjirida kondensator zaryadi q = 80*10<sup>-4</sup>cos 20𝜋t (C) qonun bo’yicha o’zgarmoqda. Kuchlanishning maximal qiymati 200 V. Kondersatorning elektr sig’imi nimaga teng?
+====                          
+10 mkF;
+====
+15 mkF;
+====
+#40 mkF;
+====
+25 mkF
++++++
+Agar yukning massasi 16 marta orttirilsa, matematik mayatnikning xususiy tebranishlar davri qanday o’zgaradi?
+==== 
+3 marta kamayadi;        
+==== 
+5 marta ortadi;               
+==== 
+7 marta kamayadi;            
+==== 
+#o’zgarmaydi
++++++
+Agar g`altakning induktivligi 64 marta orttirilsa, tebranish konturida erkin tebranishlar chastotasi qanday o`zgaradi?
+==== 
+9 marta ortadi;    
+==== 
+#8 marta kamayadi;        
+==== 
+7 marta ortadi;             
+==== 
+O’zgarmaydi                  
++++++
+Agar g`altakning induktivligi 16 marta orttirilsa, tebranish konturida erkin tebranishlar davri qanday o`zgaradi?
+==== 
+O’zgarmaydi;                     
+==== 
+5 marta kamayadi;             
+==== 
+3 marta kamayadi;   
+==== 
+#4 marta ortadi.                                  
++++++
+Agar g`altakning induktivligi 4 marta va kondensator sig’imi 16 marta orttirilsa, tebranish konturida erkin tebranishlar chastotasi qanday o`zgaradi?
+==== 
+6 marta ortadi;          
+==== 
+7 marta kamayadi;        
+==== 
+#8 marta kamayadi.            
+==== 
+o’zgarmaydi             ,        
++++++
+Agar g`altakning induktivligi 9 marta va kondensator sig’imi 64 marta orttirilsa, tebranish konturida erkin tebranishlar siklik chastotasi qanday o`zgaradi?
+==== 
+5 marta ortadi;          
+==== 
+#24 marta kamayadi;          
+==== 
+25 marta kamayadi.            
+==== 
+18 marta ortadi,        
++++++
+Agar g`altakning induktivligi 9 marta va kondensator sig’imi 16 marta orttirilsa, tebranish konturida erkin tebranishlar davri qanday o`zgaradi?
+==== 
+#12 marta ortadi;             
+==== 
+ 11 marta kamayadi;          
+==== 
+10 marta kamayadi.            
+==== 
+9 marta ortadi,        
++++++
+Agar g`altakning induktivligi va kondensator sig’imi 4 martadan kamaytirilsa, tebranish konturida erkin tebranishlar davri qanday o`zgaradi?
+==== 
+7 marta ortadi;    
+==== 
+5 marta kamayadi; 
+==== 
+3 marta ortadi;   
+==== 
+#4 marta kamayadi.
++++++
+Agar g`altakning induktivligi va kondensator sig’imi 4 martadan kamaytirilsa, tebranish konturida erkin tebranishlar chastotasi qanday o`zgaradi?
+==== 
+7 marta ortadi;    
+==== 
+11 marta kamayadi; 
+==== 
+#4 marta ortadi;   
+==== 
+3 marta kamayadi.
++++++
+Yopiq traektoriya bo’ylab birlik musbat zaryadni ko’chirishda bajarilgan ish nimaga bog’liq?
+====
+Kulon kuchining radius vektorga ko’paytmasiga teng. 
+====
+Zaryad kattaligi va yo’l uzunligiga proporsional bo’lib, traektoriyaning boshlang’ich va oxirgi holatiga bog’liq emas.
+====
+Yo’l uzunligiga va maydonni hosil qiluvchi va shu maydon bo’ylab ko’chuvchi zaryadlar kattaliklariga bog’liq emas.
+====
+#Nolga teng bo’lib, traektoriyaning boshlang’ich va oxirgi nuqtalari potensiallariga bog’liq.
++++++
+Yo’l uzunligini  n marta oshirilsa, ekvipotensial sirt bo’ylab zaryadni ko’chirishda bajarilgan ish qanday o’zgaradi?
+====
+O’zgarmaydi .           
+====
+n marta ortadi.           
+====
+n marta kamayadi    
+====
+#Doim nolga teng
++++++
+Odam yassi ko‘zguga 2 m/s tezlik bilan yaqinlashmoqda. Uning tasviri odamga nisbatan qanday tezlikda (m/s) harakat qiladi?
+==== 
+#4                 
+==== 
+5
+==== 
+3
+====
+1,5
++++++
+Tinch xolatdan harakatga kelgan va tezlanishi 3 m/s<sup>2</sup> bo‘lgan Matiz 4 sekundda qanday tezlikka etishadi?
+======
+9 m/s
+======
+#12 m/s
+======
+13 m/s
+======
+15 m/s
++++++ 
+12 kg ugleroddagi atomlar soni 16 kg vodoroddagi molekulalar sonidan necha qanday farq qiladi?
+====
+#8 marta kam	
+====
+3 marta ko‘p
+====
+7 marta ko‘p	
+====
+o‘zaro teng
++++++
+Zanjirga 6 0m li aktiv,12 Om li  induktiv va  4 Om li  sig’im qarshiliklar ketma- ket ulangan. Umumiy  qarshiligini  xisoblang(Om).
+====
+3  	 
+====
+5		
+====
+7		
+====
+#10	
++++++
+Kislorodning molekulyar massasi qanchaga teng?
+====
+#32 g/mol	    
+====
+15 g/mol	
+====
+18 g/mol           
+====
+22 g/mol
++++++
+1360 Hs da ishlovchi tovush manbaidan koordinatalari 25 sm ga farq qiluvchi nuqtalarning tebranishlar fazalar farqi nimaga teng? Xavoda tovushning tarqalish tezligi 340 m/s 
+==== 
+#2π;         
+==== 
+π/5;          
+====  
+π.
+==== 
+2
++++++
+So‘nuvchi garmonik tebranishlarda tebranish amplitudasi qanday o‘zgaradi?
+==== 
+Sinus qonuniyatiga bo‘ysungan xolda kamayadi;
+==== 
+kosinus qonuniyatiga bo‘ysungan xolda kamayadi;
+==== 
+#eksponensial qonuniyat asosida kamayadi;
+==== 
+chiziqli ravishda kamayadi.
++++++
+So‘nuvchi tebranishlarda so‘nish dekrementi nimani ifodalaydi?
+==== 
+Vaqt o‘tishi bilan tebranish amplitudasining eksponensial ravishda kamayishini;
+==== 
+Vaqt o‘tishi bilan tebranish amplitudasining chiziqli kamayishini;
+==== 
+Vaqtning boshlang‘ich va oxirgi mementlarida amplitudaning qanchaga kamayganini ko‘rsatadi; 
+==== 
+#Bir tebranish davri mobaynida amplitudaning qanchaga kamayganini ko‘rsatadi.
++++++
+Agar xar qaysi to‘lqinning amplitudasi 3A ga teng bo‘lib, nuqtaga bir xil fazada kelsa, natijaviy amplituda nimaga teng bo‘ladi?
+ ==== 
+#6A       
+==== 
+5A        
+==== 
+3A        
+====  
+A
++++++
+Materiya necha xil ko‘rinishda bo‘ladi?
+==== 
+1 ta, modda       
+==== 
+1 ta, maydon      
+==== 
+#2 ta, modda va maydon
+==== 
+3 ta, madda va maydon, suyuqlik 
++++++
+Idishdagi gaz aralashmasining umumiy bosimi-aralashmani xosil qilgan gazlar xususiy bosimlarining algebraik yig’indisiga teng. Bu qaysi olimga tegishli bo’lgan qonun?
+ ==== 
+#Dalton qonuni                
+==== 
+Paskal qonuni
+==== 
+Avagadro qonuni     
+==== 
+Sharl qonuni
++++++
+Elektrostatik maydonning potensiali 30 V bo‘lgan nuqtasiga kiritilgan zarraga maydon tomonidan 120 J potensial energiya ta’sir qilsa, zarraning elektr zaryadini aniqlang.
+==== 
+25 C
+==== 
+5 C
+==== 
+9 C
+==== 
+#4 C
++++++ 
+ Nuqta x o`qi bo`ylab x=0,07cос(8πт+π), m qonun bo`yicha tebranmoqda. Tebranishning chastotasini  toping.(Hz)
+==== 
+# 4 ;       
+==== 
+6π ;        
+==== 
+6;            
+==== 
+1;
++++++
+Agar qora jismning termodinamik temperaturasini ikki marta kamaytirilsa, uning energetik yoritilganligi o‘zgaradi? Energetik yoritilganlik temperaturaning to’rtincha darajasiga praportsional. 
+==== 
+5 marta kamayadi;
+==== 
+18 marta kamayadi;
+==== 
+21 marta kamayadi;
+ ====
+#16 marta kamayadi;
++++++
+Stefan-Bolsman doimiysini aniqlang.
+==== 
+2,9 10<sup>-3</sup>  m K;
+==== 
+#5,7 10<sup>-8</sup>  Vt/m<sup>2</sup> K<sup>4</sup>  
+==== 
+6,63 10<sup>-34</sup>  J s;
+==== 
+6,02 10<sup>23</sup>  mol<sup>-7</sup>  
++++++
+Plank doimiysini aniqlang.
+==== 
+2,9 10<sup>-3</sup>  m K;
+==== 
+5,7 10<sup>-8</sup>  Vt/m<sup>2</sup> K<sup>4</sup>  
+==== 
+#6,63 10<sup>-34</sup>  J s;
+==== 
+6,02 10<sup>23</sup>  mol<sup>-7</sup>  
++++++
+Tebranish konturining tebranish davri qanday parametrlarga bog’liq? 
+==== 
+Mayatnik uzunligi va erkin tushish tezlanishiga 
+==== 
+Yukning massasi va prujina bikrligiga 
+==== 
+Inersiya momenti, mayatnik massasi, erkin tushish tezlanishi, burilish nuqtasi va massa markazi orasidagi masofaga             
+==== 
+#Kondensator sig’imi va g’altakning induktivligiga 
++++++
+Uch va ko‘p atomli gaz molekulalarining erkinlik darajasi nechaga teng?
+==== 
+3
+==== 
+5
+==== 
+#6
+==== 
+7
++++++
+To`lqinning tarqalish yo`nalishidagi chiziqda joylashgan ikki nuqtalar tebranishlarining fazalar farqi 2π ga teng. Agar nuqtalar orasidagi masofa 4 m ga teng bo`lsa, to`lqin uzunligi qanday (m) bo`ladi?
+==== 
+1       
+==== 
+2        
+==== 
+#4          
+==== 
+6
++++++
+Nuqta x o’qi bo’ylab х=0,016cos(3πt+π), m qonun bo’yicha tebranmoqda. Tebranishning amplitudasini (mm) toping.
+==== 
+3       
+==== 
+#16        
+==== 
+10           
+==== 
+21
++++++
+Massasi 5 kg bo‘lgan jismga 3,2 m/s<sup>2</sup> tezlanish bera oladigan kuch, 2 kg massali jismga qanday tezlanish (m/s<sup>2</sup>) beradi?
+==== 
+#8
+==== 
+7
+==== 
+5 
+==== 
+11
++++++
+Tebranish konturida elektr tebranishlari q = 10<sup>-8</sup>cos8000t (C) tenglama bilan berilgan. Zanjirdagi tokning amplitudasi nimaga teng
+====
+#8*10<sup>-5</sup>А;
+====
+18 А;
+====
+15 10<sup>-2</sup> А;
+====
+14 t А.
++++++
+Tovush manbaidan to’lqin uzunligi 4 m bo’lgan to’lqinlar tarqalmoqda. х<sub>1</sub>=2 m va х<sub>2</sub>=6 m koordinatali nuqtalarning tebranishlar fazalar farqi nimaga teng? 
+======
+π;
+======
+3π;
+======
+1,5π;
+======
+#2π.
++++++
+Fizik mayatnikning tebranish davri qanday parametrlarga bog’liq? 
+==== 
+Mayatnik uzunligi va erkin tushish tezlanishiga 
+==== 
+Yukning massasi va prujina bikrligiga 
+==== 
+#Inersiya momenti, mayatnik massasi, erkin tushish tezlanishi, burilish nuqtasi va massa markazi orasidagi masofaga             
+==== 
+Kondensator sig’imi va g’altakning induktivligiga 
++++++
+To`lqinning tarqalish yo`nalishidagi chiziqda joylashgan ikki nuqtalar tebranishlarining fazalar farqi π ga teng. Agar nuqtalar orasidagi masofa 6 m ga teng bo`lsa, to`lqin uzunligi qanday (m) bo`ladi?
+====
+1;       
+====
+#12;        
+==== 
+14;          
+==== 
+6.
++++++
+Chap qo‘limizni shunday joylashtirish kerakki, bunda B induktsiya chiziqlari kaftimizga kirsin, to‘rtala ochilgan barmoq tok yo‘nalishiga mos kelsa, 900 ga ochilgan bosh barmoq …… yo‘nalishini ko‘rsatadi. Nimani yo’nalishini ifodalaydi?
+====
+#Amper kuchini          
+====
+Lorents kuchini       
+====
+Nyuton kuchini         
+====
+tok kuchini
++++++
+20 g/sm<sup>3</sup> necha kg/m<sup>3</sup> ga teng.
+======
+1550
+======
+1950
+======
+2125
+======
+#20000
++++++
+Tebranish manbaidan 17,5 m vaa 1,5 m uzoqlikda joylashgan nuqtalar tebranishlarining fazalar farqini aniqlang. Tebranish davri 2 s, to’lqinning tarqalish tezligi esa 4 m/s.
+====
+3π/2;       
+==== 
+0;       
+==== 
+#4π;           
+==== 
+5.
++++++
+Normal sharoitda og‘zi berk idish bir xil massali vodorod, azot va kislorod  gazlari bilan to‘ldirilgan. Bular orasida qaysi gazning parsial bosimi eng kichik?
+====
+Vodorod      
+====
+#Kislorod         
+====
+Azot
+====
+Javob idishning hajmiga bog‘liq
++++++
+Qanday tebranishlar garmonik tebranishlar deyiladi?
+==== 
+Har qanday davriy takrorlanuvchi tebranishlar garmonik tebranishlar deyiladi 
+==== 
+Sinus qonuni bo’yicha o’zgaruvchi tebranishlar garmonik tebranishlar deyiladi;
+==== 
+Kosinus qonuni bo’yicha o’zgaruvchi tebranishlar garmonik tebranishlar deyiladi;
+==== 
+#Sinus yoki kosinus qonuni bo’yicha o’zgaruvchi tebranishlar garmonik tebranishlar deyiladi.
++++++
+Garmonik tebranish muvozanat vaziyatidan boshlansa u qaysi qonuniyat bo’yicha tebranadi?
+==== 
+Har qanday 
+==== 
+#Sinus qonuni bo’yicha o’zgaruvchi;     
+==== 
+Kosinus qonuni bo’yicha;         
+==== 
+Sinus yoki kosinus qonuni bo’yicha;    
++++++
+Garmonik tebranish eng chetgi vaziyatidan boshlansa u qaysi qonuniyat bo’yicha tebranadi?
+==== 
+Har qanday 
+==== 
+Sinus qonuni bo’yicha o’zgaruvchi;     
+==== 
+#Kosinus qonuni bo’yicha;         
+==== 
+Sinus yoki kosinus qonuni bo’yicha;   
++++++
+Tebranish davri nima?
+==== 
+#Bir marta to’liq tebranish uchun ketgan vaqt
+==== 
+Birlik vaqt ichida tebranishlar soni
+==== 
+Tinimsiz oldinga harakatga
+==== 
+Tebranishning aylanma harakatiga
++++++
+ Tebranish chastotasi nima?
+==== 
+Bir marta to’liq tebranish uchun ketgan vaqt
+==== 
+#Birlik vaqt ichida tebranishlar soni
+==== 
+Tinimsiz oldinga harakatga
+==== 
+Tebranishning aylanma harakatiga
++++++
+Nuqta x o’qi bo’ylab х=0,1cos(20t+π), m qonun bo’yicha tebranmoqda. Tebranishning maksimal tezlanishini toping.
+====
+#40;       
+==== 
+38;        
+==== 
+37;            
+==== 
+15;
++++++
+Nuqta x o’qi bo’ylab х=0,24cos(16πt+π), m qonun bo’yicha tebranmoqda. Tebranish amplitudasini (sm) toping. 
+==== 
+21
+==== 
+22
+==== 
+23
+==== 
+#24
++++++
+170 Hz da ishlovchi tovish manbaidan koordinatalar farqi 25 sm bo’lgan nuqtaning tebranish fazalar farqi nimaga teng? Tovushning xavoda tarqalish tezligi 340 m/s. 
+==== 
+𝜋/6
+==== 
+𝜋/5
+==== 
+#𝜋/4
+==== 
+𝜋/3
++++++
+Bir xil massali kislorod va vodorod o’zgarmas xajmda bir xil temperaturalar farqiga qizdrildi. Gazlarning qaysi biri kattaroq ish bajaradi?  
+====
+Vodorod.        
+====
+Bajarilgan ishlar bir xil.      
+====
+Kislorod              
+====
+#Ish bajarilmaydi
++++++
+Prujinali mayatnikning tebranish davri qanday parametrlarga bog’liq? 
+==== 
+Mayatnik uzunligi va erkin tushish tezlanishiga 
+==== 
+#Yukning massasi va prujina bikrligiga 
+==== 
+Inersiya momenti, mayatnik massasi, erkin tushish tezlanishi, burilish nuqtasi va massa markazi orasidagi masofaga             
+==== 
+Kondensator sig’imi va g’altakning induktivligiga 
++++++
+Matematik mayatnikning tebranish davri qanday parametrlarga bog’liq? 
+==== 
+#Mayatnik uzunligi va erkin tushish tezlanishiga 
+==== 
+Yukning massasi va prujina bikrligiga 
+==== 
+Inersiya momenti, mayatnik massasi, erkin tushish tezlanishi, burilish nuqtasi va massa markazi orasidagi masofaga             
+==== 
+Kondensator sig’imi va g’altakning induktivligiga 
++++++
+Kuchlanganligi 2·10<sup>2</sup> N/C bo‘lgan elektr maydoniga 4·10 <sup>-7 </sup>C zaryad kiritildi. Zaryadga qanday kuch ta’sir etadi?
+======
+#8·10<sup> -5</sup> N -:
+======
+3·10<sup> -5</sup> C
+======
+5·10 <sup>-5</sup> N
+======
+70
++++++
+Interferensiya xosil bo’lish sharti qanday?
+==== 
+#To’lqinlar kogerent bo’lishi        
+==== 
+To’lqinlar har xil bo’lishi  
+==== 
+Fazalar farqi o’zgaruvchan 
+==== 
+Teng chastotali                 
++++++
+Erkin tebranishlar deb qanday tebranishlarga aytiladi? 
+==== 
+#Agar, jism dastlab olgan energiya xisobiga tebranib, tizimga tashqi ta’sir bo`lmagan xolda, davom etadigan tebranishlar;                      
+==== 
+Agar, tebranishlar davriy ravishda o`zgaruvchi tashqi kuch ta’sirida amalga oshirilsa;
+==== 
+Agar, tebranayotgan fizikaviy kattalik sinus (yoki kosinus) qonuni bo`yicha o`zgarsa;
+==== 
+Agar, tebranishlar vaqt o`tishi bilan so`nuvchan bo`lsa.
++++++
+Agar kondensatorning sig`imi 16 marta orttirilsa, tebranish konturida erkin tebranishlar davri qanday o`zgaradi?      
+==== 
+#4 marta ortadi;             
+==== 
+5 marta kamayadi;
+==== 
+7 marta ortadi;              
+==== 
+9 marta kamayadi..
++++++
+Agar kondensatorning sig`imi 64 marta kamaytirilsa, tebranish konturida erkin tebranishlar davri qanday o`zgaradi?
+==== 
+9 marta ortadi;             
+==== 
+7 marta kamayadi;
+==== 
+5 marta ortadi;              
+==== 
+#8 marta kamayadi
++++++
+Agar elektromagnit to’lqinning birinchi va to’rtinchi do’ngliklari orasidagi masofa 24 m bo’lsa, to’lqin uzunligini aniqlang.   
+==== 
+6 m;             
+==== 
+14 m;        
+==== 
+#8 m;          
+==== 
+13 m;        
++++++
+CVCh generetori 3 m to’lqin uzunlikdagi tebranishlar xosil qilayotgan bo’lsa, u qanday chastotsda ishlaydi? 
+==== 
+#100 МHz;         
+==== 
+150 МHz;          
+==== 
+170 МHz;           
+==== 
+190 МHz.
++++++
+Tebranish konturida elektr tebranishlari q =8 *10<sup>-4</sup>cos100t(C) tenglama bilan berilgan. Kondensatordagi zaryadning maxsimal qiymatini nimaga teng?
+====
+3 10<sup>-2</sup> C
+====
+5 10 C;                                
+====
+#8 10<sup>-4</sup> C;                                
+====
+15 C.
++++++
+Tebranish konturida elektr tebranishlari q =8 *10<sup>-4</sup>cos100t(C) tenglama bilan berilgan. Tebranishning siklik chaastotasi nimaga teng? (birliklar XBS da)
+=== 
+75                               
+==== 
+25
+====
+10<sup>-4</sup>                                    
+====
+#100                    
++++++
+Tebranish konturida elektr tebranishlari q =8 *10<sup>-4</sup>cos88𝜋t(C) tenglama bilan berilgan. Tebranishning chastotasi nimaga teng? (birliklar XBS da)
+==== 
+34                                
+==== 
+21𝜋     
+====
+42𝜋t                                           
+====
+#44                       
++++++
+Agar elektromagnit to`lqinning bo`shliqdagi tebranish davri 12 10<sup>-12 </sup>s bo`lsa, uning to`lqin uzunligini toping.
+T=12*10<sup>-12 </sup> s                  
+====
+13 mm;
+====
+14*10<sup>-12 </sup> m;         
+====
+18*10<sup>-4</sup>   m;
+====
+#36*10<sup>-4 </sup>   m.
++++++
+Agar elektromagnit to`lqinning bo`shliqdagi tebranish chastotasi 37,5 MHz bo`lsa, uning to`lqin uzunligini toping.
+====
+58 mm;
+====
+12,5*10<sup>-8 </sup> m;         
+====
+#8 m;         
+====
+13  m.      
++++++
+Agar argon gazining harorati 37 <sup>0</sup> C bo‘lsa, argon atomining o‘rtacha kinetik energiyasi (≈…J) nimaga teng bo‘ladi?
+======
+6·10<sup>-12</sup> J
+======
+0,6·10<sup>-3</sup> J
+======
+#6,4·10<sup>-21</sup> J
+======
+6·10<sup>3</sup> J   
++++++
+Agar 0,5 m oraliqda 2 10<sup>6 </sup>dona to’lqin uzunligi joylashgan bo’lsa, monoxramatik nurning chastotasini aniqlang.        
+====   
+ #12*10<sup>14</sup> Hz;
+====
+7*10<sup>14</sup> Hz;
+====
+ 10<sup>2 </sup>Hz;
+====
+ 10<sup>12 </sup>Hz.
++++++
+Agar 1 m oraliqda 8*10<sup>6</sup>dona to’lqin uzunligi joylashgan bo’lsa, monoxramatik nurning chastotasini aniqlang.        
+====   
+ #24*10<sup>14</sup> Hz;
+====
+7*10<sup>14</sup> Hz;
+====
+ 10<sup>2 </sup>Hz;
+====
+ 10<sup>12 </sup>Hz.
++++++
+O’zgaruvchan tok zanjirida kondensator zaryadi q = 44*10<sup>-4</sup>cos 20𝜋t (C) qonun bo’yicha o’zgarmoqda. Kuchlanishning maximal qiymati 220 V. Kondersatorning elektr sig’imi nimaga teng?
+====                          
+10 mkF;
+====
+15 mkF;
+====
+ #20 mkF;
+====
+25 mkF
++++++
+Agar g`altakning induktivligi 4 marta kamaytirilsa va kondensator sig’imi 64 marta orttirilsa, tebranish konturida erkin tebranishlar chastotasi qanday o`zgaradi?
+==== 
+o’zgarmaydi	
+==== 
+2 marta ortadi;      
+====  
+3 marta kamayadi
+==== 
+#4 marta kamayadi.	
++++++
+Agar g`altakning induktivligi 4 marta kamaytirilsa va kondensator sig’imi 64 marta orttirilsa, tebranish konturida erkin tebranishlar siklik chastotasi qanday o`zgaradi?
+==== 
+o’zgarmaydi	
+==== 
+2 marta ortadi;         
+====  
+3 marta kamayadi           
+==== 
+#4 marta kamayadi.	
++++++
+Agar g`altakning induktivligi 4 marta kamaytirilsa va kondensator sig’imi 64 marta orttirilsa, tebranish konturida erkin tebranishlar davri qanday o`zgaradi?
+==== 
+o’zgarmaydi	
+==== 
+2 marta ortadi;         
+====  
+3 marta kamayadi           
+==== 
+#4 marta ortadi.	
++++++
+Nisbiy magnit kirituvchanligi 1 dan ko’p barobar katta bo’lgan moddalar magnit xususiyatiga ko’ra qanday nomlanadi? 
+==== 
+demonlar   
+==== 
+#ferromagnit
+==== 
+paramagnet 
+==== 
+diamagnit     
++++++
+Nisbiy magnit kirituvchanligi 1 dan qisman katta bo’lgan moddalar magnit xususiyatiga ko’ra qanday nomlanadi? 
+==== 
+demonlar   
+==== 
+ferromagnit
+==== 
+#paramagnet 
+==== 
+diamagnit     
++++++
+Fotoelementga tushayotgan foton energiyasi 25 eV, fotoeffektniing qizil chegarasi 13 eV bo’lsa metaldan ajralgan elektronning kinetiK energiyasini (eV) toping.
+==== 
+#12             
+==== 
+15              
+==== 
+19             
+==== 
+17                
++++++
+Metaldan ajralgan elektronning kinetik energiyasini 23 eV, fotoeffektning qizil chegarasi 13 eV bo’lsa, fotoelementga tushayotgan foton energiyasini (eV) toping.
+==== 
+#36           
+==== 
+21                  
+==== 
+13
+==== 
+29
++++++
+25 eV necha Joulga teng?
+==== 
+2,5*10<sup>-19</sup>              
+==== 
+30*10<sup>-19</sup>             
+==== 
+#40*10<sup>-19</sup>          
+==== 
+35*10<sup>-19</sup> 
++++++
+Nisbiy magnit kirituvchanligi 1 dan kichik bo’lgan moddalar magnit xususiyatiga ko’ra qanday nomlanadi? 
+==== 
+demonlar   
+==== 
+ferromagnit
+==== 
+paramagnet 
+==== 
+#diamagnit     
++++++
+Burchakka tiralgan yoyning uzunligi 60 sm. Agar aylana radiusi 15 sm bo’lsa, yoy tiralgan burchak necha radianga teng?
+==== 
+#4              
+==== 
+5
+==== 
+6
+==== 
+7
++++++
+Ikki jism orasidagi masofani o‘zgartirmagan xolda birining massasini 3 marta, boshqasining massasini 4 marta orttirildi. Ular orasidagi gravitatsion kuch necha marta ortgan?
+==== 
+#12            
+==== 
+15       
+==== 
+19 
+==== 
+25
++++++
+Massasi 1,5 kg bo‘lgan moddiy nuqta 4 m radiusli aylana bo’ylab harakat qilmoqda Uning inersiya (kg*m<sup>2</sup>) momentini aniqlang.  
+==== 
+#24          
+==== 
+21         
+==== 
+0             
+==== 
+25
++++++
+Massasi 300 gr bo‘lgan metall sharcha yer sathidan 4 metr balandlikda qo‘zg’olmas qilib maxkamlansa, u qanday potensial energiyaga (J) erishadi? g=10 m/s<sup>2</sup> deb oling.   
+====
+#12      
+==== 
+15          
+==== 
+23        
+==== 
+19
++++++
+Nuqtaviy zaryaddan biror r masofada joylashgan nuqtaning elektr maydon kuchlanganligi 48 V/m ga teng. Agar zaryad va kuzatilayotgan nuqta nisbiy dielektrik singdiruvchanligi 3 ga teng bo‘lgan muhitga ko’chirilsa kuzatilayotgan nuqtadagi elektr maydon kuchlanganligi (V/m) qanday bo‘lib qoladi? 
+====  
+#16        
+==== 
+15
+==== 
+13
+==== 
+10
++++++
+Massasi 2 kg bo‘lgan brusok 6 m/s tezlik bilan to‘g’ri chiziqli tekis harakatlanganda qanday kinetik energiyaga (J) erishadi?
+==== 
+#36          
+==== 
+45          
+==== 
+26
+==== 
+15
++++++
+Muxitning magnit kirituvchanligi 0,8 va dielektrik singdiruvchanligi 5 ga teng bo’lsa, uning optik zichligi qanday?         
+==== 
+#2  
+==== 
+1,5          
+==== 
+1
+==== 
+0,5 
++++++
+Ikki nuqta orasidagi eng qisqa masofa qanday nomlanadi?
+==== 
+#radius vektor 
+==== 
+trayektoriya 
+==== 
+moddiy nuqta 
+==== 
+yo'l
++++++
+Metal o‘tkazgichdagi tok kuchi 6,4 mA. O‘tkazgichning ko‘ndalang kesim yuzasidan 1s da nechta elektron o‘tadi? Elektron zaryadi e=1,6•10<sup>-19</sup> Kl.
+======
+#4*10<sup>16</sup>
+======
+9,14*10<sup>23</sup>
+======
+6,25*10<sup>20</sup>
+======
+10<sup> 23</sup>
++++++
+10 sekundda 40 m/s tezlikka etishgan “Matiz” avtomobilining tezlanishi qancha?
+======
+2 m/s<sup>2</sup>
+======
+6 m/s<sup>2</sup>
+======
+#4 m/s<sup>2</sup>
+======
+10 m/s<sup>2</sup>
++++++
+Potensiallar farqi 1600 V bo‘lgan elektr maydonning ikki nuqtasi orasiga 5·10<sup>-6</sup>C zaryadni ko’chirishda bajarilgan ish qanchaga teng?
+======
+5 ·10<sup>9</sup>J
+======
+6 ·10<sup>2</sup>
+======
+#8 ·10<sup>-3</sup>J
+======
+7 J
++++++
+Bug’lanishga teskari jarayon qaysi javobda berilgan 
+====
+rekombinatsiya
+ ====
+#kondensatsiya
+ ====
+korroziya
+ ====
+sublimatsiya
++++++
+Tebranish konturi g‘altak va xar birining sig‘imi C bo‘lgan 4 ta ketma-ket ulangan kondensatorlardan iborat. Agar kondensatorlar o‘zaro parallel ulansa konturdagi erkin elektromagnit tebranishlarining chastotasi qanday o‘zgaradi?
+==== 
+2 marta ortadi;  
+ ==== 
+2 marta kamayadi;      
+==== 
+3 marta ortadi;        
+==== 
+#4 marta kamayadi
++++++
+Tebranish konturi g‘altak va xar birining sig‘imi C bo‘lgan 2 ta ketma-ket ulangan kondensatorlardan iborat. Agar kondensatorlar o‘zaro parallel ulansa konturdagi erkin elektromagnit tebranishlarining davri qanday o‘zgaradi?
+==== 
+# 2 marta ortadi;      
+==== 
+3 marta kamayadi;   
+==== 
+5 marta ortadi;        
+==== 
+7 marta kamayadi.
++++++
+Tebranish konturidagi kondensator sig‘imi C= 5 mkF, konturdagi tebranishlarning siklik chastotasi esa 500 rad/s bo‘lsa, konturdagi g‘altakning induktivligi (Gn) qanchaga teng?
+==== 
+25;
+==== 
+1,5;       
+==== 
+1; 
+==== 
+# 0,8.
++++++
+Jismlarning harakat qonunlarini harakatni yuzaga keltiruvchi sabablarisiz o’rganadigan bo’limi nomini ko’rsating. 
+==== 
+Dinamika;  
+ ==== 
+#Kinematika.        
+==== 
+Statika;         
+==== 
+Klassik mexanika;
++++++
+Moddaning qattiq xolatdan to’g’ridan-to’g’ri gaz xolatga o’tishi ……. deyiladi. Nuqtalar o’rnini to’g’ri to’latuvchi mazmunda to’ldiring.
+==== 
+Erish;       
+ ==== 
+#Sublimatsiya.        
+==== 
+Bug’lanish;      
+==== 
+Qaynash;
++++++
+Suyuqlik sirtidan molekulalarning uchib chiqishi …. deyiladi. Nuqtalar o‘rnini to‘g’ri mazmunda to‘ldiring. 
+==== 
+Erish;       
+==== 
+Qaynash;       
+==== 
+Sublimatsiya;       
+==== 
+#Bug’lanish.
++++++
+Jism va sirt orasidagi ishqalanish koefitsenti quyidagilarning qay biriga bog’liq emas?
+==== 
+Sirtning g’adir-budurligiga;
+==== 
+Material turiga;
+==== 
+#Jismning massasiga.
+==== 
+Sirt molekulalarining o’zaro ta’siriga;
++++++
+Tebranish konturidagi kondensator qoplamalari orasidagi masofani 2 marta kamaytirildi. Bunda tebranish chastotasi ...
+==== 
+3 marta ortadi;     
+==== 
+3 marta kamayadi;       
+====  
+marta ortadi;     
+==== 
+#√2 marta kamayadi
++++++
+0,1 m<sup>3 </sup> xajmli silindrik idish yuzi 0,01 m<sup>2</sup> bo‘lgan porshen bilan yopilgan. Gazning absolyut temperaturasi izobarik ravishda 5 marta pasaytirilganda porshen necha metr balandlikda bo‘ladi?
+======
+#2
+======
+2,5
+======
+3
+======
+1,5
++++++
+Yer sharini o‘rab turgan xavo qobig’ining Yerga va undagi jismlarga ko‘rsatadigan bosimi 1 mm. sim. ustuniga kamayishi uchun balandlikni (m) qanday o‘zgartirish kerak?
+==== 
+#12
+==== 
+5
+==== 
+25
+==== 
+11
++++++
+Magnit maydon kuch chiziqlariga perpendikulyar joylashtirilgan 2 m uzunlikdagi o‘tkazgichdan 0,25 A to‘k o’tganda unga maydon tomonidan 6 N kuch ta’sir qiladi. Bu maydonning induksiyasini (T) aniqlang. 
+==== 
+#12
+==== 
+6
+==== 
+15
+==== 
+9
++++++
+Yuzasi 20 sm<sup>2</sup> bo‘lgan sirtga 80 N kuch ta’sir qilsa, bu sirtga ko‘rsatilayotgan bosim (kPa) qanday?
+==== 
+#40
+==== 
+38
+==== 
+42
+==== 
+35
++++++
+Boshlang’ich tezligi 30 m/s bo‘lgan “Neksiya” avtomobili tekis sekinlanuvchan harakatlanib 1 minutda to’xtadi. Shu harakat davomida qancha yo‘l bosadi?
+======
+750 m
+======
+#900 m
+======
+1230 m
+======
+945 m
++++++
+Agar gal’vanometrdan 4,8 mkA tok o‘tayotgan bo‘lsa, undan 40 sekundda nechta elektron o‘tadi? e=1,6 •10<sup>-19</sup> Kl.
+======
+3 •10<sup>12</sup>
+======
+#12•10<sup>14</sup>
+======
+5•10<sup>12</sup>
+======
+11•10<sup>10</sup>
++++++
+Quyidagilar orasidan qay biri ortiqcha?
+==== 
+Kuch
+==== 
+Zaryad miqdori
+==== 
+Elektr kuchlanishi
+==== 
+#Kandela
++++++
+Charm va beton orasidagi ishqalanish koefitsenti 0,4 ga teng. Yuki bilan birgalikdagi massasi 2 tonna bo‘lgan atomobilning tormozlanish kuchini (kN) toping. g=10 m/s<sup>2</sup> deb xisoblansin.
+==== 
+5
+==== 
+#8
+====  
+11
+==== 
+7
++++++
+Tebranish konturida elektr tebranishlari q = 10<sup>-3</sup>cos400t tenglama bilan berilgan. Tokning amplitudaviy qiymati nimaga teng?
+====
+#0,4
+====
+15
+====
+10t ;
+====
+2,5
++++++
+Tebranish konturida kondensatordagi zaryadning boshlang`ich qiymati o`zgartirildi. Konturda vujudga keladigan elektr tebranishlarining qaysi xarakteristikalari o`zgarmasdan qoladi.
+==== 
+Tok kuchining tebranishlari amplitudasi;
+==== 
+Kondensatordagi kuchlanish amplitudasi;
+==== 
+#Tebranishlar davri; 
+==== 
+G`altak maydonining magnit induksiya amplitudasi;
++++++
+O‘tkazgichdan oqayotgan elektronlarning o‘rtacha kvadratik tezligi 330 m/s bo‘lsa, undagi tok qanday tezligini tezlikda harakatlanadi?
+==== 
+#300 Mm/s
+==== 
+135 m/s
+==== 
+546 m/s     
+==== 
+333 m/s
++++++
+Charm va peton orasidagi ishqalanish koefitsenti 0,4 ga teng. Yuki bilan birgalikdagi massasi 1,5 tonna bo‘lgan atomobilning tormozlanish tezlanishini (m/s<sup>2</sup>) toping. g=10 m/s<sup>2</sup> deb xisoblansin. 
+==== 
+5
+==== 
+#4
+==== 
+3 
+==== 
+1
++++++
+Tovush chastotasi 𝜈=200 Hs va xavodagi tezligi ʋ=340 m/s bo’lsa. Uning to’lqin uzunligini (m) toping.
+==== 
+140
+==== 
+170
+==== 
+#1,7
+==== 
+1/3
++++++
+Tovush chastotasi 𝜈=375 Hs va suvdagi tezligi ʋ=1500 m/s bo’lsa. Uning to’lqin uzunligini (m) toping.
+==== 
+ #4
+==== 
+2
+==== 
+1
+==== 
+5
++++++
+Nuqta x o’qi bo’ylab х=0,02cos(200πt+π), m qonun bo’yicha tebranmoqda. Tebrangichning maximal tezligini toping. Birliklar SI da
+==== 
+0,01π ;       
+==== 
+2π ;        
+====  
+π;          
+==== 
+#4𝜋
++++++
+Nuqta x o’qi bo’ylab х=0,03cos(400t+π), m qonun bo’yicha tebranmoqda. Tebrangichning maximal tezligini toping. Birliklar SI da
+==== 
+#12
+==== 
+6
+==== 
+5
+====
+18
++++++
+Nuqta x o’qi bo’ylab х=0,03cos(20t+π), m qonun bo’yicha tebranmoqda. Tebrangichning maximal tezlanishini toping. Birliklar SI da
+==== 
+#12
+==== 
+6
+==== 
+5
+====
+18
++++++
+Nuqta x o’qi bo’ylab х=0,16cos(15t+π), m qonun bo’yicha tebranmoqda. Tebrangichning maximal tezlanishini toping. Birliklar SI da
+==== 
+#36
+==== 
+18
+==== 
+22
+==== 
+37
++++++
+Nuqta x o’qi bo’ylab х=0,08cos(20t+π), m qonun bo’yicha tebranmoqda. Tebrangichning maximal tezlanishini toping. Birliklar SI da
+==== 
+13
+==== 
+17
+==== 
+#32
+==== 
+1,5
+++++
+Nuqtalar o’rniga kerakli so’zni qo’ying: “Jismning bir marta aylanishiga ketgan vaqt ................ deyiladi.
+==== 
+aylanish tezligi
+==== 
+aylanish chastotasi
+====
+#aylanish davri
+==== 
+tezlik
++++++
+Kuch yelkasi deb nimaga aytiladi.
+==== 
+#Aylanish o'qida kuch qo'yilgan nuqtagacha bo'lgan eng qisqa masofaga.
+==== 
+Qo'zg'aluvchi afrosida aylana oladigan qattiq jimga.
+==== 
+To'g'ri javob yo'q.
+==== 
+jismlarning o’z holatini saqlashga intilishidir
++++++
+O’zgarmas tashqi bosimda qaynash boshlanib, qaynash tamom bo’lguncha , suvning harorati qanday o’zgaradi ?
+====
+ortadi 
+====
+kamayadi
+ ====
+avval pasayadi , so’ngra ortadi  
+====
+#o’zgarmaydi
++++++
+Temperatura deb nimaga aytiladi?
+==== 
+moddaning ichki energiyasi
+==== 
+moddaning kimyoviy xossalarinio o’zida saqlab qoluvchi shu moddaning eng kichik zarrasi
+==== 
+#moddaning issiqlik holatini miqdor jihatidan aniqlaydigan fizik kattalikdir
+==== 
+kimyoviy parchalanish reaksiyasi
++++++
