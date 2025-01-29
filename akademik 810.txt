@@ -1,1738 +1,839 @@
+Кафедра «Программный инжиниринг»
+Тесты итоговой контрольной по предмету “Программирование”
+n=8 найдите результат программы:
+    int n, s = 0;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    for (int i = 0; i &lt;= n; i = i + 2)
+    s += i;
+    cout &lt;&lt; s &lt;&lt; endl;
+====
 
-Massiv bu … 
-====
-#Bir toifali chekli qiymatlarning tartiblangan to’plami
-====
-Bir toifali cheksiz qiymatlarning tartiblangan to’plami
-====
-Turli toifali cheksiz qiymatlarning tartiblangan to’plami
-====
-Turli toifali chekli qiymatlarning tartiblangan to’plami
-
-+++++
-
-Oqimni tozalash uchun qaysi funksiyadan foydalanamiz ?
-====
-#trunc 
-====
-ate 
-====
-out 
-====
-binary
-
-+++++
-
-Quyidagi funksiya prototipi qanday mantiqiy natija qaytaradi isalpha('2') 
-====
-#FALSE
-====
-TRUE 
-====
-‘2’ 
-====
-2
-
-+++++
-
-ios :: app nima ahamiyatga ega ?
-====
-#Faylga ma'lumotlarni davomidan ulab qo`shib ketadi
-====
-Dastur ma'lumotlarini yangilab ketadi
-====
-Dasturda ma'lumotni faylga qo`shib ketadi
-====
-Buning hech qanday ahamiyati mavjud emas
-
-+++++
-
-Variant tanlash operatori qaysi ?
-====
-#switch
-====
-if
-====
-else
-====
-for
-
-+++++
-
-Mantiqiy amallarda & belgisini vazifasi nima
-====
-#ko’paytirish
-====
-qo’shish
-====
-ayirish
-====
-bo’lish
-
-+++++
-
-Funfsiyaga murojat qilinganda xotiradan joy ajratiladigan va funksiya tugaganida ajratilgan joy bo’shatiladigan paramet qaysi?
-====
-#qiymat parametri
-====
-ko’rsatkich parametri
-====
-barcha funksiya parametrlari
-====
-bunday parametr yo’q
-
-+++++
-
-Nomlar fazosi -bu, qanday identifikatorlarni aniqlovchi soha sanaladi?
-====
-#barchasi
-====
-ma’lumot tiplari nomi
-====
-funksiyalar
-====
-o’zgaruvchilar
-
-+++++
-
-O’zgaruvchi psevdonimi nima deb ataladi ?
-====
-#Xavola 
-====
-O’zgarmas
-====
-Rekursiya
-====
-Kursatkich
-
-+++++
-
-Ochilgan faylni yopish chun qaysi fayl ishlatiladi ?
-====
-#fclose
-====
-fopen
-====
-fleft
-====
-fright
-
-+++++
-
-Parametrli sikl operatoridan tog'ri foydalanilgan javobni ko'rsating.
-====
-#for (int i=0; i&lt;=n; i++)
-====
-for (int i=0, i&lt;=n, i++,)
-====
-for (int i=0, i&lt;=n; i++)
-====
-for (int i=0; i&lt;=n; i++ ;)
-
-+++++
-
-Qaysi funksiyada 100 marta murojat bo’lsa jami 100 lokal obyektlarning majmusi uchun joy ajratiladi?
-====
-#rekursiv
-====
-double
-====
-return
-====
-main
-
-+++++
-
-Qaysi sinf o’zgaruvchisi hotirada manzilga ega bo’lmaydi ?
-====
-#registr
-====
-extern
-====
-auto
-====
-statik
-
-+++++
-
-Qaysi xizmatchi so’zlardan identifikator sifatida foydalanib bo’lmaydi?
-====
-#barchasidan
-====
-float
-====
-for
-====
-while
-
-+++++
-
-Hisoblash mashinasiga algoritmni beruvchi ko`rsatmalar (buyruqlar)ning ketma-ketligi nima deyladi? 
-====
-#Dastur 
-====
-Amal
-====
-Operator
-====
-Ifoda 
-
-+++++
-
-Bo’lishdagi (butun) qoldiqni aniqlash operatori (%) qaysi arifmetik amalga kiradi? 
-====
-#Binar 
-====
-Unar
-====
-Oddiy 
-====
-Murakkab
-
-+++++
-
-Har xil obeyktlarni ifodalovchi baytlar ketma ketligi qanday fayl deb ataladi
-====
-#binar fayl
-====
-unar fayl
-====
-mantiqiy
-====
-fizik fayl
-
-+++++
-
-Kvadrat massiv deb qanday massivlarga aytiladi?
-====
-#ustunlar va satrlar soni teng bo’lgan massivga
-====
-faqat bir xil elementdan tashkil topgan massivga
-====
-ustunlar soni satrlar sonidan ko’p bo’lgan massivga
-====
-satrlar soni ustunlar sonidan ko’p bo;lgan massivga
-
-+++++
-
-Massivlarning qanday turlari mavjud?
-====
-#dinamik va static massivlar
-====
-statik massivlar 
-====
-dinamik massivlar 
-====
-konsterativ massivlar
-
-+++++
-
- Length() funksiyasining vazifasini aniqlang
-====
-#String tipidagi satr uzunligini aniqlaydi.
-====
-Char tipidagi satr uzunligini aniqlaydi.
-====
-Bunday funksiya mavjud emas.
-====
-Satr uzunligini aniqlaydi
-
-+++++
-
- Empty() funksiyasinig vazifasi
-====
-#Satrni bo’shligini tekshirib, mantiqiy qiymat qaytaradi
-====
-Satrni bo’shligini tekshirib, bo’sh bo’lsa 0 qiymat qaytaradi
-====
-Satrni bo’shligini tekshirib, bo’sh bo’lsa qiymat qaytarmaydi
-====
-Satrni bo’shligini tekshirib, bo’sh bo’lmasa o’chiradi
-
-+++++
-
-int tolower(int c); funksiya prototipining tasnifini toping
-====
-#Agar c katta harf bo’lsa kichik harf qaytaradi, aks holda funksiya argumentini qaytaradi.
-====
-Agar c kichik harf bo’lsa kichik harf qaytaradi, aks holda funksiya argumentini qaytaradi.
-====
-Agar c harf yoki raqam bo’lsa true aks xolda false qiymat qaytaradi.
-====
-Agar c kichik harf bo’lsa true aks xolda false qiymat qaytaradi.
-
-+++++
-
-eof( ) metodi (uslub) faylni oxiriga bormagan bo’lsa, qanday qiymat qabul qiladi?
-====
-#false
-====
-true
-====
-trunc
-====
-ate
-
-+++++
-
-int toupper(int c); funksiya prototipining tasnifini toping
-====
-#Agar c kichik harf bo’lsa katta harf qaytaradi, aks holda funksiya argumentini qaytaradi.
-====
-Agar c katta harf bo’lsa kichik harf qaytaradi, aks holda funksiya argumentini qaytaradi.
-====
-Agar c harf yoki raqam bo’lsa true aks xolda false qiymat qaytaradi
-====
-Agar c kichik harf bo’lsa true aks xolda false qiymat qaytaradi.
-
-+++++
-
-char a; cin&gt;&gt;a; kiritiladigan ma’lumot necha baytni tashkil etadi.
-====
-#1
-====
-8
+#
+20
+====
+10
+====
+21
+====
+19
+++++
+n=9 найдите результат программы:
+    int n, s = 0;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    for (int i = 0; i &lt;= n; i++)
+    if (i % 2==1)
+        s += i;
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+25
+====
+35
+====
+15
+====
+26
+++++
+n=10 найдите результат программы:
+    int n, s = 0;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    for (int i = 1; i &lt;= n; i++)
+    if (n % i == 0)
+        s += i;
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+18
 ====
 16
 ====
-0,5
-
-+++++
-
-char[50]="qator"; Satr oxiri qanday belgi bilan yakunlanadi
+17
 ====
-#“\0” 
+19
+++++
+n=15 найдите результат программы:
+    int n, s = 0;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    for (int i = 1; i &lt;= n; i++)
+    if (n % i == 0)
+        s += 1;
+    cout &lt;&lt; s &lt;&lt; endl;
 ====
-probel bilan
+#
+4
 ====
-“;”
+6
 ====
-“r”
-
-+++++
-
-Matnli fayllarda ma'lumot qayerga saqlanadi
-====
-#satrlarda
-====
-tashqi xotiraga
-====
-ichki xotiraga
-====
-xotiraga
-
-+++++
-
-int a; a o’zgaruvchini amallar ichida double tipida ishlatilib beruvchi amal.
-====
-#(double)a
-====
-double(int_a)
-====
-int(double a)
-====
-double(int.a)
-
-+++++
-
-Ko’rsatkich bu - … 
-====
-#kompyuter xotirasi yacheykasining adresi yozilgan o’zgaruvchidir
-====
-qiymatsiz o’zgaruvchi 
-====
-tip
-====
-dasturda mavjud emas
-
-+++++
-
-Ma’lumotlarni saqlab qo’yish uchun, tashqi xotiraning nomlangan qismiga… . Deyiladi
-====
-#fayl
-====
-xotira
-====
-ism
-====
-belgi
-
-+++++
-
-Harf bilan boshlanuvchi, raqam va "_" belgisining ixtiyoriy ketma-ketligi nima deyiladi? 
-====
-#Identifikator
-====
-O’zgarmas 
-====
-Dastur 
-====
-Oeprator 
-
-+++++
-
-Asosan bir nechta qiymatdan, o'zgaruvchiga mos qiymatni tanlashda va qiymatlarga mos ravishda boshqarishni uzatishda ishlatiluvchi operator qaysi?
-====
-#Tanlash operatori
-====
-Sikl operatori
-====
-O’tish operatori 
-====
-Shart operatori
-
-+++++
-
-Quyidagi funksiya prototipi qanday mantiqiy natija qaytaradi isdigit(‘D’) 
-====
-#FALSE 
-====
-TRUE
-====
-‘D’
-====
-d
-
-+++++
-
-Quyidagi funksiya prototipi qanday mantiqiy natija qaytaradi isalnum(‘F’) 
-====
-#TRUE
-====
-FALSE
-====
-‘F’
-====
-f
-
-+++++
-
-C++ tilidagi sharti keyin berilgan takrorlash operatorini ko’rsating 
-====
-#do .. while
-====
-while 
-====
-goto 
-====
-for
-
-+++++
-
-Biror maqsadga erishishga yoki qandaydir masalani yechishga qaratilgan buyruqlarning aniq, tushunarli, chekli hamda to’liq tizimi nima deyiladi?
-====
-#algoritm 
-====
-ifoda
-====
-dastur
-====
-amal 
-
-+++++
-
-Quyidagi funksiya prototipi qanday mantiqiy natija qaytaradi isupper(‘D’) 
-====
-#TRUE
-====
-FALSE
-====
-D
-====
-‘D’
-
-+++++
-
-Mantiqiy tipli o’zgaruvchilar nechi xil qiymat qabul qiladi? 
-====
-#2
-====
-1
+5
 ====
 3
-====
-umuman qiymat qabul qilmaydi
-
-+++++
-
-Аrifmetik аmаllаrdа ishtirok etаyotgаn qiymаtlаr nimа deyilаdi?
-====
-#Operand 
-====
-Qiymat
-====
-Amal 
-====
-Operator
-
-+++++
-
-Quyidagi funksiya prototipi qanday mantiqiy natija qaytaradi isalnum('/'); 
-====
-#FALSE 
-====
-TRUE
-====
-‘/’
-====
-/
-
-+++++
-
-Tanlash operatorida birorta ham qiymat o`zgaruvchiga to`g`ri kelmasa qaysi operator ishlatiladi?
-====
-#Default
-====
-Conntinue
-====
-Break
-====
-Case 
-
-+++++
-
-Faylga ma’lumotni fayl oxiriga yozish uchun io: xizmatchi so’zidan so’ng qaysi spetsifikator yoziladi?
-====
-#app
-====
-in
-====
-out
-====
-ate
-
-+++++
-
-Fayl ochilganda kursor ko’rsatkichini fayl oxiriga ko’chirish uchun io: xizmatchi so’zidan so’ng qaysi spetsifikator yoziladi?
-====
-#ate
-====
-app
-====
-in
-====
-out
-
-+++++
-
-Fayl ochilganda fayl tarkibini tozalash uchun io: xizmatchi so’zidan so’ng qaysi spetsifikator yoziladi?
-====
-#trunc
-====
-ate
-====
-app
-====
-in
-
-+++++
-
-Qaysi metod (uslub) ochilgan faylni yopish uchun xizmat qiladi?
-====
-#close()
-====
-eof( )
-====
-trunc
-====
-ate
-
-+++++
-
-Fayllarni o’qishda faylni oxirini aniqlash uchun qaysi metod (uslub) dan foydalaniladi?
-====
-#eof( )
-====
-close()
-====
-exit
-====
-ate
-
-+++++
-
-eof( ) metodi (uslub) faylni oxiriga borgan bo’lsa, qanday qiymat qabul qiladi?
-====
-#true
-====
-false
-====
-trunc
-====
-ate
-
-+++++
-
-Katta va kichik harflardan, ostki chiziq bilan boshlanadigan ketma ketlik …. deyiladi.
-====
-#identifikator
-====
-xizmatchi so'z
-====
-massiv
-====
-funksiya
-
-+++++
-
-Ma'lumotlarni saqlab qo’yish uchun hotiraning nomlangan qismi nima deyiladi
-====
-#fayl
-====
-unar fayl
-====
-fizik fayl
-====
-hotira
-
-+++++
-
-&lt;index&gt; -bu? 
-====
-#massiv xadining joylashgan o’rnini anglatuvchi taktik qiymat
-====
-massivlar qitymati xadining matematik qiymati
-====
-o’zgaruvchiga yozilgan tartib xadi 
-====
-chekli qiymatlarning tartiblangan to’plamidir
-
-+++++
-
-Aniq o’lchamda formatlab chiqarish operatori bu... 
-====
-#fixed
-====
-showpoint
-====
-scientifi
-====
-internal
-
-+++++
-
-Belgili tipni qabul qiluvchi o’zgaruvchilarni e’lon qilish uchun qaysi xizmatchi so’zidan foydalanish mumkin?
-====
-#char
-====
-void
-====
-bool
-====
-int
-
-+++++
-
-Bevosita rekursiv funksiya nima ish bajaradi?
-====
-#o’ziga -o’zi murojat qiladi
-====
-o’zidan keyingisiga murojat qiladi
-====
-ish bajarmaydi
-====
-bir xil nomli boshqa funksiyaga murojat qiladi
-
-+++++
-
-Bir xil toifali, chekli qiymatlarning tartiblangan to’plamiga nima deb ataladi?
-====
-#massiv
-====
-oqim
-====
-funksiya
-====
-rekursiv funksiya 
-
-+++++
-
-Xotiradan to’rt bayt joy egallaydigan butun qiymatli o’zgaruvchini ko’rsating
-====
-#int a;
-====
-double a;
-====
-long long a;
-====
-long double a;
-
-+++++
-
-Ma’lum natijani olish uchun kompyuter va boshqa kompyuter qurilmalari faoliyati uchun mo`ljallangan jami ma’lumot va buyruqlarni taqdim etishning obyektiv shakli nima deyiladi?
-====
-#Dastur
-====
-Amal 
-====
-Ifoda 
-====
-Operator
-
-+++++
-
-Dаstur ishlаshi dаvomidа o’zgаrmаy qolаdigаn miqdordir nima deyiladi?
-====
-#O’zgarmas
-====
-Algoritm
-====
-Identifikator
-====
-O’zgaruvchi
-
-+++++
-
-Satrda joylashgan belgilar sonini aniqlash uchun qanday funksiyadan foydalaniladi?
-====
-#size ( )
-====
-sizeof ( )
-====
-getline ( )
-====
-cin.get( )
-
-+++++
-
-Massivni e’lon qilishda massiv indeksi qanday belgi ostida bo’ladi?
-====
-#[…] 
-====
-{…} 
-====
-(…) 
-====
-|….|
-
-+++++
-
-Parametrli sikl operatorini ko'rsating.
-====
-#for()
-====
-do{}while()
-====
-while()
-====
-if()
-
-+++++
-
-Shart operatori tarkibida qaysi operatordan foydalanish mumkun?
-====
-#ixtiyoriy
-====
-while
-====
-sikl
-====
-for
-
-+++++
-
-Shart operatorini necha xil ko’rinishi mavjud ?
-====
-#2
+++++
+n=5 найдите результат программы:
+    int n, s = 0;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    for (int i = 1; i &lt;= n; i++)
+    s *= i;
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+0
 ====
 1
+====
+10
+====
+-1
+++++
+n=6 найдите результат программы:
+    int n, s = 1;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    for (int i = 1; i &lt;= n; i++)
+    s *= i;
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+720
+====
+120
+====
+700
+====
+24
+++++
+n=12 найдите результат программы:
+    int n, s = 0;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    for (int i = 2; i &lt;= n; i++)
+    {
+        bool b = true;
+        for (int j = 2; j &lt; i; j++)
+          if (i % j == 0)
+          {
+              b = false;
+              break;
+          }
+        if ( b ) s += i;
+    }
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+28
+====
+15
+====
+27
+====
+30
+++++
+n=15 найдите результат программы:
+    int n, s = 0;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    for (int i = 1; i &lt;= n; i++)
+    {
+        int k = 0;
+        for (int j = 1; j &lt; i; j++)
+        if (i % j == 0) k++;
+        if ( k == 1 ) s += i;
+    }
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+41
+====
+40
+====
+42
+====
+51
+++++
+n=8 найдите результат программы:
+    int n, s = 1, i = 2;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    for (int k = 1; k &lt;= n; k++)
+    s *= i;
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+256
+====
+128
+====
+64
+====
+100
+++++
+n=3 найдите результат программы:
+    int n, s = 1, a;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    a = n;
+    for (int k = 1; k &lt;= n; k++)
+    s *= a;
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+27
+====
+9
+====
+81
+====
+30
+++++
+n=10 найдите результат программы:
+    int n, s = 0;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    for (int k = 1; k &lt;= n; k++)
+    {
+        if (k % 5 == 0)
+            continue;
+        s += k;
+    }
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+40
+====
+50
+====
+45
+====
+30
+++++
+n=8 найдите результат программы:
+    int s = 0, i, n;
+
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+
+    for (i = 1; i &lt;= n; i++)
+    if (i % 2)
+        s += i;
+    else
+        s += 2 * i;
+   cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+56
+====
+65
+====
+58
+====
+50
+++++
+n=10 найдите результат программы:
+    int s = 0, i, n;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    for (i = 1; i &lt;= n; i++)
+    if (i % 3 == 0)
+       s += 2 * i;
+   cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+36
+====
+30
+====
+26
+====
+20
+++++
+n=12 найдите результат программы:
+    int s = 0, i, n;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    for (i = 1; i &lt;= n; i++)
+    switch ( i % 5 )
+    {
+     case 0: s += i;
+         break;
+     default : s++;
+    }
+   cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+25
+====
+30
+====
+20
+====
+35
+++++
+n=10 найдите результат программы:
+    int s = 0, i, n;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    for (i = 1; i &lt;= n; i++)
+    switch ( i % 10 )
+    {
+     case 0:
+     case 2:
+     case 4:
+     case 6:
+     case 8: s += i;
+          break;
+     default : s++;
+    }
+   cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+35
+====
+30
+====
+36
+====
+40
+++++
+n=8 найдите результат программы:
+    int s = 0, i = 0, n;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    dastur_uz : i++;
+    s += i;
+    if (i != n)
+       goto dastur_uz;
+    else
+        s *= 2;
+   cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+72
+====
+60
+====
+70
+====
+64
+++++
+n=12 найдите результат программы:
+    int s = 0, i, k = 1, n;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    for (i = 1; i &lt;= n; i++)
+    s += k;
+    k += i;
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+12
+====
+6
+====
+10
+====
+14
+++++
+n=9 найдите результат программы:
+    int s = 0, i, k = 1, n;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    for (i = 1; i &lt;= n; i++)
+    k += i;
+    s += k;
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+46
+====
+45
+====
+40
+====
+47
+++++
+n=6 найдите результат программы:
+    int s = 0, i, k = 1, n;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    for (i = 1; i &lt;= n; i++)
+    {
+        k += i;
+        s += k;
+    }
+   cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+62
+====
+63
+====
+60
+====
+64
+++++
+n=8 найдите результат программы:
+    int s = 0, i, n;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    for (i = 1; i &lt;= n; i++)
+    if (i % 2 == 0)
+        s += i; s *= 2;
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+40
+====
+50
+====
+30
+====
+42
+++++
+n=8 найдите результат программы:
+    int s = 0, i, n;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    for (i = 1; i &lt;= n; i++)
+    if (i % 2 == 0)
+    {
+          s += i; s *= 2;
+    }
+   cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+104
+====
+105
+====
+100
+====
+108
+++++
+n=12 найдите результат программы:
+    int s = 0, i, n;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    for (i = 1; i &lt;= n; i++)
+    if (i % 5 == 0)
+        break;
+    else
+        s += i;
+   cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+10
+====
+20
+====
+30
+====
+15
+++++
+n=13 найдите результат программы:
+    int s = 0, i = 1, n;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    do {
+        i += 2;
+        if (i % 3 == 0)
+            s += i;
+        else
+            s++;
+    } while (i &lt;= n);
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+31
+====
+32
+====
+33
+====
+30
+++++
+n=5 найдите результат программы:
+    int s = 0, i = 1, p = 1, n;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    while (i &lt;= n)
+    {
+          s += i;
+          p *= i;
+          i++;
+    }
+   s += p;
+   cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+135
+====
+26
+====
+100
+====
+130
+++++
+n=9 найдите результат программы:
+    int s = 0, i = 1, p = 0, k = 5, n;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    while (i &lt;= n)
+    {
+          if (i % 2 == 0)
+              s += k;
+          else
+              p++;
+          i++;
+    }
+    p += k;
+    s += p;
+   cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+30
+====
+20
+====
+40
+====
+50
+++++
+n=10 найдите результат программы:
+    int n, s = 0, i = 0;;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    while (1 &gt; 0)
+    {
+        i++;
+        s += i;
+        if ( i &gt;= n ) break;
+    }
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+55
+====
+45
+====
+50
+====
+56
+++++
+n=8 найдите результат программы:
+    int n, s = 0;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    int i = n;
+    while (i &gt; 0)
+    {
+        s += i--;
+        if (i &gt;= n) break;
+    }
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+36
+====
+63
+====
+25
+====
+30
+++++
+n=10 найдите результат программы:
+    int n, s = 0;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    int i = 0;
+    do
+    {
+        i++;
+        s += i++;
+    } while ( i &lt; n);
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+25
+====
+15
+====
+20
+====
+30
+++++
+n=10 найдите результат программы:
+    int n, s = 0;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    int i = n;
+    do
+    {
+        s += i--;
+    } while ( i &gt; 0);
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+55
+====
+50
+====
+45
+====
+60
+++++
+a=5, b=10 найдите результат программы:
+    int a, b, s = 0;
+    cout &lt;&lt; "a="; cin &gt;&gt; a;
+    cout &lt;&lt; "b="; cin &gt;&gt; b;
+    int i = 0;
+    while (i &lt;= a)
+    {
+        s += i;
+        i += b;
+    }
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+0
+====
+1
+====
+50
+====
+15
+++++
+a=3, b=4 найдите результат программы:
+    int a, b, s = 0;
+    cout &lt;&lt; "a="; cin &gt;&gt; a;
+    cout &lt;&lt; "b="; cin &gt;&gt; b;
+    int i = 0;
+    while (i &lt;= a)
+    {
+        if (i % b == 0) s += i;
+        i++;
+    }
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+0
+====
+12
 ====
 3
 ====
 4
-
-+++++
-
-Faqatgina funksiya tarkibida ishlashi mumkin bo’lgan o’zgaruvchi bu …?
-====
-#lokal o’zgaruvchi
-====
-global o’zgaruvchi
-====
-parametrsiz o’zgaruvchi
-====
-parametrli funksiya
-
-
-+++++
-
-Fayldagi ma’lumotni o’qish uchun io: xizmatchi so’zidan so’ng qaysi spetsifikator yoziladi?
-====
-#in
-====
-out
-====
-app
-====
-ate
-
-+++++
-
-Boshqarishni biron bir tarmoqqa uzatishni ta’minlovchi operator qaysi?
-====
-#Shart operatori
-====
-Sikl operatori
-====
-Tanlash operatori
-====
-Goto operatori 
-
-+++++
-Parametrli takrorlash operatorini ko'rsating
-====
-#for
-====
-if
-====
-while
-====
-switch
-
-+++++
-
-Belgili tipli o’zgaruvchilar qaysi xizmatchi so’z bilan elon qilinadi? 
-====
-#char
-====
-int
-====
-string
-====
-bool
-
-+++++
-
-Qiymat uzatish operatorini ko'rsating.
-====
-#=
-====
-= =
-====
-: :
-====
-.
-
-+++++
-
-Funksiyada qiymat qaysi buyruq orqali qaytariladi?
-====
-#return
-====
-void
-====
-class
-====
-qiymat qaytmaydi
-
-+++++
-
-C++ tilida simvolli massivlar qanday e’lon qilinadi?
-====
-#char a[10] ; 
-====
-string h[5]; 
-====
-int a[9]; 
-====
-float a[5];
-
-+++++
-
-“++” ma’nosi nima?
-====
-#Inkrement 
-====
-Provikatsiyalash 
-====
-Identifikatsiyalash
-====
-Dekrement
-
-+++++
-
-Dastur kodlarini mantiqiy guruhga birlashtrish uchun ishlatilib dasturga bir necha kutubxonalar chaqirilganda nomlar orasida o’zaro nizo kelib chiqishini oldini olsh nima deyiladi?
-====
-#Nomlar fazosi
-====
-O’zgaruvchilar identifikatsiyasi
-====
-Identifikatorlarni e’lon qilish
-====
-Hotira sinflarining spetsifikatorlari
-
-+++++
-
-Quyidagi jumlani to’ldiring: “ … kengligidagi barcha identifikatorlar bir-biriga hech qanday e’lon qilinishlarsiz ishlatilishi mumkin”.
-====
-#Nomlar fazosi
-====
-Hotira sinflari
-====
-Global o’zgaruvchilar 
-====
-Funksiya parametrlari
-
-+++++
-
- Massivni e’lon qilish to’g’ri ko’rsatilgan qatorni toping?
-====
-#int a[50]; 
-====
-float a=[50]; 
-====
-int a{50}; 
-====
-int a[3]={“1,2,3”};
-
-+++++
-
-const xizmatchi so’zi nima uchun hizmat qiladi?
-====
-#O’zgarmasni e’lon qilish uchun
-====
-O’zgaruvchini e’lon qilish uchun
-====
-Identifikatorni e’lon qilish uchun
-====
-Xizmatchi so’zni e’lon qilish uchun
-
-+++++
-
-Mantiqiy tip qaysi xizmatchi so’z bilan aniqlanadi?
-====
-#bool 
-====
-char
-====
-double
-====
-string
-
-+++++
-
-Quyidagi funksiya prototipi qanday mantiqiy natija qaytaradi isupper(‘+’) 
-====
-#FALSE
-====
-TRUE
-====
-‘+’
-====
-+
-
-+++++
-
-Ikki operand ustida bajariluvchi arifmetik amallar qanday tipga kiradi? 
-====
-#Binar 
-====
-Oddiy
-====
-Unar
-====
-Murakkab
-
-+++++
-
-Quyidagi funksiya prototipi qanday mantiqiy natija qaytaradi isdigit(‘12’) 
-====
-#TRUE
-====
-FALSE
-====
-‘12’
+++++
+a=10, b=10 найдите результат программы:
+    int a, b, s = 0;
+    cout &lt;&lt; "a="; cin &gt;&gt; a;
+    cout &lt;&lt; "b="; cin &gt;&gt; b;
+    int i = 0;
+    do
+    {
+        i = i + b;
+        s += i;
+    } while ( i &lt; a );
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+10
+====
+5
+====
+11
+====
+100
+++++
+a=7, b=5 найдите результат программы:
+    int a, b, s = 0;
+    cout &lt;&lt; "a="; cin &gt;&gt; a;
+    cout &lt;&lt; "b="; cin &gt;&gt; b;
+    int i = 0;
+    do
+    {
+        i++;
+        if (i % b == 0) s += i;
+    } while ( i &lt; a );
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+5
+====
+35
+====
+7
 ====
 12
-
-+++++
-
-Quyidagi funksiya prototipi qanday mantiqiy natija qaytaradi isalpha('+') 
-====
-#FALSE
-====
-TRUE
-====
-‘8’
-====
-8
-
-+++++
-
-Jumlani yakunlang: “C++ tili satrlarni yaratish va ularni boshqarish uchun …… klassini ishlatadi.”
-====
-#standart satr 
-====
-standart char
-====
-cinget
-====
-endl
-
-+++++
-
-Satrda joylashgan simvollarni aniqlash uchun qanday funksiyadan foydalaniladi?
-====
-#length ( )
-====
-sizeof ( )
-====
-getline ( )
-====
-cin.get ( )
-
-+++++
-
-Massivni kompyuter xotirasida egallagan hajmini qaysi funksiya orqali aniqlasa bo’ladi?
-====
-#sizeof()
-====
-memory() 
-====
-size() 
-====
-length() 
-
-+++++
-
-Fayl yopishda xatolik bo`lmasa fclose() qanday qiymat qabul qiladi ?
-====
-#0
-====
-1
-====
-Bu funksiya qiymat qabul qilmaydi 
-====
-Faylning oxirgi elementi qiymatini takrorlaydi 
-
-+++++
-
-Bir o’lchamli massiv deb nimaga aytiladi?
-====
-#elementiga bir indeks orqali murojaat qilish mumkin bo’lgan massivga
-====
-elementlari faqat butun sonlardan iborat massivga
-====
-elementiga bir necha indeks orqali murojaat qilish mumkin bo’lgan massivga
-====
-faqat bitta elementdan iborat massivga 
-
-+++++
-
-Ikki o’lchamli massivlar qanday e’lon qilinadi?
-====
-#toifa massiv_nomi[satrlar soni][ustunlar soni]
-====
-toifa massiv_nomi{satrlar soni}{ustunlar soni}
-====
-massiv_nomi[satrlar soni] [ustunlar soni]
-====
-toifa massiv_nomi [ elementlar soni]
-
-+++++
-
-Rekursiya – bu …
-====
-#funksiyani o’zidan turib o’ziga bevosita murojat qilishi;
-====
-funksiyadan turib ma'lumotlarni chiqarish;
-====
-funksiyadan turib ma'lumotlarni chiqarish;
-====
-funksiyani dastur davomida shu nom bilan e'lon qilinishi;
-
-+++++
-
-funksiya prototipi to’g’ri berilgan qatorni toping
-====
-#void baho (int a);
-====
-void baho(int a){};
-====
-void baho(int a)[];
-====
-void baho(int a,b){};
-
-+++++
-
-Butun qiymat qabul qiluvchi tiplarni ko`rsating
-====
-#short, int, long long
-====
-float, double, long double
-====
-long, float, int
-====
-float, double, long double, short, int, long long
-
-+++++
-
-Shartsiz o`tish operatorini ko`rsating
-====
-#goto
-====
-if
-====
-for
-====
-switch
-
-+++++
-
-C++da funksiyada qiymat qaytarish operatori?
-====
-#return
-====
-function
-====
-New
-====
-Delete
-
-+++++
-
-C++da funksiya e’lon qilish to‘g‘ri ko‘rsatilgan satrni belgilang
-====
-#int myfunction( )
-====
-int myfunction
-====
-int mysunction[]
-====
-Int mysunction
-
-+++++
-
- Mantiqiy tip qanday nomlanadi? 
-====
-#bool
-====
-Real
-====
-int
-====
-string
-
-+++++
-
-Noto’g’ri massivni ko’rsating?
-====
-#int a[2]={1,2,3,4};
-====
-int a[3]={1,2,3}; 
-====
-int a[]={2,3,4,5}; 
-====
-int a[30]; 
-
-+++++
-
-Faylni xotiradan o’qish uchun qaysi xizmatchi so'zdan foydalaniladi?
-====
-#ifstream
-====
-ofstream
-====
-fstream
-====
-stream
-
-+++++
-
-Faylga yozish uchun qaysi xizmatchi so'zdan foydalaniladi?
-====
-#ofstream
-====
-ifstream
-====
-fstream
-====
-stream
-
-+++++
-
-Qiymat qaytarmaydigan funksiya qaysi kalit so'z orqali e'lon qilinadi?
-====
-#void
-====
-return
-====
-class
-====
-template
-
-+++++
-
-C++ dasturlash tilida dasturni boshlanishini va tugashini bildiruvchi belgini ko'rsating
-====
-#{ }
-====
-&lt; &gt;
-====
-&gt; &lt;
-====
-( )
-
-+++++
-
-Goto ni vazifasi nima?
-====
-#ga o’tish
-====
-elon qilish
-====
-o’zlashtirish
-====
-saqlash
-
-+++++
-
-Ham asosiy programmada ham funksiyada ishlashi mumkin bo’lgan o’zgaruvchilar bu …?
-====
-#global o’zgaruvchilar
-====
-parametrli funksiyalar
-====
-parametirsiz o’zgaruvchilar
-====
-laokal o’zgaruvchilar
-
-+++++
-
-Qanday fayllar binar fayllar deyiladi ?
-====
-#Har xil obyektlarni ifodalovchi baytlar ketma –ketligi
-====
-Bir xil obyektlarni ifodalovchi baytlar ketma –ketligi
-====
-Faylning aynan bir joyga yo`naltirilgani
-====
-Aynan bir ma'lumot kiritish yoki chiqarish uchun mo`jallangan faylga 
-
-+++++
-
-funksiya tanasida faol o’zgaruvchilar nima deb ataladi?
-====
-#local o’zgaruvchilar
-====
-global o’zgaruvchlar
-====
-qatiy o’zgarmaslar
-====
-registr
-
-+++++
-
-ifstream a(“dasturlash.txt”) qayerda va qanday fayl xosil bo`ldi ?
-====
-#Xech qanday fayl hosil bo`lgani yo`q
-====
-Joriy katalogda a fayl hosil bo`ldi.
-====
-Joriy katalogda dasturlash.txt fayl hosil bo`ldi 
-====
-Joriy katalogda dasturlash fayli hosil bo`ldi
-
-+++++
-
-ofstream a(“dasturlash.txt”) qayerda va qanday fayl xosil bo`ldi ?
-====
-#Joriy katalogda dasturlash.txt fayli hosil bo`ldi 
-====
-Xech qanday fayl hosil bo`lgani yo`q
-====
-Joriy katalogda a fayl hosil bo`ldi.
-====
-Joriy katalogda dasturlash fayli hosil bo`ldi
-
-+++++
-
- Dasturda local o’zgaruvchilar xotiraning qaysi qismida saqlanadi?
-====
-#stekli
-====
-global 
-====
-registrli
-====
-Dinamik taqsimlanuvchi bo’sh
-
-+++++
-
- Dasturda global o’zgaruvchilar xotiraning qaysi qismida saqlanadi?
-====
-#global 
-====
-stekli
-====
-registrli
-====
-Dinamik taqsimlanuvchi bo’sh
-
-+++++
-
-int katta(float a) bu funksiya qanday qiymat qabul qiladi va qanday qiymat qaytaradi?
-====
-#haqiqiy, butun;
-====
-butun, haqiqiy;
-====
-belgi, haqiqiy; 
-====
-haqiqiy, haqiqiy;
-
-+++++
-
-belgili tipdagi ma'lumotlarni qabul qilib, butun tipdagi ma'lumot qaytaruvchi funksiyani toping?
-====
-#int son(char a );
-====
-string son(int a );
-====
-char son(Int a );
-====
-float son(char a );
-
-+++++
-
-for(int i=1; i&lt;=n; i++) bu holatda i&lt;=n qismi qanday nomlanadi
-====
-#sikl takrorlanish sharti
-====
-majburiy to`xtatish belgisi
-====
-ilova
-====
-sikl parametrini oshirish
-
-+++++
-
- for(int i=1; i&lt;=n; i++) bu holatda i++ qismi qanday nomlanadi
-====
-#sikl parametrini oshirish
-====
-majburiy to`xtatish belgisi
-====
-sikl takrorlanish sharti
-====
-ilova
-
-+++++
-
-Faylga ma’lumot yozish uchun io: xizmatchi so’zidan so’ng qaysi spetsifikator yoziladi?
-====
-#out
-====
-in
-====
-app
-====
-ate
-
-+++++
-
-C++ dasturlash tilida funksiyalar o’z –o’zini chaqirish imkoniyatiga qaysi funksiyada ega bo’ladi?
-====
-#rekursiv
-====
-getline
-====
-insert
-====
-return 
-
-+++++
-
-Dasturning jumlasining tili va ma’lumotlar taxlilinig bosqichini tugallangaligini anglatuvchi belgi ?
-====
-#; 
-====
-: 
-====
-&lt;&lt; 
-====
-&gt;&gt; 
-
-+++++
-
-feof funksiyasi fayl ko’satkichi fayl ohirida bo’lsa qanday qiymat qaytaradi
-====
-#0 dan farqli
-====
-0
-====
-qiymat qaytarmaydi
-====
-cheksiz
-
-+++++
-
-Massiv qanday elon qilinadi?
-====
-#int a [n]; flout a[n];double a[n];
-====
-int a; flout a;double a;
-====
-int (a); flout (a); double (a);
-====
-xammasi to’g’ri
-
-+++++
-
-Sharti keyin berilgan sikl operatori tuzilishini ko'rsating.
-====
-#do{sikl tanasi;} while(shart)
-====
-while(shart) {sikl tanasi;}
-====
-while(sikl tanasi) {shart;}
-====
-do{shart} while(sikl tanasi;)
-
-+++++
-
-Sharti keyin berilgan sikl operatorini ko'rsating.
-====
-#do{}while()
-====
-for()
-====
-while()
-====
-if()
-
-+++++
-
-Sharti keyin berilgan takrorlanish operatorini toping
-====
-#do..while
-====
-for..while
-====
-if.. Else
-====
-to’g’ri javob yo’q
-
-+++++
-
-Sharti oldin berilgan sikl operatori tuzilishini ko'rsating.
-====
-#while(shart) {sikl tanasi;}
-====
-do{sikl tanasi;} while(shart)
-====
-do{shart} while(sikl tanasi;)
-====
-while(sikl tanasi) {shart;}
-
-+++++
-
-Sharti oldin berilgan sikl operatorini ko'rsating.
-====
-#while()
-====
-do{}while()
-====
-if()
-====
-for()
-
-+++++
-
-short int kompyuter xotirasida necha bayt joy egallaydi?
-====
-#2bayt
-====
-4bayt
-====
-8bayt
-====
-10bayt
-
-+++++
-
-Sikl operatorining qaysi turida sikl tanasi kamida bir marotaba majburiy tarzda bajariladi?
-====
-#do{} while()
-====
-for()
-====
-while()
-====
-if()
-
-+++++
-
-Sikl operatorlarini ko’rsating?
-====
-#for,do.. while,while
-====
-string,while,for
-====
-getline ,while
-====
-break ,do.. while
-
-+++++
-
-Ikki satr va uch ustundan iborat massivni elon qiling
-====
-#int a[2][3]; 
-====
-int a[][]={2,3};
-====
-int a[3]; int a[2]; 
-====
-int a[3][2]; 
-
-+++++
-
-Xotiradan sakkiz bayt joy egallaydigan butun qiymatli o’zgaruvchini ko’rsating
-====
-#double a;
-====
-long long a;
-====
-long double a;
-====
-int a;
-
-+++++
-
-sizeof operatorining vazifasi nimadan iborat?
-====
-#sizeof amali operand sifatida ko’rsatilgan obyektning baytlarda hotiradagi hajmini hisoblaydi 
-====
-sizeof amali operand sifatida ko’rsatilgan obyektning kilabaytlarda hotiradagi hajmini hisoblaydi 
-====
-sizeof amali operand sifatida ko’rsatilgan obyektning Megabaytlarda hotiradagi hajmini hisoblaydi 
-====
-sizeof amali operand sifatida ko’rsatilgan obyektning bitlarda hotiradagi hajmini hisoblaydi 
-
-+++++
-
-E’lon qilingan funksiya parametrlar qanday ajratiladi?
-====
-#vergul (,) bilan
-====
-nuqta (.) bilan
-====
-ikki nuqta (:) bilan
-====
-nuqta vergul (;) bilan
-
-+++++
-
-Qabul qilingan o’zgaruvchi funksiyada qanday o’zgauvchi vazifasini bajaradi?
-====
-#lokal o’zgaruvchi
-====
-global o’zgaruvchi
-====
-register o’zgaruvchi
-====
-avto o’zgaruvchi
-
-+++++
-
-Funksiya qiymati qanday qaytariladi?
-====
-#return orqali
-====
-void orqali
-====
-return 0; orqali
-====
-main( ) orqali
-
-+++++
-
-Funksiya ichida e’lon qilingan o‘zgaruvchilarga qanday o‘zgaruvchilar deyiladi?
-====
-#lokal
-====
-global
-====
-extern
-====
-register
-
-+++++
-
-O‘zgaruvchini ishlatish mumkin bo‘lgan dastur sohasi (qismi) deyilganda nima tushuniladi?
-====
-#O‘zgaruvchi amal qilish sohasi
-====
-O‘zgaruvchi qiymatlari sohasi
-====
-O‘zgaruvchi aniqlansh sohasi
-====
-O‘zgaruvchining yashash vaqti
-
-+++++
-
-O‘zgaruvchining mavjud bo‘lgan dastur bo‘lagining bajarilishiga ketgan vaqt intervaliga nima deyiladi?
-====
-#O‘zgaruvchining yashash vaqti
-====
-O‘zgaruvchi amal qilish sohasi
-====
-O‘zgaruvchi aniqlansh sohasi
-====
-O‘zgaruvchi qiymatlari sohasi
-
-+++++
-
-Lokal o‘zgaruvchi yashash vaqti qanday aniqlanadi?
-====
-#blok yoki funksiyani bajarish vaqti bilan
-====
-funksiya parametrlari bilan
-====
-o‘zgaruvchining yashash vaqti bilan
-====
-o‘zgaruvchi amal qilish sohasi bilan
-
-+++++
-
-Global o‘zgaruvchilarning amal qilish doirasini ko’rsating:
-====
-#Dastur oxirigacha amal qiladi
-====
-Blok ichida amal qiladi
-====
-Funksiya ichida amal qiladi
-====
-Boshqa dasturlarda ham amal qiladi
-
-+++++
-
-Bir xil nomli funksiyalarning bir dasturda bir necha bor yaratilishi nima deyiladi?
-====
-#Funksiyani qayta yuklanshi
-====
-O’zgaruvchining qayta yuklanshi
-====
-Operatorning qayta yuklanshi
-====
-Rekursia
-
-+++++
-
-Agar massiv elementiga qaraganda kamroq element berilgan bo’lsa natija qanday chiqadi?
-====
-#berilgan elementlar va qolgan elementlarni 0 lar bilan to’ldiradi
-====
-berilgan elementlar va qolgan elementlarni o’zi istagan qiymat bilan to’ldiradi
-====
-berilgan elementlarni o’zigina chiqadi 
-====
-Dasturda xatolik deb chiqaradi
-
-+++++
-
-Nomlangan massivda uning o’lchami ko’rsatilmagan bo’lsa….
-====
-#kompilyator massiv chegarasini avtomatik aniqlaydi
-====
-barcha qiymatni 0 deb oladi
-====
-dasturda xatolik yuz beradi
-====
-to’g’ri javob yo’q
-
-+++++
-
- Agar c katta harf bo’lsa true aks holda false qiymat qaytaruvchi funksiya.
-====
-#int isupper (int c);
-====
-int islower (int c):
-====
-int tolower(int c);
-====
-int toupper (int c); 
-
-+++++
-
-c satrini butun sonli int tipiga o’zgartiruvchi funksiyani ko’rsating.
-====
-#int atoi ( c );
-====
-double atof ( c );
-====
-long atol ( c );
-====
-long long atoll ( c );
-
-+++++
-
-c satrini haqiqiy sonli tipga o’zgartiruvchi funksiyani ko’rsating. 
-====
-#double atof ( c );
-====
-int atoi ( c );
-====
-long atol ( c );
-====
-long long atoll ( c );
-
-+++++
-
-Fayllar bilan ishlash uchun qaysi kutubxonadan foydalanamiz ?
-====
-#fstream 
-====
-iostream 
-====
-iomanip 
-====
-filestream
-
-+++++
-
-Fayllarga ma'lumot kiritish uchun qaysi ilovadan foydalanamiz ?
-====
-#ofstream
-====
-fstream 
-====
-ifstream 
-====
-filestream 
-
-+++++
-
-Fayllardagi ma'lumotini chiqarish uchun qaysi ilovadan foydalanamiz ?
-====
-#ifstream 
-====
-ofstream
-====
-fstream 
-====
-filestream 
-
-+++++
-
-fayllar bilan ishlashda eof() funksiyasidan qanday maqsadda foydalanamiz ?
-====
-#Fayl oxiriga yetganini bilish uchun
-====
-Fayl oxiriga yetmaganini bilish uchun
-====
-Faylda ma'lumotlarni saqlab qolish uchun
-====
-Faylda ma'lumotlarni yangilash uchun 
-
-+++++
-
-Qaralayotgan belgining harf yoki harf emasligini aniqlab beruvchi funksiyani ko’rsating.
-====
-#isalpha();
-====
-isupper();
-====
-islower();
-====
-isdigit();
+++++
+a=10, b=5 найдите результат программы:
+    int a, b, s = 0;
+    cout &lt;&lt; "a="; cin &gt;&gt; a;
+    cout &lt;&lt; "b="; cin &gt;&gt; b;
+    int i = b;
+    while (i &lt;= a)
+    {
+        s += 1;
+        i++;
+    }
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+6
+====
+10
+====
+50
+====
+5
+++++
+a=11, b=6 найдите результат программы:
+    int a, b, s = 0;
+    cout &lt;&lt; "a="; cin &gt;&gt; a;
+    cout &lt;&lt; "b="; cin &gt;&gt; b;
+    int i = b;
+    while (i &lt;= a)
+    {
+        s += i;
+        i++;
+    }
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+51
+====
+11
+====
+6
+====
+66
+++++
+a=10, b=20 найдите результат программы:
+    int a, b, s;
+    cout &lt;&lt; "a="; cin &gt;&gt; a;
+    cout &lt;&lt; "b="; cin &gt;&gt; b;
+    s = a * b;
+    while (a != b)
+    if (a &gt; b) a -= b;
+        else   b -= a;
+    s /= a;
+    cout &lt;&lt; a &lt;&lt; endl;
+====
+#
+10
+====
+20
+====
+200
+====
+100
+++++
+a=20, b=30 найдите результат программы:
+    int a, b, s;
+    cout &lt;&lt; "a="; cin &gt;&gt; a;
+    cout &lt;&lt; "b="; cin &gt;&gt; b;
+    s = a * b;
+    while (a != b)
+    if (a &gt; b) a -= b;
+        else   b -= a;
+    s /= a;
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+60
+====
+30
+====
+20
+====
+50
+++++
+a=10, b=15 найдите результат программы:
+    int a, b, s;
+    cout &lt;&lt; "a="; cin &gt;&gt; a;
+    cout &lt;&lt; "b="; cin &gt;&gt; b;
+    s = 0;
+    while (a &gt;= b)
+    {
+        s++;
+        a -= b;
+    }
+    s += a;
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+10
+====
+150
+====
+25
+====
+100
+++++
+n=899 найдите результат программы:
+    int n, s;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    s = 0;
+    while (n &gt; 0)
+    {
+        s += n % 10;
+        n /= 10;
+    }
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+26
+====
+25
+====
+18
+====
+3
+++++
+n=7 найдите результат программы:
+    int n, s = 1;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    while (n &gt;= 2)
+    {
+          s *= n;
+          n -= 2;
+    }
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+105
+====
+35
+====
+102
+====
+100
+++++
+n=10 найдите результат программы:
+    int n, s = 0;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    while (!( s * s &gt; n))
+    s++;
+    cout &lt;&lt; s &lt;&lt; endl;
+====
+#
+4
+====
+6
+====
+5
+====
+10
+++++
+n=30 найдите результат программы:
+    int n, q;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    if (n != 1) q = n / 2;
+        else    q = 1;
+    while (!(q * q &lt;= n))
+    q--;
+    cout &lt;&lt; q &lt;&lt; endl;
+====
+#
+5
+====
+6
+====
+30
+====
+4
+++++
+n=40 найдите результат программы:
+    int n, k = 0, s = 1;
+    cout &lt;&lt; "n="; cin &gt;&gt; n;
+    while (!(s &gt; n))
+    {
+        s *= 3;
+        k++;
+    }
+    cout &lt;&lt; k &lt;&lt; endl;
+====
+#
+4
+====
+10
+====
+40
+====
+30
+++++
+ 
