@@ -1,1400 +1,5488 @@
-Aksariyat qaysi sanoat tarmoqlari " Big Data"dan foydalanadi?
-A. Ob-havo ma’lumotlari, Markеting, Sog‘liqni saqlash, Walmart do‘koni
-B. Walmart do‘koni, intеrnеt do‘konlar
-C. Intеrnеt markеting, intеllеktual tahlil
-D. Yetkazib bеrish tizimi, xususiy tadbirkorlik
-ANSWER: A 
-
-Fayllarni boshqarishda nima yordam bеradi?
-A. Fayl tizimi
-B. Fayl uzunligi
-C. Fayl toifalari
-D. Fayl nomlari
-ANSWER: A 
-
-Ko‘pchilik foydalanuvchilar tomonidan ma'lumotlar bazasini yaratish, to‘ldirish va birgalikda foydalanish uchun mo‘ljallangan dasturiy vositalar majmuasi nima deyiladi?
-A. Ma'lumotlar bazasini boshqarish tizimi
-B. Sonli o'zgarmas
-C. Ma’lumotlar lug‘ati
-D. Hisoblash tizimi
-ANSWER: A 
-
-O‘zaro bog‘langan ma’lumotlar nima deb ataladi?
-A. Ma’lumotlar tizimi
-B. Ma’lumotlar bazasi tizimi
-C. Ma'lumotlar bazasini boshqarish tizimi
-D. Ma’lumotlar elementi
-ANSWER: A 
-
-Atributlarda saqlanadigan ma'lumotlar bu-
-A. Atribut qiymatlari
-B. Atribut tizimlari
-C. Ma'lumotlar bazasi tizimlari
-D. Ma'lumotlar bazasini boshqarish tizimlari
-ANSWER: A 
-
-Markazlashtirilgan to`plam va ma’lumotlardan jamoaviy foydalanish zarur bo`lgan dasturiy, til, tashkiliy va texnik vositalar tizimi ........deb ataladi.
-A. Ma’lumotlar banki
-B. Ma’lumotlar bazalari
-C. Ilovalar
-D. Ma’lumotlar lug’ati
-ANSWER: A 
-
-Amaliy masalalar uchun avtomatlashtirilgan ishlov berishni ta’minlovchi dasturga .............deyiladi.
-A. Ma’lumotlar bazasini boshqarish tizimi
-B. Ma’lumotlar bazalari
-C. Ilovalar
-D. Ma’lumotlar lug’ati
-ANSWER: A 
-
-Unikal identifikator nima
-A. Bir qatorni boshqa qatordan ajratib turadigan qiymatga ega ustun
-B. Jadval nomi
-C. Ustun nomi
-D. Qator va ustunlarning mosligi
-ANSWER: A 
-
-Unikal maydon deb qanday qatorga aytiladi
-A. Qiymati qaytarilmaydigan maydon
-B. Unikal nom ostidagi maydon
-C. Qiymati oshish xususiyatiga ega maydon
-D. Qiymati boshqasi bilan bog‘lanmagan maydon
-ANSWER: A 
-
-Bitta tranzaksiya nechta operatsiyadan iborat bo‘lishi mumkin
-A. Bir nechta
-B. Faqat bitta
-C. Faqat ikkita
-D. Kamida ikkitadan
-ANSWER: A 
-
-“Data Mining”ni nechta vasifasi bor?
-A. 4
-B. 3
-C. 2
-D. 1
-ANSWER: A 
-
-Pythonda Data Frame analogi bormi?
-A. Ha, Pandas kutubxonasida
-B. Ha, SciPy kutubxonasi
-C. Yo'q
-D. Ha, NumPy kutubxonasi
-ANSWER: A 
-
-Qaysi ma'lumotlar hajmidan boshlab ma'lumotlarni saqlash uchun Hadoop klasteridan foydalanish maqsadga muvofiq?
-A. 100TB
-B. 100Pb
-C. 100 GB
-D. 1TB
-ANSWER: A 
-
-OLAP nechta turga bo`linadi?
-A. 2
-B. 3
-C. 4
-D. 5
-ANSWER: A 
-
-Agregat funksiyalarni tanlang
-A. MAX(), MIN()
-B. AVG(), Function()
-C. MAX(), Trigger()
-D. MIN(), Function()
-ANSWER: A 
-
-Katta hajmdagi ma'lumotlarning minimal o`lchovi qancha bo`lishi kerak?
-A. Minimal cheklovlari yo'q
-B. 1TB dan ortiq ma'lumotlar hajmi
-C. 10TB dan ortiq ma'lumotlar hajmi
-D. 100TB dan ortiq ma'lumotlar hajmi
-ANSWER: A 
-
-NoSQL ma'lumotlar bazasining asosiy g'oyasi nimada?
-A. Ko'p sonli tugunlar bilan chiziqli masshtablashga erishish
-B. Tezroq ish tezligiga erishish
-C. Ma'lumotlar bazasi hajmini oshirish
-D. Ma'lumotlar bazasi bilan ishlashni osonlashtirish
-ANSWER: A 
-
-Ulardan qaysi biri to'rtta asosiy ma'lumotlar turiga taalluqli emas?
-A. Ko'p tuzilmali ma'lumotlar
-B. Tuzilmagan ma'lumotlar
-C. Kvazi-tuzilgan ma'lumotlar
-D. Strukturaviy ma'lumotlar
-ANSWER: A 
-
-Quyidagilardan qaysi biri Hadoop ish usullaridan biri emas?
-A. Bog'langan rejim
-B. Tarqatilgan rejim
-C. To'liq taqsimlangan rejim
-D. Oflayn rejim
-ANSWER: A 
-
-Qaysi ma'lumotlar bazasi R tili interfeysiga 100% mos keladi?
-A. Oracle R
-B. NoSQL R
-C. PostgreSql R
-D. MySQL R
-ANSWER: A 
-
-Apache Hadoop - bu ...
-A. MapReduce-ning ochiq kodli ilovasi
-B. MapReduce-ning shaxsiy amalga oshirilishi
-C. Talend yopiq prototipi
-D. Talend ochiq prototipi
-ANSWER: A 
-
-Katta hajmdagi ma’lumotlarning muhim xususiyatlarini tanlang.
-A. Hajm, tеzlik, turli xillik
-B. Tartib, tеzlik, turli xillik
-C. Hajm, harakat, xilma –xillik
-D. Tartib, tеzlanish, turli xillik
-ANSWER: A 
-
-Big Dataning asosiy tarkibiy qismlarini tanlang
-A. MapRеducе , HDFS, YaRN
-B. MapRеducе , HDFS, HBasе
-C. MapRеducе , Hivе , YaRN
-D. Trumpеt, Hivе, HBasе
-ANSWER: A 
-
-NamеNodе, Task Trackеr va Job Trackеr uchun port raqamlarini aniqlang
-A. NamеNodе, Task Trackеr, Job Trackеr
-B. NamеNodе, Job Trackеr
-C. NamеNodе, Task Trackеr
-D. Hivе, Hеron, HBasе
-ANSWER: A 
-
-Zamonaviy MBBTlar fayl tizimining qaysi muammosini hal qiladi
-A. Ko‘p foydalanuvchilar bilan ishlash
-B. Katta hajmdagi axborotni saqlash
-C. Ma’lumotlarni saralash
-D. Ma’lumotlarni strukturalash
-ANSWER: A 
-
-Ma’lumotlar bazasidagi axborotlar qanday bo‘lishi kеrak
-A. Qarama – qarshi bo‘lmasligi; xatosiz bo‘lishi; yaxlit bo‘lishi kеrak
-B. Xatosiz bo‘lishi; yaxlit bo‘lishi kеrak
-C. Qarama – qarshi bo‘lmasligi;  xatosiz bo‘lishi kеrak
-D. Ajratilgan  bo‘lishi; qarama – qarshi bo‘lishi
-ANSWER: A 
-
-Ma’lumotlar bazasini boshqarish tizimi dеganda nimani tushunasiz ?
-A. Ma’lumotlar bazalarini yaratish va foydalanish uchun boshqarishni ta’minlovchi, maxsus lingvistik vositalar majmuiga ega bo‘lgan dasturiy ta’minot
-B. Ma’lumotlar bazalarini yaratish uchun dasturiy ta`minot
-C. Ma’lumotlar bazalarini yaratish va foydalanish uchun dasturiy ta’minot
-D. Ma’lumotlarni jamlovchi dasturiy ta’minot
-ANSWER: A 
-
-Amaliy masalalar uchun avtomatlashtirilgan ishlov bеrishni ta’minlovchi dastur yoki dasturlar komplеksiga .............dеyiladi.
-A. MBBT
-B. Ma`lumot
-C. Ma’lumotlar bazalari
-D. Ma’lumotlar banki
-ANSWER: A 
-
-Ko‘p foydalanuvchili MBBTda ishlashning murakkabligi nimada?
-A. Loyihalashning va ekspluatasiyaning murakkabligi
-B. Loyihalashning murakkabligi
-C. Ekspluatatsiyaning murakkabligi
-D. MB ga bo‘lgan talablar o‘zgarib turishi
-ANSWER: A 
-
-Parallеl MBBT nima?
-A. Qattiq disklar va bir nеchta protsеssorlardan foydalangan holda funksiyalashgan MBBT
-B. Taqsimlangan ma’lumotlar majmuining o‘zaro mantiqiy to‘plam asoida bog‘langanligi
-C. Tarmoqlarda taqsimlangan MB
-D. Kompyutеrlashgan tizimning axborotni saqlash va unga talabga binoan ruxsatni taqdim etish
-ANSWER: A 
-
-Katta hajmdagi ma`lumotlar – bu …
-A. Katta hajmdagi ma'lumotlar va biznesni raqamlashtirishdir
-B. Katta hajmdagi ma'lumotlarni tahlil qilish texnikasidir
-C. Sanoatga tegishli katta hajmdagi ma'lumotlar tahlilini amalga oshirishdir
-D. Ma'lumotlar tahlilining hayot sikli: ma'lumotlarni qidirish, ma'lumotlarni tayyorlash, modelni rejalashtirish, modelni yaratish, natijalarni tekshirish va amalga oshirishdir
-ANSWER: A 
-
-Ma`lumotlarni aniqlash va turli ma'lumotlar elementlari o'rtasidagi munosabatlarni aniqlash maqsadida kompaniyalar mijozlar ma'lumotlarini yoki boshqa turdagi ma'lumotlarni tahlil qilish usuli odatda … deb ataladi:
-A. Data mining
-B. Data digging
-C. Mijoz ma'lumotlarini boshqarish
-D. Iste'molchilarni jalb qilish
-ANSWER: A 
-
-Fayllarni boshqarish qanday amalga oshiriladi
-A. Fayl tizimi orqali
-B. Kataloglar orqali
-C. Foydalanuvchilar roli orqali
-D. Fayl nomlari orqali
-ANSWER: A 
-
-Ma’lumotlarni taqdim etish modellari bo‘yicha klassifikatsiya qaysi variantda tasvirlangan
-A. ierarxik, tarmoqli, relyatsion, obyektga yo‘naltirilgan
-B. lokal, tarmoq, bo‘lingan
-C. hujjatli, faktografik, leksikografik
-D. faylli va katalogli
-ANSWER: A 
-
-Tezkorlik va xotira sarfi ko`rsatkichlari bo`yicha samarali ish olib borish imkoniyati qaysi ma'lumot modellarida mavjud
-A. Tarmoq modellari
-B. Ierarxik modellar
-C. Relyatsion modellar
-D. Ko`p o`lchamli modellar
-ANSWER: A 
-
-Ma’lumotlarni taqdim etish modeli bu-
-A. Malumotlar bazasida saqlanuvchi ma’lumotlarning mantiqiy strukturasi
-B. Ma’lumotlar bazasida saqlanuvchi ma’lumotlarning fizik strukturasi
-C. Ma’lumotlarning ierarxik strukturasi
-D. Ma’lumotlarning tarmoq strukturasi
-ANSWER: A 
-
-Ma’lumotlarni taqdim etishning tarmoq modelida ma’lumotlar bog'lanishi qanday tasvirlanadi
-A. Ixtiyoriy graf
-B. Ro‘yxatlar
-C. Daraxt turidagi graf
-D. Jadvallar
-ANSWER: A 
-
-Ma’lumotlarni taqdim etish modelining qaysi biri eng keng tarqalgan hisoblanadi
-A. Relyatsion
-B. Obyektga yo‘naltirilgan
-C. Tarmoqli
-D. Ierarxik
-ANSWER: A 
-
-Ma’lumotlarni taqdim etishning ierarxik modelida ma’lumotlar bog'lanishi qanday tasvirlanadi
-A. Daraxt turidagi graf
-B. Ixtiyoriy graf
-C. Ro‘yxatlar
-D. Jadvallar
-ANSWER: A 
-
-Tranzaksiya nechta xususiyatga ega
-A. 4
-B. 3
-C. 2
-D. 1
-ANSWER: A 
-
-Ma`lumotlar bazasi ishining mantiqiy birligi nima deb ataladi
-A. Tranzaksiya
-B. Operatsiya
-C. O‘qish
-D. Yozuvlarni qayd qilish
-ANSWER: A 
-
-Qaysi buyruqlardan biri tranzaksiyani boshlanishini e’lon qilish uchun xizmat qiladi
-A. BEGIN TRANSACTION
-B. COMMIT
-C. ROLLBACK
-D. OMMIT
-ANSWER: A 
-
-Ma’lumotlarga ruxsat etish xavfsizligi qanday mexanizm bilan ta’minlanadi
-A. Foydalanuvchilar va roller
-B. Shifrlash
-C. Deshifrlash
-D. Faqatgina ma’lumotlarni himoyalash mavjud
-ANSWER: A 
-
-Tranzaksiya bu......?
-A. Ma’lumotlar bilan ishlashda o‘zining mantiqiy birligiga ega bo‘lgan ma’lumotlar bazasi jarayonlarining ketma-ket bajarilish guruxi
-B. Fizik va mantiqiy rad etish hollarida oldingi holatdagi ma’lumotlar bazasini tiklash uchun ma’lumotlar saqlanadigan MBBT funksiyasi
-C. MBBT ga bo‘lgan asosiy talablardan biri bu tashqi xotirada ma’lumotlarni ishonchli saqlanishidir
-D. MBning asosiy qismi bo‘lib hisoblanadi va barcha rivojdagi MBBTda pratokol Write Ahead Log – WAL deb nomlanadi
-ANSWER: A 
-
-Qaysi buyruqlardan biri tranzaksiyani mutlaq boshlang'ich holatga qaytarish uchun xizmat qiladi
-A. ROLLBACK
-B. COMMIT
-C. BEGIN TRANSACTION
-D. FLUSh
-ANSWER: A 
-
-Strukturalangan ma`lumotlar variantlarni ko`rsating
-A. csv faylida yil davomida xona haroratining kunlik ko'rsatkichlari keltirilgan  jadval
-B. MS Word formatida oylik hisobotlar shaklida taqdim etilgan kompaniyaning savdo ma'lumotlari
-C. Bitta qattiq diskda mpeg4 formatida taqdim etilgan filmlar kutubxonasi
-D. pdf formatida taqdim etilgan Ahad Qayum she'rining matni
-ANSWER: A 
-
-"Juda yomon" - "yomon" - "o\'rtacha" - "yaxshi - juda yaxshi" shkalasi qaysi turdagi shkalaga tegishli?
-A. Tartib
-B. Nominal
-C. Mutlaq
-D. Ikkilik
-ANSWER: A 
-
-Ikki koordinata x = 1 va y = 2 bo'lgan ma'lumotlar turi qiymatiga p ni qanday qilib to'g'ri belgilash mumkin?
-A. p = c (x = 1, y = 2)
-B. p (x, y) <- c (1,2)
-C. p = c (y = 1, x = 2)
-D. p.x = 1.y = 2
-ANSWER: A 
-
-Xususiy klinika klinikaning daromadiga hissasi bo'yicha o'z mijozlari tarkibini o'rnatmoqchi.  Ushbu ma'lumotlarni tahlil qilish vazifasi qanday turga tegishli?
-A. Klasterlash
-B. Bashorat qilish
-C. Regressiya
-D. Tasnifi
-ANSWER: A 
-
-Katta hajmdagi ma'lumotlarning to'rtta asosiy xususiyatini sanab o'ting:
-A. Turli xillik, tezlik, hajm, qiymat
-B. Virtualizatsiya, hajm, o'zgaruvchanlik
-C. Tekshirish, ovoz balandligi, tezlik, vizualizatsiya
-D. Video, qiymat, xilma-xillik, hajm
-ANSWER: A 
-
-Quyidagi MBBT texnologiyalaridan qaysi biri MapReduce tamoyilidan foydalanmaydi
-A. Hadoop
-B. Kassandra
-C. HDInsight
-D. Redis
-ANSWER: A 
-
-Hadoop – bu …
-A. Klasterlarda ishlaydigan taqsimlangan dasturlarni bajarish uchun yordamchi dasturlar to'plami va dasturiy ta'minot tizimi
-B. Katta ma'lumotlar bilan ishlay oladigan taqsimlangan MBBT
-C. MapReduce paradigmasida ishni bajarish tili
-D. Katta hajmdagi fayllarni saqlash uchun mo'ljallangan taqsimlangan fayl tizimi
-ANSWER: A 
-
-«Data mining» – bu …
-A. Biron qonuniyatni topish maqsadida ma’lumotlarni tahlil qilishdir
-B. Ma`lumotlarni ajratib olishdir
-C. Tahlil najijalaridir
-D. Monitoring jarayonlarida ma`lumotlarga ishlob berishdir
-ANSWER: A 
-
-Ma`lumotlarni saqlashda yulduz sxemasining qanday jadvallari mavjud
-A. Faktlar va o`lchovlar jadvali
-B. Birlamchi va tashqi jadvali
-C. Birlamchi jadvali
-D. Faktlar jadvali
-ANSWER: A 
-
-“Per statement” kalit so`zi ishlatilgan bo`lsa trigger tanasida hodisa nechchi marta bajariladi?
-A. 1
-B. 2
-C. 3
-D. 4
-ANSWER: A 
-
-“For each row” kalit so`zi ishlatilgan bo`lsa trigger tanasida hodisa nechchi marta bajariladi?
-A. Har bir satr uchun 1 marta
-B. Har bir satr uchun 2 marta
-C. Har bir qator uchun 1 marta
-D. Har bir satr uchun bir necha marta
-ANSWER: A 
-
-Trigger vaqti(Timing) tanlang
-A. Before va after
-B. Old va new
-C. Before va old
-D. 
-ANSWER: A 
-
-Trigger tanasi qaysi standart so`z bilan boshlanadi?
-A. Begin
-B. End
-C. Before
-D. Create
-ANSWER: A 
-
-Faktlar jadvalining xususiyati bo`lmagan qatorni toping.
-A. Faktlar jadvali o`zi mustaqil bo`ladi
-B. Faktlar jadvalida raqamli parametrlar (o'lchovlar) mavjud.
-C. Har bir faktlar jadvalida o'lchov jadvallarining birlamchi kalitlaridan iborat kompozit kalit mavjud. O'lchov jadvalining asosiy kaliti faktlar jadvalidagi tashqi kalitdir.
-D. Faktlar jadvalida, odatda, kam sonli maydonlar mavjud, 20 dan oshmasligi kerak.
-ANSWER: A 
-
-Quyidagilardan qaysilari “Machine Learning” ning modellari guruhiga kirmaydi?
-A. Mantiqiy
-B. Ehtimoliy
-C. Geometrik
-D. Aql-idrok
-ANSWER: A 
-
-Qaror daraxtlari tabiiy tilda tuzilishi mumkin bo'lgan qanday shaklidagi qaror qoidalariga asoslanadi?
-A. "agar ... keyin ..."
-B. “rost… bo`lsa”
-C. “mantiqiy amallarga”
-D. “rost… inkor”
-ANSWER: A 
-
-Raster grafikada bog`lanishlar nechta turga bo`linadi?
-A. 2
-B. 3
-C. 4
-D. 5
-ANSWER: A 
-
-NoSQl ning farqlovchi xususiyati nimada?
-A. Norelyatsion ma`lumotlar
-B. Vertikal masshtablilik
-C. Kodlangan ma'lumotlar sxemasi
-D. Murakkab API
-ANSWER: A 
-
-Qaysi MapReduce ilovasi yopiq hisoblanadi?
-A. Google MapReduce
-B. Qizmt
-C. Feniks
-D. Apache Hadoop
-ANSWER: A 
-
-Quyidagi ta'riflardan qaysi biri BigData-ga taalluqli emas?
-A. Yuqoridagilarning barchasi taalluqli
-B. Katta hajmdagi ma'lumotlarni saqlash va qayta ishlash muammosi
-C. Katta hajmdagi ma'lumotlarni qayta ishlash usullarining kompleks to'plami
-D. Ma'lumotlar manbalarining yuqori o'zgaruvchanligi va munosabatlarning murakkabligi bilan bog'liq ma'lumotlar;
-ANSWER: A 
-
-Muayyan hodisaning yuzaga kelish ehtimolini bashorat qilish uchun modelni yaratish va tanlash jarayoni nima deb nomlanadi?
-A. Bashoratli modellashtirish
-B. OLAP
-C. Ma'lumotlarni qazib olish
-D. Ma'lumotlar ilmi
-ANSWER: A 
-
-"Bashoratli modellashtirish" atamasining ta\'rifi nima?
-A. Voqea sodir bo'lish ehtimolini bashorat qilish uchun modelni yaratish (yoki tanlash) jarayoni
-B. Shaklni aniqlash va saqlash yoki kirish yoki chiqish oqimlarida saqlangan ma'lumotlardan mazmunli naqshlarni olish uchun sun'iy intellektdan foydalanadigan kompyuterlashtirilgan bilimlarni olish usuli
-C. Bu tanlangan tahlil usullaridan foydalangan holda analitik maqsadga samarali erishish uchun kiritilgan ma'lumotlar to'plamida bajarilishi kerak bo'lgan harakatlar ketma-ketligi
-D. Ma'lumotni mazmunli, foydalanish mumkin bo'lgan shaklga aylantirish usullari va vositalari
-ANSWER: A 
-
-Biznes intellektida qanday analitik vositalar mavjud?
-A. Bashoratli modellashtirish va ma'lumotlarni qazib olish
-B. MS Office bilan integratsiya
-C. BI infratuzilmasi
-D. Hisobot vositalari
-ANSWER: A 
-
-Noto`g`ri ma`lumotni toping
-A. NoSQL ma'lumotlar bazalari strukturalangan ma'lumotlarni saqlash uchun mo'ljallangan
-B. NoSQL ma'lumotlar bazalari analitik ma'lumotlarni qayta ishlash uchun samarali
-C. NoSQL ma'lumotlar bazalari strukturalanmagan ma'lumotlarni saqlash uchun qulaydir
-D. NoSQL ma'lumotlar bazalari join operatsiyalarini qo'llab-quvvatlamaydi
-ANSWER: A 
-
-3V prinsipiga nimalar kiradi?
-A. Hajmi, xilma-xilligi, tezlik
-B. Qiymat, haqiqat, tezlik
-C. Ovoz, haqiqat, tezlik
-D. Qiymat, xilma-xillik, tezlik
-ANSWER: A 
-
-AR-tizimining to'g'ri ta'rifini tanlang
-A. Natijaning yaxlitligini inkor etuvchi taqsimlangan tizim
-B. Optimal holatni saqlab qolish uchun o'z algoritmining ma'lumotlarini avtomatik ravishda o'zgartiradigan tizim
-C. Ma'lumotlar izchil va barcha tugunlarda mavjud bo'lgan tizim bo'linish uchun chidamlilikni qurbon qiladi
-D. Har bir daqiqada yaxlit natija beradigan va parchalanish sharoitida ishlashga qodir bo'lgan taqsimlangan tizim
-ANSWER: A 
-
-Quyidagilardan qaysi biri Big Data vizualizatsiya turi emas?
-A. Arxitektura vizualizatsiyasi
-B. Ilmiy vizualizatsiya
-C. Dasturiy ta'minotni vizualizatsiya qilish
-D. Axborotni vizualizatsiya qilish
-ANSWER: A 
-
-Umumiy samaradorlikni oshirish uchun tizimning har bir komponentini ishlashini oshirish- bu…
-A. Vertikal masshtablash
-B. Master- slave replikatsiyasi
-C. Gorizontal masshtablash
-D. Peer-to-pee replikatsiya.
-ANSWER: A 
-
-Talend Open Studio nima?
-A. ETL vizual modellashtirish dasturi
-B. Ma'lumotlar almashinuvi bilan ishlash imkonini beruvchi xizmat
-C. Xabar navbatlarini yaratish va ular bilan ishlash imkonini beruvchi xizmat
-D. Grafik dasturiy ta'minot
-ANSWER: A 
-
-«Business Intelligence» integratsiyasi vositasi nima?
-A. BI infratuzilmasi
-B. MS Office bilan integratsiya
-C. Bashoratli modellashtirish va ma'lumotlarni qazib olish
-D. Hisobot vositalari
-ANSWER: A 
-
-An’anaviy AT tizimlari Hadoop kabi katta hajmdagi ma’lumotlar tеxnologiyalari bilan birlashganda nimaga asos bo‘lishi mumkin?
-A. Katta hajmdagi ma’lumotlarni boshqarish va ma’lumotlarni qidirish
-B. Katta hajmdagi ma’lumotlarni boshqarish
-C. Katta hajmdagi ma’lumotlarni qidirish
-D. Strukturalanmagan ma’lumotlarni to‘plash va saqlash
-ANSWER: A 
-
-Quyidagi  javoblardan qaysida Hadoopni aniq va to‘liq tasvirlashning  xususiyatlari to‘g‘ri ko‘rsatilgan?
-A. Ochiq kodli, javaga asoslangan, taqsimlangan
-B. Obеktga yo‘naltirilgan dasturlash asosida, ochiq kodli
-C. Ochiq kodli
-D. Haqiqiy vaqt (real time) rеjimida ishlaydi
-ANSWER: A 
-
-Big Data Analyticsning qanday o‘ziga xos imkoniyatlari bor?
-A. Ochiq kodli, masshtabliligi, ma’lumotni tiklash
-B. Ochiq kodli, taqsimlangan, tеzligi
-C. Ochiq kodli, javaga asoslangan
-D. Ochiq kodli, masshtablanmagan ma’lumotlarni qidirish
-ANSWER: A 
-
-Flumе agеnti orqali oqib o‘tadigan ma’lumotlar birligi nima?
-A. Hodisa
-B. Hodisa, Funksiya
-C. Hodisa, Protsedura
-D. Satr, Protsеdura
-ANSWER: A 
-
-To‘g‘ri bildirilgan fikrni ko‘rsating
-A. Hadoopni qayta ishlash imkoniyatlari juda katta va bu haqiqiy afzallik tеrabayt va pеtabayt ma’lumotlarini qayta ishlash qobiliyatidir va Hadoop "MapRеducе" dasturiy modеlidan foydalanadi
-B. Hadoop "MapRеducе" dasturiy modеlidan foydalanadi, barcha dasturlar ushbu modеlni Hadoop platformasida ishlash uchun tasdiqlashi kеrak
-C. Hadoopni qayta ishlash imkoniyatlari juda katta va bu haqiqiy afzallik tеrabayt va pеtabayt ma’lumotlarini qayta ishlash qobiliyatidir
-D. Hadoop tomonidan ishlatiladigan MapRеducе dasturiy modеlini yozish va sinash qiyin
-ANSWER: A 
-
-Hadoop - bu turli xil vositalar bilan ishlaydigan frеymwork bo‘lib, u qaysi vositalarni o‘z ichiga oladi?
-A. MapRеducе, Hivе va HBasе
-B. MapRеducе va Googlе Apps
-C. MapRеducе, MySQL va HBasе
-D. Hеron va Trumpеt
-ANSWER: A 
-
-Avval  ma’lumotlar  bazasini boshqarishda ma’lumotlar bilan ishlashning qanday prinsiplari mavjud bo‘lgan?
-A. Pastki darajada tashqi xotira ma’lumotlarini boshqarish
-B. Ma’lumotlarni komandalar bilan boshqarish
-C. Tashqi xotira ma’lumotlarini boshqarish
-D. Ma’lumotlarni jamlash
-ANSWER: A 
-
-MBBTda bir vaqtning o‘zida bir nеchta tranzaksiyalar murojatini qayta ishlash bitta ma’lumotga bir nеcha marta amalga oshirish imkoniyatini quyidagi tеrminlardan qaysi birida to‘g‘ri ko‘rsatilgan?
-A. Parallеllik
-B. Bir vaqtda bir nеchta foydalanuvchi
-C. Bir vaqtda bir nеchta so‘rovga javob qaytarish
-D. Bog‘liqlik
-ANSWER: A 
-
-Ma’lumotlar bazasi xavfsizligini ta’minlash nimalardan iborat?
-A. Ayrim harakatlarni bajarish huquqi faqatgina aniq foydalanuvchiga va aniq vaqt davomida bеriladi
-B. Barcha foydalanuvchilar uchun alohida ma’lumotlarni o‘qish huquqi bеriladi
-C. Faqatgina avtorizatsiyalashgan foydalanuvchilar uchun harakatlarni bajarish huquqi bеriladi
-D. Ma’lum toifadagi foydalanuvchilar uchun ma’lumotlarni shifrlash va dеshifrlash huquqi bеriladi
-ANSWER: A 
-
-Katta hajmdagi  ma'lumotlarni tahlil qilish texnologiyalari uchun quyidagilar zarur:
-A. Ma'lumotlardan eng muhimlarini ajratib olish
-B. Kerakli diagramma va grafiklarni tuzish
-C. Ichki va tashqi manbalardan olingan ma'lumotlarni birlashtirish
-D. Maqsad va vazifalarini aniqlash
-ANSWER: A 
-
-Tranzaksiyalarning asosiy xususiyatlari
-A. ASID
-B. APID
-C. KRUD
-D. DDL
-ANSWER: A 
-
-Tizimdagi to‘xtalishlarda ma’lumotlarni qayta tiklash uchun nima zarur bo‘ladi
-A. Backup
-B. Tables
-C. Config
-D. Memory
-ANSWER: A 
-
-Qaysi buyruqlardan biri tranzaksiyadagi o‘zgarishlarni saqlash uchun xizmat qiladi
-A. COMMIT
-B. FLUSh
-C. ROLLBACK
-D. BEGIN TRANSACTION
-ANSWER: A 
-
-Quyidagi texnologiyalaridan qaysi biri MapReduce tamoyilidan foydalanmaydi?
-A. Redis
-B. Hadoop
-C. Kassandra
-D. HDInsight
-ANSWER: A 
-
-CRISP-DM jarayonining qaysi bosqichida gipoteza sinovi o'tkaziladi?
-A. Modellashtirish
-B. Ma'lumotlarni tushunish
-C. Baholash
-D. Biznes tushunchasi
-ANSWER: A 
-
-Tasniflash qoidasiga zid bo`lgan qatorni ko`rsating
-A. Bo‘linma mutanosib bo‘lmasligi kerak, ya’ni turga oid tushunchalarning hajmi bo‘linuvchi turga oid tushunchaga teng bo‘lmasligi kerak
-B. Bo‘linmaning har bir aktida faqat bir asosni qo‘llash zarur
-C. Bo‘linma mutanosib bo‘lishi kerak, ya’ni turga oid tushunchalarninghajmi bo‘linuvchi turga oid tushunchaga teng bo‘lishi kerak
-D. Bo‘linma ketma-ket bo‘lishi kerak
-ANSWER: A 
-
-Bashoratlash masalalarini hal qilishda tegishli bo`lmagan vazifani tanlang
-A. Bashoratlash arxitekturasini qurish
-B. Bashoratlash modelini tanlash
-C. Qurilgan bashoratning adekvatligini tahlil qilish
-D. Qurilgan bashoratning aniqligini tahlil qilish
-ANSWER: A 
-
-Bashoratlash masalasini hal qilishda qaysi parametrni aniqlash talab etilmaydi?
-A. Bashoratlash  qoidasi
-B. Bashoratlash davri
-C. Bashoratlash gorizonti
-D. Bashoratlash intervali.
-ANSWER: A 
-
-Ma`lumotlarni qidirishga tegishli bo`lmagan vazifasini aniqlang
-A. Avtomatik yoki yarim avtomatik vositalar yordamida katta hajmdagi ma'lumotlarni mazmunlilarini aniqlash uchun tadqiq qilish va tahlil qilish
-B. Ma`lumotlarni qidiruv kalit so`zi bo`yicha toppish
-C. Ma'lumotdagi foydali, ehtimoli kutilganlarini toppish
-D. Ma'lumotlardan noaniq, ilgari noma'lum va potentsial foydali ma'lumotlarni olish
-ANSWER: A 
-
-Amalda eng kam qo'llaniladigan mashinali o'rganish algoritlari quyidagilarga asoslangan:
-A. Mustahkamlash  va o'rganish algoritmlari
-B. Nazoratsiz o'qitish algoritmlari
-C. Nazorat ostidagi o'rganish algoritmlari
-D. Konvolyutsion neyron tarmoqlar
-ANSWER: A 
-
-K-o'rtacha algoritmi qanday muammoni hal qilish uchun mo'ljallangan:
-A. Klasterlash
-B. Tasniflar
-C. Bashoratlar
-D. O'lchamlarni qisqartirish
-ANSWER: A 
-
-O`qituvchi bilan ta`lim usulini amalga oshirish quyidagilarni talab qilmaydi:
-A. Baholash na`munasi
-B. Trening namunasi
-C. Sinov namunasi
-D. Namunani tekshirish
-ANSWER: A 
-
-Quyidagi faoliyat tamoyillaridan qaysi biri Big Dataga taalluqli emas?
-A. Vertikal masshtablilik
-B. Gorizontal masshtablilik
-C. Xatolarga chidamlilik
-D. Ma'lumotlarning joylashuvi
-ANSWER: A 
-
-CAP teoremasiga (Brewer teoremasi) ko'ra, taqsimlangan hisoblashning har qanday amalga oshirilishida nimani ta'minlash mumkin?
-A. Faqat ma'lumotlar mavjudligi
-B. Faqat ma'lumotlarning izchilligi
-C. Ma`lumotlarning bo`lishini barqarorligi
-D. Ma'lumotlarning izchilligi, ma'lumotlarning mavjudligi, bo'linishning barqarorligi
-ANSWER: A 
-
-HDFS-da NameNode-ning maqsadi nima?
-A. Xost nomlarini saqlash
-B. Muayyan tugunda saqlangan fayl nomini saqlash
-C. Qaysi ma'lumotlar bo'lagi qaysi tugunda joylashganligi indeksini saqlash
-D. Fayl nomi saqlanadigan tugun indeksini saqlash
-ANSWER: A 
-
-…. - bu har tomonlama qamrab oluvchi atama bo'lib, zamonaviy raqamli muhitda kompaniyalar va hukumatlar yaratadigan murakkab ma'lumotlar to'plamining ulkan hajmini ifodalaydi.
-A. Big Data
-B. Data Mining
-C. Data digging
-D. Big Data Analytics
-ANSWER: A 
-
-"Big data" rivojlanishining asosiy omillari qaysi qatorda to’g’ri ko’rsatilgan?
-A. Saqlash sig'imlarini oshirish, qayta ishlash quvvatini oshirish, ma'lumotlarning mavjudligi
-B. Ma'lumotdagi foydali, ehtimoli kutilganlarini topish
-C. Ma'lumotlardan noaniq, ilgari noma'lum va potentsial foydali ma'lumotlarni olish
-D. Ma`lumotlarni qidiruv kalit so`zi bo`yicha topish
-ANSWER: A 
-
- Big Datani aniqlashda foydalaniladigan asosiy 3 ta xarakteristikasi berilgan qatorni toping.
-A. Hajm, xilma-xillik, tezlik
-B. Umumiylik, ishonchlilik, tezlik
-C. Tartib, tezlanish, tezlik
-D.  Xilma-xillik, tartib, hajm
-ANSWER: A 
-
- Ilgari petabaytlarda (PB) o'lchangan agregatsiya endilikda qaysi atama bilan ifodalanadi?
-A. Zettabaytlar 
-B.  Terabaytlar
-C.  Gigabaytlar
-D.  Egzabaytlar
-ANSWER: A 
-
-Haqiqatan ham qaror qabul qilish jarayoniga tegishli bo'lgan barcha ma'lumotlarni olishga harakat qilish, ya’ni fikr yoki tasvirlarni tahlil qilish kabi strukturalanmagan ma'lumotlardan ma'no yaratish Big Dataning qaysi xarakteristikasini anglatadi?
-A.  Xilma-xillik
-B.  Tezlik
-C.  Tartib
-D.  Hajm
-ANSWER: A 
-
- … - Big Dataning asosiy xususiyatlaridan biri bo’lib, ma\'lumotlarning korxonaga kelishi va qayta ishlanishi yoki yaxshi tushunilishi darajasi, boshqa so\'zlar bilan aytganda, "bu haqda biror narsa qilish yoki ma’lumotlar kelganini bilish uchun qancha vaqt ketishi"ni ifodalaydi.
-A.  Tezlik
-B.  Hajm
-C.  Vaqt
-D.  Xilma-xillik
-ANSWER: A 
-
- Apache Storm nima?
-A. Katta maʼlumotlarni hisobga olgan holda yaratilgan, odatiy muammolarni hal qiladigan taqsimlangan real vaqtda hisoblash tizimi
-B.  Bo'ron yadrosi ustidan yuqori darajadagi abstraksiya
-C. Mustaqil yoki bulutda ishlaydigan, turli xil ma'lumotlar manbalariga kirishi mumkin bo’lgan tizim
-D. Oqim va murakkab tahlillarni  SQL orqali birlashtirish
-ANSWER: A 
-
- Google BigQuery - bu …
-A. Milliardlab qatorlargacha boʻlgan yirik maʼlumotlar toʻplamini interaktiv tahlil qilish imkonini beruvchi veb-xizmati.
-B. Doimiy "katta ma\'lumotlar" uchun analitik platforma
-C. Saqlangan sanada tadqiqotchilarning katta guruhiga ishlashga imkon beruvchi ijro xizmatlari
-D. Ma'lumotlar markazlariga ma'lumotlarning kelib chiqishi va xususiyatlarini kuzatish uchun katta miqdordagi markerlarni ro'yxatdan o'tkazishga imkon beruvchi doimiy identifikatsiya
-ANSWER: A 
-
-Katta ma'lumotlar asosan qaysi manbalardan olinadi?
-A. Tranzaksiya ma'lumotlari, mashina ma'lumotlari va ijtimoiy ma'lumotlardan
-B.  Tashkilot va korxonalarning veb-saytlaridan
-C. Kompaniyalarning kompleks ma’lumotlaridan
-D.  Big dataga aloqador o’quv qo’llanmalardan
-ANSWER: A 
-
-… -  Operatsion xarajatlarni kamaytirish, mijozlarni ushlab turish darajasini oshirish, raqobat ustunligiga ega bo'lish, korxonalarning umumiy biznes strategiyasini takomillashtirish kabi aniq ma'lumotlarni yaratishga yordam beradi.
-A.  Big Data
-B. Data Mining
-C. Data digging
-D. Big Data Analytics
-ANSWER: A 
-
- Big data sohasidagi yo’nalishlar asosan necha toifaga bo’linadi?
-A. 2
-B.  3
-C.  4
-D.  5
-ANSWER: A 
-
-Big Dataning qaysi toifasi asoslarni, ma'lumotlarni yig'ish va saqlashni ishlab chiqadi va tegishli ma'lumotlarni turli iste'molchi va ichki ilovalar uchun mavjud qiladi?
-A.  Big Data engineering
-B.  Big Data Analytics
-C.  Hadoop
-D.  MapRеducе
-ANSWER: A 
-
-Yaxshi dasturlash ko'nikmalariga ega va kompyuterlar Internet orqali qanday aloqa qilishini tushunuvchi, lekin matematika va statistikaga qiziqmaydigan insonlar uchun Big dataning qaysi toifasi ko’proq mos keladi? 
-A.  Big Data engineering
-B.  Big Data Analytics
-C.  Hadoop
-D.  MapRеducе
-ANSWER: A 
-
- Ma’lumotlarni qayta ishlash talablari nimalardan iborat?
-A.  So’rov vaqti, qayta ishlash vaqti, ma’lumotlarni qayta ishlashning aniqligi
-B.  So’rov vaqti, ichki va tashqi manbalar
-C.  Qayta ishlash vaqti, samarali tahlil, veb-tahlil
-D. Ichki manba, hajm, tezlik
-ANSWER: A 
-
- Big Data atamasi qachondan beri keng qo'llanila boshlandi? 
-A. 1990-yillardan
-B.  1980-yillardan
-C.  1985-yillardan
-D.  1995-yillardan
-ANSWER: A 
-
- Big Data atamasining ommalashishi kimning nomi bilan bog'liq?
-A. Jon R. Mashey
-B.  Noreen Burlingame
-C.  Robert Uleman
-D.  Steve Jobs
-ANSWER: A 
-
-Katta ma'lumotlar bilan ishlashda duch keladigan asosiy muammolar qaysilar?
-A. Hisoblash xarajatlarining oshishi
-B.  Samarali tahlilga erishish
-C.  Ma’lumotlarni yig’ish
-D.  Oqim va murakkab tahlillarni  SQL orqali birlashtirish
-ANSWER: A 
-
- MapReduce, HDFS, Hive kabi taqsimlangan ishlov berish uslublari va vositalarining paydo bo'lishi va rivojlanishiga qanday g’oya turtki bo'ldi?
-A.  Bitta kompyuterda ma'lumotlarni qayta ishlash imkoni bo'lmasa, u holda uning algoritmini qismlarga bo'lish va bir nechta mashinalarda bajarishga harakat qilish g’oyasi
-B. Ma'lumotlardan noaniq, ilgari noma'lum va potentsial foydali ma'lumotlarni Olish g’oyasi
-C.  Ma`lumotlarni qidiruv kalit so`zi bo`yicha topish g’oyasi
-D.  Hisoblash xarajatlarining oshishini bartaraf etish g’oyasi
-ANSWER: A 
-
- Big data qiymat zanjiri qanday elementlardan iborat?
-A. Katta ma'lumotlarni boshqarish, katta ma'lumotlarni tahlil qilish, professional katta ma'lumotlar xizmatlari 
-B.  Veb-tahlil, oqim tahlil va kompleks tahlil
-C.  So’rov vaqti, ichki manbalar va tashqi manbalar
-D.  Tranzaksiya ma'lumotlari, mashina ma'lumotlari va ijtimoiy ma'lumotlar
-ANSWER: A 
-
- Katta ma'lumotlarni yig'ish, saqlash va qayta ishlash uchun infratuzilmani rivojlantirish Big Data qiymat zanjirining qaysi elementini tavsiflaydi?
-A.  Katta ma'lumotlarni boshqarish
-B.  Katta ma'lumotlarni tahlil qilish
-C.  Professional katta ma'lumotlar xizmatlari 
-D.  Kompleks tahlil
-ANSWER: A 
-
- Data Science jarayoni nechta punkttan iborat?
-A. 6
-B.  5
-C.  4
-D.  3
-ANSWER: A 
-
-Tabiiy tildadagi ma’lumotlar bilan ishlovchi kutubxona nima deb nomlanadi?
-A. Natural Language Toolkit
-B.  Natural Toolkit
-C.  Ordinary Language
-D.  Typical Data
-ANSWER: A 
-
- SQL hamda NoSQL ma’lumotlar bazasining farqi nimada?
-A.  SQL faqat jadvallar ko’rinishida beriladi
-B.  SQL ma’lumotlar dokument ko’rinishida bo’ladi
-C.  SQL wide-column ko’rinishida ma’lumotlarni saqlaydi
-D.  NoSQL faqat jadvallar ko’rinishida beriladi
-ANSWER: A 
-
- Uzellar (bo’gimlar) bilan birgalikta ma’lumotlarni grafik ko’rinishda saqlovchi ma’lumotlar bazasi nima deb ataladi?
-A.  Neo4j
-B.  NoSQL
-C.  Grafik xarakteristika
-D.  Grafik SQL
-ANSWER: A 
-
- … - analiz muommolarini, ma'lumotlarni qayta ishlash va ularni raqamli ko'rinishda taqdim etishni o'rganadigan fan.
-A.  Data Science
-B.  Data mining
-C.  Machine learning
-D.  Data learning
-ANSWER: A 
-
- Data mining atamasi nechinchi yilda fanga kirib kelgan?
-A. 1989
-B.  1974
-C.  2003
-D.  1997
-ANSWER: A 
-
-Mashinali o'qitishga birinchi tarifni qaysi amerikalik informatik bergan?
-A. Artur Samuel
-B.  Pyatetskiy-Shapiro
-C.  Uolter Pitts
-D.  Uorren Makkarok
-ANSWER: A 
-
- … - aniq strukturaga ega bo'lmagan juda katta hajmdagi ma'lumotlarni qayta ishlash natijasida muqobil biznes yechimlar izlashga aytiladi.
-A.  Business Intelligence
-B.  Data Business
-C.  Business learning
-D.  Business machine learning
-ANSWER: A 
-
-… - Python ituvchi bilan ta`lim usulini amalga oshirish quyidagilarni talab qilmaydi:
-A. Pandas
-B.  SciPy
-C.  Matplotlib
-D.  IPython
-ANSWER: A 
-
-…. - qayta ishlanmagan katta ma'lumotlar ombori.
-A. Data lake
-B.  Warehouse data
-C.  Data learning
-D.  Deep learning
-ANSWER: A 
-
-Real vaqtdagi voqealar oqimi texnologiyasini ko’rsating.
-A. Apache Kafka
-B.  Spark Streaming
-C.  MapReduce
-D.  Apache Hadoop
-ANSWER: A 
-
-Mikroservis arxitekturasini amalga oshirish va turli tizimlarni birlashtirish uchun to’g’ri keluvchi texnologiya
-A.  Apache Kafka
-B.  Apache Hadoop
-C.  Apache Spark
-D.  Apache AirFlow
-ANSWER: A 
-
-Deep Learning (chuqushlashtirilgan Mashine learning) uchun qaysi framework ko’proq to’g’ri keladi
-A. Flask 
-B.  TensorFlow
-C.  PyTorch
-D.  Scikit-Learn
-ANSWER: A 
-
- Apache NiFi nima uchun foydalaniladi?
-A.  Big Data oqimlarini marshrutlash va ETL-konveyer yaratish uchun
-B.  Katta ma’lumotlarni effektli saqlash uchun
-C. Analiz natijalarini viziuallashtirish uchun
-D.  SQL-so’rovlarini optimallashtirish uchun
-ANSWER: A 
-
- Parquet formati … hisoblanadi
-A.  Satrli
-B.  Strukturalanmagan
-C.  Yarim strukturalangan
-D.  Ustunli
-ANSWER: A 
-
- Spark Streaming ilovsi ikkita bo’limdan iborat. Ular qanday?
-A.  Statik va dinamik
-B.  Strukturaviya va strukturalanmagan
-C.  Grafik va jadval
-D.  Katta va kichik
-ANSWER: A 
-
-Neo4j ma’lumotlar bazasi interfeysi bilan ishlash uchun foydalaniladigan grafik so’rovlar tili?
-A. Cypher
-B.  Phyton
-C.  NoSQL
-D.  JavaScript
-ANSWER: A 
-
-MapReduce hisoblash modeli necha qadamli kombinatsiyadan turadi va ular qanday?
-A. 3 ta: Map, Shuffle, Reduce
-B.  2 ta: Map, Reduce
-C.  5 ta: Map, Reduce, Acces, Stream, NiFi
-D. 2 ta: Stream, NiFi
-ANSWER: A 
-
-… - ma’lumotlar tranzanktsiyasini qo’llab-quvvatlovchi dasturiy broker.
-A. Apache Kafka
-B.  Apache Hive
-C.  Apache Hadoop
-D.  Apache Drive
-ANSWER: A 
-
-… - Java tilida yozilgan, Google tomonidan yaratilgan BigTable ma’lumotlar bazasining analogi hisoblanuvchi taqsimlangan ochiq kodli ma’lumotlar bazasi hisoblanadi. 
-A.  Apache HBase
-B.  Apache Hadoop
-C.  Apache Kafka
-D.  MapReduce
-ANSWER: A 
-
- Hadoop qanday nom bilan atalgan?
-A. Cutting o'g'lining o'yinchoq fili
-B.  Cuttingning o'rta maktab rok guruhi
-C.  Ijodkor Dag Kattingning sevimli sirk harakati
-D.  Hadoop ishlab chiqilishi davrida ishlab chiqarilgan sound Cutting noutbuki
-ANSWER: A 
-
- Quyidagilarning barchasi Hadoopni to'g'ri ta'riflaydi, faqat bir ta’rifdan tashqari:
-A. Haqiqiy vaqt
-B. Ochiq manba
-C.  Javaga asoslangan
-D.  Tarqalgan hisoblash yondashuvi
-ANSWER: A 
-
- Hadoop - bu turli xil tegishli vositalar bilan ishlaydigan ramka. uning umumiy guruhlarga quyidagilar kiradi:
-A. MapReduce, Hive va HBase
-B.  MapReduce, MySQL va Google ilovalari
-C. MapReduce, Hummer va Iguana
-D.  MapReduce, Heron va Trumpet
-ANSWER: A 
-
- Tahlilchilarning fikriga ko'ra, an'anaviy IT tizimlari Hadoop kabi katta ma'lumotlar texnologiyalari bilan integratsiyalashganda nima uchun asos bo'lishi mumkin?
-A.  Katta ma'lumotlarni boshqarish va ma'lumotlarni qazib olish
-B.  Tuzilmagan ma'lumotlarni yig'ish va saqlash
-C. Hadoop klasterlarini boshqarish
-D.  Ma'lumotlarni saqlash va biznes razvedkasi
-ANSWER: A 
-
- Yagona klasterda o'n minglab tugunlarni qo'llab-quvvatlash imkonini beruvchi YARN qo'llab-quvvatlashi Hadoopga qaysi yangilanishda qo'shilgan?
-A.  2.0 seriyali
-B.  3.0 seriyali
-C.  3.1 seriyali
-D.  3.2 seriyali
-ANSWER: A 
-
- Hadoop katta ma'lumotlar foydalanuvchilariga quyidagi sabablarga ko'ra foyda keltiradi, bundan tashqari:
-A.  U katta hajmdagi tuzilgan, yarim tizimli va tuzilmagan ma'lumotlarni tezda saqlashi va qayta ishlashi mumkin
-B.  U yaxshiroq operativ qarorlar qabul qilishga yordam berish uchun real vaqtda tahlilni qo'llab-quvvatlashi mumkin
-C. U ilova va ma'lumotlarni qayta ishlashni apparatdagi nosozliklardan himoya qiladi
-D.  Muayyan analitik maqsadlarda filtrlashdan oldin ma'lumotlarni saqlash uchun oldindan qayta ishlanishi kerak
-ANSWER: A 
-
-To'g'ri bayonotni ko'rsating.
-A.  Hadoop ma'lumotlarni qayta ishlash uchun maxsus apparatga muhtoj
-B.  Hadoop 2.0 real vaqtda ma'lumotlarni jonli oqim bilan qayta ishlash imkonini beradi
-C.  Hadoop dasturlash ramkasida chiqish fayllari qatorlarga yoki yozuvlarga bo'linadi
-D. Qayd etilganlarning hech biri
-ANSWER: A 
-
-Tahlilchilarning fikriga ko'ra, an'anaviy IT tizimlari Hadoop kabi katta ma'lumotlar texnologiyalari bilan integratsiyalashganda nima uchun asos bo'lishi mumkin?
-A.  Katta ma'lumotlarni boshqarish va ma'lumotlarni qazib olish
-B.  Ma'lumotlarni saqlash va biznes razvedkasi
-C. Hadoop klasterlarini boshqarish
-D.  Tuzilmagan ma'lumotlarni yig'ish va saqlash
-ANSWER: A 
-
- Facebook Hadoopga asoslangan. U _______ yordamida katta ma'lumotlar bilan kurashadi.
-A. "Loyiha Prizmasi"\'
-B.  "Prizma"
-C.  "Katta loyiha"
-D.  "Loyiha ma\'lumotlari"
-ANSWER: A 
-
- Xaritachi ilovalari ish uchun JobConf ________ usuli orqali uzatiladi.
-A. JobConfigurable.configurable
-B. JobConfigurable.configure 
-C.  Aytilganlarning hech biri
-D.   JobConfigure.configure\n
-ANSWER: A 
-
- Noto'g'ri bayonotni ko'rsating.
-A.  Reduktor 2 asosiy fazaga ega
-B.  Kamaytirishlar sonini ko'paytirish ramka qo'shimcha xarajatlarini oshiradi, lekin yuk muvozanatini oshiradi va nosozliklar narxini pasaytirad
-C.  Agar qisqartirish talab qilinmasa, qisqartirish vazifalari sonini nolga o'rnatish qonuniydir
-D.  Ramka guruhlari tartiblash bosqichida tugmalar bo'yicha reduktor kiritishlari (chunki turli xaritachilar bir xil kalitni chiqarishi mumkin)
-ANSWER: A 
-
- _______ chiqishi Hadoop uchun Mapreduce tizimida tartiblanmagan.
-A. Qayd etilganlarning hech biri
-B.  Cascader
-C.  Scalding
-D. Mapper
-ANSWER: A 
-
- Quyidagi fazalardan qaysi biri bir vaqtda sodir bo'ladi?
-A. Aralash va saralash
-B.  Qisqartirish va saralash
-C.  Qayd etilganlarning barchasi
-D.  Aralash va xarita
-ANSWER: A 
-
-_________ dunyodagi eng katta Hadoop klasteriga ega.
-A. Facebook
-B.  Datamatics 
-C.  Facebook
-D.  Qayd etilganlarning hech biri
-ANSWER: A 
-
- Mijoz HDFS fayl tizimi bilan aloqa qilganda, u bilan bog'lanishi kerak
-A. Nom tugunlari va ma'lumotlar tugunlari
-B. Faqat ma'lumotlar tugunlari
-C.  Nom tugunlari va 
-D.  Bularning hech biri
-ANSWER: A 
-
- Quyidagilardan qaysi biri ilgari faol bo'lgan nom tugunlari uchun fextavonie mexanizmi emas?
-A.  Uning diskini formatlash.
-B.  Uning umumiy xotira katalogiga kirishi bekor qilinmoqda.
-C. Masofadan boshqarish buyrug'i orqali uning tarmoq portini o'chirish.
-D. STONIT
-ANSWER: A 
-
- Ma'lumotlar bloklarini mos keladigan fayllar bilan xaritalash ma'lumotlari saqlanadi
-A. Vazifa kuzatuvchisi
-B.  Ish kuzatuvchisi
-C.  Ma'lumotlar tugun
-D.  Namenode
-ANSWER: A 
-
-HDFS da fayllar bo'lishi mumkin emas
-A. Arxivlangan
-B.  O'chirildi
-C.  Bajarilgan
-D.  O’qish
-ANSWER: A 
-
- Xarita - Ishlarni qisqartirishni to'g'ridan-to'g'ri Avro ma'lumotlarida ishga tushira olasizmi?
-A.  Ha, Avro Map-Reduce orqali ma'lumotlarni qayta ishlash uchun maxsus ishlab chiqilgan.
-B. Ha, lekin qo'shimcha keng qamrovli kodlash talab qilinadi.
-C.  Yo'q, Avro faqat ma'lumotlarni saqlash uchun mo'ljallangan.
-D.  Ushbu ma'lumotlardan xaritani qisqartirishning bir qismi sifatida foydalanish mumkin emas, balki faqat kiritish spetsifikatsiyasi.
-ANSWER: A 
-
-HDFS-dagi bitta blok o'lchamidan kichikroq fayl _____
-A.  HDFSda saqlanmaydi.To'liq blokni emas, faqat kerakli hajmni egallaydi.
-B. To'liq blokning o'lchamini egallaydi.
-C.  HDFSda saqlanmaydi.
-D.  Bir nechta bloklarni qamrab olishi mumkin.
-ANSWER: A 
-
- Qaysi biri Big Data ga tegishli emas
-A. Bir jinsli bo’lgan ma’lumotlar
-B. Bir jinsli bo'lmagan ma’lumot
-C. Tez tushadigan raqamli ma’lumotlar
-D. Juda katta hajmdagi ma’lumotlar
-ANSWER: A 
-
- “_____” bu faqat ma’lumotlarning o‘zi emas, balki ularni qayta ishlash va foydalanish texnologiyasi, juda katta oqim ichidan kerakli axborotni izlash uslubidir.
-A.  Big Data
-B.  Big hard
-C.  Big ROM
-D.  Eng katta ma’lumot
-ANSWER: A 
-
- Mutaxassislarning fikricha, kuniga ___ gb dan ko'p ma'lumot tushadigan oqimlarga big data deb aytilar ekan.
-A. 100
-B.  1000
-C.  10
-D.  100000
-ANSWER: A 
-
-Quyidagilardan qaysi biri katta ma'lumotlar manbai bo’lmasligi mumkin?
-A. Serverdagi eng katta hajmli ma’lumotlar to’plami
-B. Internet (ijtimoiy tarmoqlar, forumlar, bloglar, ommaviy axborot vositalari va boshqa saytlar);
-C. Korporativ hujjatlar arxivi;
-D. Sensorlar, asboblar va boshqa qurilmalarning ko'rsatkichlari.
-ANSWER: A 
-
-Katta ma'lumot shakllarini ko’rsating
-A.  Barcha javoblar to’g’ri
-B. Strukturalangan
-C. Strukturasiz
-D. Yarim tuzilgan
-ANSWER: A 
-
-Big Data - bu …
-A.  Bu katta hajmdagi ma'lumotlarni boshqarish bilan bog'liq bo'lgan texnologik tushuncha\n
-B. Bu katta hajmdagi bulutli va arxivlangan ma'lumotlarni boshqarish bilan bog'liq bo'lgan texnologik tushuncha
-C.  Katta hajmdagi bir jinli ma’lumotlar
-D.  A va B javoblar to’g’ri
-ANSWER: A 
-
-Tender ma'lumotlari odatda quyidagi xususiyatlar bilan aniqlanadigan ma'lumotlar hajmini boshqaradi: Bular …?
-A. Hajmi, Tezlik, Turli xil
-B. Hajmi, Vaqt, Turli xil
-C. Hajmi, Vaqt, Tezlik
-D. Energiya, Vaqt, Turli xil
-ANSWER: A 
-
- Tezlik xususiyati __________
-A. Bir nechta manbalardan olingan ma'lumotlarni boshqarish va boshqarish tezligi.
-B. Ko'p manbalardan olingan ma'lumotlarning formati.
-C. Ko'p manbalardan olingan ma'lumotlar hajmi.
-D. Vaqtlarni boshqarish jarayoni
-ANSWER: A 
-
-Apache Hadoop _____________
-A. Hadoop Distributed File System (HDFS), Hadoop MapReduce va Hadoop Common-dan tashkil topgan ochiq kodli platforma.
-B. Serializatsiya xizmatlarini taqdim etuvchi Apache loyihasi.
-C. Voqealar jurnallarini keng ko'lamda yig'ish va tahlil qilish uchun mo'ljallangan dasturiy ta'minot.
-D. Asosiy vazifasi ma'lumotlarni bir manbadan boshqa joyga yo'naltirish bo'lgan dasturiy ta'minot.
-ANSWER: A 
-
- Data science ____________
-A.  Analiz muommolarini , ma'lumotlarni qayta ishlash va ularni raqamli ko'rinishda taqdim etishni o'rganadigan fan
-B.  Natijalarning muommolarini , ma'lumotlarni qayta ishlash va ularni raqamli ko'rinishda taqdim etishni o'rganadigan fan
-C.  Oldingi bilimlar muommolarini , ma'lumotlarni qayta ishlash va ularni raqamli ko'rinishda taqdim etishni o'rganadigan fan
-D.  Barcha javoblar to’g’ri
-ANSWER: A 
-
-Katta ma'lumotlar paradigmasi uchta asosiy turdagi vazifalarni belgilang. 
-A. Barcha javoblar to’g’ri
-B. An'anaviy relyatsion ma'lumotlar bazalari samarali foydalana olmaydigan yuzlab terabayt yoki petabayt ma'lumotlarni saqlash va boshqarish.
-C. Matn, rasmlar, videolar va boshqa turdagi ma'lumotlardan iborat tuzilmagan ma'lumotlarni tashkil qilish.
-D. Katta ma'lumotlarni tahlil qilish, bu tizimlashtirilmagan ma'lumotlar bilan ishlash, tahliliy hisobotlarni yaratish va bashoratli modellarni amalga oshirish masalasini ko'taradi.
-ANSWER: A 
-
-Crowdsourcing nima?
-A. Ko'p sonli manbalardan ma'lumotlarni yig'ish metodologiyasi.
-B. 10 tadan kam bo’lmagan manbalardan ma'lumotlarni yig'ish metodologiyasi.
-C.  Big data yaratish va tajribadan o’tkazish usuli
-D. Barcha javoblar to’g’ri
-ANSWER: A 
-
-Optimallashtirish bu _____________?
-A. Bir yoki bir nechta ko'rsatkichlarni takomillashtirish uchun murakkab tizimlar va jarayonlarni qayta loyihalashning raqamli usullari to'plami. Strategik qarorlar qabul qilishda yordam beradi, masalan, bozorga chiqariladigan mahsulot turining tarkibi, investitsiya tahlilini o'tkazish va boshqalar.
-B. Ma’lumotlar bazasini  takomillashtirish uchun murakkab tizimlar va jarayonlarni qayta loyihalashning raqamli usullari to'plami. 
-C. Foydaga qaratilgan qarorlarni qabul qilishda yordam beradi, masalan, bozorga chiqariladigan mahsulot turining tarkibi, investitsiya tahlilini o'tkazish va boshqalar.
-D.  A va B javoblar to’g’ri
-ANSWER: A 
-
-Data lake bu __________?
-A. Qayta ishlanmagan katta ma'lumotlar ombori.
-B. Qayta ishlangan katta ma'lumotlar ombori.
-C. Tahlil qilingan katta ma'lumotlar ombori.
-D. Barcha javoblar tog’ri
-ANSWER: A 
-
-Machine learning bu __________?\n
-A. O'zi o'rganadigan dasturlar yaratish amaliyoti va nazariyasi, sun'iy intellektning katta qismi.
-B. O'zi o'rganadigan dasturlar muxitini yaratish amaliyoti tartibi va nazariyasi, sun'iy intellektning katta qismi.
-C. Barcha javoblar to’g’ri
-D. Sun'iy intellektning katta qismi va uning tahlili
-ANSWER: A 
-
-Sun'iy neyron tarmog'i  –  ?
-A. Oddiy protsessorlar(sun'iy neyronlar) birlashtirilgan tizimi bo'lib, insonning nerv tizimini imitatsiya qiladi
-B. Murakkab protsessorlar(sun'iy neyronlar) birlashtirilgan tizimi bo'lib, insonning nerv tizimini imitatsiya qiladi
-C.  A va B javoblar to’g’ri
-D. Aniq strukturaga ega bo'lmagan juda katta hajmdagi ma'lumotlarni qayta ishlash natijasida muqobil biznes yechimlar izlashga aytiladi.
-ANSWER: A 
-
-Business intelligence bu ____________?
-A. Aniq strukturaga ega bo'lmagan juda katta hajmdagi ma'lumotlarni qayta ishlash natijasida muqobil biznes yechimlar izlashga aytiladi.
-B. Aniq strukturaga ega bo'lgan juda katta hajmdagi ma'lumotlarni qayta ishlash natijasida muqobil biznes yechimlar izlashga aytiladi.
-C.  Barcha javoblar to’g’ri
-D. Yanada murakkab va yanada mustaqil bo'lgan o'zi o'qidigan dasturlar yaratadigan mashinali o'qitish turi
-ANSWER: A 
-
-Klaster tahlili bu ___________?
-A. Oldindan noma'lum bo'lgan umumiy xususiyatlarni aniqlash orqali ob'ektlarni guruhlarga ajratishning statistik usuli. Ichida ishlatilgan ma'lumotlar qazib olish.
-B. Oldindan ma'lum bo'lgan umumiy xususiyatlarni aniqlash orqali ob'ektlarni guruhlarga ajratishning statistik usuli. Ichida ishlatilgan ma'lumotlar qazib olish.
-C.  Barcha javoblar to’g’ri
-D. Ko'p sonli manbalardan ma'lumotlarni yig'ish metodikasi.
-ANSWER: A 
-
- Katta hajmdagi ma’lumotlarni yaratadigan dasturiy vositalarni ko’rsating
-A. Barcha javoblar to’g’ri
-B. Hadoop va MapReduce;\n
-C. NoSQL ma'lumotlar bazalari;
-D. Data Discovery sinf vositalari.
-ANSWER: A 
-
-Data mining bu _____________?
-A. Biron qonuniyatni topish maqsadida ma'lumotlarni intellektual analiz qilishga aytiladi
-B. Biron yangilik va tadqiqotni topish maqsadida ma'lumotlarni intellektual analiz qilishga aytiladi
-C.  A va B javoblar to’g’ri
-D. O'zi o'rganadigan dasturlar yaratish amaliyoti va nazariyasi, sun'iy intellektning katta qismi.
-ANSWER: A 
-
- Quyidagilardan qaysi biri Hadoopning demoni?
-A. NameNode
-B.  Tugun boshqaruvchisi
-C.  DataNode
-D.  yuqoridagilarning barchasi
-ANSWER: A 
-
- Quyidagilardan qaysi biri Hadoop haqida to'g'ri emas?
-A. Barchasi to’g’ri.
-B.  Bu taqsimlangan tuzilma.
-C.  Unda ishlatiladigan asosiy algoritm Map Reduce hisoblanadi.
-D.  U tovar apparati bilan ishlaydi.
-ANSWER: A 
-
- Hadoop Framework _______da yozilgan
-A. Java
-B.  Python
-C.  C++
-D.  Scala
-ANSWER: A 
-
- Quyidagilardan dunyodagi eng katta Hadoop klasteriga ega.
-A. YARN
-B.  HDFS
-C.  MapReduce
-D.  Yuqoridagilarning barchasi
-ANSWER: A 
-
- Hadoop-da yaratilgan arxiv fayli ___ kengaytmasiga ega
-A. har
-B. hrh
-C. hrc
-D. hrar
-ANSWER: A 
-
-  Apache Hadoop qanday litsenziya ostida tarqatiladi?
-A. Apache License 2.0
-B.  Shareware
-C.  Mozilla Public License
-D.  Commercial
-ANSWER: A 
-
- Apache Hadoop bir nechta xostlar bo'ylab ma'lumotlarni takrorlash orqali ishonchlilikka erishadi va shuning uchun xostlarda ________ saqlashni talab qilmaydi
-A.  RAID
-B.  Standart RAID darajalari
-C.  ZFS
-D.  Operatsion tizim
-ANSWER: A 
-
- Quyidagilardan qaysi biri to‘g‘ri?
-A.   Ma'lumotlarning joylashuvi ma'lumotlarga hisoblash o'rniga ma'lumotlarni hisoblashga ko'chirishni anglatadi.
-B.   Ma'lumotlarning joylashuvi hisoblashni ma'lumotlarni hisoblash o'rniga ma'lumotlarga ko'chirishni anglatadi
-C. Yuqoridagilardan hech qaysisi.
-D.  Yuqoridagi ikkalasi ham
-ANSWER: A 
-
-  "Katta ma\'lumotlar" so\'zi _________ yilda yaratilgan.
-A. 1998
-B.  2000
-C.  1970
-D.  2005
-ANSWER: A 
-
- Quyidagi apache tizimlaridan qaysi biri Hadoop-ga oqim ma'lumotlarini kiritish bilan shug'ullanadi?
-A. Flume
-B.  Oozie
-C.  Hive
-D.  Kafka
-ANSWER: A 
-
- Quyidagi xususiyatlardan qaysi biri mapred-site.xml da sozlanadi?
-A.  MapReduce ishlaydigan xost va port
-B. Replikatsiya omili
-C.  Java muhiti o'zgaruvchilari
-D.  Hdfs fayllarni saqlash uchun katalog nomlari
-ANSWER: A 
-
- Hadoop haqida qaysi bayonot noto'g'ri?
-A.   Bu ma'lumotlarni jonli uzatish uchun eng yaxshisidir
-B.  U tovar apparati bilan ishlaydi
-C.  Bu ASF homiyligidagi Apache loyihasining bir qismidir
-D. Yuqoridagilardan hech qaysisi
-ANSWER: A 
-
- Hadoop qaysi qaysi biri Hadoop komponenti hisoblanadi?
-A. Strukturaviy
-B.  Yarim tuzilgan
-C.  Tarkibi bo'lmagan
-D.  Yuqoridagilarning barchasi
-ANSWER: A 
-
- Qaysi buyruq HDFS ishlaydigan barcha daemons holatini tekshirish uchun ishlatiladi?
-A. Jps
-B.  Fsck
-C.  Distcp
-D. Yuqoridagilarning hech biri 
-ANSWER: A 
-
- "Katta ma\'lumotlar" so\'zi __________ tomonidan ishlab chiqilgan
-A. Rojer Mugalas
-B.  Jon Filips
-C.  Saymon Vuds
-D.  Martin Grin
-ANSWER: A 
-
- Katta ma'lumotlarning uchta V si quyidagilarni o'z ichiga oladi, bundan mustasno:
-A. Ko'p tomonli (Versatile)
-B.  Tezlik(Velocity)
-C.  Hajm(Volume)
-D.  Turli xillik(Variety)
-ANSWER: A 
-
- Katta ma'lumotlarni qayta ishlash uchun eng ko'p qo'llaniladigan Apache loyihasi ____________ hisoblanadi.
-A. Apache Spark
-B.  Apache Beam
-C.  Apache Cassandra
-D.  Apache Hadoop
-ANSWER: A 
-
- Katta ma'lumotlarning asosiy xususiyatlari _______turga bo`linadi.
-A.  3
-B.  6
-C.  4
-D.  5
-ANSWER: A 
-
- Katta ma'lumotlar hajmmi yoki texnologiyami?
-A. Ikkalasi ham
-B.  Texnologiya
-C.  Hajm
-D.  Ikkalasi ham emas
-ANSWER: A 
-
- «Data mining» – bu …
-A. Biron qonuniyatni topish maqsadida ma’lumotlarni tahlil qilishdir
-B. Ma`lumotlarni ajratib olishdir
-C.  Tahlil najijalaridir
-D.  Monitoring jarayonlarida ma`lumotlarga ishlob berishdir
-ANSWER: A 
+Vijdon erkinligi nima?
+====
+kishilarning o‘z milliy diniga etiqod qilish huquqi;
+====
+fuqarolarning albatta biron bir jaxon diniga e’tiqod qilish zarurligi;
+====
+#fuqarolarning dinga e’tiqod qilish yoki e’tiqod qilmaslikni o‘zlari mustaqil hal qilish huquqi;
+====
+fuqarolarning dinga ishonmasligi va unga qarshi tashviqot olib borish huquqi.
+++++
+Dinning qanday ildizlari bor?
+====
+genetik, tarixiy, psixologik;
+====
+#gnoseologik, sotsial, psixologik;
+====
+sotsial, biologik, iloxiy;
+====
+afsonaviy, falsafiy, psixologik.
+++++
+Dinning unsurlarini sanab bering.
+====
+tasavvur, diniy psixologiya, diniy tashkilotlar;
+====
+diniy tasavvur, diniy axloq, diniy mafkura;
+====
+#diniy ong, diniy xis-tuyg‘u (psixologiya), diniy ibodat, diniy tashkilotlar;
+====
+xudoga, payg‘ambarlarga, farishta va jin-ajinalarga ishonish.
+++++
+Dinning funksiyalari.
+====
+axloqiy, tarbiyaviy, mavkuraviy;
+====
+#to‘ldiruvchilik, birlashtiruvchilik, o‘zaro aloqadorlik, tartibga soluvchilik;
+====
+tinchlik, do‘stlik, tenglik, tabiatni muxofaza qilish;
+====
+gnoseologik, antronologik, teologik, psixologik.
+++++
+Din - bu:
+====
+xalq uchun afyun;
+====
+insonning xudo bilan o‘zaro munosabat usuli;
+====
+#tashqi olam kuchlarining kishi ongida g‘ayritabiiy ifodalanishi:
+====
+gnoseologik, antronologik, teologik, psixologik.
+++++
+Qaysi bir din eng qadimgi?
+====
+pravoslaviya;
+====
+proteotantizm;
+====
+islom;
+====
+#yaxudiylik
+++++
+Musulmonlar hijriy yil hisobi qachondan boshlanadi?
+====
+Muhammad payg‘ambarning tug‘ilishidan;
+====
+Muhammad payg‘ambarning payg‘ambarlik faoliyati boshlani-shidan;
+====
+Qur’onning paydo bo‘lishidan;
+====
+#dastlabki musulmonlarning Yasrib (Madina) ga ko‘chib borishidan.
+++++
+Jahon dinlari qaysi dinlar?
+====
+#buddizm, xristianlik, islom;
+====
+buddizm, iudaizm, sintoizm;
+====
+xristianlik, islom, protestansizm;
+====
+provoslaviya, katolitsizm, braxmanizm.
+++++
+Yaponiyaning milliy dini qaysi din?
+====
+#sintoizm;
+====
+buddizm;
+====
+konfutsiychilik;
+====
+krishnaizm.
+++++
+Fetishizm nimani ilohiylashtiradi?
+====
+hayvonlarni
+====
+Odamlarni
+====
+ruhni
+====
+#moddiy narsalarni;
+++++
+“Yahudiy” so‘zining kelib chiqishi borasida Abu Rayhon Beruniy o‘z asarida qanday izoh keltirib o‘tadi?
+====
+# “tavba qilmoq, tavba qilganlar” 
+====
+“Adashganlar, adashuvchi”
+====
+“G‘ayri dinlar, boshqa dinga ergashuvchilar”
+====
+“Isroilliklar”
+++++
+Xristianlikning asosiy oqimlari qaysi oqimlar?
+====
+#katolik, pravoslav, protestantizm;
+====
+baptizm, pravoslav, fetishizm;
+====
+lyuteranlik, pravoslav, katolitsizm;
+====
+iudaizm, sintoizm, shamanizm.
+++++
+Islom dinining asosiy yo‘nalishlari qaysilar?
+====
+vahhobiylar va sunniylar;
+====
+fundamentalizm va sunnizm;
+====
+#sunniylar va shialar;
+====
+so‘fiylik, shialar, ismoiliylar.
+++++
+Yahudiy xalqiga nisbatan qo‘llaniladigan “Banu isroil” so‘zining ma’nosi nima?
+====
+#“Isroil avlodlari”
+====
+“Isroil ajdodlari”
+====
+“Isroil bog‘lari”
+====
+“Isroil xudolari” 
+++++
+Yahudiylik ta’limoti to‘rt asosga tayanadi bular qaysi javobda keltirilgan?
+====
+# 1. Olamlarni yaratuvchi yagona xudo Yahvega imon keltirish 2. Yahudiylar yer yuzidagi xalqlarning “eng mumtozi” va u dunyoda berilajak in’omlarning eng haqlisi ekanligi 3. Messiya haloskorning kelishi haqida 4. Oxirat kuniga ishonish
+====
+1. Olamlarni yaratuvchi yagona xudo Yahvega imon keltirish 2. Yahudiylar yer yuzidagi xalqlarning “eng mumtozi” va u dunyoda berilajak in’omlarning eng haqlisi ekanligi 3. Messiya haloskorning kelishi haqida 4. Namoz o‘qish
+====
+1. Olamlarni yaratuvchi yagona xudo Yahvega imon keltirish 2. Yahudiylar yer yuzidagi xalqlarning “eng mumtozi” va u dunyoda berilajak in’omlarning eng haqlisi ekanligi 3. Isroil davlatining yahudiylarga in’om etilganligi haqida 4. Oxirat kuniga ishonish
+====
+1. Xudo uchun qurbonliklar keltirish 2. Yahudiylar yer yuzidagi xalqlarning “eng mumtozi” va u dunyoda berilajak in’omlarning eng haqlisi ekanligi 3. Messiya haloskorning kelishi haqida 4. Oxirat kuniga ishonish
+++++
+Yahudiylarning muqaddas diniy manbalaridan hisoblangan Talmuda yahudiylik marosimlari tizimi ishlab chiqilgan. Unda yahudiylar amal qilishi va bajarishi lozim bo‘lgan qancha buyruq va qancha ta’qiq mavjud?
+====
+#248 ta buyruq 365 ta ta’qiq
+====
+280 ta buyruq 450 ta ta’qiq
+====
+200 ta buyruq 300 ta ta’qiq
+====
+308 ta buyruq 505 ta ta’qiq
+++++
+Shariat nima?
+====
+islom dini qoidalarini o‘rgatuvchi ta’limot;
+====
+#barcha musulmonlar uchun bajarilishi majbur bo‘lgan qonunlar, huquqiy-ahloqiy ko‘rsatmalar tizimi;
+====
+xadislar asosida tuzilgan to‘plam;
+====
+oilaviy munosabatlarni tartibga soluvchi qonun.
+++++
+ Hozirgi islomda qanday sektalar mavjud?
+====
+xorijiylar, imomiylar, ismoiliylar, aliiloxiylar, bobiylar, vaxxobiylar;
+====
+sunniylar, shialar, ismoiliylar, xanifiylar;
+====
+shialar, xanifiylar, zardushtiylar;
+====
+#Sektalar mavjud emas.
+++++
+Islom sobiq SSRning qaysi mintaqalarida keng tarqalgan?
+====
+Ozarbayjon, Janubiy Osetiya, Dog‘iston, Oltoy o‘lkasi va O‘rta Osiyoda
+====
+#O‘rta Osiyo, Qozog‘iston, Tatariston, Bashqirdiston, Shimoliy Kavkaz, Dog‘iston va ayrim Kavkaz orti respublikalarida;
+====
+Ukraina, Tojikiston, Estoniya, Qirg‘iziston va Shimoliy Osetiyada.
+====
+ Rossiya, Tatariston , Belorusiya,  Osetiyada.
+++++
+Qadimgi yahuiylarning ibroniy tilida yuborilgan muqaddas kitobi “Tora” hisoblanadi. “Tora” so‘zining ma’nosi qaysi variantda to‘g‘ri ko‘rsatilgan? 
+====
+# “qonun, shariat”
+====
+“Kitob”
+====
+“Muqaddas”
+====
+“Eng oliy”
+++++
+Diniy tashkilotlarning qonunchilikka rioya qilishni kim nazorat qiladi?
+====
+O‘zbekiston Xalq-demokratik partiyasi;
+====
+O‘zbekiston Prezidenti;
+====
+mahalliy Sovetlar va hokimliklar;
+====
+#O‘zbekiston Vazirlar Mahkamasi.
+++++
+Yapon xalqining milliy e’tiqodi hisoblangan Shinto dini nechanchi asrlarda to‘liq shakllangan? 
+====
+#VII-VIII asrlarda
+====
+VIII-IX asrlarda
+====
+V-VI asrlarda
+====
+III-IV asrlarda
+++++
+Yapon xalqi an’analarining eng qadimgi yozma manbasi qaysi? 
+====
+#“Kodziki”
+====
+“Shinto”
+====
+“Kami”
+====
+“Samuray”
+++++
+Hadislar nima?
+====
+jahon musulmon ulomalari uyushmasi chiqargan qonun-qoidalar;
+====
+Qur’oni karimga yozilgan sharhlar;
+====
+#Muhammad payg‘ambarning hayoti, faoliyati, diniy va ahloqiy ko‘rsatmalarini mujassamlashtirgan ta’limot;
+====
+shariat qonunlari va oliy ulomalar fatvolari jamlangan diniy kitob.
+++++
+Turkistonlik buyuk muhaddislar kimlar?
+====
+Ismoil al-Buxoriy, Alisher Navoi, Al-Farobiy;
+====
+#Imom at-Termiziy, Ismoil al-Buxoriy, Abu Iso as-Samarqandiy, imom Muslim;
+====
+Abu Ali Ibn Sino, Imom at-Termiziy, Beruniy;
+====
+Shayx Sa’diy, Rudakiy, Axmad Yassaviy, Jomiy.
+++++
+Inson kamolati nimalarga bog‘liq?
+====
+faqat Ollohga;
+====
+Qur’on, hadislarni yaxshi bilib, musulmonchilik qoidalarini bajarishga;
+====
+kechayu kunduz tinmay ishlashga;
+====
+#umuminsoniy qadriyatlarga rioya qilib, ilm olish, halol, oqilona mehnat qilishga.
+++++
+
+Islomdagi asosiy amaliy va marosimiy talablar qaysilar?
+====
+sunnat, bibiseshanba, irim-sirimlar;
+====
+#ro‘za tutish, namoz o‘qish, zakot berish, iloji bo‘lsa hajga borish;
+====
+janoza, xudoyi, ashur oshi, navro‘z, nikox.
+====
+xudoyi, ashur oshi. Sunnat
+++++
+Iso Masih qaysi dinning payg‘ambari?
+====
+buddizm 
+====
+sintoizm
+====
+Islom
+====
+#Xristianlik 
+++++
+Avesto qaysi dinning muqaddas kitobi?
+====
+ musulmonlarning;
+====
+xristianlarning;
+====
+#zardushtiylikning;
+====
+buddizm va yaxudiylarning
+++++
+Sintoiylik panteonining eng oliy kamisi Quyosh (Buyuk samo chirog‘i)ning nomi qaysi javobda ko‘rsatilgan?
+==== 
+#“ Amaterasu”
+====
+“Susanoo”
+====
+“Ame-no Minakanusi-no”
+====
+“Naruto Uzumaki”
+++++
+Totemizm nima?
+====
+tarixiy din shakllaridan biri;
+====
+#ibtidoiy jamoada turli hayvonlarni urug‘ga asos solgan deb hisoblab, ilohiylashtirish va sig‘inish;
+====
+tush ko‘rish va boshqa irim-sirimlarga ishonish;
+====
+jonsiz narsalarni ilohiylashtirish va sig‘inish.
+++++
+O‘zbekiston xalqaro Islom akademiyasi  qaysi oliy ta’lim muassasalari negizida tashkil etildi?
+====
+#O‘zbekiston Islom akademiyasi va Toshkent Islom universiteti negizida  
+====
+Qoraqalpog‘iston Respublikasi, Samarqand davlat universitetlari negizida
+====
+Namangan va Surxondaryo viloyatlaridagi Akademiyalar negizida
+====
+O‘zbekiston milliy universitet negizida
+++++
+O‘zbekiston musulmonlari idorasi huzurida “Vaqf” xayriya jamoat fondining asosiy maqsadi nimalardan iborat?
+====
+Ajdodlarimizning diniy-ilmiy merosini keng targ‘ib qilish, dinning haqiqiy insonparvarlik maqsadini hamda diniy-maʼrifiy hayotda sodir bo‘layotgan yangiliklardan keng jamoatchilikni xabardor qilib borishdan iborat.
+====
+#Masjidlar, ziyoratgohlar, muqaddas qadamjolar va shu kabi boshqa obyektlarning rekonstruksiyasini moliyalashtirish, ularni moddiy-texnik bazasini yaxshilash hamda ushbu soha xodimlarini moddiy qo‘llab-quvvatlashdan iborat
+====
+Respublika kengashi bilan jamiyatda vijdon erkinligi va diniy-maʼrifiy muhit barqarorligi kafolatlarini taʼminlashdan iborat
+====
+O‘zbekistonda ekstremizmga qarshi kurashish chora-tadbirlarini amalga oshirishdagi yondashuvlar konseptual jihatdan qayta ko‘rib chiqishdan iborat.
+++++
+Islom dinining nazariy va g‘oyaviy manbalari nima?
+====
+shariat qonun-qoidalari;
+====
+muxaddislar yozgan xadisi shariflar;
+====
+#Qur’oni karim, hadisi sharif va fatvolar;
+====
+Ollo-taolo kalomi bo‘lgan Qur’on.
+++++
+Qur’oni karim sura va oyatlariga o‘zgartirish kiritish mumkinmi?
+====
+mumkin, agar ulamolar qaror qilsa;
+====
+agar jamiyat hayotiga zid kelib qolsa;
+====
+#yo‘q, chunki Qur’on - ilohiy hisoblanadi va uni o‘zgartirish man etiladi;
+====
+Movarounnaxr Diniy boshqarmasi o‘zgartishi mumkin.
+++++
+Dinlarning bir-biridan farqi nimada?
+====
+turli tillarda ibodat qilishida;
+====
+mintaqalarida turli aholining joylanishida;
+====
+#diniy urf-odat va marosimlar amalga oshirilishida;
+====
+jahonda tinchlik uchun kurashishda.
+++++
+Qur’onda hammasi bo‘lib nechta sura bor?
+====
+100;
+====
+#114;
+====
+124;
+====
+130.
+++++
+Xristianlikning qaysi oqimi Yevropa va Lotin Amerikasida eng ko‘p tarqalgan?
+====
+pravoslaviya;
+====
+baptizm;
+====
+#katolitsizm;
+====
+protestansizm.
+++++
+Musulmonlarning tushunchasi bo‘yicha Muhammad ibn Abdulloh kim?
+====
+u oddiy inson va diniy shaxs;
+====
+xudoning suyukli bandasi;
+====
+#xudo tomonidan yuborilgan elchi, vakil, eng oxirgi payg‘ambar;
+====
+Barcha javoblar to‘g‘ri.
+++++
+Islom dini O‘rta Osiyoga qachon tarqala boshlagan?
+====
+#VII asr oxiri - VIII asr boshlarida;
+====
+V asrda;
+====
+VIII asrda;
+====
+VI asr oxiri va VII asr boshida.
+++++
+Musulmon diniy boshqarmalari rahbarlari qanday nom bilan ataladi?
+====
+#muftiy;
+====
+so‘fi;
+====
+muxtasib;
+====
+imom.
+++++
+Musulmonlarning kundalik nomoz o‘qish tartibi qanday?
+====
+har juma kuni;
+====
+#kuniga 5 mahal;
+====
+kuniga 3 mahal;
+====
+kuniga 4 mahal.
+++++
+Nechanchi yildan boshlab O‘zbekiston fuqarolari uchun “Umra” ziyoratlari kvotasi bekor qilindi?
+====
+#2019-yildan boshlab
+====
+2020-yildan boshlab
+====
+2021-yildan boshlab
+====
+2022-yildan boshlab
+++++
+Fatvo nima?
+====
+Qur’onga berilgan sharxlar;
+====
+masjidlarda hayit namozida aytiladigan muhim axborotlar;
+====
+#oliy darajadagi ulamolar yig‘ini qabul qilgan Qur’on, hadis va shariatga oid qonun-qoidalar;
+====
+har bir imom-xatibning turli masalalar yuzasidan bergan tavsiyalari.
+++++
+Islom va xristianlik nuqtai nazarida har bir inson taqdirini (hayot yo‘lini) kim belgilaydi?
+====
+insonning o‘zi, uning irodasi;
+====
+tabiat va koinot;
+====
+hukmdor shaxslar, davlat, ota-bobolar;
+====
+#faqat yakka xudo.
+++++
+Politeizm nima ma’noni anglatadi.
+====
+#ko‘pxudolik;
+====
+yakkaxudolik;
+====
+vedachilik;
+====
+dinning ibtidoiy formalari.
+++++
+Katolik oqimining bosh ruhoniysi?
+====
+monax;
+====
+pop;
+====
+kardinal;
+====
+#papa;
+++++
+Islomga qadar Markaziy Osiyoda hukm surgan din?
+====
+#zardushtiylik;
+====
+buddaviylik;
+====
+konfutsiyachilik;
+====
+braxmanchilik.
+++++
+Xristian cherkovlarida oliy ierarx qanday ataladi?
+====
+#yepiskop;
+====
+kardinal;
+====
+senator;
+====
+oligarx.
+++++
+Cherkov, ikonalarga qarshi chiqqan oqim nomi?
+====
+pravoslav;
+====
+katolik;
+====
+#protestant;
+====
+shiyalik
+++++
+Yaxudiylikda hukmronlik o‘rnatish maqsadida vujudga kelgan diniy siyosiy oqim?
+====
+ekstremizm;
+====
+vahobizm;
+====
+#massonizm;
+====
+modernizm.
+++++
+Fiqh qanday fan?
+====
+#shariat qonun-qoidalarini o‘rganuvchi fan;
+====
+shariatda hadislarni tashkil qiluvchi fan;
+====
+rivoyatlarni o‘rganuvchi fan;
+====
+marosimlar va urf-odatlarni o‘rganuvchi fan
+++++
+Fath nima?
+====
+#biror shahar yoki mamlakatga islomni olib kirish;
+====
+islom hadislarini yoyish;
+====
+buddaviylik oqimi;
+====
+yahudiylik ta’limoti.
+++++
+Din fenomenologiyasi deganda nimani tushunasiz?
+====
+#Dinning ko‘zga ko‘rinuvchi, tashqarida aks etuvchi jihatlarini o‘rganuvchi ilm sohasi.
+====
+Barcha dinlar qadriyatlariga hurmat bilan qarash, ularni qadrlash madaniyati.
+====
+Dinshunoslikning tarix, falsafa, psixologiya, sotsiologiya, arxeologiya va boshqa ijtimoiy fanlar bilan mustahkam bog‘liqligi uning nazariyasi.
+====
+Dinshunoslikning qator fanlar bilan o‘zaro munosabati.
+++++
+ Din sotsiologiyasi nimalarni o‘rgatadi?
+====
+#Tarix bo‘yicha xususiy va mushohadaga suyanuvchi din va jamiyat tadqiqotlarini; dinning ijtimoiy hayotdagi ko‘rinishlarini o‘rganadi. 
+====
+Diniy tuyg‘u va bu tuyg‘uning ko‘rinishlarini o‘rganadi.
+====
+Dinga nisbatan munosabatni o‘rganadi.
+====
+Dinning mohiyati va uning kishilik jamiyati taraqqiyotidagi turli tarixiy bosqichlarda tutgan mavqeini o‘rganadi.
+++++
+Din psixologiyasining asosiy mavzusi nimadan iborat?
+====
+|Barcha dinlar qadriyatlariga hurmat
+====
+Ibtidoiy diniy tasavvurlar, milliy va jahon dinlari ta’limotlari
+====
+Xalqlarning o‘z dini, urf-odatlari va an’analari 
+====
+#Kishining diniy his, tushuncha va yashash tarzi
+++++
+Din falsafasining vazifasi nimalardan iborat?
+====
+Barcha dinlar va diniy tasavvurlarda birinchi odamning paydo bo‘lishi, Xudo yoki xudolar tomonidan yaratilish g‘oyasini o‘rganishdan iborat.
+====
+Fanlar bilan o‘zaro munosabatga kirishishi natijasida uning turli sohalari yuzaga kelishini o‘rganishdan iborat.
+====
+#Yaratuvchi kuch e’tiqodiga falsafiy bir asos topish, diniy hukmlarning mantig‘i va mohiyatini ochib berish, dinning mohiyati, insonning diniy haqiqatlar bilan bo‘lgan bog‘liqligini o‘rganishdan iborat.
+====
+Barcha dinlar qadriyatlariga hurmat bilan qarash, ularni qadrlash madaniyatini o‘rganishdan iborat.
+++++
+Din so‘zining ma’nosi-
+====
+ («dâna»)  fe’lidan yasalgan bo‘lib, «kimgadir haqorat qilmoq, itoatsiz, kimdandir gap eshitmoq» kabi ma’nolarni bildiradi.
+====
+ («dâna»)  fe’lidan yasalgan bo‘lib, «kimnidir yoqtirmoq, rahm  etmoq» kabi ma’nolarni bildiradi.
+====
+ («dâna»)  fe’lidan yasalgan bo‘lib, «kimgadir gapirmoq, tasdiqlamoq, tuzatmoq» kabi ma’nolarni bildiradi.
+====
+#(«dâna»)  fe’lidan yasalgan bo‘lib, «kimgadir bo‘ysunmoq, bo‘yin egmoq, itoat etmoq, kimdandir qarzdor bo‘lmoq, e’tiqod qilmoq, qilgan ishiga yarasha mukofotlamoq» kabi ma’nolarni bildiradi.
+++++
+Dinning “kompensatorlik funksiyasi” qanday vazifani bajaradi?
+====
+tartibga soluvchilik vazifasini.
+====
+birlashtiruvchilik vazifasini.
+====
+#tasalli beruvchilik vazifasini.
+====
+aloqa bog’lashlik vazifasini.
+++++
+Jоn, ruhlarning bоrligiga, ularning abadiyligiga ishоnish nima dеb ataladi?
+====
+Sеhrgarlik.
+====
+Tоtеmizm.
+====
+Fеtishizm.
+====
+#Animizm.
+++++
+ Ibtidоiy din shakllaridan qaysi birida оdamlar оdamga sig’inganlar?
+====
+Animizmda.           
+====
+#Shоmanizmda
+====
+Magiya
+====
+Tоtеmizmda.
+++++
+Tоtеmizm nima?
+====
+tush ko’rish va bоshqa irim-sirimlarga ishоnish.
+====
+jоnsiz narsalarni ilоhiylashtirish va ularga sig’inish.
+====
+#ibtidоiy jamоada turli hayvоnlarni urug’ga asоs sоlgan dеb hisоblab, ilоhiylashtirish va sig’inish.
+====
+tariхiy din shakillaridan biri.
+++++
+Хinduiylik va kоnfutsiychilik ta’limоtiga ko’ra qaysi din shakliga to‘g‘ri keladi?
+====
+Urug’-qabilachilik
+====
+Mоnоtеistik.
+====              
+#Pоlitеistik.     
+====
+Animistik.
+++++
+Buddaviylik dini qachоn paydо bo’ldi?
+====
+Eramizning V-VI asrida.
+====
+#Eramizdan oldingi VI-V  asrda.
+====
+Eramizning I-II asrida.
+====
+Eramizdan oldingi XIII asrda.
+====
+Buddaviylikning asоsiy aqidasi nimadan iborat?
+====
+Nirvana.
+====
+Itоatkorlik.
+====
+Gunоh.
+====
+#Azоb-Uqubat.
+++++
+Mil. av. I asr va milodning IV asrlari oralig‘ida Kushon imperiyasida Buddaviylikning qaysi yo‘nalishi davlat dini deb e’lon qilindi.
+====
+Purvana
+====
+#Maxayana
+====
+Nirvana
+====
+Xinayana
+++++
+Buddaviylikning asоsiy yo‘nalishlari qaysilar?
+====
+Sunnalik, shialik, хorijiylik.
+====
+Хinayana, shivaizm, jaynizm.
+====
+Pravоslaviya, katоlisizm, lamaizm.
+====
+#Хinayana, maхayana, lamaizm.
+++++
+Buddaviylik ta’limoti necha  qismdan iborat?
+====
+2  qismdan iborat.
+====
+#3  qismdan iborat.
+====
+4  qismdan iborat.
+====
+5  qismdan iborat.
+++++
+Kibermakon deganda nimani tushunasiz?
+====
+#dunyo kompyuter tarmoqlarining «virtual» umumiy majmui.
+====
+dunyo kompyuter tarmoqlari
+====
+dunyo kompyuter tarmoqlari jamoasi
+====
+Kompyuter savodxonligi tizimi
+++++
+Kibermakon atamasi 1984 yilda kim tomonidan qo‘llanilgan?
+====
+Jan Jak Russo
+====
+#Uilyam Gibson
+====
+Teodor Smit
+====
+Dyuperron
+++++
+Qanday vositalar kibermakondan erkin foydalanish imkonini yaratish bilan bir vaqtda, mazkur makondagi xavf-xatarlarning ko‘z ilg‘amas darajada yuqoriligini anglatadi?
+====
+video qurilmalar; telefon yozishmalari
+====
+#internetga chiqish imkoniyati mavjud mobil telefonlar; onlayn pulli o‘yinlar;  tarmoqdan tashqarida foydalanish imkonini beruvchi dasturiy ta’minotlar.
+====
+Seminarlar, amaliy mashg ‘ulotlar
+====
+videodarslar, ijtimoiy diniy tarmoqlar
+++++
+O‘zbekistonda eng ko‘p yuklab olinayotgan dastur ichida qaysilari yetakchi o‘rinni egallaydi?
+====
+«Instagram», «odnoklasniki» tarmoqlari
+====
+«Facebook», «Intogram» tarmoqlari
+====
+«Whats you», «Face app» tarmoqlari
+====
+#«WhatsApp», «Telegram» tarmoqlari
+++++
+Yoshlarning barchasi internet tarmog‘idan faqat ilm yo‘lida foydalanmoqdami?
+====
+O ‘zbekiston yoshlariga internet tarmog‘idan barcha ma ‘lumotlar olish uchun qulay sharoit yaratilgan.
+====
+#Afsuski, internetdan noto‘g‘ri, buzg‘unchilik va behayolikka doir ma’lumotlarni olishda ham foydalanmoqda.
+====
+O ‘zbekiston yoshlari internet tarmog‘idan faqat ilm yo‘lida foydalanadi.
+====
+Barcha javoblar to ‘g ‘ri
+++++
+Missionerlik so‘zi qanday ma’noni anglatadi?
+====
+Ingliz tilidagi «missio» so‘zidan olingan bo‘lib, «Inson huquqlarini himoya qilish», «Vijdon erkinligini ta’minlash» ma’nolarini bildiradi.
+====
+#lotin tilidagi «missio» fe’lidan olingan bo‘lib, belgilangan vazifalarni hal qilishga qaratilgan nazariy va amaliy faoliyat majmui ma’nolarini bildiradi.
+====
+fransuz tilidagi «missio» so‘zidan olingan bo‘lib, ma’naviy-mafkuraviy tahdid vositasi ma’nolarini bildiradi.
+====
+nemis tilidan olingan bo‘lib davlatning ichki hayoti ma’nolarini bildiradi.
+++++
+“Prozelitizm” tushunchasi deganda nimani tushunasiz?
+====
+#Yangi mazhabni qabul qilgan kishi, ya’ni boshqa mazhabdagilarni, avvalo, musulmonlarni xristianlikka kiritish degan ma’noni bildiradi.
+====
+Mafkuraviy immunitetni shakllantirish degan ma’noni bildiradi.
+====
+Milliy istiqlol mafkurasining asosiy g‘oyalari degan ma’noni bildiradi.
+====
+Xalqning milliy ma’naviyati degan ma’noni bildiradi.
+++++
+“Kiberxavfsizlik toʻgʻrisida”gi Qonun qachon qabul qilingan?
+====
+2023-yil 15 mart.
+====
+2022-yil 1 aprel.
+====
+#2022-yil 15 aprel.
+====
+2023-yil 15 may.
+++++
+Missionerlik va prozelitizm g‘oyasi qanday g‘oya?
+====
+ma’naviy g‘oya
+====
+#buzg‘unchi  g‘oya
+====
+madaniy g‘oya
+====
+milliy g‘oya
+++++
+Hozirgi kunda missionerlik harakati asosan qanday  niqob ostida faoliyat yuritmoqda
+====
+Moliyaviy tashkilotlar niqobi ostida
+====
+#nashriyotlar, xayriya, tibbiy yordam ko‘rsatish niqobi ostida
+====
+Davlat tashkilotlari niqobi ostida
+====
+Yuridik shaxslar niqobi ostida
+++++
+Diniy ekstremizm nima?
+====
+#Jamiyat uchun an’anaviy bo‘lgan diniy qadriyatlar va aqidalarni rad etish, ularga zid g‘oyalarni aldov va zo‘rlik bilan targ‘ib qilishga asoslangan nazariya va amaliyotni anglatadi. 
+====
+Mutaassib fikr va qarashlarning paydo bo‘lishidir
+====
+«dindan qaytganlar» degan ma’noni bildiradi
+====
+An’anaviy  diniy qadriyatlar va aqidalar to ‘plami
+++++
+Diniy fundamentalizm  nima?
+====
+#«Ma’lum din vujudga kelgan ilk davriga qaytish va bu yo‘l bilan zamonaning barcha muammolarini hal qilish mumkin», degan fikrni ilgari surish ta’limotini anglatadi.
+====
+Islom niqobidagi ekstremizmning g‘oyaviy ildizlari degan ma’noni bilditadi
+====
+Mutaassib fikr va qarashlarning paydo bo‘lishidir degan tushunchalarni bilditadi
+====
+Xayrixoh bo‘lmagan hukmdorlarga suiqasd uyushtirish degan tushunchalarni bilditadi
+++++
+«Musulmon birodarlar» jamoasi qachon tashkil etilgan?
+====
+#1928 yil mart oyida
+====
+1929 yil aprel oyida
+====
+1930 yil may oyida
+====
+1931 yil mart oyida
+++++
+Hizbut-tahrir al-islomiy (Islom ozodlik partiyasi)ning asoschisi kim?
+====
+Saudiya Arabistonida yashovchi  Yusuf Xamadoniy
+====
+Akrom Yo‘ldashev
+====
+#Falastinlik Taqiyiddin Nabahoniy
+====
+Juma Namangoniy
+++++
+«Akromiylar» harakat siyosiy hokimiyatga erishishning nechta bosqichiga asoslanadi?
+====
+2 ta
+====
+3 ta
+====
+4 ta
+====
+#5 ta
+++++
+“Yahudiy va salbchilarga qarshi xalqaro islom fronti” uyushmasi  qachon tuzildi?
+====
+1997 yilda
+====
+1996yilda
+====
+#1998 yilga
+====
+1991 yilda
+++++
+“Yahudiy va salbchilarga qarshi xalqaro islom fronti” uyushmasiga kim boshchilik qilgan?
+====
+#Usoma bin Lodin
+====
+Akron Yo‘ldashev
+====
+Juma Namangoniy
+====
+Muhammad Solih
+++++
+2001 yilning 11 sentabrida Amerika Qo‘shma Shtatlarida qanday voqea yuz berdi?
+====
+“Yahudiy va salbchilarga qarshi xalqaro islom fronti” uyushmasi tuzildi
+====
+AQShning Tanzaniya va Keniyadagi elchixonalari oldida bomba ortilgan mashinalarni portlatilgan
+====
+#To‘rtta “Boing–757” samolyoti “al-Qoida” guruhi tomonidan egallab olinib, ularning ikkitasi Nyu-Yorkdagi xalqaro savdo Markazi joylashgan “egizak” binolarga, bittasi esa AQSh qurolli kuchlari shtabi – Pentagonga yo‘naltirildi.
+====
+Somalidagi beqarorliklarning oldini olish uchun kiritilgan BMT tinchlikparvarlik kuchlari tarkibidagi AQSh maxsus qo‘shinlarining 18 harbiy xizmatchisini o‘ldirishgan
+++++
+Diniy ekstremizm va terrorizmga qarshi kurash olib borishda qanday chora-tadbirlarni qo‘llash muhim ahamiyatga ega?
+====
+#kompleks va tizimli, shu jumladan, ijtimoiy-iqtisodiy va mafkuraviy chora-tadbirlar
+====
+Shavqatsiz kurash chora-tadbirlari
+====
+Reja asosida tashqi ishlar vazirligi bilan
+====
+musulmon bo‘lmagan mamlakatlar aholisi o‘rtasida islomni yoyish chora-tadbirlari
+++++
+Dunyo bo‘yicha qancha terrorchilik tashkilotlari faoliyat ko‘rsatmoqda?
+====
+400 ga yaqin
+====
+300 ga yaqin
+====
+#500 ga yaqin
+====
+200 ga yaqin
+++++
+Davlatimizning vijdon erkinligiga munosabati – O‘zbekiston Respublikasi Konstitutsiyasining nechanchi moddasida mustahkamlab qo‘yilgan?
+====
+31-moddasida
+====
+#35-moddasida
+====
+36- moddasida
+====
+41 – moddasida
+++++
+Hanafiya mazhabi sunniylik yo'nalishiga mansub bo'lgan musulmonlarning  necha foizini o'z ichiga oladi ? 
+====
+#47%
+====
+17%
+====
+27%
+====
+1,5%
+++++
+O‘rta Osiyoda keng tarqalgan sunniylik oqimining mazhabi-
+====
+Shofi’iya
+====
+Imomiya
+====
+#Xanafiya
+====
+Vahhobiylik
+++++
+
+O‘zbekiston Respublikasi Konstitutsiyasida aniq belgilab qo‘yilgan davlat va jamiyat qurilishining  bosh maqsadlardan biri-
+====
+#Yuksak ma’naviyat va hurfikrlilikka asoslangan, vijdon erkinligi amalda barqaror bo‘lgan jamiyatni barpo etish 
+====
+islomiy qadriyatlar maktablarda axloqiy tarbiyada e’tiborga olinishi
+====
+musulmon bo‘lmagan mamlakatlar aholisi o‘rtasida islomni yoyish chora-tadbirlari
+====
+Mafkuraviy chora-tadbirlarni belgilanishi
+++++
+Davlat bilan din (diniy tashkilotlar) o‘rtasidagi munosabatlar qanday usullarda tartibga solinadi?
+====
+#Identifikatsion, Separatsion, kooperetsion
+====
+Kompensatorlik, regyulativlik
+====
+Separatsion, Kompensatorlik
+====
+Konservatorlik, koorparativ
+++++
+Davlat-diniy tashkilot modeliga qaysi davlatni misol keltirishimiz mumkin?
+====
+#Daniya, Buyuk Britaniya, Gresiya, Shvesiya, Finlyandiya
+====
+AQSh, Rossiya, Polsha, Germaniya
+====
+Daniya, Ispaniya, Italiya, Misr
+====
+Braziliya, Argentina, Sudan, Efiopiya
+++++
+O‘zbekistonda tarkib topgan davlat va din o‘rtasidagi munosabat o‘z mohiyati, mazmuni va huquqiy asoslariga ko‘ra qanday modelga asoslanadi?
+====
+#Separatsion model
+====
+Kooperatsion
+====
+Identifikatsion
+====
+Kompensator
+++++
+Bugungi kunda O‘zbekistonda Adliya organlaridan rasman ro‘yxatdan o‘tgan nechta diniy konfessiya faoliyat olib bormoqda?
+====
+10 ta
+====
+11 ta
+====
+15 ta
+====
+#16 ta
+++++
+Qonunchilikda diniy tashkilotlarning qanday turlari e’tirof etiladi?
+====
+#diniy jamiyatlar, diniy o‘quv yurtlari, masjidlar, cherkovlar, sinagogalar, monastirlar va boshqa tashkilotlar.
+====
+Diniy maktablar, madrasalar. cherkovlar
+====
+Diniy firqalar, mazhablar, oqimlar
+====
+Diniy qo‘mita tasarrufidagi barcha binolar
+++++
+«Konfessiya» so‘zi qanday ma’noni anglatadi?
+====
+#o‘zbek tiliga aynan tarjima qilinganda «e’tiqod qilish», degan ma’noni anglatadi.
+====
+«faoliyat olib bormoq», degan ma’noni anglatadi.
+====
+«buysundirmoq» degan ma’noni anglatadi.
+====
+o‘zbek tiliga aynan tarjima qilinganda «kurash», degan ma’noni anglatadi.
+++++
+Diniy konfessiya deganda  nimani tushunasiz?
+====
+#muayyan diniy ta’limot doirasida shakllangan va o‘ziga xos xususiyatlarga ega e’tiqod va ushbu e’tiqodga ergashuvchilar jamoasi tushuniladi.
+====
+diniy ta’limotlar ichida rivojlangan e’tiqod turi tushuniladi.
+====
+jamiyat hayotining tarkibiy qismi sifatida kishilarning ijtimoiylashuvi tushuniladi.
+====
+e’tiqodga ergashuvchilar jamoasi tushuniladi.
+++++
+«Sekta»so‘zi qanday ma’noni anglatadi?
+====
+# Muayyan diniy, siyosiy yoki falsafiy qarashlarga ergashuvchilar guruhini anglatadi.
+====
+Muayyan diniy boshqaruvchilarini anglatadi.
+====
+Ma’lum bir dindagi rasmiy aqidalarga ishonuvchilar tushuniladi
+====
+Ma’lum falsafiy qarashlarni o ‘rgatuvchilar guruhini anglatadi
+++++
+Xristianlik dini qachоn paydо bo’ldi?
+====
+Eramizdan oldingi I asrda.
+====
+#Eramizning I asrida.
+====
+Eramizdan oldingi III asrda.
+====
+Eramizning V asrida.
+++++
+Sharq dinlaridan qaysi biri xristianlik diniga eng ko’p ta’sir ko’rsatdi?
+====
+Zardushtiylik.
+====
+Buddaviylik.
+====
+#Yahudiylik.
+====
+ Islоm.
+++++
+Katoliklarning markazi Vatikan qachondan boshlab davlat maqomiga ega bo’ldi?
+====
+1909 yildan.
+====
+#1929 yildan.
+====
+1959 yildan.
+====
+1989 yildan.
+++++
+Bibliya so‘zi qanday ma’nolarni  anglatadi?
+====
+#grek tilida biblia – “kitob”, “o‘ram” 
+====
+lotin tilida bibliya- “varoq”
+====
+Fors tilida bible- “Bеsh kitоb”
+====
+Ingliz tilida bible-“Eski ahd”
+++++
+Martin Lyuter boshchiligidagi reformatsiyalar tufayli Xristianlik dinida qaysi yo’nalish vujudga keldi?
+====
+#Protestantizm.
+====
+Provaslav.
+====
+Katolik.
+====
+Baptizm.
+++++
+Xristianlikning muqaddas kitobi qaysi? 
+====
+Veda. 
+====
+Tavrot.
+====
+#Bibliya. 
+====
+Zabur. 
+++++
+Rim papasi xristianlikning qaysi oqimining boshlig‘i sanaladi?
+====
+#Katolik.
+==== 
+Pravoslav.
+====
+Protestant.
+====
+Baptizm.
+++++
+Arabiston yarim orolining islom dinidan avvalgi davrini nima deb ataganlar?
+====
+#Johiliya
+==== 
+Nodonlik
+====
+Butparastlik 
+====
+Ma’rifatsizlik
+++++
+Hadislar bilan shug‘ullanadigan olim kim?
+====
+Mutakallim 
+====
+#Muhaddis
+====
+Mutasavvif
+====
+Faqih
+++++
+Qur’on suralarini tashkil etuvchi qism “jumlalar” qanday nomlanadi?
+====
+Sura 
+====
+#Oyat 
+====
+Juz
+====
+ Pora
+++++
+VII-asrda paydo bulgan musulmon davlati nima deb ataladi?
+====
+Musulmonlar davlati
+====
+Islom imperiyasi
+====
+Arab imperiyasi
+====
+#Arab xalifaligi
+++++
+Talmud qaysi dinning muqaddas kitoblaridan biridir?
+====
+Buddizm
+====
+Nasroniylik
+====
+ #Yahudiylik
+====
+Islom 
+++++
+Tripitaka qaysi dinning muqaddas kitobi?
+====
+ #Buddizm
+====
+ Nasroniylik
+==== 
+Iuddaizm 
+====
+Islom
+++++ 
+Buddaviylik dinining asoschisi kim?
+====
+Iso Masix
+====
+#Siddxartha Gautama
+==== 
+Krishna 
+====
+Deva
+++++ 
+O‘zbekistonda qancha diniy tashkilotlar faoliyat yuritadi?
+====
+3 mingdan ziyod
+====
+#2 mingdan ziyod
+====
+ 1 mingdan ziyod
+====
+4 mingdan ziyod
+++++
+“Tili, dini, e’tiqоdidаn qаt’iy nаzаr insоnning erkin bo‘lib yashashigа qаrshi, uning ruhiy dunyosini izdаn chiqаrishgа qаrаtilgаn mаfkurаviy, g‘оyaviy, infоrmаtsiоn hurujlаr”ni qаndаy tа’riflаsh mumkin?
+====
+#Mа’nаviy tаjоvuzkоrlik. 
+====
+Mа’nаviy qаrаmlik.
+====
+Mа’nаviy tаhdid.
+====
+Mа’nаviy ehtiyoj.
+++++
+«Vijdon erkinligi va diniy tashkilotlar to‘g‘risida»gi Qonunning qaysi moddasi diniy materiallarni yozish, tarqatish masalalalariga bag‘ishlangan?
+====
+36-modda
+====
+#10-modda
+==== 
+20-modda
+====
+ 15-modda
+++++
+Fuqarolarning dinga e’tiqod qilish yoki e’tiqod qilmaslikni mustaqil hal qilishlari qanday ataladi?
+====
+Burch erkinligi
+====
+qadriyat erkinligi 
+====
+#vijdon erkinligi
+====
+ fikr erkinligi
+++++
+“Monoteizm” tushunchasining ma’nosi nima?
+====
+#Yakkaxudolik
+====
+ko‘pxudolik 
+====
+diniy ta’limot
+==== 
+diniy fikr
+++++
+O‘rta Osiyodagi qaysi davlatda budda dini asosiy (hukmron) din edi?
+====
+Xorazmshohlar
+====
+Dovon
+====
+#Kushon
+==== 
+Qang‘
+++++
+Jahonda e’tiqod qiluvchilar soni jihatdan eng katta milliy din…
+====
+Sintoizm
+====
+Yahudiylik
+====
+Konfutsiylik
+====
+#Hidduiylik
+++++
+Tasaffuv ilmining yirik namoyondasi bo‘lgan Xo‘ja Ahmad Yassaviy yili deb qachon e’lon qilindi?
+====
+1994 yil
+====
+1995 yil
+====
+#1993 yil
+====
+ 1996 yil
+++++
+O’zbekiston Respublikasi birinchi Prezidenti farmoni bilan Toshkent islom universiteti qaysi yilda ochildi?
+====
+#1999 yil
+====
+1998 yil
+====
+1993 yil
+====
+ 1996 yil
+++++
+“Mehrjon” va “Navro‘z” bayramlari qaysi dinga tegishli?
+====
+Islom
+====
+Yahudiylik
+====
+Konfutsiylik
+====
+# Zardushtiylik
+++++
+Diniy tashkilotlar xayriya va mehr-muruvvat faoliyatini amalga oshirishga…
+====
+Ba’zan mumkin
+====
+ #Haqli
+====
+Ayrim hollarda haqli
+==== 
+Ruxsat berilmaydi
+++++
+Diniy bag‘rikenglik bu…
+====
+Diniy hamkorlik
+====
+#Barcha dinlarga hurmat bilan munosabatda bo‘lish
+====
+Barcha dinlar bir xil
+====
+Dunyoviy haqiqatlarga amal qilish
+++++
+Fetishizm nimani ilohiylashtiradi?
+====
+#moddiy narsalarni
+====
+hayvonlarni
+====
+odamlarni
+====
+duolarni
+++++
+ Shimoliy Amerika «Ojibva» qabilasi tilidan tarjima qilinganda «totem» bu -
+====
+#uning urug‘i
+====
+qarindosh
+====
+saqlaguvchi
+====
+sening urug‘ing
+++++
+Yapon tilida «Sinto» so‘zining ma’nosi nima?
+====
+#xudolar yo‘li
+====
+payg‘ambarlar yo‘li
+====
+to‘g‘ri yo‘l
+====
+nurli yo‘l
+++++
+Mа’nаviy qаdriyat bo’lmish diniy vа dunyoviy iymоn – e’tiqоdning bir  biridаn fаrqi?
+====
+ Diniy iymоn nаzаriy bilimlаrgа, dunyoviy esа аmаliyotgа аsоslаnаdi.
+====
+
+#Diniy iymоn isbоtsiz ishonchgа, dunyoviy iymоn dаlillаshgа, tаjribа vа isbоtgа аsоslаnаdi.
+====
+ Diniy iymоn tug’mа хususiyat, dunyoviy iymоn esа tа’lim-tаrbiya mахsuli.
+====
+Diniy iymоn хis – tuyg’ulаrgа, dunyoviy iymоn esа аql – zаkоvаtgа аsоslаnаdi.
+++++
+ «Avesto» so‘zining ma’nosi nima?
+====
+muqaddaslashgan
+====
+#qat’iy qilingan
+====
+xudolar kitobi
+====
+nasklar yig‘indisi
+++++
+ «Avesto»ning vatanini ko‘rsating.
+====
+#Xorazm
+====
+Bobil
+====
+Eron
+====
+Hindiston
+++++
+Buddaviylikning «To‘rt haqiqati»ning birinchisini ko‘rsating.
+====
+#Hayot-azob-uqubatlardan iborat
+====
+Azoblanish – mavjudlikdir
+====
+Hayotga tashnalik
+====
+Azoblarni yengish mumkin
+++++
+Siddxarta Gautama (Budda) necha yil Gang bo‘yida yangi dinga da’vat etib yurdi?
+====
+#40
+====
+20
+====
+25
+====
+30 
+++++
+«Budda» so‘zining ma’nosi nima? 
+====
+ulug‘langan
+====
+xudo-yaratuvchi
+====
+#nurlangan
+====
+xudo-saqlaguvchi
+++++
+ Iso Masih Xristianlar uchun kim?
+====
+xudo-ota
+====
+xudo-muqaddas ruh
+====
+#xudo-o‘g‘il
+====
+payg‘ambar
+++++
+ «Qur’on» so‘zi arab tilidan qanjay tarjima qilinadi?
+====
+#o‘qimoq
+====
+kitob
+====
+qonunlar
+====
+to‘g‘ri yo‘l
+++++
+Quyidagi qaysi manbaning dastlabki yozma nusxasi 12 ming qora mol terisiga bitilgan edi?
+====
+Tavrot
+====
+#Avesto.
+====
+Olqish
+====
+Zabur
+++++
+. Qiyos so‘zining lug‘aviy ma’nosini toping
+====
+diniy jamoaning yagona fikri
+====
+ harakat qiluvchi kishi
+====
+#taqqoslash.
+====
+ko‘rsatma
+++++
+Mujtahid so‘zining lug‘aviy ma’nosini toping.
+====
+yo‘lboshchilar
+====
+#intiluvchi.
+====
+Xabarchilar
+====
+Isyonchilar
+++++
+al-Jome’ as-sahih asarining muallifini toping.
+====
+Abu Sufyon ibn Muoviya
+====
+Umar ibn Abdulaziz
+====
+#Imom Buxoriy
+====
+Muhammad ibn Shihob Zuhriy
+++++
+Sura va oyatlar nozil bo‘lish vaqti va joyiga ko‘ra nechaga bo‘linadi?
+====
+#2 ga.
+====
+4 ga
+====
+3 ga
+====
+5 ga
+++++
+Qur’onni Madinada nozil bo‘lgan umumiy vaqtini toping
+====
+#10 yil
+====
+12 yil
+====
+11 yil
+====
+13 yil
+++++
+Qur’on Muhammad alayhissalomga ................... g‘orida nozil bo‘lgan.
+====
+#Xiro
+====
+Ararat
+====
+Tur
+====
+Sinay
+++++
+Qur’oni karim–Alloh tarafidan Muhammad payg‘ambarga (s.a.v.) .................................................... orqali ba’zan oyat-oyat, ba’zan esa  to‘liq sura tarzida nozil qilingan
+====
+Mikoil farishta
+====
+Malak ul-avt farishta
+====
+Isrofil farishta
+====
+#Jabroil farishta
+++++
+Qur’oni Karimda nechta payg‘ambarning nomi tilga olingan
+====
+22
+====
+24
+====
+23
+====
+#25
+++++
+Dinshunoslik qaysi fanlar bilan yaqinroq bog'liq?
+====
+ Matematika va fizika
+====
+Biologiya va kimyo
+====
+Ingliz tili va fransuz tili
+====
+#Tarix va jamiyatshunoslik
+++++
+Dinning jamiyatda bajaradigan ijtimoiy, ma’naviy, ruhiy funksiyalari qaysi javobda to‘gri
+ko‘rsatilgan?
+====
+#Regulyatorlik, kompensatorlik, integratorlik, kommunikativ
+====
+Kompensatorlik, integratorlik, regulyatorlik, tarbiyaviy
+====
+Kommutatorlik, kompensatorlik, regulyatorlik, tarbiyaviy
+====
+Integratorlik, kompensatorlik, kommutatorlik, tarbiyaviy
+++++
+Buddaviylik dinining muqaddas manbai “tripitaka” so‘zini ma’nosi nima?
+====
+#Uch savat donolik
+====
+Uch daraxt mevasi
+====
+Uch budda nasihati
+====
+Uch dono nasihati
+++++
+Xristianlik dini qachon katolik va provaslavlikka bo‘lindi?
+====
+#1054 yil
+====
+518 yil
+====
+1085 yil
+====
+517 yil
+++++
+Katolik cherkovi markazi qaerda joylashgan va din markazi qanday ataladi?
+====
+#Vatikanda ehrom
+====
+Kastantinopolda cherkov
+====
+Aleksadriyada ehrom
+====
+Rimda cherkov
+++++
+Kishilik jamiyati tarixida dinning ilk shakllariga qaysi dinlar kiradi?
+====
+#Totemizm, animizm, fetishizm, shomonizm
+====
+Shomonizm, urug’ - qabila dinlari, hinduizm
+====
+Iudaizm, shomonizm, animizm, totemizm
+====
+Sintoizm, buddizm, totemizm, magiya
+++++
+Zardushtiylikning muqaddas kitobi “Avesto” qaysi tilda yozilgan?
+====
+#Qadimiy eroniy-paxlaviy
+====
+Qadimgi so’g’d
+====
+Qadimgi xorazm
+====
+Qadimgi fors
+++++
+ “Hidoya” asari musulmon mamlakatlarida qanday manba hisoblanadi?
+====
+Diniy
+====
+#Huquqiy
+====
+Ilmiy
+====
+Ilohiy
+++++
+Rim Papasi kim tomonidan va qancha ovoz olish yo‘li bilan saylanadi?
+====
+Rim kuriyasi tomonidan 7 yil muddatga saylanadi
+====
+Fuqarolar tomonidan umumiy ovozning 3/2 qismi plyus bir ovoz
+====
+#Kardinallar tomonidan umumiy ovozning 3/2 qismi plyus bir ovoz
+====
+Ruhoniylar tomonidan 5 yil muddatga saylanadi
+++++
+Konfutsiylik ta’limoti qaysi davlatga taalluqli?
+====
+#Xitoy
+====
+Yaponiya
+====
+Koreya
+====
+Mug‘iliston
+++++
+Qur’oni karim o‘zbek tiliga qachon va kim tomonidan tarjima qilingan?
+====
+1994 yilda sharqshunoslik instituti olimlari tomonidan
+====
+1989-1990 yillarda musulmonlar diniy idorasi tomonidan
+====
+1991 yilda O‘zbekiston musulmonlar diniy idorasi tomonidan
+====
+#1991-1992- yillarda Alouddin Mansur tomonidan
+++++
+«Hayot azob-uqubatdan iborat, qutulish yo`li mavjud» goyasi qaysi dinga tegishli?
+====
+#Buddizmga
+====
+Xristianlik
+====
+Xinduiylikka
+====
+Islomga
+++++
+«Terrorizm» suzining lugaviy ma’nosi nima?
+====
+#Qurqitish, dahshat
+====
+Birlashtirish
+====
+Ongini egallash
+====
+Boshqarish
+++++
+“Messiya” - so‘zining ma’nosi nima?
+====
+#Xaloskor
+====
+Payg‘ambar
+====
+Elchi
+====
+Qo‘shiqchi
+++++
+Hijrat qachon amalga oshgan?
+====
+#622-yili
+====
+632- yilli
+====
+609- yili
+====
+605-yili
+++++
+Diniy tashkilot ta’rifining aniqlang.
+====
+#ma’lum dinga ishonuvchilar va ularning jamoalarining  uyushmasidir.
+====
+diniy aqidalarni va konsepsiyalarni fan-texnika va ijtimoiy hayotdagi o‘zgarishlarga qarab rad etuvchi tashkilot
+====
+o‘z maqsad yo‘lida qar qanday keskin tadbir choralar ko‘ruvchi tashkilot
+====
+o‘z fikrini boshqalarga zo‘ravonlik bilan o‘tkazuvchi tashkilot
+++++
+Fuqarolarning dinga e’tiqod qilish yoki e’tiqod qilmaslikni mustaqil hal qilishlari qanday ataladi?
+====
+#vijdon erkinligi 
+====
+burch erkinligi
+====
+qadriyat erkinligi
+====
+fikr erkinligi
+++++
+Dinlar tasnifiga ko‘ra quyidagilarga bo‘linadi?
+====
+#Urug‘ – qabila, millat va jahon dinlari
+ ====
+Monoteistik va qabila dinlari
+ ====
+Ibtidoiy dinlar va jahon dinlari
+====
+Millat va jahon dinlari
+++++
+Jahon dinlarining xronologik jihatdan paydo bo‘lishi quyidagi qaysi javobda to‘g‘ri ko‘rsatilgan?
+====
+#Buddaviylik, xristianlik, islom
+====
+Xristianlik, buddaviylik, islom
+====
+Islom, xristianlik, buddaviylik
+====
+Buddaviylik, islom, xristianlik
+++++
+Qaysi dinda taqvodorlikning belgisi sifatida “Chorvaga, oilaga ega bo‘lish va don ekishdir” deyilgan?
+====
+#Zardushtiylikda
+====
+Nasroniylikda
+====
+Islomda
+====
+Buddaviylikda
+++++
+Qaysi muqaddas kitobda tuproq, suv, havo, olov muqaddaslashtirilgan?
+====
+#Avesto
+====
+Qur’oni Karim
+====
+Injil
+====
+Tavrot
+++++
+Imom al-Buxoriy (810-870) to‘plagan sahiyh hadislarining soni nechta?
+====
+#7275 ta
+ ====
+7200 ta
+====
+7280 ta
+====
+7285 ta
+++++
+Diniy bag‘rikenglik bu…
+====
+#Barcha dinlarga sabr-toqat, hurmat bilan munosabatda bo‘lish
+====
+Diniy hamkorlik barcha muammoni yechadi
+====
+Hamma diniy qoidalar asosli degani
+====
+Dunyoviy haqiqatlarga amal qilish
+++++
+Konstitutsiyamizning nechanchi moddasida “…milliy va diniy belgilariga ko‘ra siyosiy partiyalarning, harbiylashtirilgan birlashmalarning tashkil etilishi va faoliyati taqiqlanadi” ?
+====
+#71- moddasida
+====
+51 - moddasida 
+====
+50 - moddasida 
+====
+58 – moddasida
+++++
+Diniy tashkilotlarning markaziy boshqaruv organlarini qaysi vazirlik tomonidan ro‘yxatga olinadi?
+====
+#O‘zbekiston Respublikasi Adliya Vazirligi
+====
+O‘zbekiston Respublikasi Oliy va O‘rta ta’lim Vazirligi
+====
+O‘zbekiston Respublikasi Vazirlar mahkamasi
+====
+O‘zbekiston Respublikasi Bosh Prokuraturasi
+++++
+Yаxudiylarning “poklanish kuni” bayramini aniqlang.
+====
+#yom kippur
+====
+shabat
+====
+rash-hashana
+====
+purim
+++++
+Hinduiylik ta’limotiga ko‘ra jamiyat nechta kastaga bo‘linadi?
+====
+#4 ta
+====
+5 ta
+====
+3 ta
+====
+2 ta
+++++
+Konfutsiychilikning bosh xudosi nima?
+====
+#Osmon xudosi
+====
+Yer xudosi
+====
+Momoqaldiroq xudosi
+====
+Suv xudosi
+++++
+Muso payg‘ambarga Yaxve tomonidan nechta lavha tushirilgan?
+====
+#10 ta
+====
+5 ta    
+====
+11 ta    
+====
+15 ta
+++++
+Musulmonlar e’tiqodicha, xudo tomonidan Dovud  payg‘ambarga yuborilgan muqaddas kitob?
+====
+#Zabur
+====
+Tavrot 
+====
+Talmud
+====
+Qur’oni Karim
+++++
+Braxmanizm dinining vatani qaysi?
+====
+#Hindiston
+====
+Xitoy
+====
+Yaponiya
+====
+Eron
+++++
+Islоmgаchа milliy mа’nаvyatimizning tаriхiy vа g‘оyaviy nеgizini quyidаgilаr tаshkil etаdi:
+====
+Аrхеоlоgik vа аntrоpоlоgik tоpilmаlаr. 
+====
+Tоsh bitiklаr, аrхеоlоgik tоpilmаlаr, diniy kitоblаr.
+====
+Yozmа yodgоrliklаr, etnоgrаfik mа’lumоtlаr, аrхеоlоgik yodgоrliklаr.
+====
+#Хаlq оg’izаki ijоdi nаmunаlаri, Zаrdushtiylik dini vа “Аvеstо”, etnоgrаfik mа’lumоtlаr.
+++++
+Iso Masih qayerda yashab o‘tgan?
+====
+#Falastin
+====
+Hindiston
+====
+Xitoy
+====
+Suriya
+++++
+“Tavrot” nechta kitoblarga bo‘linadi?
+====
+#5 ta
+====
+3 ta
+====
+2 ta
+====
+4 ta
+++++
+Islom tarixidagi birinchi muqaddas jang...
+====
+#Badr g‘azoti
+====
+Uhud g‘azoti
+====
+Tobuk g‘azoti
+====
+Xandaq jangi
+++++
+Qur’oni Karimdagi eng katta suraning nomi...?
+====
+#Baqara
+====
+A’rof
+====
+Naxl
+====
+Luqmon
+++++
+Hadis ilmining sultoni – Imom al- Buxoriy tavalludining 1225 yilligi qachon mamlakatimizda keng nishonlandi?
+====
+#1998 yil
+====
+1993 yil
+====
+1996 yil
+====
+1994 yil
+++++
+Muhammad (s. a. v.)ga dastlabki vahiy kela boshlaganida ular necha yoshda edi?
+====
+#40 yosh
+====
+35 yosh
+====
+25 yosh
+====
+63 yosh
+++++
+Shariat – so‘zining lug‘aviy ma’nosi…?
+====
+#arabcha, to‘g‘ri yo‘l
+====
+arabcha, guvoh
+====
+arabcha, guruh, tarafdorlar
+====
+arabcha, ajrash
+++++
+“Hadis” so‘zining lug‘aviy ma’nosi nima?
+====
+#yangi, xabar, xikoya
+====
+kitob, mutolaa
+====
+eski, so‘z, xabar
+====
+yangi, mutolaa, xabar
+++++
+Mashhur “Al-Jome’ as-sahih” asarini muallifi kim?
+====
+#Imom al-Buxoriy
+====
+Ahmad YAssaviy
+====
+Najmiddin Kubro
+====
+Imom at-Termiziy
+++++
+XII asrda Xorazmda tasavvuf ilmining asoschisi kim?
+====
+#Najmiddin Kubro
+====
+Ahmad Yassaviy
+====
+Bahouddin Naqshband
+====
+Muhammad Muso al -Xorazmiy
+++++
+Mazhab so‘zining lug‘aviy ma’nosi...
+====
+#Oqim, yo‘l, ta’limot
+====
+G‘ayrat, poklik, yo‘nalish
+====
+Komillik, kamtarlik, baho
+====
+Qism, bo‘lak, yo‘nalish
+++++
+So’fizm ta`limoti qachon paydo bo’lgan?  
+====
+#VIII- IX asrlarda  
+====
+VIII asr o’rtalarida  
+====
+II asr II yarmida  
+====
+X-XI asrlarda  
+++++
+Alloh tomonidan alohida kitob va shariat berilgan payg’ambarlar, rasullar darajasiga erishganlar bu…  
+====
+#Ibrohim, Muso, Iso, Muhammad  
+====
+Iso, Muso, Ibrohim, Ya’qub
+====
+Iso, Yakub, Muhammad  
+====
+Dovud, Ibrohim, Iso, Ismoil
+++++
+ “Avesto” – yozuvi va matnini o’qib, tahlil qilgan olimlar?  
+====
+#Dyuperon va M. Boys  
+====
+Grotefond va Roulinson  
+====
+Bertels va V.Struve  
+====
+V. Livshis va A. Stoblin – kamenskiy  
+++++
+Hadis necha xil?  
+====
+#Al-hadis Al-qudsiy, al-xadis an - Nabaviy  
+====
+Al-hadis as-Sahiy al-hadid an-Muhammadiy  
+====
+As-Sahih as-Sitta, Sahihiy Buhoriy  
+====
+sahihi Muslim, Al-Jomiy  
+++++
+«Hidoya» («To’gri yo’l») asari kimning qalamiga mansub? 
+====
+#Bahouddin Marg’inoniy;  
+====
+Muso Xorazmiy;  
+====
+Usmon Nosir;  
+====
+Ishoqxon Ibrat.  
+++++
+Zаrdo’shtiylik dinining fаlsаfiy – ахlоqiy nеgizini tаshkil etаdigаn, mа’nаviy qаdriyat bo’lmish аsоsiy g’оya qаysi? 
+====
+Хаlоl mеhnаt ezgulikning аsоsi. 
+====
+#Ezgu fikr, ezgu kаlоm, ezgu аmаl birligi.
+====
+Tаqvоdоrlik kоmillikning pоydеvоri. 
+====
+Hаmmаning dеhqоnchilik bilаn shug’ullаnshi shartligi.
+++++
+Milliy dinlarning asosiy xususiyatlari.  
+====
+milliy davlat diniga aylanishga intilishda  
+====
+#bir millatga mansublikda  
+====
+o’ziga xos urf-odatlarida  
+====
+millatlarni birlashtirishda  
+++++
+Monotеistik dinlarning asosi-bu  
+====
+tabiat hodisalariga sig’inish.  
+====
+sanamlarga sig’inish.  
+====
+#yakka xudoga sig’inish  
+====
+ajdodlar ruhiga sig’inish  
+
+++++
+Jaholatga qarshi kurashning quroli nima?
+====
+Jaholat;
+====
+#Ma’rifat;
+====
+Saxovat;
+====
+Iqtisod.
+++++
+Animizm nima?
+====
+sanamlarga sig‘inish
+====
+tabiy voqealarga sig‘inish
+====
+hayvonlarga sig‘inish
+====
+#jism ruhlariga sig‘inish
+++++
+Xristian dinining asosiy yo‘nalishlarini ko‘rsating.
+1.Katolitsizm 2.Iudizm 3.Pravoslaviye
+4.Sintoizm 5.Protestaitizm
+====
+1,2,4
+====
+2,4
+====
+1,2,3
+====
+#1,3,5
+++++
+Hindiston milliy dini qaysi din?  
+====
+buddizm 
+====
+#xinduizm  
+====
+sintoizm  
+====
+islom  
+++++
+Iudaizmnig o’ziga xosligi?
+====
+Jahon dinligi  
+====
+#milliy dinligi  
+====
+urug’- qabila dinligi  
+====
+Jahon dinlariga o’xshashligida  
+++++
+Xitoy milliy dinlari qaysilar?
+====
+xristianlik  
+====
+#daosizm, konfutsiychilik  
+====
+Hinduizm  
+====
+sintoizm  
+++++
+Qur'onni birinchi bo’lib mushaf shakliga kеltirgan shaxs  
+====
+Umar ibn Xattob  
+====
+#Usmon ibn Affon  
+====
+Ali ibn Abu Tolib  
+====
+Zayd ibn Sobit  
+++++
+O’rta Osiyoda kеng tarqalgan suniylik oqimi… 
+====
+imomiya  
+====
+shofi'iya  
+====
+#xanafiya  
+====
+alaviyiya  
+++++
+E'tiqod erkinligi nima bilan kafolatlangan?  
+====
+O’zbеkiston Rеspublikasi Vazirlar Maxkamasining qarori bilan  
+====
+#O’zbеkiston Rеspublikasi Konstitutsiyasi bilan  
+====
+Movarounahr musulmonlari idorasi qaror qoidalari bilan  
+====
+Adliya vazirligi qarorlari bilan  
+++++
+Qur'ondagi eng kichik sura ?  
+====
+#«Kavsar»  
+====
+«Ixlos»  
+====
+«Baqara»  
+====
+«Oli Imron»  
+++++
+Qur'ondagi birinchi sura?  
+====
+«Ixlos»  
+====
+«Baqara»  
+====
+#«Fotixa»  
+====
+«Oli Imron»  
+++++
+Hazrati Muhammad (SAV) qachon tavallud topganlar?  
+====
+#570/571  
+====
+592/593 
+====
+622/622 
+====
+575/576 
+++++
+Qaysi marosimni diniy marosim dеya olamiz?  
+====
+to’y  
+====
+oila shartnomasi  
+====
+#nikoh  
+====
+beshik to’y  
+++++
+Islomdagi sunniylik oqimining asosiy mazxab-yo’nalishlari  
+====
+xanafiya, shofi'iylik, imomiya, moliykiylik  
+====
+Xanafiy, vaxxobiylik, shofi'iy, xorijiylik  
+====
+#xanafiy, molikiya, shofi'iylik, xanbaliya  
+====
+shofi'iy, molikiya, imomiya, xanbaliya  
+++++
+Diniy xodim dеganda kimni tushuniladi?  
+====
+imom, monax, namozxon  
+====
+mutavalli, da'vatchi, pastor  
+====
+da'vatchi, namozxon, pastor  
+====
+#imom, pastor, еpiskop
+++++
+Umuminsоniy qаdriyatlаrdаn biri hisoblangan – dinlаrаrо bаg’rikеnglik (tоlеrаntlik) bu ...
+====
+Bir dinning bоshqа dindаn ustunligini ko’rsаtish hаrаkаtlаri.
+==== 
+#Turli diniy e’tiqоdli kishilаrning mа’lum bir hududdа hаmkоr vа hаmjihаt bo’lib yashashi.
+====
+Dinlаrаrо mutаnоsiblikni ilmiy yo’l bilаn qаrоr tоptirish.
+==== 
+Kuch ishlаtish yo’li bilаn o’zgаlаr dinigа hurmаt uyg’оtish.
+++++
+Ma’lumki, Markaziy Osiyo va Hozirgi O‘zbekiston Hududida yashagan xalqlar sunniylikdagi Hanafiya Mazhabiga e’tiqod qilib, bu mazhabning asoschisi “Imomi A’zam” deb nomlangan “Imomi A’zam” so‘zi qanday ma’noni anglatadi?
+====
+Ilmli kishi
+====
+#Ulug‘ imom
+====
+E’tiqod tayanchi
+====
+Imomlarning afzali
+++++
+Ma’lumki, dunyoda islom aqidaparastligining qator diniy – siyosiy oqimlari mavjud bo‘lib, mustaqillikdan so‘ng O‘zbekistondagi tinchlik barqarorlikka ularning qaysilari tahdid solishga harakat qilishdi?
+====
+Al – Qoida va Al – Jihad al - Islomiy
+====
+at – Takfir val – Hijra va Abu sayyoor
+====
+Xizbulloh va Lashkari jihod
+====
+#Vahhobiylik va Hizbut tahrir
+++++
+ “Musulmonlarning e’tiqodini tuzatuvchi” degan yuksak sharafga sazavor bo‘lgan alloma kim?
+====
+#Imom Moturidiy
+====
+Imom Buxoriy
+====
+Imom Termiziy
+====
+Imom Nasafiy
+++++
+Axmad Yassaviy uyat va or-nomusini yo‘qotgan odamni nimaga o‘xshatadi?
+====
+Qushga
+====
+#Hayvonga
+====
+Daraxtga
+====
+Texnikaga
+++++
+Dinning jamiatdagi “regulyatorlik» vazifasi nimadan iborat?
+====
+#Din o`z qavmlarini turmushini nazorat qilishi
+====
+Dinni yoyish
+====
+Dinga majburlash
+====
+Tasalli berish
+++++
+Dinshunoslik fanining predmeti?
+====
+#Dinni xolislik asosida o`rganish
+====
+Dinni teologik jihatdan o`rganish
+====
+Faqat islom dinini o`rganish
+====
+Diniy ibodatlarni amalga oshirishni o`rganish
+++++
+Tаsаvvuf tа’limоti - insоn uchun eng kаttа yov, dеb nimаni tushunаdi? 
+====
+Hur fikrlilikni.
+====
+Fаqirоnа hаyot kеchirishni.
+====
+Bоy – bаdаvlаt bo’lishni. 
+====
+#Nаfs bаlоsini.
+++++
+E.Taylor nechanchi yil «animizm» konsepsiyasini ilgari surdi?
+====
+#1871-yilda
+====
+1868-yilda
+====
+1869-yilda
+====
+1880-yilda
+++++
+«Hujjatul islom” unvonini olgan olim?
+====
+#G‘azzoliy
+====
+Farobiy
+====
+Beruniy
+====
+Ibn Sino
+++++
+«Shomon» so‘zining ma’nosi nima?
+====
+#jazavali kishi
+====
+ruhoniy
+====
+Oqsoqol
+====
+Bashoratchi
+++++
+«Yahve» atamasi qaysi dinga oid?
+====
+#yahudiylik
+====
+buddizm
+====
+xristianlik
+====
+Sintoizm
+++++
+Qaysi dinlar milliy dinlardan hisoblanadi?
+====
+#Hinduizm, jaynizm, sikxizm, konfusiychilik
+====
+Fetishizm, totemizm, anemizm
+====
+Buddizm, islom, xristianlik
+====
+Katolisizm, pravoslaviya, protestantlik, lyuteranlik
+++++
+Mus’haf nima?
+====
+#Qur’on qadimiy qo‘lyozma nusxalarining umumiy nomi
+====
+qo‘lyozma yodgorliklar
+====
+Hadislarning qo‘lyozma nusxalari
+====
+to‘g‘ri javob yo‘q
+++++
+Fransuzchada «but», «sanam», «tumor» – ma’nosini beruvchi,  jonsiz buyumlarda e’tiqod qilish, bu...?
+====
+#fetishizm
+====
+shomonizm
+====
+totemizm
+====
+animism
+++++
+Zаrdushtiylik dini insоniyat tаriхidа diniy e’tiqоd qаdriyatlаrini yuqоri bоsqichgа оlib chiqdi, ya’ni quyidаgi jаrаyonni bоshlаb bеrdi:
+====
+Pоlitеizmni.
+====
+Duаlizmni.
+====
+#Mоnоtеizmni.
+====
+Pаntеizmni.
+++++
+Islom dini ta’limotida «vahiy» tushunchasi qanday talqin qilinadi?
+====
+#Ilohiy ko‘rsatmalarni payg‘ambarga tushirish yo‘li
+====
+din asoschisini diniy ko‘rsatmalarni insoniyatga yetkazishi
+====
+dindor kishiga diniy ko‘rsatmalarni bajarishga bo‘lgan ilohiy ilhomi 
+====
+Qur’oni karimning muqobil ma’nosi
+++++
+O‘rta Osiyo nima uchun o‘rta asrlarda sharqning ma’naviyat markazi deb atalgan?
+====
+O’rta Osiyoda rivojlangan davlatlarning vujudga kelishi sababli.
+====
+#O’rta Osiyoda buyuk mutafakkirlarning etishib chiqqanligi, ilm markazlari va madrasalarning vujudga kelishi , jahon fani va islomshunosligiga qo’shgan hissasi tufayli.
+====
+Qishloq xo’jaligi va hunarmandchilikning rivojlanganligi tufayli.
+====
+A, B, C.
+++++
+Bag‘rikenglik manosini beruvchi so‘z?
+====
+#tolerantlik
+====
+plyuralizm
+====
+polemika
+====
+fobiya
+++++
+Zardushtiylik qachon vujudga kelgan?
+====
+#m.a. 1-mingyillikning birinchi choragi
+====
+m.a. 2-mingyillikning ikkinchi choragi
+====
+m.a. 1-mingyillikning o‘rtalari
+====
+m.a. 2-mingyillikning to‘rtinchi choragi
+++++
+Yahudiylikda diniy jamoat joylarini boshqaruvchi, yahudiylik ta’limoti va kultining bilimdoni qanday nomlanadi?
+====
+#ravvin
+====
+yom kipur
+====
+rosh ashana
+====
+karaim 	
+++++
+«Ahli sunna val-jamoa»da fiqhiy mazhablar qaysilar?
+====
+#Hanafiylik, Molikiylik, Shofiiylik, Xanbaliy
+====
+Ash’ariylik, Molikiylik, Moturidiylik, Shialik
+====
+Zoxiriylik, Ash’ariylik, Shofiiylik, Xanafiylik
+====
+Xorijiya, Ash’ariylik, Mu’taziliya, Azraqiya
+++++
+Sunniylik yo‘nalishining aqidaviy ta’limoti qaysi ta’limotlarga asoslanadi?
+====
+Hanafiya, Shofi’iya
+====
+Ash’ariya, Mo’taziliya
+====
+#Moturidiya, Ash’ariya
+====
+Moturidiya, Tahoviya
+++++
+“Johiliya”so‘zining lug‘aviy ma’nosi nima?
+====
+Oqillik, donolik
+====
+Mayxo‘rlik, aqidaparastlik
+====
+#Bilimsizlik, nodonlik
+====
+Qasoskorlik, riyokorlik
+++++
+Johiliya davridagi din va e’tiqodlar qaysilar?
+====
+#Xristianlik, yahudiylik, sobiylik, majusiylik
+====
+Zardushtiylik, islom, xristianlik, butparastlik
+====
+Totemizm, fetishizm, shamanizm, animizm
+====
+Shamanlik, xristianlik, islom, buddizm
+++++
+“Diniy tashkilotlar davlatdan ajratilgan hamda qonun oldida tengdirlar. Davlat diniy tashkilotlarning faoliyatiga aralashmaydi.” Ushbu so’zlar qaysi hujjatda joy olgan?
+====
+ “Inson huquqlari umumjahon deklaratsiyasi”
+====
+ “Vijdon erkinligi va diniy tashkilotlar to‘g‘risida”gi qonun
+====
+ #O’zbekiston Respublikasi Konstitutsiyasi 
+====
+"Bagʻrikenglik tamoyillari deklaratsiyasi"
+++++
+Ma’lumotlarga ko‘ra, bugun dunyo bo‘yicha qanchaga yaqin terrorchilik tashkilotlari faoliyat ko‘rsatmoqda?
+====
+#500
+====
+600
+====
+400
+====
+800
+++++
+Diniy ekstremistik guruhlar tahdid solayotgan turli mamlakatlarni shartli tarzda bir necha guruhga bo‘lish mumkin. Shunday guruhlarning 3-o’chog’i hisoblangan Janubi-Sharqiy Osiyo mintaqasida joylashgan davlatlarni toping.
+====
+Xitoy, Mongoliya, Vyetnam, Yaponiya
+====
+Falastin, Iroq, Suriya, Saudiya Arabiston
+====
+Misr, Jazoir, Tunis
+====
+#Pokiston, Indoneziya, Malayziya, Hindiston, Filippin
+++++
+O‘tgan asrning 70-yillaridan boshlab diniy ekstremizm va fundamentalizmning eng yirik o‘chog‘iga aylahgan hudud qaysi?
+====
+#Afg‘oniston
+====
+Eron
+====
+Suriya
+====
+Pokiston
+++++
+Hasan al-Banno tomonidan 1928 yilda asos solingan tashkilot qaysi?
+====
+#“Jamoat al-ixvon al-muslimin”
+====
+ “Hizb at-tahrir al-islomiy”
+====
+ “Al-Qoida”
+====
+ “Tolibon”
+++++
+“Islom nizomi”, “Islom davlati”, “Xalifalik”, “Islomiy olamga qaynoq nidolar”, “Demokratiya – kufr nizomi” va “Siyosiy ong” kabi asarlarni ta’limoti asosiga olgan diniy ekstremistik guruh qaysi?
+====
+ “Jamoat al-ixvon al-muslimin”
+====
+ #“Hizb at-tahrir al-islomiy”
+====
+ “Al-Qoida”
+====
+ “Tolibon”
+++++
+Usoma bin Lodin qaysi diniy ekstremistik tashkilotning rahbari bo’lgan? 
+====
+ “Jamoat al-ixvon al-muslimin”
+====
+ “Hizb at-tahrir al-islomiy”
+====
+ #“Al-Qoida”
+====
+ “Tolibon”
+++++
+2001 yilning 11 sentabrida Amerika Qo‘shma Shtatlarida turli reyslar bilan Nyu-York, Boston va Vashington shaharlaridan uchgan to‘rtta “Boing–757” samolyoti qaysi guruhga mansub 18 nafar terrorchi tomonidan egallab olindi? 
+====
+ “Jamoat al-ixvon al-muslimin”
+====
+ “Hizb at-tahrir al-islomiy”
+====
+ #“Al-Qoida”
+====
+ “Tolibon”
+++++
+Lotincha – «aql bovar qilmas darajada», «haddan oshish»,  jamiyatda qabul qilingan qonun-qoidalarga zid radikal qarashlar va harakatlarni anglatadigan so’z qaysi?
+====
+#Ekstremizm 
+====
+Terrorizm
+====
+Fundamentalizm
+====
+Mutaassiblik 
+++++
+Lotincha – «asos», muayyan ijtimoiy hodisaning dastlabki ko‘rinishini anglatadigan so’z qaysi?
+====
+Ekstremizm 
+====
+Terrorizm
+====
+#Fundamentalizm
+====
+Mutaassiblik 
+++++
+Arabcha – «g‘uluv ketish», «chuqur ketish», o‘z fikr-mulohaza va dunyoqarashi to‘g‘riligiga o‘ta qattiq ishonib, boshqa diniy e’tiqodlarga murosasiz munosabatda bo‘lishni anglatuvchi so’z qaysi?
+====
+#Mutaassiblik 
+====
+Aqidaparastlik
+====
+Ekstremizm 
+====
+Terrorizm
+++++
+Lotincha – «qo‘rqitish», «vahimaga solish» – aholining keng qatlamlarida vahima va qo‘rquv uyg‘otish, jamiyatda beqarorlik keltirib chiqarish orqali davlat hokimiyatini egallash maqsadiga qaratilgan jinoiy faoliyatdir.
+====
+Ekstremizm 
+====
+#Terrorizm
+====
+Fundamentalizm
+====
+Mutaassiblik 
+++++
+Ushbu so’z o‘zbek tiliga aynan tarjima qilinganda «e’tiqod qilish», degan ma’noni anglatadi. Umuman olganda, muayyan diniy ta’limot doirasida shakllangan va o‘ziga xos xususiyatlarga ega e’tiqod va ushbu e’tiqodga ergashuvchilar jamoasi tushuniladi.
+====
+#Konfessiya
+====
+Sekulyarizatsiya 
+====
+Ekstremizm
+====
+Sekta
+++++
+Mutaxassislar hozirgi kunda dunyoda taxminan qancha diniy konfessiyalar mavjud, deb hisoblaydilar?
+====
+#1000dan ortiq
+====
+500dan ortiq
+====
+100dan ortiq
+====
+3000dan ortiq
+++++
+Sun Myung Men tomonidan tuzilgan xristian cherkovi qaysi?
+====
+#Birlashgan cherkov
+====
+Mormonlar
+====
+Serkov novogo zaveta
+====
+Yahve shohidlari 
+++++
+«Aum sinrikyo» -  Aum (sanskritcha «olam») haqiqati ta’limoti; ingliz tilida  «Supreme truth»,  ya’ni «oliy haqiqat» deb tarjima qilingan diniy, sinkretik, terroristik, ekstremistik, totalitar, destruktiv sekta qayerda vujudga keldi?
+====
+#Yaponiya
+====
+Xitoy
+====
+Vyetnam
+====
+Tailand
+++++
+Yerning Quyosh atrofida aylanishi haqidagi qarashlarni yoqlagani uchun cherkov tribunali tomonidan tavba qildirilib, o‘z qarashlaridan voz kechishga majbur qilingan Galileo Galileyning haq bo‘lganini tan olib, barchadan uzr so‘ragan papaning ismi kim?
+====
+# Papa Ioann Pavel II
+====
+Papa Lev II
+====
+Papa Piy I
+====
+Papa Sebastian 
+++++
+1873-yilda Charlz Teyz Rassel (1852-1916) tomonidan asos solingan xristianlikdagi yangi oqim qaysi? 
+====
+Birlashgan cherkov
+====
+Mormonlar
+====
+Serkov novogo zaveta
+====
+#Yahve shohidlari
+++++
+1830 yili Nyu-York (AQSh) shahrida Jozef Smit (1805-1844) ismli shaxs tomonidan asos solingan yangi diniy oqim qaysi? 
+====
+Birlashgan cherkov
+====
+#Mormonlar
+====
+Serkov novogo zaveta
+====
+Yahve shohidlari 
+++++
+XIX asrda Eronda bobiylik yo‘nalishi zamirida vujudga kelgan diniy yo‘nalish qaysi? 
+====
+#Bahoiylik
+====
+Ahmadiylik (Qodiyoniylik)
+====
+G’ulomiylik
+====
+Ja’fariylik
+++++
+«Kitobi Aqdas» («Eng muqaddas kitob») va «Kitobi Iqon» («Mustahkam ishonch kitobi») asarlari qaysi diniy ta’limotining asoslarini tashkil etadi?
+====
+#Bahoiylik
+====
+Ahmadiylik (Qodiyoniylik)
+====
+G’ulomiylik
+====
+Ja’fariylik
+++++
+G‘ayriislomiy mohiyat va diniy-siyosiy mazmunga ega bo‘lgan bu oqimi XIX asrning oxirlarida Mirzo G‘ulom Ahmad tomonidan tuzilgan. Dastlab u asoschisining nomi bilan – «Mirzoiylik» deb atalgan. 
+====
+Bahoiylik
+====
+#Ahmadiylik (Qodiyoniylik)
+====
+G’ulomiylik
+====
+Ja’fariylik
+++++
+Ayrim mamlakatlarning konstitutsiyalarida diniy tashkilotning davlatdan ajratilganligi mustahkamlangan bo‘lib, bunda davlat dinni o‘z fuqarolarining shaxsiy ishi sifatida ko‘radi. Ushbu ta’rif qaysi model haqida?
+====
+#Separatsion model
+====
+Identifikatsion model
+====
+Kooperatsion model
+====
+Diktatorlik modeli
+++++
+Qaysi davlat konstitutsiyasida “12 ta imomlarning mavjudligini nazarda tutuvchi ja’fariya mazhabi rasmiy din sifatida e’tirof etiladi hamda bu qoida abadiy o‘zgarmas bo‘lib qoladi” degan modda joy olgan?
+====
+#Eron
+====
+Iroq
+====
+Suriya
+====
+Saudiya Arabistoni
+++++
+Quyidagi qaysi so’z «chuqur tushunish», «idrok etish», «bilish» ma’nolarini bildiradi. Istilohiy ma’noda esa – shariat hukmlarini o‘rganish, shariat qoidalarini barcha qismlari bilan anglash.
+====
+#Fiqh
+====
+Mazhab
+====
+Aqida
+====
+Iymon
+++++
+Quyidagi qaysi so’z  «yo‘nalish», «yo‘l», «diniy ta’limot» ma’nolarini bildiradi. Islom shariati va aqidasining muayyan bir tizimga solingan holatdagi ko‘rinishidir.
+====
+Fiqh
+====
+#Mazhab
+====
+Aqida
+====
+Iymon
+++++
+Hanafiylik mazhabining asoschisi kim?
+====
+#Imomi A’zam
+====
+Ahmad ibn Hanbal
+====
+Imom Shofeiy 
+====
+Imom Molik
+++++
+Islom ta’limotini o‘rganishda eng ko‘p qo‘llangan ushbu atama, bu nom X asrda paydo bo‘lgan. Ushbu so‘z bir narsani ikkinchisiga «mahkam bog‘lash» ma’nosini beradi.
+====
+Fiqh
+====
+Mazhab
+====
+#Aqida
+====
+Iymon
+++++
+«Kitab at-Tavhid», «Kitab al-maqomat», «Kitab rad avoil al-adilla li-l-Ka’biy», «Kitab al-usul», «ar-Radd ala usul al-Qaromita», «Kitab ta’vilot ahli sunna» asarlarining muallifini toping. 
+====
+#Abu Mansur Moturidiy
+====
+Abu Hanifa
+====
+Imom al-Buxoriy
+====
+Muhammad al-Xorazmiy
+++++
+«Imom al-huda» (hidoyat yo‘li imomi) va «Imom al-mutakallimin» (mutakallimlar imomi) kabi nomlar bilan dovruq qozongan alloma kimdir?
+====
+#Abu Mansur Moturidiy
+====
+Abu Hanifa
+====
+Imom al-Buxoriy
+====
+Muhammad al-Xorazmiy
+++++
+Qaysi so’z arabcha «qara’a» (o‘qimoq) fe’lidan olingan. Boshqa fikrga binoan, u suryoniy tilidagi «kerain» – «muqaddas yozuv» ma’nosini bildiruvchi so‘zdan olingan.
+====
+#Qur’on
+====
+Aqida 
+====
+Mazhab
+====
+Hadis
+++++
+Halifa Abu Bakr nechanchi yillarda hukmronlik qilgan?
+====
+#632-634
+====
+636-644
+====
+656-661
+====
+644-656
+++++
+Halifa Usmon ibn Affon nechanchi yillarda hukmronlik qilgan?
+====
+632-634
+====
+634-644
+====
+656-661
+====
+#644-656
+++++
+Hadisni rivoyat qilgan roviylar zanjiri nima deb ataladi?
+====
+Matn
+====
+#Isnod
+====
+Hadis
+====
+Mushaf
+++++
+Qaysi hadis turida hadisda ma’no – Allohdan, lafz – Payg‘ambardan deb hisoblanadi?
+====
+#al-hadis al-qudsiy
+====
+al-hadis an-nabaviy
+====
+Sahih hadis
+====
+Mutavotir hadis
+++++
+Qaysi hadis turida ma’no ham, lafz ham Payg‘ambarniki deb hisoblanadi?
+====
+al-hadis al-qudsiy
+====
+#al-hadis an-nabaviy
+====
+Sahih hadis
+====
+Mutavotir hadis
+++++
+Makka fath etilgan 630-yili Ka’ba ichida qancha sanam bo‘lgan?
+====
+500
+====
+#630
+====
+450
+====
+900
+++++
+Ko’chmanchi arablar nima deb ataladi?
+====
+Ansorlar
+====
+Muxojirlar
+====
+#Badaviylar
+====
+Mutaziliylar 
+++++
+Arabcha-elchi, islom an’anasida Alloh tomonidan tanlab olinib, vakil qilingan va targ‘ibot yuritish, da’vat qilish vazifasi topshirilgan, ilohiy kitob nozil qilingan payg‘ambar, ushbu ta’rifga mos so’zni toping.
+====
+#Rosul 
+====
+Nabiy
+====
+Muhaddis
+====
+Fiqhchi
+++++
+Arabcha-ko‘ligi anbiyo, ilohiy xabar keltiruvchi payg‘ambar, Allohning farmoyishini insonlarga yetkazib beruvchi vositachi shaxs. O‘zlariga maxsus kitob va shariat  berilmagan ushbu ta’rif kimlarga berilgan?
+====
+Rasul 
+====
+#Nabiy
+====
+Muhaddis
+====
+Fiqhchi
+++++
+Muhammad (S.A.V.)ning amakisiining ismi nima?
+====
+#Abu Tolib
+====
+Abdul Mutallib
+====
+Ali
+====
+Umar bin Hattob
+++++
+Muhammad (sav)ning Makkadan Quddusga qilgan tungi sayri nima deb ataladi?
+====
+#Isro 
+====
+Mer’oj 
+====
+Hijrat
+====
+Fath
+++++
+Muhammad (sav)ning Quddusdagi Aqso masjididan osmonga ko‘tarilishlari nima deb ataladi?
+====
+Isro 
+====
+#Mer’oj 
+====
+Hijrat
+====
+Fath
+++++
+Arabcha-uzoqdagi masjid-Quddus shahridagi yahudiylik an’anasida muqaddas hisoblangan Sulaymon ibodatxonasidir. Qur’on Karimda shu nom bilan tilga olingan masjid qaysi?
+====
+# Al-Masjid al-Aqso
+====
+Al-Masjid an-Nabaviy
+====
+Al-Masjid al-Harom
+====
+Mo’yi muborak
+++++
+Dastlab Muhammad Payg‘ambar musulmonlarni qaysi shaharga qarab namoz o‘qishga  buyurgan?
+====
+Makka
+====
+Madina
+====
+#Quddus
+====
+Shom
+++++
+Uhud tog‘i etagida bo‘lgan jang qachon sodir bo’lgan?
+====
+#625
+====
+624
+====
+623
+====
+630
+++++
+Qachon Makka shahri jangsiz musulmonlarga taslim bo’ldi?
+====
+645
+====
+#630
+====
+632
+====
+610
+++++
+Arabcha-Alloh uyi - Makka shahridagi Ka’ba binosining nomi nima?
+====
+Al-Masjid al-Aqso
+====
+Al-Masjid an-Nabaviy
+====
+#Baytulloh
+====
+Qubbat as-Sahro
+++++
+Qoya gumbazi-Quddusdagi al-harom ash-Sharif markazidagi, qadimdan e’zozlanib kelingan qoya ustidagi gumbazli masjid qaysi?
+====
+Al-Masjid al-Aqso
+====
+Al-Masjid an-Nabaviy
+====
+Baytulloh
+====
+#Qubbat as-Sahro
+++++
+
+Tafsir nima?
+====
+Payg‘ambar hayotini tasvirlaydi
+====
+hadis sirini ochadi
+====
+# Qur’on oyatlariga sharh beradi
+====
+tarixni yoritadi
+++++
+Islom so‘zining ma’nosi?
+====	
+ Birlashmoq
+====	
+# Allohga bo‘ysunmoq, itoat qilmoq
+====	
+ Muhammad payg‘ambarga ergashmoq	
+====
+ Xudoni tanimoq	
+++++
+O‘zbekistonda islom dini bayramlari qaysi?
+====	
+diniy bayramlar yo‘q
+====	
+Navro‘z
+====	
+Mustaqillik kuni
+====	
+# Iyd-al Fitr, Iyd-al  Qurbon
+++++
+Dinshunoslik fan sifatida qachon shakllandi?
+====
+Eramizdan avvalgi 3 asrda
+====
+10-11 asrlarda 
+====
+8 asr boshlarida 
+====
+# 19 asr oxiri 20 asr boshlarida	
+++++
+Diniy fundamentalizm va ekstremizm tarafdorlarining asosiy maqsadi nima?
+====
+Jamiyatdagi amaldor shaxslarga qarshi kurashish;
+====
+Xalqlar ko‘ngliga g‘ulg‘ula solish;
+====
+O‘z manfaatlari yo‘lida foydalanish; 
+====
+#Xalifalik davlatini o‘rnatish;
+++++
+Islomiy madaniyatga xos xususiyatlari nimalardan iborat?
+====	
+tubanlik, hiyonat, vafo, pastkashlik
+====	
+iymonlilik, vijdonlilik, halollik, mazamat
+====	
+# e’tiqodlilik, poklik, ezgulik, xalimlik
+====	
+go‘zallik, o‘ta bilimlilik, andishalilik, isyonkorlik	
+++++
+«Mushafi Usmon»ning asl nusxalaridan biri saqlanayotgan joy qayerda?
+====	
+# Toshkent
+====	
+Samarqand
+====	
+Makka
+====	
+Turkiston	
+++++
+Kalom falsafasining shakllanish davri
+====	
+# IX asr
+====	
+VII-IX asrlar
+====	
+XI asr
+====	
+X asr 	
+++++
+“Bayt ul хikma” qaysi shaharda tashkil etildi?
+====	
+Хоrazm.
+====	
+Buхоrо.  
+====	
+Samarqand.
+====	
+#Bоg’dоd.
+++++
+Vijdоn erkinligining kafоlatlari nimalardan ibоrat?
+====	
+Dinlarning va diniy tashkilоtlarning davlatdan ajratilganligi.
+====	
+Barcha fuqarоlar uchun maоrif va madaniyat eshiklarining оchiqligi.
+====	
+maktabning dindan va diniy tashkilоtlardan ajratilganligi.
+====	
+#Barchasi.
+++++
+Iymon deganda nimani tushunasiz?
+====
+Poklik.
+====
+Adolat.
+====
+Diyonat.
+====
+#Ishonch.
+++++
+Insoniylikning muhim shartlari...?
+====
+Saxiylik, xushmuomilalik, insoflilik, kamtarinlik.
+====
+To‘g‘ri so‘zlik, sharm-hayolilik, or-nomus, andishalik.
+====
+Diyonatlilik, mexr-shafqatlilik, poklik, halollik.
+====
+#Hammasi to‘g‘ri
+++++
+Musulmоn huquqshunоsligidagi shariat manbalarini aniqlang.
+====
+Sunnat.
+====
+Ijmо’.
+====
+Qur’оni Karim.
+====
+#Barcha javоblar to’g’ri.
+++++
+Buddaviylik ta’limoti, asosan, uch qismdan iborat bo‘lib uning muhim qismi axloq hisoblanadi. Axloq normalari – «Pancha shila» (Buddaning besh nasihati) deb atalib u qaysi nasihatlardan iborat? 
+
+1) qotillikdan saqlanish;
+2) o‘g‘rilikdan saqlanish;
+3) gumrohlikdan saqlanish;
+4) yolg‘on, qalbaki narsalardan saqlanish;
+5) mast qiluvchi narsalardan saqlanish
+6) shirk keltirishdan saqlanish
+7) harom luqmadan saqlanish
+8) mol go‘shtidan saqlanish
+====
+#1,2,3,4,5
+====
+1,2,4,5,6
+====
+1,2,3,7,8
+====
+1,2,3,6,7
+++++
+Buddaviylik 2 asosiy oqimdan iborat bo‘lib ular qaysilar ? 
+====
+#Hinayana va Mahayana 
+====
+Vajrayana va Tripitaka
+====
+Hinayana va Vajrayana
+====
+Vajrayana va Ramayana
+++++
+Butun olam suv bosishi (to‘fon) haqidagi afsonaning vatani…
+====
+#Messopotamiya
+=====
+Eron
+====
+Gretsiya
+====
+Hindiston
+++++
+
+
+Сколько религиозных конфессий имеются в Узбекистане
+====
+#16
+====
+10
+====
+30
+====
+14
+
+
++++++
+
+
+Что означает слово «Коран»?
+====
+Вера
+====
+# «чтение вслух», «назидание» 
+====
+Основа
+====
+Закон
+
+
++++++
+
+
+Священная книга иудаизма:
+====
+Библия
+====
+Трипитака
+====
+новый завет
+====
+#ветхий завет библии
+
+
++++++
+
+
+Предметом религиоведения является изучение:
+====
+взаимосвязи религий 
+====
+возникновения ранних форм религий
+====
+#закономерностей возникновения, развития, и функционирования различных религий
+====
+религиозного мировоззрения 
+
+
++++++
+
+
+Религиоведение это:
+====
+места в обществе.
+====
+Атеизм
+====
+Теология
+====
+#научное исследование проблем происхождения, сущности и функций религии
+
+
++++++
+
+
+Основные разделы религиоведения:
+====
+психология религии, социология религии
+====
+#история, философия, социология, психология, феноменология религии
+====
+история религии, феноменология религии
+====
+Футурология
+
+
++++++
+
+
+Основные функции религии: 
+====
+#регулирующая, контролирующая, политическая, экзистенциальная интегрирующая, компенсирующая, мировоззренческая
+====
+политическая, мировоззренческая
+====
+футурологическая, аксиологическая 
+====
+мировоззренческая, гносеологическая.
+
+
++++++
+
+
+Методы исследования религиоведения:
+====
+генетический, функциональный
+====
+типологический, генетический
+====
+#каузальный анализ, историзм, типологический, структурно-функциональный
+Феноменологический
+
+
++++++
+
+
+Принципы изложения религиоведения:
+====
+объективность, гуманизм
+====
+толерантность, терпимость, диалог религиозных и нерелигиозных мировоззрений
+====
+рассмотрение религии в контексте развития культуры
+====
+#все перечисленные
+
+
++++++
+
+
+Предпосылки, факторы (корни) возникновения религии.
+====
+#материальные, духовные, психологические, гносеологические
+====
+антропологические, гносеологические
+====
+природные, межчеловеческие отношения
+====
+ограниченность познания, гносеологические.
+
+
++++++
+
+
+Первобытные верования
+====
+магия, анимизм, сикхизм
+====
+#фетишизм, тотемизм, магия, анимизм
+====
+фетишизм, иудаизм
+====
+индуизм, тотемизм, магия
+
+
++++++
+
+
+Что обозначает термин «фетишизм» 
+====
+#амулет, волшебство
+====
+магически искусный
+====
+Сверхъестественное
+====
+Культурное
+
+
++++++
+
+
+Что такое тотемизм?
+====
+религия первобытного общества 
+====
+#вера в существование особого рода связи между какой-либо группой людей 
+(племя. род) и определенным видом животных или растений
+====
+запрет (табу) на употребление тотема в пищу.
+====
+употребление тотемных животных и растений в пищу
+
+
++++++
+
+
+Что такое магия?
+====
+это мистика 
+====
+Предсказание
+====
+вера в возможность влияния на людей, предметы и явления объективного мира путем обращения к таинственным силам
+====
+#все перечисленное
+
+
++++++
+
+
+Когда возникло Конфуцианство
+====
+не известно
+====
+4-5 вв. в н. э.
+====
+8 в до н. э.
+====
+#в 6-5 вв. до н. э.
+
+
++++++
+
+
+Священная книга Зороастризма
+====
+Веды
+====
+#Авеста
+====
+Упаншади
+====
+Коран
+
+
++++++
+
+
+Что играет важную роль в процессе очищения в Зороастризме?
+====
+#Вода
+====
+Огонь
+====
+Вино
+====
+Крест
+
+
++++++
+
+
+Когда возникла религия Буддизм?
+====
+в 3 в до н. э
+====
+#в 6 вв до н. э
+====
+в 1 вв до н. э
+====
+не известно
+
+
++++++
+
+
+Священная книга буддизма:
+====
+Веды
+====
+Упанишады 
+====
+#Трипитака
+====
+Люньюй
+
+
++++++
+
+
+Когда возникло Христианство?
+====
+в 7 в до н. э
+====
+в 3 до н. э
+====
+6-5 вв. до н. э
+====
+#в 1 в н. э
+
+
++++++
+
+
+Основная идея христианства:
+====
+#идея греха и спасения человека
+====
+идея кармы
+====
+идея добродетелей
+====
+идея бессмертия
+
+
++++++
+
+
+Иисус Христос это:
+====
+покровитель науки
+====
+#Спаситель
+====
+покровитель воинов
+====
+все вышеперечисленные
+
+
++++++
+
+
+Христианство это:
+====
+религия славянских народов
+====
+национальная религия
+====
+#мировая религия
+====
+европейская религия
+
+
++++++
+
+
+Когда возник ислам?
+====
+в 8 в
+====
+в 6 в до н. э
+====
+в 5 в
+====
+#в 7 в
+
+
++++++
+
+
+Какое движение распространилось в южной Аравии в 7 в
+====
+#движение хариджитов
+====
+движение шиитов
+====
+движение христиан
+====
+движение мединцев
+
+
++++++
+
+
+Что обозначает слово «ислам», «Мусульмане»
+====
+ «творец»
+====
+«покровитель»
+====
+# «покорность» 
+====
+ «проповедь»
+
+
++++++
+
+
+Когда родился Мухаммад?
+====
+в 6-5 вв до н. э
+====
+1 в н. э
+====
+#в 570г
+====
+в 750
+
+
++++++
+
+
+Из какого племени Мухаммед?
+====
+#из мекканской племени курейшит
+====
+из иудейской
+====
+из ханифитской племени
+====
+из племени мединцев
+
+
++++++
+
+
+Первая жена пророка Мухаммада:
+====
+Муавия
+====
+Ойша
+====
+Фатима 
+====
+#Хадиджа
+
+
++++++
+
+
+Когда Мухаммад стал выступать в качестве религиозного проповедника?
+====
+с 312 г
+====
+с 723 г
+====
+#с 610 г
+====
+примерно 632г
+
+
++++++
+
+
+Основной культ ислама
+====
+#культ единого аллаха
+====
+культ предков
+====
+культ яхве
+====
+культ семьи
+
+
++++++
+
+
+Первые последователи пророка Мухаммада:
+====
+Осман, Абуталиб
+====
+#Хадиджа, Али, Абу-бакр
+====
+Муавия, Абуталиб
+====
+Абу-бекр, Али, Абуталиб
+
+
++++++
+
+
+Год переселения из Мекки в Медину, который считается первым годом новой мусульманской эры (по-арабски хиджра)
+====
+610 г
+====
+632 г
+====
+#622 г
+====
+750 г
+
+
++++++
+
+
+Когда совершил пророк Мухаммед, специальное паломничество (Хадж) в Мекку?
+====
+#в 610 г
+====
+в 570
+====
+в 632 г
+====
+в 730 г
+
+
++++++
+
+
+Когда умер пророк Мухаммед?
+====
+в 670 г
+====
+в 810 г
+====
+в 570 г
+====
+#в 632 г
+
+
++++++
+
+
+Что такое «джихад»?
+====
+движение ханифитов
+====
+движение хариджитов
+====
+#священная война за духовное очищение
+====
+движение курейшитов
+
+
++++++
+
+
+Кого избрали первым халифом после смерти пророка Мухаммеда?
+====
+Османна
+====
+Али
+Абуталиба
+====
+#Абу-бекра
+
+
++++++
+
+
+Кто стал вторым халифом после смерти Абу-Бекра в Аравии?
+====
+Али
+====
+#Умар
+====
+Осман
+====
+Абуталиб
+
+
++++++
+
+
+Кто должен быт халифом в Аравии по мнению шиитов?
+====
+#из рода пророка Мухаммеда
+====
+из рода муавия
+====
+из рода бедуинов
+====
+из рода Абу-бакра
+
+
++++++
+
+
+Кто собирал истинные (сахих) хадисы
+====
+Муавия
+====
+#Имам Ал-Бухари
+====
+Осман
+====
+Абу-Бакр
+
+
++++++
+
+
+Кто такие хариджиты?
+====
+#группа, утверждающая, что халиф не должен быть наследственным правителем, а его следует избрать «по воле аллаха и народа» 
+====
+сторонники османа
+====
+сторонники али
+====
+группа шиитов, утверждающая что халифом должен быть али
+
+
++++++
+
+
+Что такое Сунна?
+====
+#это рассказы о жизни и деятельности пророка Мухаммеда, о его изречениях
+====
+это коран
+====
+это священное писание
+====
+a.b.c. ответы правильны
+
+
++++++
+
+
+Кто такие сунниты в исламе?
+====
+последователи шиитов
+====
+#все, признававшие святость сунны
+====
+сторонники Абуталиба
+====
+Иудеи
+
+
++++++
+
+
+Основные направления в исламе:
+====
+хариджиты, шииты
+====
+#суннизм, шиизм, хариджиты
+====
+хариджиты, суннизм
+====
+ибадиты, хариджиты
+
+
++++++
+
+
+Основная цель арабского халифата на завоеванных территориях
+====
+Расширение территории
+====
+экономические интересы
+====
+#распространение ислама
+====
+Ассимиляция
+
+
++++++
+
+
+Кто собрал первый вариант Корана по поручению Абу-Бекра и Омара?
+====
+Абутолиб
+====
+#Зейд ибн-сабит
+====
+Муавия
+====
+Али
+
+
++++++
+
+
+Из скольки глав (сур) состоит Коран?
+====
+из 40 глав
+====
+из 112 глав
+====
+из 98 глав
+====
+#из 114 глав
+
+
++++++
+
+
+Важнейшие ангелы в исламе:
+====
+Ридван, Малик
+====
+иблис, гаврилия
+====
+Микаил, Михаил, Иблис
+====
+#Джебраил, Микаил, Исрафил, Азраил
+
+
++++++
+
+
+Из скольки книг состоят Хадисы?
+====
+из 45 книг
+====
+из 40 книг
+====
+#из 4-х книг
+====
+из 60 книг
+
+
++++++
+
+
+Основные обязательства мусульманина
+====
+#шахада, молитва, пост, милостыня, хадж
+====
+жертвоприношение, хадж
+====
+хадж, милостыня, молитва
+====
+жертвоприношение, молитва, пост
+
+
++++++
+
+
+Что означает слово «Ислам»
+====
+Потребность
+====
+Искренность
+====
+Порядочность
+====
+#Покорность
+
+
++++++
+
+
+Основные направление христианства?
+====
+Православие, баптизм, католицизм
+====
+#Православие, католицизм, протестантизм
+====
+Протестантизм, православие, баптизм
+====
+Все ответы верны
+
+
++++++
+
+
+«Авесто» состоит из следующих частей
+====
+#Вендидад, Ясна, Висперат, Яшт
+====
+Ясна, Яшт,  Вендидад
+====
+Хишатра, Варйа, 
+====
+Амеретат, Хишатра, Вендидад, Спента
+
+
++++++
+
+
+Определите основной источник буддизма
+====
+#Трипитака
+====
+Ламаизм
+====
+Брахманизм
+====
+Все ответы верны
+
+
++++++
+
+
+Когда была принято национальная программа по подготовке кадров
+==== 
+29 сентября 1999 года
+====
+29 сентября 1997 года
+====
+29 августа 1999 года
+====
+#29 августа 1997 года
+
+
++++++
+
+
+Как называется ранняя форма религии, связанная с поклонением каким-либо реальным предметам и наделением их сверхъестественными свойствами?
+====
+Анемизм
+====
+Тотемизм
+====
+#Фетишизм
+====
+Магия
+
+
++++++
+
+
+Назовите одно из крупных направлений в христианстве, оформившееся в ходе Реформации в XVI веке
+====
+#Протестантизм
+====
+Католичество
+====
+Баптизм
+====
+Сикхизм
+
+
++++++
+
+
+Как называется ранняя форма религии, связанная с поклонением какому-либо животному или растению и с верой в происхождение от них?
+====
+Анемизм
+====
+Фетишизм
+====
+#Тотемизм
+====
+Магия
+
+
++++++
+
+
+Общее наименование древнейших священных текстов в индийской культурной традиции
+====
+#Веды
+====
+Талмуд
+====
+Евангилие
+====
+Коран
+
+
++++++
+
+
+Фетишизм — это …
+====
+Поклонение обожествленному животному
+====
+#Вера в сверхъестественные свойства некоторых предметов
+====
+Поклонение амулетам
+====
+Священность рода
+
+
++++++
+
+
+Когда произошел разрыв между западной и восточной ветвями христианской церкви
+====
+в 1431 г
+====
+#в 1054 г.
+====
+в 1543 г
+====
+в 1549 г
+
+
++++++
+
+
+Как переводится греческое слово «Библия»
+====
+Притчи
+====
+Святыня
+====
+#Книги
+====
+Покорность
+
+
++++++
+
+
+Когда и где возникла религия
+====
+#в Древнем Египте в V тысячелетии до н. э.
+====
+в Древней Месопотамии в IV тысячелетии до н. э.
+====
+в эпоху верхнего палеолита, около 40—50 тыс. лет назад
+====
+в Древнем Риме в V до н. э.
+
+
++++++
+
+
+Как называется система взглядов, отвергающих религиозные представления (вера в бога, в бессмертие души, в потусторонний мир и т. п.) и религию в целом
+====
+Демократия
+====
+религиозный анархизм
+====
+свобода совести
+====
+#Атеизм
+
+
++++++
+
+
+Назовите одну из ранних форм религии, означавшую веру в существование сверхъестественных сил в виде духов, душ
+====
+#Анимизм
+====
+Тотемизм
+====
+Фетишизм
+====
+Магия
+
+
++++++
+
+
+Какие четыре этапа пути проходит человек чтобы достичь духовно-психологического совершенства:
+====
+#Шариат, путь духовного совершенствования, просвещение, познание и осознание, истина
+====
+Путь благочестия
+====
+Путь истины
+====
+Путь буддизма
+
+
++++++
+
+
+Что такое Мифология
+====
+стремление к достижению прочных знаний, умений и навыков;
+====
+Связь культуры и религии
+====
+#от греч. mythos – сказание, предание и – рассказ, толкование) – изображение природы, всего мира как населенных живыми существами с их магической, чудесной и фантастической практикой
+====
+совокупность свойств личности
+
+
++++++
+
+
+Что такое Язычество
+====
+Вера в сверхестественные силы
+====
+Форма языка
+====
+Мировая религия
+====
+#феномен духовной культуры древних народов, в основе которой лежит вера во многих богов (идолопоклонство)
+
+
++++++
+
+
+Что означает термин «миссионер»?
+====
+Потеряно
+====
+Послушание
+====
+Фиксируется
+====
+#Обязательство
+
+
++++++
+
+
+Что означает слово «фанатизм»?
+====
+#От греческого, латинского «исступлённый» 
+====
+Арабское слово "вера"
+====
+русского слово "молитва"
+====
+английское "определение"
+
+
++++++
+
+
+Кто является основателем учения Мотурудия?
+====
+Шейх Мотурудий
+====
+Абу Хурайра аль-Мотуруди
+====
+#Абу Мансур аль-Мотурудий
+====
+Абу Акрам ал Мотуруди
+
+
++++++
+
+
+В чем смысл слова, «новости»?
+====
+#Хадис
+====
+Чтение
+====
+Муттаасиб 
+====
+Сунна
+
+
++++++
+
+
+Когда была принята новая редакция Закона Республики Узбекистан «О свободе совести и религиозных организациях»?
+====
+1 май 1999 г. 
+====
+#1 май 1998 г.
+====
+сентябр 1998 г. 
+====
+апрел 1991 г. 
+
+
++++++
+
+
+Кто автор книги «Аль-Хидоя»?
+====
+Имам Термизи
+====
+   Самаркандий
+====
+#Бурхониддин Маргилони
+====
+Абдулхалик Гиждувоний
+
+
++++++
+
+
+Прозелит кто?
+====
+Религиозный человек
+====
+человек, отрекшийся от своей религии
+====
+#стремление обратить других в свою веру
+====
+Фанатик
+
+
++++++
+
+
+Когда был издан закон «О свободе совести и религиозных организациях»?
+====
+1990 год
+====
+1992 год
+====
+1993
+====
+#1991 год
+
+
++++++
+
+
+Кто является основателем суфизма?
+====
+Накшбанди
+====
+Термизий, Мирлик Динор
+====
+Шакик Баяхий, Имам Бухари
+====
+   #Хасан Басри, Робия Адавия
+
+
++++++
+
+
+Когда сформировалось общество сознания Кришны?
+====
+в 1873 году
+====
+830-е годы
+====
+1964г
+====
+#1965 г.
+
+
++++++
+
+
+Когда были организованы Свидетели Иеговы?
+====
+830-е годы
+====
+#в 1873 году 
+====
+1965г
+====
+1964 г.
+
+
++++++
+
+
+Кто является первым лидером религиозного экстремистского движения Исламского движения Узбекистана?
+====
+#Тохир Юлдашев
+====
+Умар Одил
+====
+Усман Гази
+====
+Жума Наманганий
+
+
++++++
+
+
+Кто является основателем религиозного экстремистского движения Нур?
+====
+Та?июддин Набахоний
+====
+Фатхулла Гулен
+====
+#Саид Нурсий
+====
+Акром Йўлдошев
+
+
++++++
+
+
+Когда Мухаммад провозгласил себя посланником Аллаха?
+====
+#610 г.
+====
+570г.
+====
+622г.
+====
+632г.
+
+
++++++
+
+
+Определите основателя исламской организации Хизб-ут-Тахрир
+====
+Саид Нурсий
+====
+#Та?июддин Набахоний
+====
+Фатхулла Гулен
+====
+Акром Йўлдошев
+
+
++++++
+
+
+Что означает слово «Хариджиты»?
+====
+Традиция
+====
+сторона, группа
+====
+#мятежник, заговорщик
+====
+    Группа
+
+
++++++
+
+
+Каковы основные направления ислама?
+====
+#Сунниты и Шииты
+====
+Модернизм и фундаментализм
+====
+Исмаилизм и вахобизм
+====
+Суфизм и лидерство
+
+
++++++
+
+
+Когда мусульмане начинают год хиджры?
+====
+С самого начала пророчества Мухаммеда
+====
+С рождение Пророка Мухаммада
+====
+#Первая мусульманская иммиграция из Ясриба в Медину
+====
+С появление ученых-хадисоведов
+
+
++++++
+
+
+Какие мазхабы суннитского ислама сушествуют?
+====
+#Маликия, Ханафия, Шафиа и Ханбалия
+====
+Ханафиты, сунниты, хариджиты и ваххабиты
+====
+Все секты и маххабы отделенные от ислама
+====
+Хизб-ут-Тахрир, Акромия, сунниты
+
+
++++++
+
+
+Что такое хадисы?
+====
+#Учения Мухаммада о жизни, деятельности, религиозных и нравственных учениях
+====
+Комментарии, написанные на Священном Коране
+====
+религиозная книга, объединяющая фетвы шариата и высших ученых
+====
+Божьи откровения
+
+
++++++
+
+
+Великие мыслители хадисоведы Туркестана?
+====
+Исмаил аль-Бухари, Алишер Навои, аль-Фараби
+====
+#Имам в Термизи, Исмаил аль-Бухари
+====
+Абу Али Ибн Сина, Имам в - Термизи, Беруний
+====
+Бахуддин Накшбанд, Ибн Сина, Исмаил Бухари
+
+
++++++
+
+
+Пять столпов ислама:
+====
+Послушание, вера в судьбу, жертва, хутба.
+====
+Хатна, намаз, пост, хадж, жертва
+====
+#Вера, пост, молитва, закят, хадж. 
+====
+Вера в Аллаха, вера в Мухаммада, молитва Джума, Коран
+
+ 
++++++
+
+
+ Что такое тотемизм?
+====
+#В первобытном обществе, предполагая, что различные животные являются основой рода, обожествление и поклонение
+====
+Одна из форм исторической религии
+====
+Мечты и другие убеждения - верить в тайны
+====
+Гадание и поклонение неодушевленным объектам
+
+
++++++
+
+
+ Джайнизм является национальной религией….
+====
+#Индии
+====
+Японии
+====
+Китая
+====
+Монголии
+
+
++++++
+
+
+Национальная религия Японии это-
+====
+Буддизм
+====
+#Синтоизм
+====
+Тотемизм
+====
+Конфуцизм
+
+
++++++
+
+
+Кто главный бог синтоизма?
+====
+Создатель Бог Брахма
+====
+Бог правды Ахура Мазда
+====
+Божество-хранитель Вишну
+====
+#Солнечная богиня Аматерасу
+
+
++++++
+
+
+Какая самая большая национальная религия в мире по числу верующих в мире?
+====
+Конфуцизм
+====
+Иуддаизм
+====
+Синтоизм
+====
+#Индуизм
+
+
++++++
+
+
+Как называется место молитвы в иудаизме?
+====
+Мечеть
+====
+#Синагога
+====
+Монастырь
+====
+Церковь
+
+
++++++
+
+
+Какие четыре больших собрания являются ведами?
+====
+Ригведа, Яшт, Гот, Самаведа
+====
+#Ригведа, Самаведа, Яжурведа, Адхарваведа
+====
+Яшт, Ригведа, Яжурведа, Гот
+====
+Ригведа, Гот, Яшт, Адхарваведа
+
+
++++++
+
+
+ Монотеистические религии
+====
+Иудаизм, ведизм, ислам
+====
+Иудаизм, ислам, сикхизм
+====
+Ведизм, индуизм, синтоизм
+====
+#Ислам, Буддизм, Христианство
+
+
++++++
+
+
+Какой мыслитель пропагандировал идею «Бог в душе, руки в работе» “Алло? –дилда, ?ўл – ишда бўлсин” (“Дилба-ёр, даст ба кор”)?
+====
+Абдул?одир Жийлоний
+====
+Нажмиддин Кубро
+====
+Ахмад Яссавий
+====
+#Ба?оуддин На?шбанд
+
+
++++++
+
+
+В чем смысл термина «террор»?
+====
+#запугивание и ужас
+====
+подрывная деятельность и убийство
+====
+убийство силой
+====
+Распространение Ислама
+
+
++++++
+
+
+Кто автор «Хидоя» («Истинная Дорога» («Тўгри йўл»))
+====
+Мусо Хоразмий
+====
+#Бур?ониддин Мар?иноний
+====
+Имом Бухорий
+====
+Ахмад Яссавий
+
+
++++++
+
+
+Что такое религиозная организация?
+====
+Медресе
+====
+Мечеть
+====
+#это сообщество верующих и их общин
+====
+Церковь
+
+
++++++
+
+
+Священные источники ислама?
+====
+Авесто
+====
+Библия
+Трипитака
+====
+#Каран и хадисы
+
+
++++++
+
+
+Кто является основателем святой кабы?
+====
+Пророк Мухаммад
+====
+#Пророк Ибрагим
+====
+Иисус Христос
+====
+Пророк Моисей
+
+
++++++
+
+
+Какая религия учит нирване?
+====
+Нет такой религии
+====
+Ислам
+====
+Христианство
+====
+#Буддизм
+
+
++++++
+
+
+В официальном документе содержится ли религиозная принадлежность человека?
+====
+В исключительных случаях
+====
+Да
+====
+#Нет
+====
+В некоторых случаях
+
+
++++++
+
+
+Что такое терпимость?
+====
+Религиозный экстремизм
+====
+#Религиозная толерантность
+====
+Религиозный фанатизм
+====
+Религиозный фундаментализм
+
+
++++++
+
+
+Какие были доисламские религии Центральной Азии?
+====
+#Буддизм и зороастризм
+====
+Монизм и маздакизм
+====
+Иудаизм и христианство
+====
+Синтоизм
+
+
++++++
+
+
+Какой арабский предводитель принёс и распространил ислам в Среднюю Азию?
+====
+Умар ибн Хаттоб
+====
+Зайд ибн Собит
+====
+#?утайба ибн Муслим
+====
+Варака ибн Навфал
+
+
++++++
+
+
+Кто был основателем тасаввуфа в Хорезме в XII веке?
+====
+#Нажмиддин Кубро
+====
+Ахмад Яссавий
+====
+Бахоуддин На?шбанд
+====
+Абдул?одир Жийлоний
+
+
++++++
+
+
+В каком министерстве или организации религиозные школы проходят регистрацию и получают соответствующую лицензию 
+====
+#В Министерстве юстиции Республики Узбекистан
+====
+В Мусульманском совете Узбекистана
+====
+Кабинет Министров Республики Узбекистан
+====
+Сами религиозные организации принимают решение
+
+
++++++
+
+
+Где возник Иудаизм?
+====
+В Индии
+====
+#В Палестине
+====
+В Израиле
+====
+Во Вьетнаме
+
+
++++++
+
+
+Какой мазхаб суннитского ислама широко распространена в Узбекистане?
+====
+Шофиий
+====
+#?анафия
+====
+Моликия
+====
+Ханбалия
+
+
++++++
+
+
+На основе какаго движения возник Акромия?
+====
+Вахабизм
+====
+Нур
+====
+#?изб ат-та?рир
+====
+Ал-Ихвон ал-муслимун
+
+
++++++
+
+
+ Как отрасль гуманитарного знания, религиоведение возникло
+ ====
+В Европе во второй половине IX в.
+====
+В США во второй половине XX в.
+====
+В Европе во второй половине XX в.
+====
+#В Европе во второй половине XIX в.
+
+
++++++
+
+
+ Религиозная идеология
+====
+представления о мире в целом, а также о различных сторонах бытия - природы, общества, человека
+====
+это более или менее стройная система религиозных идей, взглядов и представлений
+==== 
+Догмы, утверждения, предписания, содержащих последовательное изложение религиозных взглядов
+====
+#Все ответы верны
+
+
++++++
+
+
+ Церковь
+====
+#автономная религиозная организация
+====
+автономная религиозная партия
+====
+Дом молитвы
+====
+Все ответы верны
+
+
++++++
+
+
+ Секта-
+====
+лат. - замкнутая группа
+==== 
+объединение верующих, противопоставляющих себя официальному религиозному учению на основе изменения вероучения и культа.
+====
+объединение верующих
+====
+#Все ответы верны
+
+
++++++
+
+
+ Секуляризация-
+====
+процесс освобождения различных сфер общества
+==== 
+позднелат. saecularis – мирской, светский
+====
+процесс освобождения различных сфер общества, общественного, группового и индивидуального сознания, деятельности и поведения людей
+====
+#Все ответы верны
+
+
++++++
+
+
+Современное название религии Зороастризма
+====
+Ахурамазда
+====
+Иранизм
+====
+Заратуштра
+====
+#Парсизм
+
+
++++++
+
+
+Главная идея Корана
+====
+Борьба с неверными
+====
+Воспитать гармонично развитую личность
+====
+Жихад
+====
+#Борьба с многобожием и утверждением единой религии – ислама
+
+
++++++
+
+
+ Шариат
+====
+комплекс предписаний, обязательных для исполнения
+====
+араб. шариа – прямой, правильный путь, закон, предписание
+====
+представляет собой общее учение об исламском образе жизни
+====
+#Все ответы верны
+
+
++++++
+
+
+   Миссионерство – это
+====
+от греч.  — «обращённый, нашедший своё место») — стремление обратить других в свою веру
+====
+#от латинского  «missio», что означает «посылка, поручение»
+====
+от греческого  «missio», что означает «задание»
+====
+от француского  «missio», выполнять поручение»
+
+
++++++
+
+
+ Прозелитизм
+====
+#от греч.  — «обращённый, нашедший своё место» — стремление обратить других в свою веру
+====
+от латинского  «missio», что означает «посылка, поручение»
+====
+от латинского  — «обращённый, нашедший своё место» 
+====
+от руского  — «обращённый, нашедший своё место» 
+
+
++++++
+
+
+Религиозный фундаментализм — это
+====
+# (лат. «основание») - тенденция или оформившееся течение в богословии
+====
+от латинского  «missio», что означает «посылка, поручение»
+====
+от латинского  — «обращённый, нашедший своё место» 
+====
+это крайняя степень увлечения религиозной деятельностью
+ 
+
++++++
+
+
+Религиозный фанатизм – это 
+====
+от греч.  — «обращённый, нашедший своё место» — стремление обратить других в свою веру
+====
+#это крайняя степень увлечения религиозной деятельностью с созданием из нее культа, поклонением и растворением в группе единомышленников
+====
+лат. «основание») - тенденция или оформившееся течение в богословии
+====
+от латинского  «missio», что означает «посылка, поручение»
+
+
++++++
+
+
+ Виды религиозного фанатизма
+====
+Фундаментализм, религиозная экспансия
+====
+Прозелетизм, религиозная экспансия, миссионерство
+====
+Фундаментализм, миссионерство
+====
+#Прозелетизм, религиозная экспансия
+
+
++++++
+
+
+ Экстремизм — это 
+====
+от греч.  — «обращённый, нашедший своё место
+====
+от латинского  «посылка, поручение»
+====
+#приверженность отдельных людей или групп к крайним взглядам и поступкам
+====
+это крайняя степень увлечения религиозной деятельностью
+
+
++++++
+
+
+ Терроризм — это
+====
+это крайняя степень увлечения религиозной деятельностью
+====
+от латинского  «посылка, поручение»
+====
+от греч.  — «обращённый, нашедший своё место
+====
+#от латинского слова «страх, ужас» 
+
+
++++++
+
+
+ Виды терроризма:
+====
+#Политический, использующий религиозные мотивы, националистический, криминальный, технологический
+====
+Политический, экономический, технологический
+====
+Политический, националистический, криминальный, технологический
+====
+Политический, криминальный, технологический
+
+
++++++
+
+
+ Когда был принят закон Республики Узбекистан «О свободе совести и религиозных организациях»
+====
+1 мая 1998 года
+====
+14 июня 1998
+====
+1 мая 1991 года
+====
+#14 июня 1991
+
+
++++++
+
+
+ Разновидности новых религиозных движений 
+====
+Политические, экономические, духовные, экологические
+====
+Политические, экономические, духовные
+====
+Неохристианские, саентологические, экономические, духовные
+====
+#Неохристианские, саентологические, неоориенталистские, харизматические
+
+
++++++
+
+
+Когда возникла и основатель секты «Свидетели Иеговы»?
+====
+в Бостоне в 1979 г., Кип Мак Кинг
+====
+в 1954 г. в Южной Корее, Сан Мён Мун
+====
+#возникла в 70-х гг. ХIХ в. в США, Чарльз Тейт Рассел
+====
+США 1953 г.,  Р.Л.Хаббард
+
+
++++++
+
+
+ Когда возникла и основатель секты «Церковь объединения»
+====
+Основано в 1955 г., Абхи Саран Шри Шримад Бхактиведанта Свами Прабхупадай
+====
+#в 1954 г. в Южной Корее, Сан Мён Мун
+====
+США 1953 г., Р.Л.Хаббард
+====
+в Бостоне в 1979 г., Кип Мак Кинг
+
+
++++++
+
+
+ Когда возникла и основатель секты «Церковь христа» 
+====
+США 1953 г., Р.Л.Хаббард
+====
+возникла в 70-х гг. ХIХ в. в США, Чарльз Тейт Рассел
+====
+в 1954 г. в Южной Корее, Сан Мён Мун
+====
+#в Бостоне в 1979 г., Кип Мак Кинг
+
+
++++++
+
+
+ Когда возникла и основатель секты «Церковь Саентологии»
+====
+#США 1953 г., Р.Л.Хаббард
+====
+возникла в 70-х гг. ХIХ в. в США, Чарльз Тейт Рассел
+====
+в 1954 г. в Южной Корее, Сан Мён Мун
+====
+в Бостоне в 1979 г., Кип Мак Кинг
+
+
++++++
+
+
+ Когда возникла и основатель секты «Международное общество сознания Кришны»
+====
+#Основано в 1955 г., Абхи Саран Шри Шримад Бхактиведанта Свами Прабхупадай
+====
+возникла в 70-х гг. ХIХ в. в США, Чарльз Тейт Рассел
+====
+в 1954 г. в Южной Корее, Сан Мён Мун
+====
+США 1953 г.,  Р.Л.Хаббард
+
+
++++++
+
+
+ В каком веке возник ваххабизм:
+====
+в 20 веке
+====
+в 8 веке
+====
+#в 18 веке
+====
+в 1 веке
+
+
++++++
+
+
+Буддизм возник в …
+====
+Персии (Иране), VII в. до н. э.
+====
+Палестине, I в. н. э.
+====
+Аравии, VII в. н. э.
+====
+#Индии, VI в. до н. э.
+
+
++++++
+
+
+Ислам возник в …
+====
+X в. н. э. в Иране
+====
+I в. н. э. в Палестине
+====
+#VII в. н. э. в Аравии
+====
+VII до н. э. в Иране
+
+
++++++
+
+
+ Поклонение множеству богов характерно для …
+====
+#Политеизма
+====
+Дуализма
+====
+Генотеизма
+====
+Монотеизма
+
+
++++++
+
+
+Что такое Язычество
+====
+Мировая религия
+====
+#феномен духовной культуры древних народов, в основе которой лежит вера во многих богов (идолопоклонство)
+====
+Форма языка 
+====
+Вера в сверхестественные силы
+
+
++++++
+
+
+ Отрицание существование бога это –
+====
+#Атеизм
+====
+Пантеизм
+====
+Дуализм
+====
+Монотеизм
+
+
++++++
+
+
+Название поклонения неодушевлённым предметам:
+==== 
+#Фетишизм 
+====
+анимизм 
+====
+тотемизм 
+====
+магия 
+
+
++++++
+
+
+Как зовут Будду? 
+====
+Фаррух Булсара 
+====
+#Сиддхартха Гаутама 
+====
+Ааль Рашид
+====
+Магамед
+
+
++++++
+
+
+Что изучает религиоведение?
+====
+ мировые религии планеты,
+====
+отношения религии и государства,
+====
+взаимосвязь религий мира,
+====
+#закономерности развития религий.
+
+
++++++
+
+
+Период возникновения ранних форм религий:
+====
+1млн. лет – 500 тыс. лет     
+====
+400тыс. лет – 40 тыс. лет
+====
+40 тыс. лет – 12 тыс. лет      
+====
+#100тыс. лет – 40 тыс. лет
+
+
++++++
+
+
+Сколько основных направлений выделилось в христианстве?
+====
+два   
+====
+#три   
+====
+четыре   
+====
+Пять
+
+
++++++
+
+
+В каком веке христианство стало государственной религией Руси?
+====
+в VII веке   
+====
+в VIII веке  
+====
+в IХ веке   
+====
+#в Х веке
+
+
++++++
+
+
+Что изучает религиоведение.
+====
+#закономерности развития и характеристики религий.
+====
+Историю возникновения и развития основных мировых религий.
+====
+Процессы взаимодействия общества и религии.
+====
+Свод законов.
+
+
++++++
+
+
+Коран для мусульман это.
+====
+Свод законов.
+====
+#Священная книга.
+====
+Основной учебник о нормах жизни в обществе.
+====
+Процессы взаимодействия общества и религии.
+
+
++++++
+
+
+Что такое нирвана.
+====
+Молитва буддийских монахов.
+====
+Обряд крещения.
+====
+#Блаженное состояние покоя в буддизме.
+====
+Пост.
+
+
++++++
+
+
+Какая из форм религиозных воззрений основывается на утверждении о тесной связи между группой людей и каким-то животным.
+====
+#Тотеизм.
+====
+Монотеизм.
+====
+Политеизм.
+====
+Дуализм.
+
+
++++++
+
+
+Как именуются высшие божества в индуизме.
+====
+Вишну, Брахма, Кали.
+====
+#Вишну, Шива, Брахма.
+====
+Шива, Брахма, Кали.
+====
+Вишну, Брахма, Сарасвати.
+
+
++++++
+
+
+Что называют паломничеством.
+====
+Переход из одного духовного состояния в другое.
+====
+#Путешествие верующих к святым местам для получения благословения.
+====
+Процесс перерождения.
+====
+Иерархическая система.
+
+
++++++
+
+
+В какой из религий разработана доктрина о переселении душ (сансара).
+====
+Буддизм.
+====
+Иудаизм.
+====
+#Индуизм.
+====
+Ислам.
+
+
++++++
+
+
+Бодхисаттва – кто это.
+====
+Верховный жрец в индуизме.
+====
+Основатель буддизма.
+====
+#Существо, решившее стать Буддой и помочь людям прервать череду безначальных реинкарнаций.
+====
+Направление Христианства.
+
+
++++++
+
+
+Самой древней мировой религией является.
+====
+Ислам.
+====
+Христианство.
+====
+#Буддизм.
+====
+Тотемизм.
+
+
++++++
+
+
+В каком году произошло разделение христианской церкви на Западную (Римско-Католическую) и Восточную (Греко-Кафолическую)
+====
+В 312 году.
+====
+В 963 году.
+====
+#В 1054 году.
+====
+В 1254 году.
+
+
++++++
+
+
+Какая религия стала доктриальной основой ламаизма.
+====
+#Буддизм.
+====
+Кришнаизм.
+====
+Синтоизм.
+====
+Ислам.
+
+
++++++
+
+
+Поклонение множеству богов характерно для …
+====
+Монотеизма
+====
+Генотеизма
+====
+#Политеизма
+====
+Ислама
+
+
++++++
+
+
+Папское государство именуется …
+====
+Андорра
+====
+#Ватикан
+====
+Монако
+====
+Сан-Марино
+
+
++++++
+
+
+Атеизм — это: 
+====
+#мировоззрение, отрицающее существование сверхъестественных сил и ставящее целью доказать это.
+====
+Вера в единого бога.
+====
+Вера в многобожие.
+====
+Вера в свободу выбора человека.
+
+
++++++
+
+
+Брахманизм — это:
+==== 
+Вера в единого бога.
+====
+Вера в многобожие.
+====
+#религия в Индии, ее вероучение основано на Ведах и их комментариях, а основная добродетель — подчинение брахманам.
+====
+Вера в свободу выбора человека. 
+
+
++++++
+
+
+Веды — это: 
+====
+#древнейшие памятники индийской религиозной литературы.
+====
+Священная книга ислама.
+====
+Священная книга христианства.
+====
+Отрицание существования рая и ада.
+
+
++++++
+
+
+Вероисповедание — это: 
+====
+Вера в единого бога.
+====
+#принадлежность к какой-либо религии.
+====
+Атеистическое вероисповедание.
+====
+мировоззрение, отрицающее существование сверхъестественных сил и ставящее целью доказать это.
+
+
++++++
+
+
+Ветхий Завет — это: 
+====
+#часть Библии, рассматриваемая как Священное Писание иудаизмом и христианством.
+====
+древнейшие памятники индийской религиозной литературы.
+====
+Священная книга ислама.
+====
+Священная книга христианства.
+
+
++++++
+
+
+Даосизм — это:
+====
+Мировая религия
+====
+учение о Дао
+====
+учение о духовной первооснове мира, в древнекитайской философии, основателем которого считается Лао-Цзы.
+====
+#Правильный ответ b,c.
+
+
++++++
+
+
+Конфессия — это: 
+====
+#религиозная общность последователей одного из направлений в какой-либо религии.
+====
+Секта.
+====
+Направление буддизма.
+====
+Религиозный экстремизм.
+
+
++++++
+
+
+Магия — это: 
+====
+Вера в единого бога.
+====
+религия Древнего Ирана.
+====
+Священная книга
+====
+#действия, основанные на вере в сверхъестественные способности человека общаться с духами.
+
+
++++++
+
+
+Монотеизм — это: 
+====
+#Единобожие.
+====
+Многобожие.
+====
+Культ личности.
+====
+Секта. 
+
+
++++++
+
+
+Что такое информационное пространство?
+====
+#сфера деятельности, связанная с формированием, созданием, преобразованием, передачей, использованием, хранением информации, оказывающая воздействие, в том числе на индивидуальное и общественное сознание, информационную инфраструктуру и собственно информацию;
+====
+состояние защищенности личности, организации и государства и их интересов от угроз, деструктивных и иных негативных воздействий в информационном пространстве; 
+====
+сфера деятельности в информационном пространстве, образованная совокупностью коммуникационных каналов Интернета и других телекоммуникационных сетей, технологической инфраструктуры, обеспечивающей их функционирование, и любых форм осуществляемой посредством их использования человеческой активности (личности, организации, государства);
+====
+совокупность условий, при которых все составляющие киберпространства защищены от максимально возможного числа угроз и воздействий с нежелательными последствиями
+
+
++++++
+
+
+Что такое информационная безопасность?
+====
+сфера деятельности, связанная с формированием, созданием, преобразованием, передачей, использованием, хранением информации, оказывающая воздействие, в том числе на индивидуальное и общественное сознание, информационную инфраструктуру и собственно информацию;
+====
+#состояние защищенности личности, организации и государства и их интересов от угроз, деструктивных и иных негативных воздействий в информационном пространстве;
+==== 
+сфера деятельности в информационном пространстве, образованная совокупностью коммуникационных каналов Интернета и других телекоммуникационных сетей, технологической инфраструктуры, обеспечивающей их функционирование, и любых форм осуществляемой посредством их использования человеческой активности (личности, организации, государства);
+====
+совокупность условий, при которых все составляющие киберпространства защищены от максимально возможного числа угроз и воздействий с нежелательными последствиями
+
+
++++++
+
+
+Что такое киберпространство?
+====
+сфера деятельности, связанная с формированием, созданием, преобразованием, передачей, использованием, хранением информации, оказывающая воздействие, в том числе на индивидуальное и общественное сознание, информационную инфраструктуру и собственно информацию;
+====
+состояние защищенности личности, организации и государства и их интересов от угроз, деструктивных и иных негативных воздействий в информационном пространстве; 
+====
+#сфера деятельности в информационном пространстве, образованная совокупностью коммуникационных каналов Интернета и других телекоммуникационных сетей, технологической инфраструктуры, обеспечивающей их функционирование, и любых форм осуществляемой посредством их использования человеческой активности (личности, организации, государства);
+====
+совокупность условий, при которых все составляющие киберпространства защищены от максимально возможного числа угроз и воздействий с нежелательными последствиями
+
+
++++++
+
+
+Что такое кибербезопасность?
+====
+сфера деятельности, связанная с формированием, созданием, преобразованием, передачей, использованием, хранением информации, оказывающая воздействие, в том числе на индивидуальное и общественное сознание, информационную инфраструктуру и собственно информацию;
+====
+состояние защищенности личности, организации и государства и их интересов от угроз, деструктивных и иных негативных воздействий в информационном пространстве; 
+====
+сфера деятельности в информационном пространстве, образованная совокупностью коммуникационных каналов Интернета и других телекоммуникационных сетей, технологической инфраструктуры, обеспечивающей их функционирование, и любых форм осуществляемой посредством их использования человеческой активности (личности, организации, государства);
+====
+#совокупность условий, при которых все составляющие киберпространства защищены от максимально возможного числа угроз и воздействий с нежелательными последствиями
+
+
+
+
+
 
