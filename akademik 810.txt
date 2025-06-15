@@ -1,5485 +1,1711 @@
-Vijdon erkinligi nima?
+Falsafa so’zining lug’aviy ma’nosini toping
 ====
-kishilarning o‘z milliy diniga etiqod qilish huquqi;
+#Donishmandlikni sevaman
 ====
-fuqarolarning albatta biron bir jaxon diniga e’tiqod qilish zarurligi;
+Fikrlayman
 ====
-#fuqarolarning dinga e’tiqod qilish yoki e’tiqod qilmaslikni o‘zlari mustaqil hal qilish huquqi;
+O’zlikni anglamoq
 ====
-fuqarolarning dinga ishonmasligi va unga qarshi tashviqot olib borish huquqi.
+Donishmandlik sirlari
 ++++
-Dinning qanday ildizlari bor?
+Falsafada bilish nazariyasini ifoda etuvchi tushuncha
 ====
-genetik, tarixiy, psixologik;
+Ontologiya
+====                        
+Akseologiya
 ====
-#gnoseologik, sotsial, psixologik;
-====
-sotsial, biologik, iloxiy;
-====
-afsonaviy, falsafiy, psixologik.
-++++
-Dinning unsurlarini sanab bering.
-====
-tasavvur, diniy psixologiya, diniy tashkilotlar;
-====
-diniy tasavvur, diniy axloq, diniy mafkura;
-====
-#diniy ong, diniy xis-tuyg‘u (psixologiya), diniy ibodat, diniy tashkilotlar;
-====
-xudoga, payg‘ambarlarga, farishta va jin-ajinalarga ishonish.
-++++
-Dinning funksiyalari.
-====
-axloqiy, tarbiyaviy, mavkuraviy;
-====
-#to‘ldiruvchilik, birlashtiruvchilik, o‘zaro aloqadorlik, tartibga soluvchilik;
-====
-tinchlik, do‘stlik, tenglik, tabiatni muxofaza qilish;
-====
-gnoseologik, antronologik, teologik, psixologik.
-++++
-Din - bu:
-====
-xalq uchun afyun;
-====
-insonning xudo bilan o‘zaro munosabat usuli;
-====
-#tashqi olam kuchlarining kishi ongida g‘ayritabiiy ifodalanishi:
-====
-gnoseologik, antronologik, teologik, psixologik.
-++++
-Qaysi bir din eng qadimgi?
-====
-pravoslaviya;
-====
-proteotantizm;
-====
-islom;
-====
-#yaxudiylik
-++++
-Musulmonlar hijriy yil hisobi qachondan boshlanadi?
-====
-Muhammad payg‘ambarning tug‘ilishidan;
-====
-Muhammad payg‘ambarning payg‘ambarlik faoliyati boshlani-shidan;
-====
-Qur’onning paydo bo‘lishidan;
-====
-#dastlabki musulmonlarning Yasrib (Madina) ga ko‘chib borishidan.
-++++
-Jahon dinlari qaysi dinlar?
-====
-#buddizm, xristianlik, islom;
-====
-buddizm, iudaizm, sintoizm;
-====
-xristianlik, islom, protestansizm;
-====
-provoslaviya, katolitsizm, braxmanizm.
-++++
-Yaponiyaning milliy dini qaysi din?
-====
-#sintoizm;
-====
-buddizm;
-====
-konfutsiychilik;
-====
-krishnaizm.
-++++
-Fetishizm nimani ilohiylashtiradi?
-====
-hayvonlarni
-====
-Odamlarni
-====
-ruhni
-====
-#moddiy narsalarni;
-++++
-“Yahudiy” so‘zining kelib chiqishi borasida Abu Rayhon Beruniy o‘z asarida qanday izoh keltirib o‘tadi?
-====
-# “tavba qilmoq, tavba qilganlar” 
-====
-“Adashganlar, adashuvchi”
-====
-“G‘ayri dinlar, boshqa dinga ergashuvchilar”
-====
-“Isroilliklar”
-++++
-Xristianlikning asosiy oqimlari qaysi oqimlar?
-====
-#katolik, pravoslav, protestantizm;
-====
-baptizm, pravoslav, fetishizm;
-====
-lyuteranlik, pravoslav, katolitsizm;
-====
-iudaizm, sintoizm, shamanizm.
-++++
-Islom dinining asosiy yo‘nalishlari qaysilar?
-====
-vahhobiylar va sunniylar;
-====
-fundamentalizm va sunnizm;
-====
-#sunniylar va shialar;
-====
-so‘fiylik, shialar, ismoiliylar.
-++++
-Yahudiy xalqiga nisbatan qo‘llaniladigan “Banu isroil” so‘zining ma’nosi nima?
-====
-#“Isroil avlodlari”
-====
-“Isroil ajdodlari”
-====
-“Isroil bog‘lari”
-====
-“Isroil xudolari” 
-++++
-Yahudiylik ta’limoti to‘rt asosga tayanadi bular qaysi javobda keltirilgan?
-====
-# 1. Olamlarni yaratuvchi yagona xudo Yahvega imon keltirish 2. Yahudiylar yer yuzidagi xalqlarning “eng mumtozi” va u dunyoda berilajak in’omlarning eng haqlisi ekanligi 3. Messiya haloskorning kelishi haqida 4. Oxirat kuniga ishonish
-====
-1. Olamlarni yaratuvchi yagona xudo Yahvega imon keltirish 2. Yahudiylar yer yuzidagi xalqlarning “eng mumtozi” va u dunyoda berilajak in’omlarning eng haqlisi ekanligi 3. Messiya haloskorning kelishi haqida 4. Namoz o‘qish
-====
-1. Olamlarni yaratuvchi yagona xudo Yahvega imon keltirish 2. Yahudiylar yer yuzidagi xalqlarning “eng mumtozi” va u dunyoda berilajak in’omlarning eng haqlisi ekanligi 3. Isroil davlatining yahudiylarga in’om etilganligi haqida 4. Oxirat kuniga ishonish
-====
-1. Xudo uchun qurbonliklar keltirish 2. Yahudiylar yer yuzidagi xalqlarning “eng mumtozi” va u dunyoda berilajak in’omlarning eng haqlisi ekanligi 3. Messiya haloskorning kelishi haqida 4. Oxirat kuniga ishonish
-++++
-Yahudiylarning muqaddas diniy manbalaridan hisoblangan Talmuda yahudiylik marosimlari tizimi ishlab chiqilgan. Unda yahudiylar amal qilishi va bajarishi lozim bo‘lgan qancha buyruq va qancha ta’qiq mavjud?
-====
-#248 ta buyruq 365 ta ta’qiq
-====
-280 ta buyruq 450 ta ta’qiq
-====
-200 ta buyruq 300 ta ta’qiq
-====
-308 ta buyruq 505 ta ta’qiq
-++++
-Shariat nima?
-====
-islom dini qoidalarini o‘rgatuvchi ta’limot;
-====
-#barcha musulmonlar uchun bajarilishi majbur bo‘lgan qonunlar, huquqiy-ahloqiy ko‘rsatmalar tizimi;
-====
-xadislar asosida tuzilgan to‘plam;
-====
-oilaviy munosabatlarni tartibga soluvchi qonun.
-++++
- Hozirgi islomda qanday sektalar mavjud?
-====
-xorijiylar, imomiylar, ismoiliylar, aliiloxiylar, bobiylar, vaxxobiylar;
-====
-sunniylar, shialar, ismoiliylar, xanifiylar;
-====
-shialar, xanifiylar, zardushtiylar;
-====
-#Sektalar mavjud emas.
-++++
-Islom sobiq SSRning qaysi mintaqalarida keng tarqalgan?
-====
-Ozarbayjon, Janubiy Osetiya, Dog‘iston, Oltoy o‘lkasi va O‘rta Osiyoda
-====
-#O‘rta Osiyo, Qozog‘iston, Tatariston, Bashqirdiston, Shimoliy Kavkaz, Dog‘iston va ayrim Kavkaz orti respublikalarida;
-====
-Ukraina, Tojikiston, Estoniya, Qirg‘iziston va Shimoliy Osetiyada.
-====
- Rossiya, Tatariston , Belorusiya,  Osetiyada.
-++++
-Qadimgi yahuiylarning ibroniy tilida yuborilgan muqaddas kitobi “Tora” hisoblanadi. “Tora” so‘zining ma’nosi qaysi variantda to‘g‘ri ko‘rsatilgan? 
-====
-# “qonun, shariat”
-====
-“Kitob”
-====
-“Muqaddas”
-====
-“Eng oliy”
-++++
-Diniy tashkilotlarning qonunchilikka rioya qilishni kim nazorat qiladi?
-====
-O‘zbekiston Xalq-demokratik partiyasi;
-====
-O‘zbekiston Prezidenti;
-====
-mahalliy Sovetlar va hokimliklar;
-====
-#O‘zbekiston Vazirlar Mahkamasi.
-++++
-Yapon xalqining milliy e’tiqodi hisoblangan Shinto dini nechanchi asrlarda to‘liq shakllangan? 
-====
-#VII-VIII asrlarda
-====
-VIII-IX asrlarda
-====
-V-VI asrlarda
-====
-III-IV asrlarda
-++++
-Yapon xalqi an’analarining eng qadimgi yozma manbasi qaysi? 
-====
-#“Kodziki”
-====
-“Shinto”
-====
-“Kami”
-====
-“Samuray”
-++++
-Hadislar nima?
-====
-jahon musulmon ulomalari uyushmasi chiqargan qonun-qoidalar;
-====
-Qur’oni karimga yozilgan sharhlar;
-====
-#Muhammad payg‘ambarning hayoti, faoliyati, diniy va ahloqiy ko‘rsatmalarini mujassamlashtirgan ta’limot;
-====
-shariat qonunlari va oliy ulomalar fatvolari jamlangan diniy kitob.
-++++
-Turkistonlik buyuk muhaddislar kimlar?
-====
-Ismoil al-Buxoriy, Alisher Navoi, Al-Farobiy;
-====
-#Imom at-Termiziy, Ismoil al-Buxoriy, Abu Iso as-Samarqandiy, imom Muslim;
-====
-Abu Ali Ibn Sino, Imom at-Termiziy, Beruniy;
-====
-Shayx Sa’diy, Rudakiy, Axmad Yassaviy, Jomiy.
-++++
-Inson kamolati nimalarga bog‘liq?
-====
-faqat Ollohga;
-====
-Qur’on, hadislarni yaxshi bilib, musulmonchilik qoidalarini bajarishga;
-====
-kechayu kunduz tinmay ishlashga;
-====
-#umuminsoniy qadriyatlarga rioya qilib, ilm olish, halol, oqilona mehnat qilishga.
-++++
-
-Islomdagi asosiy amaliy va marosimiy talablar qaysilar?
-====
-sunnat, bibiseshanba, irim-sirimlar;
-====
-#ro‘za tutish, namoz o‘qish, zakot berish, iloji bo‘lsa hajga borish;
-====
-janoza, xudoyi, ashur oshi, navro‘z, nikox.
-====
-xudoyi, ashur oshi. Sunnat
-++++
-Iso Masih qaysi dinning payg‘ambari?
-====
-buddizm 
-====
-sintoizm
-====
-Islom
-====
-#Xristianlik 
-++++
-Avesto qaysi dinning muqaddas kitobi?
-====
- musulmonlarning;
-====
-xristianlarning;
-====
-#zardushtiylikning;
-====
-buddizm va yaxudiylarning
-++++
-Sintoiylik panteonining eng oliy kamisi Quyosh (Buyuk samo chirog‘i)ning nomi qaysi javobda ko‘rsatilgan?
-==== 
-#“ Amaterasu”
-====
-“Susanoo”
-====
-“Ame-no Minakanusi-no”
-====
-“Naruto Uzumaki”
-++++
-Totemizm nima?
-====
-tarixiy din shakllaridan biri;
-====
-#ibtidoiy jamoada turli hayvonlarni urug‘ga asos solgan deb hisoblab, ilohiylashtirish va sig‘inish;
-====
-tush ko‘rish va boshqa irim-sirimlarga ishonish;
-====
-jonsiz narsalarni ilohiylashtirish va sig‘inish.
-++++
-O‘zbekiston xalqaro Islom akademiyasi  qaysi oliy ta’lim muassasalari negizida tashkil etildi?
-====
-#O‘zbekiston Islom akademiyasi va Toshkent Islom universiteti negizida  
-====
-Qoraqalpog‘iston Respublikasi, Samarqand davlat universitetlari negizida
-====
-Namangan va Surxondaryo viloyatlaridagi Akademiyalar negizida
-====
-O‘zbekiston milliy universitet negizida
-++++
-O‘zbekiston musulmonlari idorasi huzurida “Vaqf” xayriya jamoat fondining asosiy maqsadi nimalardan iborat?
-====
-Ajdodlarimizning diniy-ilmiy merosini keng targ‘ib qilish, dinning haqiqiy insonparvarlik maqsadini hamda diniy-maʼrifiy hayotda sodir bo‘layotgan yangiliklardan keng jamoatchilikni xabardor qilib borishdan iborat.
-====
-#Masjidlar, ziyoratgohlar, muqaddas qadamjolar va shu kabi boshqa obyektlarning rekonstruksiyasini moliyalashtirish, ularni moddiy-texnik bazasini yaxshilash hamda ushbu soha xodimlarini moddiy qo‘llab-quvvatlashdan iborat
-====
-Respublika kengashi bilan jamiyatda vijdon erkinligi va diniy-maʼrifiy muhit barqarorligi kafolatlarini taʼminlashdan iborat
-====
-O‘zbekistonda ekstremizmga qarshi kurashish chora-tadbirlarini amalga oshirishdagi yondashuvlar konseptual jihatdan qayta ko‘rib chiqishdan iborat.
-++++
-Islom dinining nazariy va g‘oyaviy manbalari nima?
-====
-shariat qonun-qoidalari;
-====
-muxaddislar yozgan xadisi shariflar;
-====
-#Qur’oni karim, hadisi sharif va fatvolar;
-====
-Ollo-taolo kalomi bo‘lgan Qur’on.
-++++
-Qur’oni karim sura va oyatlariga o‘zgartirish kiritish mumkinmi?
-====
-mumkin, agar ulamolar qaror qilsa;
-====
-agar jamiyat hayotiga zid kelib qolsa;
-====
-#yo‘q, chunki Qur’on - ilohiy hisoblanadi va uni o‘zgartirish man etiladi;
-====
-Movarounnaxr Diniy boshqarmasi o‘zgartishi mumkin.
-++++
-Dinlarning bir-biridan farqi nimada?
-====
-turli tillarda ibodat qilishida;
-====
-mintaqalarida turli aholining joylanishida;
-====
-#diniy urf-odat va marosimlar amalga oshirilishida;
-====
-jahonda tinchlik uchun kurashishda.
-++++
-Qur’onda hammasi bo‘lib nechta sura bor?
-====
-100;
-====
-#114;
-====
-124;
-====
-130.
-++++
-Xristianlikning qaysi oqimi Yevropa va Lotin Amerikasida eng ko‘p tarqalgan?
-====
-pravoslaviya;
-====
-baptizm;
-====
-#katolitsizm;
-====
-protestansizm.
-++++
-Musulmonlarning tushunchasi bo‘yicha Muhammad ibn Abdulloh kim?
-====
-u oddiy inson va diniy shaxs;
-====
-xudoning suyukli bandasi;
-====
-#xudo tomonidan yuborilgan elchi, vakil, eng oxirgi payg‘ambar;
-====
-Barcha javoblar to‘g‘ri.
-++++
-Islom dini O‘rta Osiyoga qachon tarqala boshlagan?
-====
-#VII asr oxiri - VIII asr boshlarida;
-====
-V asrda;
-====
-VIII asrda;
-====
-VI asr oxiri va VII asr boshida.
-++++
-Musulmon diniy boshqarmalari rahbarlari qanday nom bilan ataladi?
-====
-#muftiy;
-====
-so‘fi;
-====
-muxtasib;
-====
-imom.
-++++
-Musulmonlarning kundalik nomoz o‘qish tartibi qanday?
-====
-har juma kuni;
-====
-#kuniga 5 mahal;
-====
-kuniga 3 mahal;
-====
-kuniga 4 mahal.
-++++
-Nechanchi yildan boshlab O‘zbekiston fuqarolari uchun “Umra” ziyoratlari kvotasi bekor qilindi?
-====
-#2019-yildan boshlab
-====
-2020-yildan boshlab
-====
-2021-yildan boshlab
-====
-2022-yildan boshlab
-++++
-Fatvo nima?
-====
-Qur’onga berilgan sharxlar;
-====
-masjidlarda hayit namozida aytiladigan muhim axborotlar;
-====
-#oliy darajadagi ulamolar yig‘ini qabul qilgan Qur’on, hadis va shariatga oid qonun-qoidalar;
-====
-har bir imom-xatibning turli masalalar yuzasidan bergan tavsiyalari.
-++++
-Islom va xristianlik nuqtai nazarida har bir inson taqdirini (hayot yo‘lini) kim belgilaydi?
-====
-insonning o‘zi, uning irodasi;
-====
-tabiat va koinot;
-====
-hukmdor shaxslar, davlat, ota-bobolar;
-====
-#faqat yakka xudo.
-++++
-Politeizm nima ma’noni anglatadi.
-====
-#ko‘pxudolik;
-====
-yakkaxudolik;
-====
-vedachilik;
-====
-dinning ibtidoiy formalari.
-++++
-Katolik oqimining bosh ruhoniysi?
-====
-monax;
-====
-pop;
-====
-kardinal;
-====
-#papa;
-++++
-Islomga qadar Markaziy Osiyoda hukm surgan din?
-====
-#zardushtiylik;
-====
-buddaviylik;
-====
-konfutsiyachilik;
-====
-braxmanchilik.
-++++
-Xristian cherkovlarida oliy ierarx qanday ataladi?
-====
-#yepiskop;
-====
-kardinal;
-====
-senator;
-====
-oligarx.
-++++
-Cherkov, ikonalarga qarshi chiqqan oqim nomi?
-====
-pravoslav;
-====
-katolik;
-====
-#protestant;
-====
-shiyalik
-++++
-Yaxudiylikda hukmronlik o‘rnatish maqsadida vujudga kelgan diniy siyosiy oqim?
-====
-ekstremizm;
-====
-vahobizm;
-====
-#massonizm;
-====
-modernizm.
-++++
-Fiqh qanday fan?
-====
-#shariat qonun-qoidalarini o‘rganuvchi fan;
-====
-shariatda hadislarni tashkil qiluvchi fan;
-====
-rivoyatlarni o‘rganuvchi fan;
-====
-marosimlar va urf-odatlarni o‘rganuvchi fan
-++++
-Fath nima?
-====
-#biror shahar yoki mamlakatga islomni olib kirish;
-====
-islom hadislarini yoyish;
-====
-buddaviylik oqimi;
-====
-yahudiylik ta’limoti.
-++++
-Din fenomenologiyasi deganda nimani tushunasiz?
-====
-#Dinning ko‘zga ko‘rinuvchi, tashqarida aks etuvchi jihatlarini o‘rganuvchi ilm sohasi.
-====
-Barcha dinlar qadriyatlariga hurmat bilan qarash, ularni qadrlash madaniyati.
-====
-Dinshunoslikning tarix, falsafa, psixologiya, sotsiologiya, arxeologiya va boshqa ijtimoiy fanlar bilan mustahkam bog‘liqligi uning nazariyasi.
-====
-Dinshunoslikning qator fanlar bilan o‘zaro munosabati.
-++++
- Din sotsiologiyasi nimalarni o‘rgatadi?
-====
-#Tarix bo‘yicha xususiy va mushohadaga suyanuvchi din va jamiyat tadqiqotlarini; dinning ijtimoiy hayotdagi ko‘rinishlarini o‘rganadi. 
-====
-Diniy tuyg‘u va bu tuyg‘uning ko‘rinishlarini o‘rganadi.
-====
-Dinga nisbatan munosabatni o‘rganadi.
-====
-Dinning mohiyati va uning kishilik jamiyati taraqqiyotidagi turli tarixiy bosqichlarda tutgan mavqeini o‘rganadi.
-++++
-Din psixologiyasining asosiy mavzusi nimadan iborat?
-====
-|Barcha dinlar qadriyatlariga hurmat
-====
-Ibtidoiy diniy tasavvurlar, milliy va jahon dinlari ta’limotlari
-====
-Xalqlarning o‘z dini, urf-odatlari va an’analari 
-====
-#Kishining diniy his, tushuncha va yashash tarzi
-++++
-Din falsafasining vazifasi nimalardan iborat?
-====
-Barcha dinlar va diniy tasavvurlarda birinchi odamning paydo bo‘lishi, Xudo yoki xudolar tomonidan yaratilish g‘oyasini o‘rganishdan iborat.
-====
-Fanlar bilan o‘zaro munosabatga kirishishi natijasida uning turli sohalari yuzaga kelishini o‘rganishdan iborat.
-====
-#Yaratuvchi kuch e’tiqodiga falsafiy bir asos topish, diniy hukmlarning mantig‘i va mohiyatini ochib berish, dinning mohiyati, insonning diniy haqiqatlar bilan bo‘lgan bog‘liqligini o‘rganishdan iborat.
-====
-Barcha dinlar qadriyatlariga hurmat bilan qarash, ularni qadrlash madaniyatini o‘rganishdan iborat.
-++++
-Din so‘zining ma’nosi-
-====
- («dâna»)  fe’lidan yasalgan bo‘lib, «kimgadir haqorat qilmoq, itoatsiz, kimdandir gap eshitmoq» kabi ma’nolarni bildiradi.
-====
- («dâna»)  fe’lidan yasalgan bo‘lib, «kimnidir yoqtirmoq, rahm  etmoq» kabi ma’nolarni bildiradi.
-====
- («dâna»)  fe’lidan yasalgan bo‘lib, «kimgadir gapirmoq, tasdiqlamoq, tuzatmoq» kabi ma’nolarni bildiradi.
-====
-#(«dâna»)  fe’lidan yasalgan bo‘lib, «kimgadir bo‘ysunmoq, bo‘yin egmoq, itoat etmoq, kimdandir qarzdor bo‘lmoq, e’tiqod qilmoq, qilgan ishiga yarasha mukofotlamoq» kabi ma’nolarni bildiradi.
-++++
-Dinning “kompensatorlik funksiyasi” qanday vazifani bajaradi?
-====
-tartibga soluvchilik vazifasini.
-====
-birlashtiruvchilik vazifasini.
-====
-#tasalli beruvchilik vazifasini.
-====
-aloqa bog’lashlik vazifasini.
-++++
-Jоn, ruhlarning bоrligiga, ularning abadiyligiga ishоnish nima dеb ataladi?
-====
-Sеhrgarlik.
-====
-Tоtеmizm.
-====
-Fеtishizm.
-====
-#Animizm.
-++++
- Ibtidоiy din shakllaridan qaysi birida оdamlar оdamga sig’inganlar?
-====
-Animizmda.           
-====
-#Shоmanizmda
-====
-Magiya
-====
-Tоtеmizmda.
-++++
-Tоtеmizm nima?
-====
-tush ko’rish va bоshqa irim-sirimlarga ishоnish.
-====
-jоnsiz narsalarni ilоhiylashtirish va ularga sig’inish.
-====
-#ibtidоiy jamоada turli hayvоnlarni urug’ga asоs sоlgan dеb hisоblab, ilоhiylashtirish va sig’inish.
-====
-tariхiy din shakillaridan biri.
-++++
-Хinduiylik va kоnfutsiychilik ta’limоtiga ko’ra qaysi din shakliga to‘g‘ri keladi?
-====
-Urug’-qabilachilik
-====
-Mоnоtеistik.
-====              
-#Pоlitеistik.     
-====
-Animistik.
-++++
-Buddaviylik dini qachоn paydо bo’ldi?
-====
-Eramizning V-VI asrida.
-====
-#Eramizdan oldingi VI-V  asrda.
-====
-Eramizning I-II asrida.
-====
-Eramizdan oldingi XIII asrda.
-====
-Buddaviylikning asоsiy aqidasi nimadan iborat?
-====
-Nirvana.
-====
-Itоatkorlik.
-====
-Gunоh.
-====
-#Azоb-Uqubat.
-++++
-Mil. av. I asr va milodning IV asrlari oralig‘ida Kushon imperiyasida Buddaviylikning qaysi yo‘nalishi davlat dini deb e’lon qilindi.
-====
-Purvana
-====
-#Maxayana
-====
-Nirvana
-====
-Xinayana
-++++
-Buddaviylikning asоsiy yo‘nalishlari qaysilar?
-====
-Sunnalik, shialik, хorijiylik.
-====
-Хinayana, shivaizm, jaynizm.
-====
-Pravоslaviya, katоlisizm, lamaizm.
-====
-#Хinayana, maхayana, lamaizm.
-++++
-Buddaviylik ta’limoti necha  qismdan iborat?
-====
-2  qismdan iborat.
-====
-#3  qismdan iborat.
-====
-4  qismdan iborat.
-====
-5  qismdan iborat.
-++++
-Kibermakon deganda nimani tushunasiz?
-====
-#dunyo kompyuter tarmoqlarining «virtual» umumiy majmui.
-====
-dunyo kompyuter tarmoqlari
-====
-dunyo kompyuter tarmoqlari jamoasi
-====
-Kompyuter savodxonligi tizimi
-++++
-Kibermakon atamasi 1984 yilda kim tomonidan qo‘llanilgan?
-====
-Jan Jak Russo
-====
-#Uilyam Gibson
-====
-Teodor Smit
-====
-Dyuperron
-++++
-Qanday vositalar kibermakondan erkin foydalanish imkonini yaratish bilan bir vaqtda, mazkur makondagi xavf-xatarlarning ko‘z ilg‘amas darajada yuqoriligini anglatadi?
-====
-video qurilmalar; telefon yozishmalari
-====
-#internetga chiqish imkoniyati mavjud mobil telefonlar; onlayn pulli o‘yinlar;  tarmoqdan tashqarida foydalanish imkonini beruvchi dasturiy ta’minotlar.
-====
-Seminarlar, amaliy mashg ‘ulotlar
-====
-videodarslar, ijtimoiy diniy tarmoqlar
-++++
-O‘zbekistonda eng ko‘p yuklab olinayotgan dastur ichida qaysilari yetakchi o‘rinni egallaydi?
-====
-«Instagram», «odnoklasniki» tarmoqlari
-====
-«Facebook», «Intogram» tarmoqlari
-====
-«Whats you», «Face app» tarmoqlari
-====
-#«WhatsApp», «Telegram» tarmoqlari
-++++
-Yoshlarning barchasi internet tarmog‘idan faqat ilm yo‘lida foydalanmoqdami?
-====
-O ‘zbekiston yoshlariga internet tarmog‘idan barcha ma ‘lumotlar olish uchun qulay sharoit yaratilgan.
-====
-#Afsuski, internetdan noto‘g‘ri, buzg‘unchilik va behayolikka doir ma’lumotlarni olishda ham foydalanmoqda.
-====
-O ‘zbekiston yoshlari internet tarmog‘idan faqat ilm yo‘lida foydalanadi.
-====
-Barcha javoblar to ‘g ‘ri
-++++
-Missionerlik so‘zi qanday ma’noni anglatadi?
-====
-Ingliz tilidagi «missio» so‘zidan olingan bo‘lib, «Inson huquqlarini himoya qilish», «Vijdon erkinligini ta’minlash» ma’nolarini bildiradi.
-====
-#lotin tilidagi «missio» fe’lidan olingan bo‘lib, belgilangan vazifalarni hal qilishga qaratilgan nazariy va amaliy faoliyat majmui ma’nolarini bildiradi.
-====
-fransuz tilidagi «missio» so‘zidan olingan bo‘lib, ma’naviy-mafkuraviy tahdid vositasi ma’nolarini bildiradi.
-====
-nemis tilidan olingan bo‘lib davlatning ichki hayoti ma’nolarini bildiradi.
-++++
-“Prozelitizm” tushunchasi deganda nimani tushunasiz?
-====
-#Yangi mazhabni qabul qilgan kishi, ya’ni boshqa mazhabdagilarni, avvalo, musulmonlarni xristianlikka kiritish degan ma’noni bildiradi.
-====
-Mafkuraviy immunitetni shakllantirish degan ma’noni bildiradi.
-====
-Milliy istiqlol mafkurasining asosiy g‘oyalari degan ma’noni bildiradi.
-====
-Xalqning milliy ma’naviyati degan ma’noni bildiradi.
-++++
-“Kiberxavfsizlik toʻgʻrisida”gi Qonun qachon qabul qilingan?
-====
-2023-yil 15 mart.
-====
-2022-yil 1 aprel.
-====
-#2022-yil 15 aprel.
-====
-2023-yil 15 may.
-++++
-Missionerlik va prozelitizm g‘oyasi qanday g‘oya?
-====
-ma’naviy g‘oya
-====
-#buzg‘unchi  g‘oya
-====
-madaniy g‘oya
-====
-milliy g‘oya
-++++
-Hozirgi kunda missionerlik harakati asosan qanday  niqob ostida faoliyat yuritmoqda
-====
-Moliyaviy tashkilotlar niqobi ostida
-====
-#nashriyotlar, xayriya, tibbiy yordam ko‘rsatish niqobi ostida
-====
-Davlat tashkilotlari niqobi ostida
-====
-Yuridik shaxslar niqobi ostida
-++++
-Diniy ekstremizm nima?
-====
-#Jamiyat uchun an’anaviy bo‘lgan diniy qadriyatlar va aqidalarni rad etish, ularga zid g‘oyalarni aldov va zo‘rlik bilan targ‘ib qilishga asoslangan nazariya va amaliyotni anglatadi. 
-====
-Mutaassib fikr va qarashlarning paydo bo‘lishidir
-====
-«dindan qaytganlar» degan ma’noni bildiradi
-====
-An’anaviy  diniy qadriyatlar va aqidalar to ‘plami
-++++
-Diniy fundamentalizm  nima?
-====
-#«Ma’lum din vujudga kelgan ilk davriga qaytish va bu yo‘l bilan zamonaning barcha muammolarini hal qilish mumkin», degan fikrni ilgari surish ta’limotini anglatadi.
-====
-Islom niqobidagi ekstremizmning g‘oyaviy ildizlari degan ma’noni bilditadi
-====
-Mutaassib fikr va qarashlarning paydo bo‘lishidir degan tushunchalarni bilditadi
-====
-Xayrixoh bo‘lmagan hukmdorlarga suiqasd uyushtirish degan tushunchalarni bilditadi
-++++
-«Musulmon birodarlar» jamoasi qachon tashkil etilgan?
-====
-#1928 yil mart oyida
-====
-1929 yil aprel oyida
-====
-1930 yil may oyida
-====
-1931 yil mart oyida
-++++
-Hizbut-tahrir al-islomiy (Islom ozodlik partiyasi)ning asoschisi kim?
-====
-Saudiya Arabistonida yashovchi  Yusuf Xamadoniy
-====
-Akrom Yo‘ldashev
-====
-#Falastinlik Taqiyiddin Nabahoniy
-====
-Juma Namangoniy
-++++
-«Akromiylar» harakat siyosiy hokimiyatga erishishning nechta bosqichiga asoslanadi?
-====
-2 ta
-====
-3 ta
-====
-4 ta
-====
-#5 ta
-++++
-“Yahudiy va salbchilarga qarshi xalqaro islom fronti” uyushmasi  qachon tuzildi?
-====
-1997 yilda
-====
-1996yilda
-====
-#1998 yilga
-====
-1991 yilda
-++++
-“Yahudiy va salbchilarga qarshi xalqaro islom fronti” uyushmasiga kim boshchilik qilgan?
-====
-#Usoma bin Lodin
-====
-Akron Yo‘ldashev
-====
-Juma Namangoniy
-====
-Muhammad Solih
-++++
-2001 yilning 11 sentabrida Amerika Qo‘shma Shtatlarida qanday voqea yuz berdi?
-====
-“Yahudiy va salbchilarga qarshi xalqaro islom fronti” uyushmasi tuzildi
-====
-AQShning Tanzaniya va Keniyadagi elchixonalari oldida bomba ortilgan mashinalarni portlatilgan
-====
-#To‘rtta “Boing–757” samolyoti “al-Qoida” guruhi tomonidan egallab olinib, ularning ikkitasi Nyu-Yorkdagi xalqaro savdo Markazi joylashgan “egizak” binolarga, bittasi esa AQSh qurolli kuchlari shtabi – Pentagonga yo‘naltirildi.
-====
-Somalidagi beqarorliklarning oldini olish uchun kiritilgan BMT tinchlikparvarlik kuchlari tarkibidagi AQSh maxsus qo‘shinlarining 18 harbiy xizmatchisini o‘ldirishgan
-++++
-Diniy ekstremizm va terrorizmga qarshi kurash olib borishda qanday chora-tadbirlarni qo‘llash muhim ahamiyatga ega?
-====
-#kompleks va tizimli, shu jumladan, ijtimoiy-iqtisodiy va mafkuraviy chora-tadbirlar
-====
-Shavqatsiz kurash chora-tadbirlari
-====
-Reja asosida tashqi ishlar vazirligi bilan
-====
-musulmon bo‘lmagan mamlakatlar aholisi o‘rtasida islomni yoyish chora-tadbirlari
-++++
-Dunyo bo‘yicha qancha terrorchilik tashkilotlari faoliyat ko‘rsatmoqda?
-====
-400 ga yaqin
-====
-300 ga yaqin
-====
-#500 ga yaqin
-====
-200 ga yaqin
-++++
-Davlatimizning vijdon erkinligiga munosabati – O‘zbekiston Respublikasi Konstitutsiyasining nechanchi moddasida mustahkamlab qo‘yilgan?
-====
-31-moddasida
-====
-#35-moddasida
-====
-36- moddasida
-====
-41 – moddasida
-++++
-Hanafiya mazhabi sunniylik yo'nalishiga mansub bo'lgan musulmonlarning  necha foizini o'z ichiga oladi ? 
-====
-#47%
-====
-17%
-====
-27%
-====
-1,5%
-++++
-O‘rta Osiyoda keng tarqalgan sunniylik oqimining mazhabi-
-====
-Shofi’iya
-====
-Imomiya
-====
-#Xanafiya
-====
-Vahhobiylik
-++++
-
-O‘zbekiston Respublikasi Konstitutsiyasida aniq belgilab qo‘yilgan davlat va jamiyat qurilishining  bosh maqsadlardan biri-
-====
-#Yuksak ma’naviyat va hurfikrlilikka asoslangan, vijdon erkinligi amalda barqaror bo‘lgan jamiyatni barpo etish 
-====
-islomiy qadriyatlar maktablarda axloqiy tarbiyada e’tiborga olinishi
-====
-musulmon bo‘lmagan mamlakatlar aholisi o‘rtasida islomni yoyish chora-tadbirlari
-====
-Mafkuraviy chora-tadbirlarni belgilanishi
-++++
-Davlat bilan din (diniy tashkilotlar) o‘rtasidagi munosabatlar qanday usullarda tartibga solinadi?
-====
-#Identifikatsion, Separatsion, kooperetsion
-====
-Kompensatorlik, regyulativlik
-====
-Separatsion, Kompensatorlik
-====
-Konservatorlik, koorparativ
-++++
-Davlat-diniy tashkilot modeliga qaysi davlatni misol keltirishimiz mumkin?
-====
-#Daniya, Buyuk Britaniya, Gresiya, Shvesiya, Finlyandiya
-====
-AQSh, Rossiya, Polsha, Germaniya
-====
-Daniya, Ispaniya, Italiya, Misr
-====
-Braziliya, Argentina, Sudan, Efiopiya
-++++
-O‘zbekistonda tarkib topgan davlat va din o‘rtasidagi munosabat o‘z mohiyati, mazmuni va huquqiy asoslariga ko‘ra qanday modelga asoslanadi?
-====
-#Separatsion model
-====
-Kooperatsion
-====
-Identifikatsion
-====
-Kompensator
-++++
-Bugungi kunda O‘zbekistonda Adliya organlaridan rasman ro‘yxatdan o‘tgan nechta diniy konfessiya faoliyat olib bormoqda?
-====
-10 ta
-====
-11 ta
-====
-15 ta
-====
-#16 ta
-++++
-Qonunchilikda diniy tashkilotlarning qanday turlari e’tirof etiladi?
-====
-#diniy jamiyatlar, diniy o‘quv yurtlari, masjidlar, cherkovlar, sinagogalar, monastirlar va boshqa tashkilotlar.
-====
-Diniy maktablar, madrasalar. cherkovlar
-====
-Diniy firqalar, mazhablar, oqimlar
-====
-Diniy qo‘mita tasarrufidagi barcha binolar
-++++
-«Konfessiya» so‘zi qanday ma’noni anglatadi?
-====
-#o‘zbek tiliga aynan tarjima qilinganda «e’tiqod qilish», degan ma’noni anglatadi.
-====
-«faoliyat olib bormoq», degan ma’noni anglatadi.
-====
-«buysundirmoq» degan ma’noni anglatadi.
-====
-o‘zbek tiliga aynan tarjima qilinganda «kurash», degan ma’noni anglatadi.
-++++
-Diniy konfessiya deganda  nimani tushunasiz?
-====
-#muayyan diniy ta’limot doirasida shakllangan va o‘ziga xos xususiyatlarga ega e’tiqod va ushbu e’tiqodga ergashuvchilar jamoasi tushuniladi.
-====
-diniy ta’limotlar ichida rivojlangan e’tiqod turi tushuniladi.
-====
-jamiyat hayotining tarkibiy qismi sifatida kishilarning ijtimoiylashuvi tushuniladi.
-====
-e’tiqodga ergashuvchilar jamoasi tushuniladi.
-++++
-«Sekta»so‘zi qanday ma’noni anglatadi?
-====
-# Muayyan diniy, siyosiy yoki falsafiy qarashlarga ergashuvchilar guruhini anglatadi.
-====
-Muayyan diniy boshqaruvchilarini anglatadi.
-====
-Ma’lum bir dindagi rasmiy aqidalarga ishonuvchilar tushuniladi
-====
-Ma’lum falsafiy qarashlarni o ‘rgatuvchilar guruhini anglatadi
-++++
-Xristianlik dini qachоn paydо bo’ldi?
-====
-Eramizdan oldingi I asrda.
-====
-#Eramizning I asrida.
-====
-Eramizdan oldingi III asrda.
-====
-Eramizning V asrida.
-++++
-Sharq dinlaridan qaysi biri xristianlik diniga eng ko’p ta’sir ko’rsatdi?
-====
-Zardushtiylik.
-====
-Buddaviylik.
-====
-#Yahudiylik.
-====
- Islоm.
-++++
-Katoliklarning markazi Vatikan qachondan boshlab davlat maqomiga ega bo’ldi?
-====
-1909 yildan.
-====
-#1929 yildan.
-====
-1959 yildan.
-====
-1989 yildan.
-++++
-Bibliya so‘zi qanday ma’nolarni  anglatadi?
-====
-#grek tilida biblia – “kitob”, “o‘ram” 
-====
-lotin tilida bibliya- “varoq”
-====
-Fors tilida bible- “Bеsh kitоb”
-====
-Ingliz tilida bible-“Eski ahd”
-++++
-Martin Lyuter boshchiligidagi reformatsiyalar tufayli Xristianlik dinida qaysi yo’nalish vujudga keldi?
-====
-#Protestantizm.
-====
-Provaslav.
-====
-Katolik.
-====
-Baptizm.
-++++
-Xristianlikning muqaddas kitobi qaysi? 
-====
-Veda. 
-====
-Tavrot.
-====
-#Bibliya. 
-====
-Zabur. 
-++++
-Rim papasi xristianlikning qaysi oqimining boshlig‘i sanaladi?
-====
-#Katolik.
-==== 
-Pravoslav.
-====
-Protestant.
-====
-Baptizm.
-++++
-Arabiston yarim orolining islom dinidan avvalgi davrini nima deb ataganlar?
-====
-#Johiliya
-==== 
-Nodonlik
-====
-Butparastlik 
-====
-Ma’rifatsizlik
-++++
-Hadislar bilan shug‘ullanadigan olim kim?
-====
-Mutakallim 
-====
-#Muhaddis
-====
-Mutasavvif
-====
-Faqih
-++++
-Qur’on suralarini tashkil etuvchi qism “jumlalar” qanday nomlanadi?
-====
-Sura 
-====
-#Oyat 
-====
-Juz
-====
- Pora
-++++
-VII-asrda paydo bulgan musulmon davlati nima deb ataladi?
-====
-Musulmonlar davlati
-====
-Islom imperiyasi
-====
-Arab imperiyasi
-====
-#Arab xalifaligi
-++++
-Talmud qaysi dinning muqaddas kitoblaridan biridir?
-====
-Buddizm
-====
-Nasroniylik
-====
- #Yahudiylik
-====
-Islom 
-++++
-Tripitaka qaysi dinning muqaddas kitobi?
-====
- #Buddizm
-====
- Nasroniylik
-==== 
-Iuddaizm 
-====
-Islom
-++++ 
-Buddaviylik dinining asoschisi kim?
-====
-Iso Masix
-====
-#Siddxartha Gautama
-==== 
-Krishna 
-====
-Deva
-++++ 
-O‘zbekistonda qancha diniy tashkilotlar faoliyat yuritadi?
-====
-3 mingdan ziyod
-====
-#2 mingdan ziyod
-====
- 1 mingdan ziyod
-====
-4 mingdan ziyod
-++++
-“Tili, dini, e’tiqоdidаn qаt’iy nаzаr insоnning erkin bo‘lib yashashigа qаrshi, uning ruhiy dunyosini izdаn chiqаrishgа qаrаtilgаn mаfkurаviy, g‘оyaviy, infоrmаtsiоn hurujlаr”ni qаndаy tа’riflаsh mumkin?
-====
-#Mа’nаviy tаjоvuzkоrlik. 
-====
-Mа’nаviy qаrаmlik.
-====
-Mа’nаviy tаhdid.
-====
-Mа’nаviy ehtiyoj.
-++++
-«Vijdon erkinligi va diniy tashkilotlar to‘g‘risida»gi Qonunning qaysi moddasi diniy materiallarni yozish, tarqatish masalalalariga bag‘ishlangan?
-====
-36-modda
-====
-#10-modda
-==== 
-20-modda
-====
- 15-modda
-++++
-Fuqarolarning dinga e’tiqod qilish yoki e’tiqod qilmaslikni mustaqil hal qilishlari qanday ataladi?
-====
-Burch erkinligi
-====
-qadriyat erkinligi 
-====
-#vijdon erkinligi
-====
- fikr erkinligi
-++++
-“Monoteizm” tushunchasining ma’nosi nima?
-====
-#Yakkaxudolik
-====
-ko‘pxudolik 
-====
-diniy ta’limot
-==== 
-diniy fikr
-++++
-O‘rta Osiyodagi qaysi davlatda budda dini asosiy (hukmron) din edi?
-====
-Xorazmshohlar
-====
-Dovon
-====
-#Kushon
-==== 
-Qang‘
-++++
-Jahonda e’tiqod qiluvchilar soni jihatdan eng katta milliy din…
-====
-Sintoizm
-====
-Yahudiylik
-====
-Konfutsiylik
-====
-#Hidduiylik
-++++
-Tasaffuv ilmining yirik namoyondasi bo‘lgan Xo‘ja Ahmad Yassaviy yili deb qachon e’lon qilindi?
-====
-1994 yil
-====
-1995 yil
-====
-#1993 yil
-====
- 1996 yil
-++++
-O’zbekiston Respublikasi birinchi Prezidenti farmoni bilan Toshkent islom universiteti qaysi yilda ochildi?
-====
-#1999 yil
-====
-1998 yil
-====
-1993 yil
-====
- 1996 yil
-++++
-“Mehrjon” va “Navro‘z” bayramlari qaysi dinga tegishli?
-====
-Islom
-====
-Yahudiylik
-====
-Konfutsiylik
-====
-# Zardushtiylik
-++++
-Diniy tashkilotlar xayriya va mehr-muruvvat faoliyatini amalga oshirishga…
-====
-Ba’zan mumkin
-====
- #Haqli
-====
-Ayrim hollarda haqli
-==== 
-Ruxsat berilmaydi
-++++
-Diniy bag‘rikenglik bu…
-====
-Diniy hamkorlik
-====
-#Barcha dinlarga hurmat bilan munosabatda bo‘lish
-====
-Barcha dinlar bir xil
-====
-Dunyoviy haqiqatlarga amal qilish
-++++
-Fetishizm nimani ilohiylashtiradi?
-====
-#moddiy narsalarni
-====
-hayvonlarni
-====
-odamlarni
-====
-duolarni
-++++
- Shimoliy Amerika «Ojibva» qabilasi tilidan tarjima qilinganda «totem» bu -
-====
-#uning urug‘i
-====
-qarindosh
-====
-saqlaguvchi
-====
-sening urug‘ing
-++++
-Yapon tilida «Sinto» so‘zining ma’nosi nima?
-====
-#xudolar yo‘li
-====
-payg‘ambarlar yo‘li
-====
-to‘g‘ri yo‘l
-====
-nurli yo‘l
-++++
-Mа’nаviy qаdriyat bo’lmish diniy vа dunyoviy iymоn – e’tiqоdning bir  biridаn fаrqi?
-====
- Diniy iymоn nаzаriy bilimlаrgа, dunyoviy esа аmаliyotgа аsоslаnаdi.
-====
-
-#Diniy iymоn isbоtsiz ishonchgа, dunyoviy iymоn dаlillаshgа, tаjribа vа isbоtgа аsоslаnаdi.
-====
- Diniy iymоn tug’mа хususiyat, dunyoviy iymоn esа tа’lim-tаrbiya mахsuli.
-====
-Diniy iymоn хis – tuyg’ulаrgа, dunyoviy iymоn esа аql – zаkоvаtgа аsоslаnаdi.
-++++
- «Avesto» so‘zining ma’nosi nima?
-====
-muqaddaslashgan
-====
-#qat’iy qilingan
-====
-xudolar kitobi
-====
-nasklar yig‘indisi
-++++
- «Avesto»ning vatanini ko‘rsating.
-====
-#Xorazm
-====
-Bobil
-====
-Eron
-====
-Hindiston
-++++
-Buddaviylikning «To‘rt haqiqati»ning birinchisini ko‘rsating.
-====
-#Hayot-azob-uqubatlardan iborat
-====
-Azoblanish – mavjudlikdir
-====
-Hayotga tashnalik
-====
-Azoblarni yengish mumkin
-++++
-Siddxarta Gautama (Budda) necha yil Gang bo‘yida yangi dinga da’vat etib yurdi?
-====
-#40
-====
-20
-====
-25
-====
-30 
-++++
-«Budda» so‘zining ma’nosi nima? 
-====
-ulug‘langan
-====
-xudo-yaratuvchi
-====
-#nurlangan
-====
-xudo-saqlaguvchi
-++++
- Iso Masih Xristianlar uchun kim?
-====
-xudo-ota
-====
-xudo-muqaddas ruh
-====
-#xudo-o‘g‘il
-====
-payg‘ambar
-++++
- «Qur’on» so‘zi arab tilidan qanjay tarjima qilinadi?
-====
-#o‘qimoq
-====
-kitob
-====
-qonunlar
-====
-to‘g‘ri yo‘l
-++++
-Quyidagi qaysi manbaning dastlabki yozma nusxasi 12 ming qora mol terisiga bitilgan edi?
-====
-Tavrot
-====
-#Avesto.
-====
-Olqish
-====
-Zabur
-++++
-. Qiyos so‘zining lug‘aviy ma’nosini toping
-====
-diniy jamoaning yagona fikri
-====
- harakat qiluvchi kishi
-====
-#taqqoslash.
-====
-ko‘rsatma
-++++
-Mujtahid so‘zining lug‘aviy ma’nosini toping.
-====
-yo‘lboshchilar
-====
-#intiluvchi.
-====
-Xabarchilar
-====
-Isyonchilar
-++++
-al-Jome’ as-sahih asarining muallifini toping.
-====
-Abu Sufyon ibn Muoviya
-====
-Umar ibn Abdulaziz
-====
-#Imom Buxoriy
-====
-Muhammad ibn Shihob Zuhriy
-++++
-Sura va oyatlar nozil bo‘lish vaqti va joyiga ko‘ra nechaga bo‘linadi?
-====
-#2 ga.
-====
-4 ga
-====
-3 ga
-====
-5 ga
-++++
-Qur’onni Madinada nozil bo‘lgan umumiy vaqtini toping
-====
-#10 yil
-====
-12 yil
-====
-11 yil
-====
-13 yil
-++++
-Qur’on Muhammad alayhissalomga ................... g‘orida nozil bo‘lgan.
-====
-#Xiro
-====
-Ararat
-====
-Tur
-====
-Sinay
-++++
-Qur’oni karim–Alloh tarafidan Muhammad payg‘ambarga (s.a.v.) .................................................... orqali ba’zan oyat-oyat, ba’zan esa  to‘liq sura tarzida nozil qilingan
-====
-Mikoil farishta
-====
-Malak ul-avt farishta
-====
-Isrofil farishta
-====
-#Jabroil farishta
-++++
-Qur’oni Karimda nechta payg‘ambarning nomi tilga olingan
-====
-22
-====
-24
-====
-23
-====
-#25
-++++
-Dinshunoslik qaysi fanlar bilan yaqinroq bog'liq?
-====
- Matematika va fizika
-====
-Biologiya va kimyo
-====
-Ingliz tili va fransuz tili
-====
-#Tarix va jamiyatshunoslik
-++++
-Dinning jamiyatda bajaradigan ijtimoiy, ma’naviy, ruhiy funksiyalari qaysi javobda to‘gri
-ko‘rsatilgan?
-====
-#Regulyatorlik, kompensatorlik, integratorlik, kommunikativ
-====
-Kompensatorlik, integratorlik, regulyatorlik, tarbiyaviy
-====
-Kommutatorlik, kompensatorlik, regulyatorlik, tarbiyaviy
-====
-Integratorlik, kompensatorlik, kommutatorlik, tarbiyaviy
-++++
-Buddaviylik dinining muqaddas manbai “tripitaka” so‘zini ma’nosi nima?
-====
-#Uch savat donolik
-====
-Uch daraxt mevasi
-====
-Uch budda nasihati
-====
-Uch dono nasihati
-++++
-Xristianlik dini qachon katolik va provaslavlikka bo‘lindi?
-====
-#1054 yil
-====
-518 yil
-====
-1085 yil
-====
-517 yil
-++++
-Katolik cherkovi markazi qaerda joylashgan va din markazi qanday ataladi?
-====
-#Vatikanda ehrom
-====
-Kastantinopolda cherkov
-====
-Aleksadriyada ehrom
-====
-Rimda cherkov
-++++
-Kishilik jamiyati tarixida dinning ilk shakllariga qaysi dinlar kiradi?
-====
-#Totemizm, animizm, fetishizm, shomonizm
-====
-Shomonizm, urug’ - qabila dinlari, hinduizm
-====
-Iudaizm, shomonizm, animizm, totemizm
-====
-Sintoizm, buddizm, totemizm, magiya
-++++
-Zardushtiylikning muqaddas kitobi “Avesto” qaysi tilda yozilgan?
-====
-#Qadimiy eroniy-paxlaviy
-====
-Qadimgi so’g’d
-====
-Qadimgi xorazm
-====
-Qadimgi fors
-++++
- “Hidoya” asari musulmon mamlakatlarida qanday manba hisoblanadi?
-====
-Diniy
-====
-#Huquqiy
-====
-Ilmiy
-====
-Ilohiy
-++++
-Rim Papasi kim tomonidan va qancha ovoz olish yo‘li bilan saylanadi?
-====
-Rim kuriyasi tomonidan 7 yil muddatga saylanadi
-====
-Fuqarolar tomonidan umumiy ovozning 3/2 qismi plyus bir ovoz
-====
-#Kardinallar tomonidan umumiy ovozning 3/2 qismi plyus bir ovoz
-====
-Ruhoniylar tomonidan 5 yil muddatga saylanadi
-++++
-Konfutsiylik ta’limoti qaysi davlatga taalluqli?
-====
-#Xitoy
-====
-Yaponiya
-====
-Koreya
-====
-Mug‘iliston
-++++
-Qur’oni karim o‘zbek tiliga qachon va kim tomonidan tarjima qilingan?
-====
-1994 yilda sharqshunoslik instituti olimlari tomonidan
-====
-1989-1990 yillarda musulmonlar diniy idorasi tomonidan
-====
-1991 yilda O‘zbekiston musulmonlar diniy idorasi tomonidan
-====
-#1991-1992- yillarda Alouddin Mansur tomonidan
-++++
-«Hayot azob-uqubatdan iborat, qutulish yo`li mavjud» goyasi qaysi dinga tegishli?
-====
-#Buddizmga
-====
-Xristianlik
-====
-Xinduiylikka
-====
-Islomga
-++++
-«Terrorizm» suzining lugaviy ma’nosi nima?
-====
-#Qurqitish, dahshat
-====
-Birlashtirish
-====
-Ongini egallash
-====
-Boshqarish
-++++
-“Messiya” - so‘zining ma’nosi nima?
-====
-#Xaloskor
-====
-Payg‘ambar
-====
-Elchi
-====
-Qo‘shiqchi
-++++
-Hijrat qachon amalga oshgan?
-====
-#622-yili
-====
-632- yilli
-====
-609- yili
-====
-605-yili
-++++
-Diniy tashkilot ta’rifining aniqlang.
-====
-#ma’lum dinga ishonuvchilar va ularning jamoalarining  uyushmasidir.
-====
-diniy aqidalarni va konsepsiyalarni fan-texnika va ijtimoiy hayotdagi o‘zgarishlarga qarab rad etuvchi tashkilot
-====
-o‘z maqsad yo‘lida qar qanday keskin tadbir choralar ko‘ruvchi tashkilot
-====
-o‘z fikrini boshqalarga zo‘ravonlik bilan o‘tkazuvchi tashkilot
-++++
-Fuqarolarning dinga e’tiqod qilish yoki e’tiqod qilmaslikni mustaqil hal qilishlari qanday ataladi?
-====
-#vijdon erkinligi 
-====
-burch erkinligi
-====
-qadriyat erkinligi
-====
-fikr erkinligi
-++++
-Dinlar tasnifiga ko‘ra quyidagilarga bo‘linadi?
-====
-#Urug‘ – qabila, millat va jahon dinlari
- ====
-Monoteistik va qabila dinlari
- ====
-Ibtidoiy dinlar va jahon dinlari
-====
-Millat va jahon dinlari
-++++
-Jahon dinlarining xronologik jihatdan paydo bo‘lishi quyidagi qaysi javobda to‘g‘ri ko‘rsatilgan?
-====
-#Buddaviylik, xristianlik, islom
-====
-Xristianlik, buddaviylik, islom
-====
-Islom, xristianlik, buddaviylik
-====
-Buddaviylik, islom, xristianlik
-++++
-Qaysi dinda taqvodorlikning belgisi sifatida “Chorvaga, oilaga ega bo‘lish va don ekishdir” deyilgan?
-====
-#Zardushtiylikda
-====
-Nasroniylikda
-====
-Islomda
-====
-Buddaviylikda
-++++
-Qaysi muqaddas kitobda tuproq, suv, havo, olov muqaddaslashtirilgan?
-====
-#Avesto
-====
-Qur’oni Karim
-====
-Injil
-====
-Tavrot
-++++
-Imom al-Buxoriy (810-870) to‘plagan sahiyh hadislarining soni nechta?
-====
-#7275 ta
- ====
-7200 ta
-====
-7280 ta
-====
-7285 ta
-++++
-Diniy bag‘rikenglik bu…
-====
-#Barcha dinlarga sabr-toqat, hurmat bilan munosabatda bo‘lish
-====
-Diniy hamkorlik barcha muammoni yechadi
-====
-Hamma diniy qoidalar asosli degani
-====
-Dunyoviy haqiqatlarga amal qilish
-++++
-Konstitutsiyamizning nechanchi moddasida “…milliy va diniy belgilariga ko‘ra siyosiy partiyalarning, harbiylashtirilgan birlashmalarning tashkil etilishi va faoliyati taqiqlanadi” ?
-====
-#71- moddasida
-====
-51 - moddasida 
-====
-50 - moddasida 
-====
-58 – moddasida
-++++
-Diniy tashkilotlarning markaziy boshqaruv organlarini qaysi vazirlik tomonidan ro‘yxatga olinadi?
-====
-#O‘zbekiston Respublikasi Adliya Vazirligi
-====
-O‘zbekiston Respublikasi Oliy va O‘rta ta’lim Vazirligi
-====
-O‘zbekiston Respublikasi Vazirlar mahkamasi
-====
-O‘zbekiston Respublikasi Bosh Prokuraturasi
-++++
-Yаxudiylarning “poklanish kuni” bayramini aniqlang.
-====
-#yom kippur
-====
-shabat
-====
-rash-hashana
-====
-purim
-++++
-Hinduiylik ta’limotiga ko‘ra jamiyat nechta kastaga bo‘linadi?
-====
-#4 ta
-====
-5 ta
-====
-3 ta
-====
-2 ta
-++++
-Konfutsiychilikning bosh xudosi nima?
-====
-#Osmon xudosi
-====
-Yer xudosi
-====
-Momoqaldiroq xudosi
-====
-Suv xudosi
-++++
-Muso payg‘ambarga Yaxve tomonidan nechta lavha tushirilgan?
-====
-#10 ta
-====
-5 ta    
-====
-11 ta    
-====
-15 ta
-++++
-Musulmonlar e’tiqodicha, xudo tomonidan Dovud  payg‘ambarga yuborilgan muqaddas kitob?
-====
-#Zabur
-====
-Tavrot 
-====
-Talmud
-====
-Qur’oni Karim
-++++
-Braxmanizm dinining vatani qaysi?
-====
-#Hindiston
-====
-Xitoy
-====
-Yaponiya
-====
-Eron
-++++
-Islоmgаchа milliy mа’nаvyatimizning tаriхiy vа g‘оyaviy nеgizini quyidаgilаr tаshkil etаdi:
-====
-Аrхеоlоgik vа аntrоpоlоgik tоpilmаlаr. 
-====
-Tоsh bitiklаr, аrхеоlоgik tоpilmаlаr, diniy kitоblаr.
-====
-Yozmа yodgоrliklаr, etnоgrаfik mа’lumоtlаr, аrхеоlоgik yodgоrliklаr.
-====
-#Хаlq оg’izаki ijоdi nаmunаlаri, Zаrdushtiylik dini vа “Аvеstо”, etnоgrаfik mа’lumоtlаr.
-++++
-Iso Masih qayerda yashab o‘tgan?
-====
-#Falastin
-====
-Hindiston
-====
-Xitoy
-====
-Suriya
-++++
-“Tavrot” nechta kitoblarga bo‘linadi?
-====
-#5 ta
-====
-3 ta
-====
-2 ta
-====
-4 ta
-++++
-Islom tarixidagi birinchi muqaddas jang...
-====
-#Badr g‘azoti
-====
-Uhud g‘azoti
-====
-Tobuk g‘azoti
-====
-Xandaq jangi
+#Gnoseologiya
+====                 
+Praksiologiya
 ++++
-Qur’oni Karimdagi eng katta suraning nomi...?
+"Men bilmasligimni bilaman" – deb aytgan faylasuf kim
 ====
-#Baqara
+Demokrit
 ====
-A’rof
+Empedokl
 ====
-Naxl
+Anakvagor
 ====
-Luqmon
+#Suqrot
 ++++
-Hadis ilmining sultoni – Imom al- Buxoriy tavalludining 1225 yilligi qachon mamlakatimizda keng nishonlandi?
+Falsafiy tafakkur qanday manfaatlarni ifoda etishi zarur====
+#umuminsoniy
+====                         
+milliy-mintaqaviy
 ====
-#1998 yil
-====
-1993 yil
-====
-1996 yil
-====
-1994 yil
-++++
-Muhammad (s. a. v.)ga dastlabki vahiy kela boshlaganida ular necha yoshda edi?
-====
-#40 yosh
-====
-35 yosh
-====
-25 yosh
-====
-63 yosh
-++++
-Shariat – so‘zining lug‘aviy ma’nosi…?
-====
-#arabcha, to‘g‘ri yo‘l
-====
-arabcha, guvoh
-====
-arabcha, guruh, tarafdorlar
-====
-arabcha, ajrash
-++++
-“Hadis” so‘zining lug‘aviy ma’nosi nima?
-====
-#yangi, xabar, xikoya
-====
-kitob, mutolaa
-====
-eski, so‘z, xabar
-====
-yangi, mutolaa, xabar
-++++
-Mashhur “Al-Jome’ as-sahih” asarini muallifi kim?
-====
-#Imom al-Buxoriy
-====
-Ahmad YAssaviy
-====
-Najmiddin Kubro
-====
-Imom at-Termiziy
-++++
-XII asrda Xorazmda tasavvuf ilmining asoschisi kim?
-====
-#Najmiddin Kubro
-====
-Ahmad Yassaviy
-====
-Bahouddin Naqshband
-====
-Muhammad Muso al -Xorazmiy
-++++
-Mazhab so‘zining lug‘aviy ma’nosi...
-====
-#Oqim, yo‘l, ta’limot
-====
-G‘ayrat, poklik, yo‘nalish
-====
-Komillik, kamtarlik, baho
-====
-Qism, bo‘lak, yo‘nalish
-++++
-So’fizm ta`limoti qachon paydo bo’lgan?  
-====
-#VIII- IX asrlarda  
-====
-VIII asr o’rtalarida  
-====
-II asr II yarmida  
-====
-X-XI asrlarda  
-++++
-Alloh tomonidan alohida kitob va shariat berilgan payg’ambarlar, rasullar darajasiga erishganlar bu…  
-====
-#Ibrohim, Muso, Iso, Muhammad  
-====
-Iso, Muso, Ibrohim, Ya’qub
-====
-Iso, Yakub, Muhammad  
-====
-Dovud, Ibrohim, Iso, Ismoil
-++++
- “Avesto” – yozuvi va matnini o’qib, tahlil qilgan olimlar?  
-====
-#Dyuperon va M. Boys  
-====
-Grotefond va Roulinson  
-====
-Bertels va V.Struve  
-====
-V. Livshis va A. Stoblin – kamenskiy  
+Sinfiy
+====                                         
+iqtisodiy
 ++++
-Hadis necha xil?  
+Muso al-Xorazmiyning jaxon fani taraqqiyotiga qo’shgan xissasi nimalardan iborat
 ====
-#Al-hadis Al-qudsiy, al-xadis an - Nabaviy  
+Fan tarixida birinchi astronomik jadvalning asoschisi
 ====
-Al-hadis as-Sahiy al-hadid an-Muhammadiy  
+Xind, Ivrit, Yunon, Lotin tillaridan to’plagan asarlarni tarjima qilgan
 ====
-As-Sahih as-Sitta, Sahihiy Buhoriy  
+Geotsentrik nazariyaning asoschisi, yerning globusini kashf etgan kashfiyotchi
 ====
-sahihi Muslim, Al-Jomiy  
+#O’nlik sanoq sistemasi, arifmetik ilm amallari, algoritmlar nazariyasi va Algebra fanining asoschisi
 ++++
-«Hidoya» («To’gri yo’l») asari kimning qalamiga mansub? 
+Tasavvuf ta’limoti va uning Markaziy Osiyodagi tariqatlari
 ====
-#Bahouddin Marg’inoniy;  
+Xamadoniy, Arslonbob, Xo’ja Axror
 ====
-Muso Xorazmiy;  
+Maxdumi A’zam, Boxarziy, Said Kulol
 ====
-Usmon Nosir;  
+#Naqshbandiya, Yassaviya, Kubroviya
 ====
-Ishoqxon Ibrat.  
+Xojagoniy, Zikri-Xufiya, Mavlaviya
 ++++
-Zаrdo’shtiylik dinining fаlsаfiy – ахlоqiy nеgizini tаshkil etаdigаn, mа’nаviy qаdriyat bo’lmish аsоsiy g’оya qаysi? 
+XIX asr oxiri XX asr birinchi choragida keng quloch yoygan jadidlar xarakatining tub maqsadi nima bo’lgan
 ====
-Хаlоl mеhnаt ezgulikning аsоsi. 
+dinni islox qilish orqali jamiyatni yangilash
 ====
-#Ezgu fikr, ezgu kаlоm, ezgu аmаl birligi.
-====
-Tаqvоdоrlik kоmillikning pоydеvоri. 
-====
-Hаmmаning dеhqоnchilik bilаn shug’ullаnshi shartligi.
-++++
-Milliy dinlarning asosiy xususiyatlari.  
-====
-milliy davlat diniga aylanishga intilishda  
-====
-#bir millatga mansublikda  
-====
-o’ziga xos urf-odatlarida  
-====
-millatlarni birlashtirishda  
+#maorifda yevropacha o’qitish uslubiga o’tish orqali xalqni tez va keng  qatlamlarini  ma’rifatli qilish
+====                                                                                                                                mustamlakachilik va sinfiy zulmdan xalqni ozodlikka olib chiqish uchun kurashganlar
+====            
+xalqning siyosiy ongini oshirish orqali qullikdan ozod bo’lishini maqsad qilib qo’yganlar
 ++++
-Monotеistik dinlarning asosi-bu  
+Falsafaning mustaqil ijtimoiy ong shakli bo’lib shakllanishida xal qiluvchi omil nima
 ====
-tabiat hodisalariga sig’inish.  
+uning ilmiy ob’ektivligi
 ====
-sanamlarga sig’inish.  
+#uning dunyoqarash xarakteri
 ====
-#yakka xudoga sig’inish  
+uning ijtimoiy-tarixiy xarakteri
 ====
-ajdodlar ruhiga sig’inish  
-
+uning madaniy-ma’naviy tizimdagi aloxida o’rni va roli
 ++++
-Jaholatga qarshi kurashning quroli nima?
-====
-Jaholat;
+Eng qadimgi ilk dunyoqarash shakli
 ====
-#Ma’rifat;
+siyosiy va xuquqiy
+====               
+axloqiy va badiiy
 ====
-Saxovat;
-====
-Iqtisod.
+diniy va falsafiy
+====             
+#diniy-mifologik
 ++++
-Animizm nima?
-====
-sanamlarga sig‘inish
+Inson bilishining umumiy qonuniyatlarini falsafaning qaysi qismi o’rganadi
 ====
-tabiy voqealarga sig‘inish
+Ontologiya
+====			
+Sotsiologiya
 ====
-hayvonlarga sig‘inish
-====
-#jism ruhlariga sig‘inish
+#Gnoseologiya
+====	
+aksiologiya
 ++++
-Xristian dinining asosiy yo‘nalishlarini ko‘rsating.
-1.Katolitsizm 2.Iudizm 3.Pravoslaviye
-4.Sintoizm 5.Protestaitizm
+Borliq tushunchasining falsafiy mazmuni nima
 ====
-1,2,4
+ma’naviy reallikning yig’indisi
 ====
-2,4
+xudoni bilishning aloxida yo’li
 ====
-1,2,3
+#ob’ektiv va sub’ektiv reallikning yaxlitligi
 ====
-#1,3,5
+dunyoning ziddiyatli xolati
 ++++
-Hindiston milliy dini qaysi din?  
+Borliqning «birinchi tabiati» va borliqning «ikkinchi tabiati» ko’rinishining o’zaro farqlari nimada
 ====
-buddizm 
+birinchi tabiat ko’rinishi ijtimoiy borliq bilan bog’liqdir
 ====
-#xinduizm  
+ikkinchi tabiat ko’rinishi ijtimoiy borliq bilan bog’liqdir
 ====
-sintoizm  
+birinchisi ikkinchisining xosilasidir
 ====
-islom  
+#ikkinchisi birinchisining xosilasidir
 ++++
-Iudaizmnig o’ziga xosligi?
+Monistik ta’limotlarning tub mohiyati nimadan iborat
 ====
-Jahon dinligi  
+olamning birligi to’g’risidagi qarashlarning to’g’riligiga ishonchda
 ====
-#milliy dinligi  
+olamning birligini inkor etuvchi qarashlar
 ====
-urug’- qabila dinligi  
+#olamning birligini bir substantsiyadan tarkib topadi degan qarash
 ====
-Jahon dinlariga o’xshashligida  
+olam ikki yoki ko’p substantsiyalardan tarkib topadi degan qarashlar
 ++++
-Xitoy milliy dinlari qaysilar?
-====
-xristianlik  
+Eng murakkab harakat shakli
 ====
-#daosizm, konfutsiychilik  
+#ijtimoiy
 ====
-Hinduizm  
-====
-sintoizm  
+Ximiyaviy
+====            
+Biologik
+====          
+mexanik va fizik
 ++++
-Qur'onni birinchi bo’lib mushaf shakliga kеltirgan shaxs  
-====
-Umar ibn Xattob  
+Kishining o’z-o’ziga bo’lgan munosabatlarida nima belgilovchi rol o’ynaydi
 ====
-#Usmon ibn Affon  
+#o’z-o’zini anglash
+====   
+Iroda
 ====
-Ali ibn Abu Tolib  
-====
-Zayd ibn Sobit  
+Xotira
+====                        
+Tasavvur
 ++++
-O’rta Osiyoda kеng tarqalgan suniylik oqimi… 
+Falsafiy kategoriyalar deb nimaga aytiladi
 ====
-imomiya  
+fan va falsafadagi xar qanday umumiy tushunchalar
 ====
-shofi'iya  
+ob’ektiv va sub’ektiv reallikdagi xodisalarni aniq ifoda etuvchi tushunchalar
 ====
-#xanafiya  
+ob’ektning sub’ekt ongidagi in’ikosini aks etdiruvchi tushunchalar
 ====
-alaviyiya  
+#mazmunan kengaytirib bo’lmaydigan eng umumiy tushunchalar
 ++++
-E'tiqod erkinligi nima bilan kafolatlangan?  
+Ilmiy bilishning tub moxiyatini o’zida mujassamlash-tiruvchi asosiy belgi nima
 ====
-O’zbеkiston Rеspublikasi Vazirlar Maxkamasining qarori bilan  
+Manfaat
 ====
-#O’zbеkiston Rеspublikasi Konstitutsiyasi bilan  
+#Tajriba
 ====
-Movarounahr musulmonlari idorasi qaror qoidalari bilan  
+E’tiqod
 ====
-Adliya vazirligi qarorlari bilan  
+Mantiq
 ++++
-Qur'ondagi eng kichik sura ?  
+Agnostitsizm nima?
 ====
-#«Kavsar»  
+#dunyoni bilishni inkor etuvchi ta’limot
 ====
-«Ixlos»  
+insonning kelib chiqishida tabiiy omilning xal qiluvchi axamiyatini inkor etuvchi ta’limot
 ====
-«Baqara»  
+insonning kelib chiqishida ijtimoiy omilning xal etuvchi axamiyatini e’tirof etuvchi ta’limot
 ====
-«Oli Imron»  
+borliq haqidagi ta’limot
 ++++
-Qur'ondagi birinchi sura?  
+Ratsionalizm ta’limotining tub moxiyati nima
 ====
-«Ixlos»  
+#bilishda aqlning roli xal qiluvchi axamiyatga ega deb xisoblovchi ta’limot
 ====
-«Baqara»  
+bilishda sezgi a’zolarini xal qiluvchi axamiyatini e’tirof etuvchi ta’limot
 ====
-#«Fotixa»  
+dunyoni bilish mumkin deb xisoblaydigan ta’limot
 ====
-«Oli Imron»  
+umuminsoniy manfaatlarning ustuvorligini tan oluvchi ta’limot
 ++++
-Hazrati Muhammad (SAV) qachon tavallud topganlar?  
+Sensualizm va uning moxiyati nima
 ====
-#570/571  
+bilishda aqlning roli xal qiluvchi axamiyatga ega deb xisoblovchi ta’limot
 ====
-592/593 
+#bilishda sezgi a’zolarining xal qiluvchi axamiyatini e’tirof  etuvchi ta’limot
 ====
-622/622 
+dunyoni bilish mumkinligini inkor etuvchi ta’limot
 ====
-575/576 
+milliy va umuminsoniy manfaatlarning mushtarakligi xamda ularning ustuvorligini tan oluvchi ta’limot
 ++++
-Qaysi marosimni diniy marosim dеya olamiz?  
+Jamiyatning tabiatdan farq qilishiga sabab bo’luvchi eng asosiy omil nimada
 ====
-to’y  
+ijtimoiy taraqqiyotning o’ta noyobligida
 ====
-oila shartnomasi  
+#ijtimoiy qonunlar asosida rivojlanishida
 ====
-#nikoh  
+tabiiy qonunlardan mustaqil bo’lganligida
 ====
-beshik to’y  
+tabiatdan tashqari kuchlarning irodasi bilan rivojlanishida
 ++++
-Islomdagi sunniylik oqimining asosiy mazxab-yo’nalishlari  
+Aksiologiya nima
 ====
-xanafiya, shofi'iylik, imomiya, moliykiylik  
+inson bilishining umumiy qonuniyatlarini o’rganuvchi falsafaning bir bo’lagi
 ====
-Xanafiy, vaxxobiylik, shofi'iy, xorijiylik  
+ijtimoiy taraqqiyot qonuniyatlarini o’rganuvchi falsafaning bir qismi
 ====
-#xanafiy, molikiya, shofi'iylik, xanbaliya  
+#falsafaning qadriyatlar soxasini o’rganuvchi soxasi
 ====
-shofi'iy, molikiya, imomiya, xanbaliya  
+falsafaning sinflar va siyosiy partiyalarning o’zaro aloqadorligini o’rganuvchi soxasi
 ++++
-Diniy xodim dеganda kimni tushuniladi?  
+«Ijtimoiy borliq» tushunchasi nimani anglatadi
 ====
-imom, monax, namozxon  
+ishlab chiqarish munosabatlari yig’indisi
 ====
-mutavalli, da'vatchi, pastor  
+kishilar o’rtasida shakllangan o’zaro aloqadorliklar tizimi
 ====
-da'vatchi, namozxon, pastor  
+ijtimoiy sinflar va tabaqalar yig’indisi
 ====
-#imom, pastor, еpiskop
+#ijtimoiy taraqqiyotning muayyan bosqichidagi kishilar o’rtasidagi barcha          ijtimoiy munosabatlar majmuasi
 ++++
-Umuminsоniy qаdriyatlаrdаn biri hisoblangan – dinlаrаrо bаg’rikеnglik (tоlеrаntlik) bu ...
-====
-Bir dinning bоshqа dindаn ustunligini ko’rsаtish hаrаkаtlаri.
-==== 
-#Turli diniy e’tiqоdli kishilаrning mа’lum bir hududdа hаmkоr vа hаmjihаt bo’lib yashashi.
-====
-Dinlаrаrо mutаnоsiblikni ilmiy yo’l bilаn qаrоr tоptirish.
-==== 
-Kuch ishlаtish yo’li bilаn o’zgаlаr dinigа hurmаt uyg’оtish.
-++++
-Ma’lumki, Markaziy Osiyo va Hozirgi O‘zbekiston Hududida yashagan xalqlar sunniylikdagi Hanafiya Mazhabiga e’tiqod qilib, bu mazhabning asoschisi “Imomi A’zam” deb nomlangan “Imomi A’zam” so‘zi qanday ma’noni anglatadi?
+Huquq nima
 ====
-Ilmli kishi
+jamiyatda shaxs erkinligini ta’minlovchi tadbirlar
 ====
-#Ulug‘ imom
+kishilarning jamiyatda o’z o’rinlarini aniq belgilab olish uchun belgilab qo’yilgan hatti-harakatlar normasi
 ====
-E’tiqod tayanchi
+#kishilar o’rtasidagi munosabatlarni tartibga solish uchun siyosiy hokimiyat tomonidan belgilangan zaruriy hatti-harakatlar dasturi
 ====
-Imomlarning afzali
+hukmron siyosiy kuchlarning qonun darajasiga ko’tarilgan irodasi
 ++++
-Ma’lumki, dunyoda islom aqidaparastligining qator diniy – siyosiy oqimlari mavjud bo‘lib, mustaqillikdan so‘ng O‘zbekistondagi tinchlik barqarorlikka ularning qaysilari tahdid solishga harakat qilishdi?
+Huquqiy davlat nima
 ====
-Al – Qoida va Al – Jihad al - Islomiy
+muayyan ijtimoiy sinflar yoki tabaqalar irodasining qonun darajasiga ko’tarilishi
 ====
-at – Takfir val – Hijra va Abu sayyoor
+#qonun ustuvorligi ta’minlangan jamiyat
 ====
-Xizbulloh va Lashkari jihod
+shaxs erkinligini qonunlar bilan chegaralab qo’yadigan jamiyat
 ====
-#Vahhobiylik va Hizbut tahrir
+xalq irodasini inkor etuvchi jamiyat
 ++++
- “Musulmonlarning e’tiqodini tuzatuvchi” degan yuksak sharafga sazavor bo‘lgan alloma kim?
+Jamiyat taraqqiyotining qaysi bosqichida kishilarda ahloq normalari shakllangan
 ====
-#Imom Moturidiy
+#kishilik jamiyatining ilk bosqichlarida
 ====
-Imom Buxoriy
+eng qadimgi va qadimgi davrlarda
 ====
-Imom Termiziy
+dunyoviy dinlar vujudga kelgandan keyin
 ====
-Imom Nasafiy
+ibtidoiy davrning o’rta va so’nggi davrlarida
 ++++
-Axmad Yassaviy uyat va or-nomusini yo‘qotgan odamni nimaga o‘xshatadi?
+XVII-XVIII asr fransuz mutafakkirlari ijtimoiy taraqqiyot mezoni deb nimani tushunganlar
 ====
-Qushga
+diniy tasavvurlar
 ====
-#Hayvonga
+#ilm - ma’rifat
 ====
-Daraxtga
+falsafiy dunyoqarash
 ====
-Texnikaga
+jangovor «xur fikrlilik»
 ++++
-Dinning jamiatdagi “regulyatorlik» vazifasi nimadan iborat?
+Qadimgi Yunon falsafasida atomlar nazariyasining asoschisi kim
 ====
-#Din o`z qavmlarini turmushini nazorat qilishi
+Levkipp
 ====
-Dinni yoyish
+Lukretsiy
 ====
-Dinga majburlash
+Epikur
 ====
-Tasalli berish
+#Demokrit
 ++++
-Dinshunoslik fanining predmeti?
+Xorazm Ma’mun akademiyasining eng buyuk tabiatshunos olimi kim edi
 ====
-#Dinni xolislik asosida o`rganish
+Abu Abdulloh Xorazmiy
 ====
-Dinni teologik jihatdan o`rganish
+Ahmad ibn Abdullo Marvaziy
 ====
-Faqat islom dinini o`rganish
+#Abu Rayhon Beruniy
 ====
-Diniy ibodatlarni amalga oshirishni o`rganish
+Abbos Javhariy
 ++++
-Tаsаvvuf tа’limоti - insоn uchun eng kаttа yov, dеb nimаni tushunаdi? 
+Beruninyning fan tarixiga doir qanday asari bor
 ====
-Hur fikrlilikni.
+“Saydana” 
 ====
-Fаqirоnа hаyot kеchirishni.
+“Geodeziya” 
 ====
-Bоy – bаdаvlаt bo’lishni. 
+“Mineralogiya” 
 ====
-#Nаfs bаlоsini.
+#“Qadimgi halqlardan qolgan yodgorliklar
 ++++
-E.Taylor nechanchi yil «animizm» konsepsiyasini ilgari surdi?
+Ibn Sino o’zining qaysi asari bilan shuhrat qozongan
 ====
-#1871-yilda
+“Donishnoma”
 ====
-1868-yilda
+“Mantiq” 
 ====
-1869-yilda
+“Qonunlar” 
 ====
-1880-yilda
+#“Al qonun fi tibb” –Tabobat qonuni
 ++++
-«Hujjatul islom” unvonini olgan olim?
-====
-#G‘azzoliy
+Lotinlashtirilgan nomi”Alfrganus” bo’lgan Markaziy Osiyolik faylasuf kim edi
 ====
-Farobiy
+Al Xorazmiy
 ====
-Beruniy
+#Al Farg’oniy
 ====
 Ibn Sino
-++++
-«Shomon» so‘zining ma’nosi nima?
-====
-#jazavali kishi
-====
-ruhoniy
-====
-Oqsoqol
-====
-Bashoratchi
-++++
-«Yahve» atamasi qaysi dinga oid?
-====
-#yahudiylik
-====
-buddizm
-====
-xristianlik
-====
-Sintoizm
-++++
-Qaysi dinlar milliy dinlardan hisoblanadi?
-====
-#Hinduizm, jaynizm, sikxizm, konfusiychilik
-====
-Fetishizm, totemizm, anemizm
-====
-Buddizm, islom, xristianlik
-====
-Katolisizm, pravoslaviya, protestantlik, lyuteranlik
-++++
-Mus’haf nima?
-====
-#Qur’on qadimiy qo‘lyozma nusxalarining umumiy nomi
 ====
-qo‘lyozma yodgorliklar
-====
-Hadislarning qo‘lyozma nusxalari
-====
-to‘g‘ri javob yo‘q
+Abu Nasr Farobiy
 ++++
-Fransuzchada «but», «sanam», «tumor» – ma’nosini beruvchi,  jonsiz buyumlarda e’tiqod qilish, bu...?
+Qaysi alloma―Sharq Arastusi ―Muallim us-soniy, degan yuksak nomga sazovor bo’lgan
 ====
-#fetishizm
+#Abu Nasr Forobiy
 ====
-shomonizm
+Abu Rayhon Beruniy
 ====
-totemizm
+Ibn Sino
 ====
-animism
-++++
-Zаrdushtiylik dini insоniyat tаriхidа diniy e’tiqоd qаdriyatlаrini yuqоri bоsqichgа оlib chiqdi, ya’ni quyidаgi jаrаyonni bоshlаb bеrdi:
+Ali Qushchi
+++++ 
+Mirzo Ulug’bekning astronomiya haqidagi asosiy asari qaysi bandda ko’rsatilgan
 ====
-Pоlitеizmni.
+#Ziji Ko’ragoniy
 ====
-Duаlizmni.
+Astronomik jadvallar
 ====
-#Mоnоtеizmni.
+Samo haqida risola
 ====
-Pаntеizmni.
+Samoviy sferalarning aylanishi
 ++++
-Islom dini ta’limotida «vahiy» tushunchasi qanday talqin qilinadi?
+Teologiya bu nima
 ====
-#Ilohiy ko‘rsatmalarni payg‘ambarga tushirish yo‘li
+#Xudo haqidagi ta’limot
 ====
-din asoschisini diniy ko‘rsatmalarni insoniyatga yetkazishi
+Xudolarning kelib chikishi
 ====
-dindor kishiga diniy ko‘rsatmalarni bajarishga bo‘lgan ilohiy ilhomi 
+Odamlar haqidagi ta’limot
 ====
-Qur’oni karimning muqobil ma’nosi
+Jon haqidagi ta’limot
 ++++
-O‘rta Osiyo nima uchun o‘rta asrlarda sharqning ma’naviyat markazi deb atalgan?
+Panteizm bu…
 ====
-O’rta Osiyoda rivojlangan davlatlarning vujudga kelishi sababli.
+#Xudoning barcha narsalarda mavjudligi
 ====
-#O’rta Osiyoda buyuk mutafakkirlarning etishib chiqqanligi, ilm markazlari va madrasalarning vujudga kelishi , jahon fani va islomshunosligiga qo’shgan hissasi tufayli.
+Materiyaning ongga nisbatan birligi haqida
 ====
-Qishloq xo’jaligi va hunarmandchilikning rivojlanganligi tufayli.
+Akl- bilishning asosiy kuroli haqidagi qarashlar
 ====
-A, B, C.
+Inson haqidagi ta’limot
 ++++
-Bag‘rikenglik manosini beruvchi so‘z?
+Gumanistlar ta’kidicha.... 
 ====
-#tolerantlik
+#Inson eng oliy mo’jiza
 ====
-plyuralizm
+Tushunish uchun e’tiqod qil
 ====
-polemika
+Xudo mavjudligi besh yo’l orqali isbotlanishi mumkin
 ====
-fobiya
+Dunyoni bilish mumkin
 ++++
-Zardushtiylik qachon vujudga kelgan?
+Uyg’nish davri tabiiyshunos falsafasining asoschisi kim bo’lgan
 ====
-#m.a. 1-mingyillikning birinchi choragi
+#Leonardo da Vinchi
 ====
-m.a. 2-mingyillikning ikkinchi choragi
+Petrarka
 ====
-m.a. 1-mingyillikning o‘rtalari
+Dante
 ====
-m.a. 2-mingyillikning to‘rtinchi choragi
+Sokrat
 ++++
-Yahudiylikda diniy jamoat joylarini boshqaruvchi, yahudiylik ta’limoti va kultining bilimdoni qanday nomlanadi?
+Dunyoning geliotsentrik sistemasining asoschisi kim bo’lgan
 ====
-#ravvin
+Ptolemey
 ====
-yom kipur
+Foma Akvinskiy
 ====
-rosh ashana
+#Nikolay Kopernik
 ====
-karaim 	
+Aristotel
 ++++
-«Ahli sunna val-jamoa»da fiqhiy mazhablar qaysilar?
+“Utopiya ” asarining muallifi kim
 ====
-#Hanafiylik, Molikiylik, Shofiiylik, Xanbaliy
+SHekspir
 ====
-Ash’ariylik, Molikiylik, Moturidiylik, Shialik
+#Tomos Mor
 ====
-Zoxiriylik, Ash’ariylik, Shofiiylik, Xanafiylik
+Dante
 ====
-Xorijiya, Ash’ariylik, Mu’taziliya, Azraqiya
+Petrarka
 ++++
-Sunniylik yo‘nalishining aqidaviy ta’limoti qaysi ta’limotlarga asoslanadi?
+T Mor o’zining “Utopiya” asarida qanday jamiyatni tasvirlab beradi
 ====
-Hanafiya, Shofi’iya
+Afsonaviy
 ====
-Ash’ariya, Mo’taziliya
+#Ideal
 ====
-#Moturidiya, Ash’ariya
+Fantastik
 ====
-Moturidiya, Tahoviya
+qadimiy
 ++++
-“Johiliya”so‘zining lug‘aviy ma’nosi nima?
+Jordano Bruno kaysi davlatda tugilgan
 ====
-Oqillik, donolik
+#Italiyada
 ====
-Mayxo‘rlik, aqidaparastlik
+Germaniyada
 ====
-#Bilimsizlik, nodonlik
+Frantsiyada
 ====
-Qasoskorlik, riyokorlik
+Angliyada
 ++++
-Johiliya davridagi din va e’tiqodlar qaysilar?
+Kompanellaning kanday asari asosiydir
 ====
-#Xristianlik, yahudiylik, sobiylik, majusiylik
+#Quyosh shaxri 
 ====
-Zardushtiylik, islom, xristianlik, butparastlik
+Organon 
 ====
-Totemizm, fetishizm, shamanizm, animizm
+Yangi Organon 
 ====
-Shamanlik, xristianlik, islom, buddizm
+Kritiy
 ++++
-“Diniy tashkilotlar davlatdan ajratilgan hamda qonun oldida tengdirlar. Davlat diniy tashkilotlarning faoliyatiga aralashmaydi.” Ushbu so’zlar qaysi hujjatda joy olgan?
+Aflotun kimning shogirdi bo’lgan
 ====
- “Inson huquqlari umumjahon deklaratsiyasi”
+#Suqrotning shogirdi bo’lgan
 ====
- “Vijdon erkinligi va diniy tashkilotlar to‘g‘risida”gi qonun
+Demokritning shogirdi bo’lgan
 ====
- #O’zbekiston Respublikasi Konstitutsiyasi 
+Pifagorning shogirdi bo’lgan
 ====
-"Bagʻrikenglik tamoyillari deklaratsiyasi"
+Diogenning shogirdi bo’lgan
 ++++
-Ma’lumotlarga ko‘ra, bugun dunyo bo‘yicha qanchaga yaqin terrorchilik tashkilotlari faoliyat ko‘rsatmoqda?
+«O’z-o’zingni bil!» degan mashhur hikmatli iborasi kimga tegishli?
+====  
+#Suqrotga
 ====
-#500
+Aflotun
 ====
-600
+Aristotelga
 ====
-400
-====
-800
+I. Kantga
 ++++
-Diniy ekstremistik guruhlar tahdid solayotgan turli mamlakatlarni shartli tarzda bir necha guruhga bo‘lish mumkin. Shunday guruhlarning 3-o’chog’i hisoblangan Janubi-Sharqiy Osiyo mintaqasida joylashgan davlatlarni toping.
+Geraklit  to’xtovsiz o’zgarishlarning asosiy sababini tabiat¬dagi nimada  deb biladi?
 ====
-Xitoy, Mongoliya, Vyetnam, Yaponiya
+#Qarama qarshilik
 ====
-Falastin, Iroq, Suriya, Saudiya Arabiston
+Xudoga
 ====
-Misr, Jazoir, Tunis
+Tabiyatga
 ====
-#Pokiston, Indoneziya, Malayziya, Hindiston, Filippin
+Insonga
 ++++
-O‘tgan asrning 70-yillaridan boshlab diniy ekstremizm va fundamentalizmning eng yirik o‘chog‘iga aylahgan hudud qaysi?
+Olamning asosiga “appeyron”ni qo’ygan faylasuf kim edi?
 ====
-#Afg‘oniston
+#Anaksimandr
 ====
-Eron
+Fales
 ====
-Suriya
+Pifagor
 ====
-Pokiston
+Aflotun
 ++++
-Hasan al-Banno tomonidan 1928 yilda asos solingan tashkilot qaysi?
+Milet maktabi namoyondalariga kimlar kiradi?
 ====
-#“Jamoat al-ixvon al-muslimin”
+Pifagor, Fales
 ====
- “Hizb at-tahrir al-islomiy”
+#Fales, Anaksimandr, Anaksimen
 ====
- “Al-Qoida”
+Fales. Anaksimen
 ====
- “Tolibon”
+Geraklit
 ++++
-“Islom nizomi”, “Islom davlati”, “Xalifalik”, “Islomiy olamga qaynoq nidolar”, “Demokratiya – kufr nizomi” va “Siyosiy ong” kabi asarlarni ta’limoti asosiga olgan diniy ekstremistik guruh qaysi?
+SHaxs deb nimaga aytiladi?
 ====
- “Jamoat al-ixvon al-muslimin”
+shaxs - bu xar qanday aloxida olingan kishi
 ====
- #“Hizb at-tahrir al-islomiy”
+shaxs - bu boshqalarni o’ziga bo’ysundira oladigan kishi
 ====
- “Al-Qoida”
+#shaxs - barcha ijtimoiy munosabatlar majmuasi
 ====
- “Tolibon”
+shaxs - bu o’ta qobiliyatli, bilimli va ziyoli odam
 ++++
-Usoma bin Lodin qaysi diniy ekstremistik tashkilotning rahbari bo’lgan? 
+SHaxs erkinligi nima?
 ====
- “Jamoat al-ixvon al-muslimin”
+o’zining konstitutsion xuquqlarini anglash;
 ====
- “Hizb at-tahrir al-islomiy”
+kishining ichki dunyosi;
 ====
- #“Al-Qoida”
+kishi faoliyati uchun cheklanmagan imkoniyat;
 ====
- “Tolibon”
+#kishilar tomonidan anglab olingan zarurat.
 ++++
-2001 yilning 11 sentabrida Amerika Qo‘shma Shtatlarida turli reyslar bilan Nyu-York, Boston va Vashington shaharlaridan uchgan to‘rtta “Boing–757” samolyoti qaysi guruhga mansub 18 nafar terrorchi tomonidan egallab olindi? 
+Global muammolar qanday turkumlashtiriladi?
 ====
- “Jamoat al-ixvon al-muslimin”
+milliy, sinfiy, umuminsoniyat miqyosda;
 ====
- “Hizb at-tahrir al-islomiy”
+#mahalliy, mintaqaviy, umumbashariy miqyosda;
 ====
- #“Al-Qoida”
+diniy, madaniy, ilmiy tafakkur doirasida;
 ====
- “Tolibon”
+rivojlangan, o’rtacha va kam taraqqiy etgan mamlakatlar doirasida.
 ++++
-Lotincha – «aql bovar qilmas darajada», «haddan oshish»,  jamiyatda qabul qilingan qonun-qoidalarga zid radikal qarashlar va harakatlarni anglatadigan so’z qaysi?
+Ongning kelib chiqishida tabiiy va ijtimoiy omillari ...
 ====
-#Ekstremizm 
+Ong - kishi miyasining maxsuli ekanligi
 ====
-Terrorizm
+Ong - ijtimoiy muxit maxsuli ekanligi
 ====
-Fundamentalizm
+#Ong - xam biologik, xam ijtimoiy taraqqiyot maxsuli ekanligi
 ====
-Mutaassiblik 
+Ong - bu kishi tarbiyasining maxsuli ekanligi
 ++++
-Lotincha – «asos», muayyan ijtimoiy hodisaning dastlabki ko‘rinishini anglatadigan so’z qaysi?
+Fatalizm – bu………..
 ====
-Ekstremizm 
+tabiat ruxning moddiy ko‘rinishi deb targ‘ib etuvchi ta’limot
 ====
-Terrorizm
+#dunyo, kishilarning kelajak taqdiri oldindan belgilab qo‘yiladi deb tushinadigan ta’limot
 ====
-#Fundamentalizm
+narsa va xodisalar o‘rtasida sababiy bog‘lanishlar-nigina tan oluvchi oqim
 ====
-Mutaassiblik 
+zulmga qarshi, erkni kuylovchi inqilobiy qarashlarni o‘zida mujassam etuvchi mafkura
 ++++
-Arabcha – «g‘uluv ketish», «chuqur ketish», o‘z fikr-mulohaza va dunyoqarashi to‘g‘riligiga o‘ta qattiq ishonib, boshqa diniy e’tiqodlarga murosasiz munosabatda bo‘lishni anglatuvchi so’z qaysi?
+Falsafiy kategoriyalar deb nimaga aytiladi?
 ====
-#Mutaassiblik 
+fan va falsafadagi xar qanday umumiy tushunchalar
 ====
-Aqidaparastlik
+ob’yektiv va sub’yektiv reallikdagi xodisalarni aniq ifoda etuvchi tushunchalar
 ====
-Ekstremizm 
+ob’yektning sub’yekt ongidagi in’ikosini aks etdiruvchi tushunchalar
 ====
-Terrorizm
+#mazmunan kengaytirib bo‘lmaydigan eng umumiy tushunchalar
 ++++
-Lotincha – «qo‘rqitish», «vahimaga solish» – aholining keng qatlamlarida vahima va qo‘rquv uyg‘otish, jamiyatda beqarorlik keltirib chiqarish orqali davlat hokimiyatini egallash maqsadiga qaratilgan jinoiy faoliyatdir.
-====
-Ekstremizm 
+Faqat sababiy bog‘lanishlar orqali dunyoning falsafiy manzarasini yoritib beruvchi oqim nima deb nomlanadi?
 ====
-#Terrorizm
+Fatalism
 ====
-Fundamentalizm
-====
-Mutaassiblik 
+Nigilizm
+====     
+Anarxizm
+====                 
+#Determinizm
 ++++
-Ushbu so’z o‘zbek tiliga aynan tarjima qilinganda «e’tiqod qilish», degan ma’noni anglatadi. Umuman olganda, muayyan diniy ta’limot doirasida shakllangan va o‘ziga xos xususiyatlarga ega e’tiqod va ushbu e’tiqodga ergashuvchilar jamoasi tushuniladi.
-====
-#Konfessiya
-====
-Sekulyarizatsiya 
+Faqat zaruratlikni e’tirof etib, tasodiflikni inkor etuvchi falsafiy ta’limot.
 ====
-Ekstremizm
-====
-Sekta
+#fatalizm
+====  
+agnostisizm      
+====    
+anarxizm     
+====  
+determinizm
 ++++
-Mutaxassislar hozirgi kunda dunyoda taxminan qancha diniy konfessiyalar mavjud, deb hisoblaydilar?
+Mazmun deb nimaga aytiladi
 ====
-#1000dan ortiq
+predmet yoki xodisalarning aynan shy predmet yoki xodisa bo‘lishi uchun zapyp bo‘lgan belgilar yig‘indisiga
 ====
-500dan ortiq
+predmet yoki xodisani tashkil etuvchi barcha belgilar yig‘indisiga
 ====
-100dan ortiq
+#shaklni ifoda etuvchi ichki zaruriy bog‘lanishlarga
 ====
-3000dan ortiq
-++++
-Sun Myung Men tomonidan tuzilgan xristian cherkovi qaysi?
+predmetlarni tashqi xodisalar bilan munosabatiga
+++++ 
+Moxiyat deb nimaga aytiladi
 ====
-#Birlashgan cherkov
+xodisalar orqali yuzaga chiquvchi ichki zaruriy aloqadorliklarga
 ====
-Mormonlar
+predmet yoki xodisani tashkil etuvchi barcha belgilar yig‘indisiga
 ====
-Serkov novogo zaveta
+predmet yoki xodisalarning aynan shu predmet yoki xodisa bo‘lishi uchun zarur bo‘lgan eng muxim belgilar yig‘indisiga
 ====
-Yahve shohidlari 
+#xodisalar orqali ifoda etiluvchi mazmunga
 ++++
-«Aum sinrikyo» -  Aum (sanskritcha «olam») haqiqati ta’limoti; ingliz tilida  «Supreme truth»,  ya’ni «oliy haqiqat» deb tarjima qilingan diniy, sinkretik, terroristik, ekstremistik, totalitar, destruktiv sekta qayerda vujudga keldi?
+Me’yor kategoriyasining falsafiy mazmuni
 ====
-#Yaponiya
+qarama-qarshi sifatlarni muayyan maqsad yo‘nalishida muvozanatlashtirish
 ====
-Xitoy
+#muayyan sifatlar doirasidagi miqdoriy o‘zgarishlar chegarasi
 ====
-Vyetnam
+muayyan miqdor doirasidagi sifatiy o‘zgarishlar chegarasi
 ====
-Tailand
+ichki va tashqi ziddiyatlar chegarasi
 ++++
-Yerning Quyosh atrofida aylanishi haqidagi qarashlarni yoqlagani uchun cherkov tribunali tomonidan tavba qildirilib, o‘z qarashlaridan voz kechishga majbur qilingan Galileo Galileyning haq bo‘lganini tan olib, barchadan uzr so‘ragan papaning ismi kim?
+Bilishning «ob’yekti» deganda ...
 ====
-# Papa Ioann Pavel II
+sub’yekt ongidan tashqaridagi mavjud bo‘lgan predmet va xodisalar yig‘indisi tushuniladi
 ====
-Papa Lev II
+#ob’yektiv va sub’yektiv reallikning sub’yektning bilish faoliyati doirasiga kiruvchi predmet va xodisalar majmuasi tushuniladi
 ====
-Papa Piy I
+biluvchi sub’yektga qarama-qarshi turgan barcha predmet va xodisalar yig‘indisi tushuniladi
 ====
-Papa Sebastian 
+ob’yektlar o’rtasida turli xodisalar yig’indisi
 ++++
-1873-yilda Charlz Teyz Rassel (1852-1916) tomonidan asos solingan xristianlikdagi yangi oqim qaysi? 
+Agar bilish ob’yekti tabiiy xodisalar bo‘lganda, biluvchi «sub’yekt»...
 ====
-Birlashgan cherkov
+#umuminsoniyat manfaatlarini ifoda etadi
 ====
-Mormonlar
+milliy-mintaqaviy manfaatlarni ifoda etadi
 ====
-Serkov novogo zaveta
+sinfiy yoki davlat manfaatlarini ifoda etadi
 ====
-#Yahve shohidlari
+diniy va irqiy manfaatlarni ifoda etadi
 ++++
-1830 yili Nyu-York (AQSh) shahrida Jozef Smit (1805-1844) ismli shaxs tomonidan asos solingan yangi diniy oqim qaysi? 
+Agar sub’yekt faoliyati ijtimoiy xodisalarni bilishga qaratilsa unda tadqiqotchi sub’yekt kimlarning manfaatlarini ifoda etadi
 ====
-Birlashgan cherkov
+#umuminsoniyat manfaatlarini
 ====
-#Mormonlar
+milliy-mintaqaviy manfaatlarni
 ====
-Serkov novogo zaveta
+sinfiy, davlat va boshqa siyosiy kuchlar manfaatlarini
 ====
-Yahve shohidlari 
+diniy, irqiy yoki boshqa ijtimoiy kuchlar manfaatlarini
 ++++
-XIX asrda Eronda bobiylik yo‘nalishi zamirida vujudga kelgan diniy yo‘nalish qaysi? 
+Ilmiy bilishning tub moxiyatini o‘zida mujassamlash-tiruvchi asosiy belgi nima
 ====
-#Bahoiylik
+manfaat   
+====     
+#tajriba   
+====  
+e’tiqod     
 ====
-Ahmadiylik (Qodiyoniylik)
-====
-G’ulomiylik
-====
-Ja’fariylik
+mantiq
 ++++
-«Kitobi Aqdas» («Eng muqaddas kitob») va «Kitobi Iqon» («Mustahkam ishonch kitobi») asarlari qaysi diniy ta’limotining asoslarini tashkil etadi?
+Ilmiy bilimlar oddiy bilimlardan nima bilan farq qiladi
 ====
-#Bahoiylik
+muayyan manfaatlarni ifoda etishi bilan
 ====
-Ahmadiylik (Qodiyoniylik)
+muayyan mantiqqa asoslanishlari bilan
 ====
-G’ulomiylik
+#bilimlarning muayyan mantiq va tajribalar asosida to‘plangan bilimlarning sistemalashtirilishi bilan
 ====
-Ja’fariylik
+olamning izchil ilmiy manzarasini chizib berishlari bilan
 ++++
-G‘ayriislomiy mohiyat va diniy-siyosiy mazmunga ega bo‘lgan bu oqimi XIX asrning oxirlarida Mirzo G‘ulom Ahmad tomonidan tuzilgan. Dastlab u asoschisining nomi bilan – «Mirzoiylik» deb atalgan. 
+Agnostisizm nima
 ====
-Bahoiylik
+#dunyoni bilishni inkor etuvchi ta’limot
 ====
-#Ahmadiylik (Qodiyoniylik)
+insonning kelib chiqishida tabiiy omilning xal qiluvchi axamiyatini inkor etuvchi ta’limot
 ====
-G’ulomiylik
+insonning kelib chiqishida ijtimoiy omilning xal etuvchi axamiyatini e’tirof etuvchi ta’limot
 ====
-Ja’fariylik
+qadriyatlar haqidagi ta’limot
 ++++
-Ayrim mamlakatlarning konstitutsiyalarida diniy tashkilotning davlatdan ajratilganligi mustahkamlangan bo‘lib, bunda davlat dinni o‘z fuqarolarining shaxsiy ishi sifatida ko‘radi. Ushbu ta’rif qaysi model haqida?
+Rasionalizm ta’limotining tub moxiyati nima
 ====
-#Separatsion model
+#bilishda aqlning roli xal qiluvchi axamiyatga ega deb xisoblovchi ta’limot
 ====
-Identifikatsion model
+bilishda sezgi a’zolarini xal qiluvchi axamiyatini e’tirof etuvchi ta’limot
 ====
-Kooperatsion model
+dunyoni bilish mumkin deb xisoblaydigan ta’limot
 ====
-Diktatorlik modeli
+umuminsoniy manfaatlarning ustuvorligini tan oluvchi ta’limot
 ++++
-Qaysi davlat konstitutsiyasida “12 ta imomlarning mavjudligini nazarda tutuvchi ja’fariya mazhabi rasmiy din sifatida e’tirof etiladi hamda bu qoida abadiy o‘zgarmas bo‘lib qoladi” degan modda joy olgan?
+Sensualizm va uning moxiyati nima
 ====
-#Eron
+bilishda aqlning roli xal qiluvchi axamiyatga ega deb xisoblovchi ta’limot
 ====
-Iroq
+#bilishda sezgi a’zolarining xal qiluvchi axamiyatini e’tirof  etuvchi ta’limot
 ====
-Suriya
+dunyoni bilish mumkinligini inkor etuvchi ta’limot
 ====
-Saudiya Arabistoni
+milliy va umuminsoniy manfaatlarning mushtarakligi xamda ularning ustuvorligini tan oluvchi ta’limot
 ++++
-Quyidagi qaysi so’z «chuqur tushunish», «idrok etish», «bilish» ma’nolarini bildiradi. Istilohiy ma’noda esa – shariat hukmlarini o‘rganish, shariat qoidalarini barcha qismlari bilan anglash.
+Absolyut xaqiqat nima
 ====
-#Fiqh
+predmet va xodisalarning ob’yektiv mazmunga ega ekanligi
 ====
-Mazhab
+#narsa va xodisalar bilan ularning aks etdiruvchi tushunchalarning aynanligi
 ====
-Aqida
+biluvchi sub’yekt manfaatlariga to‘la mos keluvchi bilimlar
 ====
-Iymon
+predmet   va   xodisalar   to‘g‘risidagi   fan-texnika taraqqiyotining keyingi bosqichlarida inkor etish mumkin bo‘lmagan bilimlar
 ++++
-Quyidagi qaysi so’z  «yo‘nalish», «yo‘l», «diniy ta’limot» ma’nolarini bildiradi. Islom shariati va aqidasining muayyan bir tizimga solingan holatdagi ko‘rinishidir.
+Nisbiy xaqiqat nima
 ====
-Fiqh
+#nisbatan to‘g‘ri deb xisoblangan bilimlar
 ====
-#Mazhab
+ijtimoiy taraqqiyotning xar bir bosqichida doimo takomillashtirilib boriladigan bilimlar
 ====
-Aqida
+ijtimoiy taraqqiyotning xar bir bosqichida doimo yangilanib turuvchi bilimlar
 ====
-Iymon
+kundalik bilimlar
 ++++
-Hanafiylik mazhabining asoschisi kim?
+Ijtimoiy taraqqiyot va uning mezoni to‘g‘risida K.Marks ta’limotining asosiy kamchiligi nimadan iborat
 ====
-#Imomi A’zam
+#sinflar o‘rtasidagi ziddiyatni kelishtirib bo‘lmaydigan antogonistik xarakterga ega deb qarashlarida
 ====
-Ahmad ibn Hanbal
+ishlab chiqaruvchi kuchlarning xarakatlantiruvchi manbasi mexnat kurollarining ishlab chiqarish jarayonida stixiyali takomillashishida deb tushunganligida
 ====
-Imom Shofeiy 
+mexnat qurollarini takomillashtirishda xal qiluvchi kuch fan ekanligini e’tirof etmaganligida
 ====
-Imom Molik
+inson hayotida kundalik bilimlarning ahamiyatini e’tirof etganida
 ++++
-Islom ta’limotini o‘rganishda eng ko‘p qo‘llangan ushbu atama, bu nom X asrda paydo bo‘lgan. Ushbu so‘z bir narsani ikkinchisiga «mahkam bog‘lash» ma’nosini beradi.
+Ijtimoiy voqelikni bilishning aloxida xususiyati nimada
 ====
-Fiqh
+tadqiqotchi sub’yekt - umuminsoniy manfaatlarni ifoda qiluvchi bo‘lib qatnashishida
 ====
-Mazhab
+sub’yekt - umuminsoniyat nomidan qatnasha olmasligida
 ====
-#Aqida
+#ijtimoiy xodisalarni o‘rganishda milliy, sinfiy, mintaqaviy, diniy manfaatlarning ustuvorligida
 ====
-Iymon
+barcha javoblar to’g’ri
 ++++
-«Kitab at-Tavhid», «Kitab al-maqomat», «Kitab rad avoil al-adilla li-l-Ka’biy», «Kitab al-usul», «ar-Radd ala usul al-Qaromita», «Kitab ta’vilot ahli sunna» asarlarining muallifini toping. 
+Ijtimoiy falsafa nimani o‘rganadi
 ====
-#Abu Mansur Moturidiy
+jamiyat taraqqiyotining xarakatlantiruvchi kuchlari va qonuniyatlarini
 ====
-Abu Hanifa
+sosial   tuzumning   funksiyasi   va   rivojlanish qonuniyatlarini
 ====
-Imom al-Buxoriy
+jamiyatdagi muxim ijtimoiy xodisalarning o‘zaro aloqalarini
 ====
-Muhammad al-Xorazmiy
+#barcha javoblar to’g’ri
 ++++
-«Imom al-huda» (hidoyat yo‘li imomi) va «Imom al-mutakallimin» (mutakallimlar imomi) kabi nomlar bilan dovruq qozongan alloma kimdir?
+Ijtimoiy munosabatlar tushunchasining mazmuni nima
 ====
-#Abu Mansur Moturidiy
+ommaning kayfiyatlari, maqsadlarini aks ettiruvchi tushuncha
 ====
-Abu Hanifa
+barcha ma’naviy munosabatlarning majmuasi
 ====
-Imom al-Buxoriy
+#kishilarning moddiy va ma’naviy faoliyatlarini o‘zida aks etdiruvchi munosabatlar
 ====
-Muhammad al-Xorazmiy
+moddiy va ma’naviy munosabatlarni aks etdiruvchi murakkab jarayon
 ++++
-Qaysi so’z arabcha «qara’a» (o‘qimoq) fe’lidan olingan. Boshqa fikrga binoan, u suryoniy tilidagi «kerain» – «muqaddas yozuv» ma’nosini bildiruvchi so‘zdan olingan.
+Jamiyatning tabiatdan farq qilishiga sabab bo‘luvchi eng asosiy omil nimada
 ====
-#Qur’on
+ijtimoiy taraqqiyotning o‘ta noyobligida
 ====
-Aqida 
+#ijtimoiy qonunlar asosida rivojlanishida
 ====
-Mazhab
+tabiiy qonunlardan mustaqil bo‘lganligida
 ====
-Hadis
+tabiatdan tashqari kuchlarning irodasi bilan rivojlanishida
 ++++
-Halifa Abu Bakr nechanchi yillarda hukmronlik qilgan?
+Jamiyatning ijtimoiy strukturasini aniqlang
 ====
-#632-634
+#sosial sinflar, ijtimoiy guruxlar
 ====
-636-644
+siyosiy partiyalar, ijtimoiy tashkilotlar
 ====
-656-661
+kishilarning tarixiy birliklari: urug‘, qabila, elat, millat
 ====
-644-656
+davlat va siyosiy xamda iqtisodiy sistemalar
 ++++
-Halifa Usmon ibn Affon nechanchi yillarda hukmronlik qilgan?
+Aksiologiya nima
 ====
-632-634
+inson bilishining umumiy qonuniyatlarini o‘rganuvchi falsafaning bir bo‘lagi
 ====
-634-644
+ijtimoiy taraqqiyot qonuniyatlarini o‘rganuvchi falsafaning bir qismi
 ====
-656-661
+#falsafaning qadriyatlar soxasini o‘rganuvchi soxasi
 ====
-#644-656
+falsafaning sinflar va siyosiy partiyalarning o‘zaro aloqadorligini o‘rganuvchi soxasi
 ++++
-Hadisni rivoyat qilgan roviylar zanjiri nima deb ataladi?
+«Ijtimoiy borliq» tushunchasi nimani anglatadi
 ====
-Matn
+ishlab chiqarish munosabatlari yig‘indisi
 ====
-#Isnod
+kishilar o‘rtasida shakllangan o‘zaro aloqadorliklar tizimi
 ====
-Hadis
+ijtimoiy sinflar va tabaqalar yig‘indisi
 ====
-Mushaf
+#ijtimoiy taraqqiyotning muayyan bosqichidagi kishilar o‘rtasidagi barcha             ijtimoiy munosabatlar majmuasi
 ++++
-Qaysi hadis turida hadisda ma’no – Allohdan, lafz – Payg‘ambardan deb hisoblanadi?
+Davlat nima
 ====
-#al-hadis al-qudsiy
+ijtimoiy tizimning asosiy elementi
 ====
-al-hadis an-nabaviy
+ijtimoiy muxitga o‘ta faol ta’sir o‘tkazuvchi siyosiy tashkilot
 ====
-Sahih hadis
+qonun chiqaruvchi xokimiyat tomonidan qabul qilingan farmon va qarorlarni xayotga joriy qiluvchi tizim
 ====
-Mutavotir hadis
+#xukumat darajasidagi jamiyatni boshqaruvchi organ
 ++++
-Qaysi hadis turida ma’no ham, lafz ham Payg‘ambarniki deb hisoblanadi?
+Siyosiy ong nima
 ====
-al-hadis al-qudsiy
+millatlar, ijtimoiy sinflar va tabaqalar, jamiyat va shaxs o‘rtasidagi munosabatlarning kishilar ongida aks etishi
 ====
-#al-hadis an-nabaviy
+#muayyan jamiyat a’zolarining ongida kishilar o‘rtasidagi siyosiy          munosabatlarning aks etishi
 ====
-Sahih hadis
+ijtimoiy muxitning kundalik ong darajasidagi aks etdirilishi
 ====
-Mutavotir hadis
+ijtimoiy munosabatlarni kishilar ongida aks etishi
 ++++
-Makka fath etilgan 630-yili Ka’ba ichida qancha sanam bo‘lgan?
+Siyosiy ongning quyi bosqichi nima
 ====
-500
+o‘qimishli bo‘lmagan odamning ongida ijtimoiy munosabatlarning aks etilish darajasi
 ====
-#630
+#ijtimoiy munosabatlarning kishilarning kundalik ongi darajasida aks ettirilishi
 ====
-450
+ijtimoiy munosabatlarning kishilar ongida xissiy bilish darajasida aks etilishi
 ====
-900
+ziyoli odamlarning ilmiy bilish darajasi
 ++++
-Ko’chmanchi arablar nima deb ataladi?
+Xuquqiy munosabatlar nima
 ====
-Ansorlar
+jamiyat a’zolariga xukmron siyosiy kuchlar manfaatlari va   irodasiga   zid   bo‘lmagan,    ruxsat    etilgan    xatti-xarakatlar majmuasi, faoliyat doirasi
 ====
-Muxojirlar
+xukmron siyosiy kuchlar tomonidan ruxsat etilgan xatti-xarakatlar majmuasi;
 ====
-#Badaviylar
+#jamiyatning erkin fuqarosi bo‘lishi va xayot kechirishi uchun zarur bo‘lgan xokimiyat tomonidan ruxsat etilgan daxlsiz xatti-xarakatlar doirasi
 ====
-Mutaziliylar 
+jamiyat orasidagi ijtimoiy munosabatlar xilma xilligi
 ++++
-Arabcha-elchi, islom an’anasida Alloh tomonidan tanlab olinib, vakil qilingan va targ‘ibot yuritish, da’vat qilish vazifasi topshirilgan, ilohiy kitob nozil qilingan payg‘ambar, ushbu ta’rifga mos so’zni toping.
+Jamiyat taraqqiyotining qaysi bosqichida kishilarda axloq normalari shakllangan
 ====
-#Rosul 
+#kishilik jamiyatining ilk bosqichlarida
 ====
-Nabiy
+eng qadimgi va qadimgi davrlarda
 ====
-Muhaddis
+dunyoviy dinlar vujudga kelgandan keyin
 ====
-Fiqhchi
+ibtidoiy davrning o‘rta va so‘nggi davrlarida
 ++++
-Arabcha-ko‘ligi anbiyo, ilohiy xabar keltiruvchi payg‘ambar, Allohning farmoyishini insonlarga yetkazib beruvchi vositachi shaxs. O‘zlariga maxsus kitob va shariat  berilmagan ushbu ta’rif kimlarga berilgan?
+«Falsafiy ong» ijtimoiy ongning aloxida shakli sifatida nimalarni o‘zida aks ettiradi
 ====
-Rasul 
+kishilar ongida ijtimoiy munosabatlarning in’ikos etilish shakllarini
 ====
-#Nabiy
+mavjud siyosiy munosabatlarning kishilarning kundalik ong darajasida aks etilishini
 ====
-Muhaddis
+#insonning tashqi olam predmet va xodisalarga bo‘lgan munosabatlarning kishilar ongida yaxlit xolda aks ettirilishini
 ====
-Fiqhchi
+ijtimoiy munosabatlar yig’indisi
 ++++
-Muhammad (S.A.V.)ning amakisiining ismi nima?
+Kishilarning ma’lum xudud va davrdagi moddiy xamda ma’naviy madaniyatini to‘laroq aks etdiruvchi falsafiy tushunchani toping
 ====
-#Abu Tolib
+tarixiy davr
 ====
-Abdul Mutallib
+kishilarning tarixiy birliklari
 ====
-Ali
+#sivilizatsiya
 ====
-Umar bin Hattob
+etnik birlik
 ++++
-Muhammad (sav)ning Makkadan Quddusga qilgan tungi sayri nima deb ataladi?
+Ijtimoiy taraqqiyot va uning mezoni deganda Zardusht ta’limotida nima asos qilib olingan
 ====
-#Isro 
+diniy ibodatga amal qilish darajasi
 ====
-Mer’oj 
+#ezgulik va qaboxat kuchlari o‘rtasidagi ziddiyat
 ====
-Hijrat
+dunyoni anglash darajasi
 ====
-Fath
+axloq normalariga amal qilish darajasi
 ++++
-Muhammad (sav)ning Quddusdagi Aqso masjididan osmonga ko‘tarilishlari nima deb ataladi?
+Qadimgi yunon mutafakkirlari ijtimoiy xayot yo‘nalishini qanday tushungan
 ====
-Isro 
+yuqoridan pastga tobora tubanlashish jarayoni sifatida
 ====
-#Mer’oj 
+bir tekis gorizontal chiziq bo‘yicha xarakat qiluvchi ijtimoiy xodisa sifatida
 ====
-Hijrat
+#pastdan yuqoriga, oddiydan-murakkablik tomon doimo takomillashishda
 ====
-Fath
+xar qanday xarakat inkor etiladi
 ++++
-Arabcha-uzoqdagi masjid-Quddus shahridagi yahudiylik an’anasida muqaddas hisoblangan Sulaymon ibodatxonasidir. Qur’on Karimda shu nom bilan tilga olingan masjid qaysi?
+XVII-XVIII acp fransuz mutafakkirlari ijtimoiy taraqqiyot mezoni deb nimani tushunganlar
 ====
-# Al-Masjid al-Aqso
+diniy tasavvurlar
 ====
-Al-Masjid an-Nabaviy
+#ilm - ma’rifat
 ====
-Al-Masjid al-Harom
+falsafiy dunyoqarash
 ====
-Mo’yi muborak
+jangovor «xur fikrlilik»
 ++++
-Dastlab Muhammad Payg‘ambar musulmonlarni qaysi shaharga qarab namoz o‘qishga  buyurgan?
+Buyuk nemis klassik faylasufi Gegel ijtimoiy taraqqiyotni xarakatlantiruvchi kuch deb nima tushungan
 ====
-Makka
+#ilg‘or falsafiy ta’limot
 ====
-Madina
+gumanizm ruxidagi diniy e’tiqod
 ====
-#Quddus
+fuqarolarning ma’rifatlilik darajasi
 ====
-Shom
+tabiiy fanlar, birinchi navbatda matematika
 ++++
-Uhud tog‘i etagida bo‘lgan jang qachon sodir bo’lgan?
-====
-#625
+Buyuk nemis klassik faylasufi L.Feyerbax ta’limoti bo‘yicha ijtimoiy taraqqiyot mezoni deb nima tushunilgan
 ====
-624
+falsafiy ong
+====    
+#diniy ong
 ====
-623
-====
-630
+ilmiy ong     
+====     
+siyosiy ong
 ++++
-Qachon Makka shahri jangsiz musulmonlarga taslim bo’ldi?
+«Davlat - xamma narsa, shaxs - xech narsa» tamoyiliga asoslanuvchi ta’limot.
 ====
-645
+#Nigilizm
 ====
-#630
+Volyuntarizm
 ====
-632
+Pragmatism
 ====
-610
+Pozitivizm
 ++++
-Arabcha-Alloh uyi - Makka shahridagi Ka’ba binosining nomi nima?
+Davrimizning jaxonshumul (global) muammolari tushunchasi nimani anglatadi
 ====
-Al-Masjid al-Aqso
+insoniyatning barcha qatlamlari va xalqlari ishtirokidagina xal etish mumkin bo‘lgan muammolar
 ====
-Al-Masjid an-Nabaviy
+ikki yoki undan ortiq mamlakat yoki xalqlar doirasida vujudga kelgan muammolar
 ====
-#Baytulloh
+ko‘lami jixatdan butun yer yuzi axolisining ko‘pchiligiga taalluqli bo‘lgan muammolar
 ====
-Qubbat as-Sahro
+#barcha javoblar to’g’ri
 ++++
-Qoya gumbazi-Quddusdagi al-harom ash-Sharif markazidagi, qadimdan e’zozlanib kelingan qoya ustidagi gumbazli masjid qaysi?
+«Yangicha siyosiy tafakkur» deganda...
 ====
-Al-Masjid al-Aqso
+barcha siyosiy va ijtimoiy xodisalarga sinfiy nuqtai nazardan yondashish
 ====
-Al-Masjid an-Nabaviy
+ijtimoiy munosabatlarga milliy manfaat nuqtai nazaridan yondashish
 ====
-Baytulloh
+ijtimoiy xodisalarga yondashilganda umuminsoniy manfaatlar ustuvorligining e’tirof etilishi
 ====
-#Qubbat as-Sahro
+#ijtimoiy xodisalarga yondashilganda milliy va umuminsoniy manfaatlar ustuvorligining e’tirof etilishi
 ++++
-
-Tafsir nima?
+Insonning tabiatga qaramligining tobora usib borish tendensiyasining sabablari nimada
 ====
-Payg‘ambar hayotini tasvirlaydi
+tabiiy xom-ashyo zaxiralarining kamayib borishida
 ====
-hadis sirini ochadi
+insoniyat ekologik xavfning kulamini tobora chukur xis kila boshlaganligida
 ====
-# Qur’on oyatlariga sharh beradi
+axoli mikdorining kupayishi xavfli tus olayotganligida
 ====
-tarixni yoritadi
+#barcha javoblar to’g’ri
 ++++
-Islom so‘zining ma’nosi?
-====	
- Birlashmoq
-====	
-# Allohga bo‘ysunmoq, itoat qilmoq
-====	
- Muhammad payg‘ambarga ergashmoq	
+Insonning faoliyat olib borish doirasini qanday ilmiy-falsafiy tushuncha orqali ifoda etiladi
 ====
- Xudoni tanimoq	
-++++
-O‘zbekistonda islom dini bayramlari qaysi?
-====	
-diniy bayramlar yo‘q
-====	
-Navro‘z
-====	
-Mustaqillik kuni
-====	
-# Iyd-al Fitr, Iyd-al  Qurbon
-++++
-Dinshunoslik fan sifatida qachon shakllandi?
+#Noosfera
+====   
+Gidrosfera 
+====     
+Biosfera
+====  
+Atmosfera
+++++             
+«Yangicha falsafiy tafakkur» tushunchasining moxiyatini ochib beruvchi eng muxim belgi nima
 ====
-Eramizdan avvalgi 3 asrda
+#kishining tabiiy va ijtimoiy xodisalarga bo‘lgan munosabatlarida umuminsoniy manfaatlar ustuvorligining e’tirof etilishi
 ====
-10-11 asrlarda 
+ITT yangi ma’lumotlari asosida dunyoning yaxlit manzarasini chizib berish
 ====
-8 asr boshlarida 
+falsafiy qonun va kategoriyalarni butunlay inkor etib yangi falsafiy g‘oyalar bilan qurollanish
 ====
-# 19 asr oxiri 20 asr boshlarida	
+milliy istiqlol mafkuralariga mos keluvchi, mamlakatimiz taraqqiyotiga xizmat qiluvchi qarashlar, g‘oyalar va ta’limotlar bilan qurollanish
 ++++
-Diniy fundamentalizm va ekstremizm tarafdorlarining asosiy maqsadi nima?
-====
-Jamiyatdagi amaldor shaxslarga qarshi kurashish;
-====
-Xalqlar ko‘ngliga g‘ulg‘ula solish;
+Tafakkur shakllari nimalardan iborat
 ====
-O‘z manfaatlari yo‘lida foydalanish; 
+#tushuncha, xukm, xulosa chiqarishdan
+==== 
+kategoriyalardan 
 ====
-#Xalifalik davlatini o‘rnatish;
-++++
-Islomiy madaniyatga xos xususiyatlari nimalardan iborat?
-====	
-tubanlik, hiyonat, vafo, pastkashlik
-====	
-iymonlilik, vijdonlilik, halollik, mazamat
-====	
-# e’tiqodlilik, poklik, ezgulik, xalimlik
-====	
-go‘zallik, o‘ta bilimlilik, andishalilik, isyonkorlik	
-++++
-«Mushafi Usmon»ning asl nusxalaridan biri saqlanayotgan joy qayerda?
-====	
-# Toshkent
-====	
-Samarqand
-====	
-Makka
-====	
-Turkiston	
-++++
-Kalom falsafasining shakllanish davri
-====	
-# IX asr
-====	
-VII-IX asrlar
-====	
-XI asr
-====	
-X asr 	
-++++
-“Bayt ul хikma” qaysi shaharda tashkil etildi?
-====	
-Хоrazm.
-====	
-Buхоrо.  
-====	
-Samarqand.
-====	
-#Bоg’dоd.
-++++
-Vijdоn erkinligining kafоlatlari nimalardan ibоrat?
-====	
-Dinlarning va diniy tashkilоtlarning davlatdan ajratilganligi.
-====	
-Barcha fuqarоlar uchun maоrif va madaniyat eshiklarining оchiqligi.
-====	
-maktabning dindan va diniy tashkilоtlardan ajratilganligi.
-====	
-#Barchasi.
+so‘zdan
+====    
+tildan
 ++++
-Iymon deganda nimani tushunasiz?
+Markaziy Osiyolik olimlardsan kimlar “Baytul hikmat” da faoliyat ko‘rsatganlar
 ====
-Poklik.
+#Ahmad Farg‘oniy, Muhammad Muso Horazmiy, Ahmad ibn Abdullo Marvaziy, Abbos Javhariy
 ====
-Adolat.
+Abu Nasr Forobiy,  Muhammad Muso Horazmiy, Beruniy, Ahmad Farg‘oniy
 ====
-Diyonat.
+Abbos Javhariy,  AbdullohHorazmiy,  Beruniy,  Zamahshariy,  Abu Nasr Forobiy
 ====
-#Ishonch.
+Baytul hikmat da Markaziy Osiyolik olimlar faoliyat ko‘rsatmaganlar
 ++++
-Insoniylikning muhim shartlari...?
+Xorazm Ma’mun akademiyasining eng biuyuk tabiashunos olimi kim edi
 ====
-Saxiylik, xushmuomilalik, insoflilik, kamtarinlik.
+Abu Abdulloh Xorazmiy
 ====
-To‘g‘ri so‘zlik, sharm-hayolilik, or-nomus, andishalik.
+Ahmad ibn Abdullo Marvaziy
 ====
-Diyonatlilik, mexr-shafqatlilik, poklik, halollik.
+#Abu Rayhon Beruniy
 ====
-#Hammasi to‘g‘ri
+Abbos Javhariy
 ++++
-Musulmоn huquqshunоsligidagi shariat manbalarini aniqlang.
+Beruninyning tabiashunoslikka bag‘ishlangan qanday asarlarini bilasiz
 ====
-Sunnat.
+“Hindiston” , “Qadimgi halqlardan qolgan yodgorliklar”, “Geodeziya”
 ====
-Ijmо’.
+#“Mineralogiya”, “ Geodeziya”, “ Qonuni Ma’sudiy”, “Saydana
 ====
-Qur’оni Karim.
+“Miniralogiya”, “Qadimgi halqlardan qolgan yodgorliklar”, “Saydana”
 ====
-#Barcha javоblar to’g’ri.
+Tabiashunoslikka doir hech qanday asari yo‘q
 ++++
-Buddaviylik ta’limoti, asosan, uch qismdan iborat bo‘lib uning muhim qismi axloq hisoblanadi. Axloq normalari – «Pancha shila» (Buddaning besh nasihati) deb atalib u qaysi nasihatlardan iborat? 
-
-1) qotillikdan saqlanish;
-2) o‘g‘rilikdan saqlanish;
-3) gumrohlikdan saqlanish;
-4) yolg‘on, qalbaki narsalardan saqlanish;
-5) mast qiluvchi narsalardan saqlanish
-6) shirk keltirishdan saqlanish
-7) harom luqmadan saqlanish
-8) mol go‘shtidan saqlanish
+Umar Xayyom qaysi asari bilan olamga mashxur bo‘ldi
 ====
-#1,2,3,4,5
+Hikoyalari bilan
 ====
-1,2,4,5,6
+#Ruboiyati, yani sheriy asarlari bilan
 ====
-1,2,3,7,8
+“Tarixi hukamo” asari bilan
 ====
-1,2,3,6,7
+astranomiyaga oid asarlari bilan
 ++++
-Buddaviylik 2 asosiy oqimdan iborat bo‘lib ular qaysilar ? 
+Arastu asarlarining sharxlovchisi bo‘lgan birinchi arab faylasufi kim
 ====
-#Hinayana va Mahayana 
+Ibn Tufayl
 ====
-Vajrayana va Tripitaka
+AlMotrudiy
 ====
-Hinayana va Vajrayana
+Ibn Rushd
 ====
-Vajrayana va Ramayana
+#Al Kindiy
 ++++
-Butun olam suv bosishi (to‘fon) haqidagi afsonaning vatani…
+Quydagi qaysi asarlarda insonning ijtimoiy mohiyati, jamiyat hayotidagi o‘rni, ijtimoiy vazifasi kabi masalalar yoritilgan
 ====
-#Messopotamiya
-=====
-Eron
+Devonu lug‘at at- turk
 ====
-Gretsiya
+#Qutadigu bilig
+==== 
+Mafotax ul — ulum
 ====
 Hindiston
 ++++
-
-
-Сколько религиозных конфессий имеются в Узбекистане
+Markaziy Osiyo xalqlarining urf- odatlari, ijtimoiy — iqtisodiy hayotining xususiyatlari xaqidagi muhim manba bo‘lgan asar qaysi
 ====
-#16
+Geodeziya
 ====
-10
+Mafotax ul — ulum
 ====
-30
+Qutadigu bilig
 ====
-14
-
-
-+++++
-
-
-Что означает слово «Коран»?
+#Devonu lug‘at at turk
+++++
+Lotinlashtirilgan nomi”Alfrganus” bo‘lgan Markaziy Osiyolik faylasuf kim edi
 ====
-Вера
+Al Xorazmiy
 ====
-# «чтение вслух», «назидание» 
+#Al Farg‘oniy
 ====
-Основа
+Ibn Sino
 ====
-Закон
-
-
-+++++
-
-
-Священная книга иудаизма:
+Ar Roziy
+++++
+Qaysi alloma―Sharq Arastusi ―Muallim us-soniy, degan yuksak nomga sazovor bo‘lgan
 ====
-Библия
+#Abu Nasr Forobiy
 ====
-Трипитака
+Abu Rayhon Beruniy
 ====
-новый завет
+Ibn Sino
 ====
-#ветхий завет библии
-
-
-+++++
-
-
-Предметом религиоведения является изучение:
+Ali Qushchi
+++++
+«To‘rt ulus tarixi» asarining muallifi kim
 ====
-взаимосвязи религий 
+#Mirzo Ulug‘bek
 ====
-возникновения ранних форм религий
+Xondamir
 ====
-#закономерностей возникновения, развития, и функционирования различных религий
+Fitrat
 ====
-религиозного мировоззрения 
-
-
-+++++
-
-
-Религиоведение это:
+Ahmad Donish
+++++
+«Nimaga ishonsam ushani bilaman» ta’kidi kimga tegishli
 ====
-места в обществе.
+#P’yer Abelyar
 ====
-Атеизм
+Foma Akvinskiy
 ====
-Теология
+Ioann Skot Eriugen
 ====
-#научное исследование проблем происхождения, сущности и функций религии
-
-
-+++++
-
-
-Основные разделы религиоведения:
+Anselmga
+++++
+Sxolastika qanday maqsad asosida vujudga keldi
 ====
-психология религии, социология религии
+#e’tikodlar belgisini qayta ishlab chikish
 ====
-#история, философия, социология, психология, феноменология религии
+“cherkov otalari “ishlarini tugirlash
 ====
-история религии, феноменология религии
+nasroniy dogmatikasini tartibga solish va uni ommaviylashtirish
 ====
-Футурология
-
-
-+++++
-
-
-Основные функции религии: 
-====
-#регулирующая, контролирующая, политическая, экзистенциальная интегрирующая, компенсирующая, мировоззренческая
-====
-политическая, мировоззренческая
-====
-футурологическая, аксиологическая 
-====
-мировоззренческая, гносеологическая.
-
-
-+++++
-
-
-Методы исследования религиоведения:
-====
-генетический, функциональный
-====
-типологический, генетический
-====
-#каузальный анализ, историзм, типологический, структурно-функциональный
-Феноменологический
-
-
-+++++
-
-
-Принципы изложения религиоведения:
-====
-объективность, гуманизм
-====
-толерантность, терпимость, диалог религиозных и нерелигиозных мировоззрений
-====
-рассмотрение религии в контексте развития культуры
-====
-#все перечисленные
-
-
-+++++
-
-
-Предпосылки, факторы (корни) возникновения религии.
-====
-#материальные, духовные, психологические, гносеологические
-====
-антропологические, гносеологические
-====
-природные, межчеловеческие отношения
-====
-ограниченность познания, гносеологические.
-
-
-+++++
-
-
-Первобытные верования
-====
-магия, анимизм, сикхизм
-====
-#фетишизм, тотемизм, магия, анимизм
-====
-фетишизм, иудаизм
-====
-индуизм, тотемизм, магия
-
-
-+++++
-
-
-Что обозначает термин «фетишизм» 
-====
-#амулет, волшебство
-====
-магически искусный
-====
-Сверхъестественное
-====
-Культурное
-
-
-+++++
-
-
-Что такое тотемизм?
-====
-религия первобытного общества 
-====
-#вера в существование особого рода связи между какой-либо группой людей 
-(племя. род) и определенным видом животных или растений
-====
-запрет (табу) на употребление тотема в пищу.
-====
-употребление тотемных животных и растений в пищу
-
-
-+++++
-
-
-Что такое магия?
-====
-это мистика 
-====
-Предсказание
-====
-вера в возможность влияния на людей, предметы и явления объективного мира путем обращения к таинственным силам
-====
-#все перечисленное
-
-
-+++++
-
-
-Когда возникло Конфуцианство
-====
-не известно
-====
-4-5 вв. в н. э.
-====
-8 в до н. э.
-====
-#в 6-5 вв. до н. э.
-
-
-+++++
-
-
-Священная книга Зороастризма
-====
-Веды
-====
-#Авеста
-====
-Упаншади
-====
-Коран
-
-
-+++++
-
-
-Что играет важную роль в процессе очищения в Зороастризме?
-====
-#Вода
-====
-Огонь
-====
-Вино
-====
-Крест
-
-
-+++++
-
-
-Когда возникла религия Буддизм?
-====
-в 3 в до н. э
-====
-#в 6 вв до н. э
-====
-в 1 вв до н. э
-====
-не известно
-
-
-+++++
-
-
-Священная книга буддизма:
-====
-Веды
-====
-Упанишады 
-====
-#Трипитака
-====
-Люньюй
-
-
-+++++
-
-
-Когда возникло Христианство?
-====
-в 7 в до н. э
-====
-в 3 до н. э
-====
-6-5 вв. до н. э
-====
-#в 1 в н. э
-
-
-+++++
-
-
-Основная идея христианства:
-====
-#идея греха и спасения человека
-====
-идея кармы
-====
-идея добродетелей
-====
-идея бессмертия
-
-
-+++++
-
-
-Иисус Христос это:
-====
-покровитель науки
-====
-#Спаситель
-====
-покровитель воинов
-====
-все вышеперечисленные
-
-
-+++++
-
-
-Христианство это:
-====
-религия славянских народов
-====
-национальная религия
-====
-#мировая религия
-====
-европейская религия
-
-
-+++++
-
-
-Когда возник ислам?
-====
-в 8 в
-====
-в 6 в до н. э
-====
-в 5 в
-====
-#в 7 в
-
-
-+++++
-
-
-Какое движение распространилось в южной Аравии в 7 в
-====
-#движение хариджитов
-====
-движение шиитов
-====
-движение христиан
-====
-движение мединцев
-
-
-+++++
-
-
-Что обозначает слово «ислам», «Мусульмане»
-====
- «творец»
-====
-«покровитель»
-====
-# «покорность» 
-====
- «проповедь»
-
-
-+++++
-
-
-Когда родился Мухаммад?
-====
-в 6-5 вв до н. э
-====
-1 в н. э
-====
-#в 570г
-====
-в 750
-
-
-+++++
-
-
-Из какого племени Мухаммед?
-====
-#из мекканской племени курейшит
-====
-из иудейской
-====
-из ханифитской племени
-====
-из племени мединцев
-
-
-+++++
-
-
-Первая жена пророка Мухаммада:
-====
-Муавия
-====
-Ойша
-====
-Фатима 
-====
-#Хадиджа
-
-
-+++++
-
-
-Когда Мухаммад стал выступать в качестве религиозного проповедника?
-====
-с 312 г
-====
-с 723 г
-====
-#с 610 г
-====
-примерно 632г
-
-
-+++++
-
-
-Основной культ ислама
-====
-#культ единого аллаха
-====
-культ предков
-====
-культ яхве
-====
-культ семьи
-
-
-+++++
-
-
-Первые последователи пророка Мухаммада:
-====
-Осман, Абуталиб
-====
-#Хадиджа, Али, Абу-бакр
-====
-Муавия, Абуталиб
-====
-Абу-бекр, Али, Абуталиб
-
-
-+++++
-
-
-Год переселения из Мекки в Медину, который считается первым годом новой мусульманской эры (по-арабски хиджра)
-====
-610 г
-====
-632 г
-====
-#622 г
-====
-750 г
-
-
-+++++
-
-
-Когда совершил пророк Мухаммед, специальное паломничество (Хадж) в Мекку?
-====
-#в 610 г
-====
-в 570
-====
-в 632 г
-====
-в 730 г
-
-
-+++++
-
-
-Когда умер пророк Мухаммед?
-====
-в 670 г
-====
-в 810 г
-====
-в 570 г
-====
-#в 632 г
-
-
-+++++
-
-
-Что такое «джихад»?
-====
-движение ханифитов
-====
-движение хариджитов
-====
-#священная война за духовное очищение
-====
-движение курейшитов
-
-
-+++++
-
-
-Кого избрали первым халифом после смерти пророка Мухаммеда?
-====
-Османна
-====
-Али
-Абуталиба
-====
-#Абу-бекра
-
-
-+++++
-
-
-Кто стал вторым халифом после смерти Абу-Бекра в Аравии?
-====
-Али
-====
-#Умар
-====
-Осман
-====
-Абуталиб
-
-
-+++++
-
-
-Кто должен быт халифом в Аравии по мнению шиитов?
-====
-#из рода пророка Мухаммеда
-====
-из рода муавия
-====
-из рода бедуинов
-====
-из рода Абу-бакра
-
-
-+++++
-
-
-Кто собирал истинные (сахих) хадисы
-====
-Муавия
-====
-#Имам Ал-Бухари
-====
-Осман
-====
-Абу-Бакр
-
-
-+++++
-
-
-Кто такие хариджиты?
-====
-#группа, утверждающая, что халиф не должен быть наследственным правителем, а его следует избрать «по воле аллаха и народа» 
-====
-сторонники османа
-====
-сторонники али
-====
-группа шиитов, утверждающая что халифом должен быть али
-
-
-+++++
-
-
-Что такое Сунна?
-====
-#это рассказы о жизни и деятельности пророка Мухаммеда, о его изречениях
-====
-это коран
-====
-это священное писание
-====
-a.b.c. ответы правильны
-
-
-+++++
-
-
-Кто такие сунниты в исламе?
-====
-последователи шиитов
-====
-#все, признававшие святость сунны
-====
-сторонники Абуталиба
-====
-Иудеи
-
-
-+++++
-
-
-Основные направления в исламе:
-====
-хариджиты, шииты
-====
-#суннизм, шиизм, хариджиты
-====
-хариджиты, суннизм
-====
-ибадиты, хариджиты
-
-
-+++++
-
-
-Основная цель арабского халифата на завоеванных территориях
-====
-Расширение территории
-====
-экономические интересы
-====
-#распространение ислама
-====
-Ассимиляция
-
-
-+++++
-
-
-Кто собрал первый вариант Корана по поручению Абу-Бекра и Омара?
-====
-Абутолиб
-====
-#Зейд ибн-сабит
-====
-Муавия
-====
-Али
-
-
-+++++
-
-
-Из скольки глав (сур) состоит Коран?
-====
-из 40 глав
-====
-из 112 глав
-====
-из 98 глав
-====
-#из 114 глав
-
-
-+++++
-
-
-Важнейшие ангелы в исламе:
-====
-Ридван, Малик
-====
-иблис, гаврилия
-====
-Микаил, Михаил, Иблис
-====
-#Джебраил, Микаил, Исрафил, Азраил
-
-
-+++++
-
-
-Из скольки книг состоят Хадисы?
-====
-из 45 книг
-====
-из 40 книг
-====
-#из 4-х книг
-====
-из 60 книг
-
-
-+++++
-
-
-Основные обязательства мусульманина
-====
-#шахада, молитва, пост, милостыня, хадж
-====
-жертвоприношение, хадж
-====
-хадж, милостыня, молитва
-====
-жертвоприношение, молитва, пост
-
-
-+++++
-
-
-Что означает слово «Ислам»
-====
-Потребность
-====
-Искренность
-====
-Порядочность
-====
-#Покорность
-
-
-+++++
-
-
-Основные направление христианства?
-====
-Православие, баптизм, католицизм
-====
-#Православие, католицизм, протестантизм
-====
-Протестантизм, православие, баптизм
-====
-Все ответы верны
-
-
-+++++
-
-
-«Авесто» состоит из следующих частей
-====
-#Вендидад, Ясна, Висперат, Яшт
-====
-Ясна, Яшт,  Вендидад
-====
-Хишатра, Варйа, 
-====
-Амеретат, Хишатра, Вендидад, Спента
-
-
-+++++
-
-
-Определите основной источник буддизма
-====
-#Трипитака
-====
-Ламаизм
-====
-Брахманизм
-====
-Все ответы верны
-
-
-+++++
-
-
-Когда была принято национальная программа по подготовке кадров
+ruhoniylarni kundalik yumushlarini tartibga solish
+++++
+Xudoning  mavjudligi haqidagi  beshta isbotlarni kim ishlab chikkan
 ==== 
-29 сентября 1999 года
+#Foma Akvinskiy
 ====
-29 сентября 1997 года
+P’yer Abelyar
 ====
-29 августа 1999 года
+Tertullian
 ====
-#29 августа 1997 года
-
-
-+++++
-
-
-Как называется ранняя форма религии, связанная с поклонением каким-либо реальным предметам и наделением их сверхъестественными свойствами?
+Origen
+++++
+Panteizm bu…
 ====
-Анемизм
+#Xudoning barcha narsalarda mavjudligi
 ====
-Тотемизм
+Materiyaning ongga nisbatan birligi haqida
 ====
-#Фетишизм
+Akl- bilishning asosiy quroli haqidagi qarashlar
 ====
-Магия
-
-
-+++++
-
-
-Назовите одно из крупных направлений в христианстве, оформившееся в ходе Реформации в XVI веке
+Ong barcha narsalarning asosi
+++++
+Inson jamiyatining gumanistik idealini kim sharxlagan
 ====
-#Протестантизм
+#T.Mor
 ====
-Католичество
+M.de Monten
 ====
-Баптизм
+Toland
 ====
-Сикхизм
-
-
-+++++
-
-
-Как называется ранняя форма религии, связанная с поклонением какому-либо животному или растению и с верой в происхождение от них?
+Pristli
+++++
+“Pozitiv falsafa asoslari” kursining matnini kim yaratgan
 ====
-Анемизм
+#O. Kont
 ====
-Фетишизм
+Shelling
 ====
-#Тотемизм
+Mill
 ====
-Магия
-
-
-+++++
-
-
-Общее наименование древнейших священных текстов в индийской культурной традиции
+Spenser
+++++
+Qaysi bir fransuz mutafakkiri «Ensiklopediya»ning asoschisi bo‘lgan
 ====
-#Веды
+#Didro
 ====
-Талмуд
+Golbax
 ====
-Евангилие
+Lametri
 ====
-Коран
-
-
-+++++
-
-
-Фетишизм — это …
+Gelvesiy
+++++
+XIX -XX asr Gʻarbiy Yevropa falsafasining asosiy oqimlari:
 ====
-Поклонение обожествленному животному
+#Pozitivizm, «hayot falsafasi», tomizm,  neokantchilik,  neogegelchilik, pragmatizm, ekzistensializm, falsafiy antropologiya, germenevtika, neopozitivizm, modernizm, postmodernizm, strukturalizm, lingvistik pozitivizm, empiriokritisizm, ruhiy tahlil, neorealizm.
 ====
-#Вера в сверхъестественные свойства некоторых предметов
+Marksizm-leninizm, materializm, idealizm, agnostisizm.
 ====
-Поклонение амулетам
+Empiriokritisizm, postmodernizm, pragmatizm.
 ====
-Священность рода
-
-
-+++++
-
-
-Когда произошел разрыв между западной и восточной ветвями христианской церкви
+Hamma javob to‘g‘ri.
+++++
+XX asr ikkinchi yarmida rivojlangan oqimlar:
 ====
-в 1431 г
+Ekzistensializm, neomarksizm, freydizm, strukturalizm.
 ====
-#в 1054 г.
+#Neotomizm, ekzistensializm, germenevtika, strukturalizm,
+modernizm, poststrukturalizm, lingvistik tahlil, futurizm, falsafiy antropologiya, postmodernizm, pragmatizm, neofreydizm.
 ====
-в 1543 г
+Diniy antropologiya, realizm, nominalizm, gumanizm.
 ====
-в 1549 г
-
-
-+++++
-
-
-Как переводится греческое слово «Библия»
+Marksizm, neomarksizm, freydizm.
+++++
+Eng yangi davr Gʻarb falsafasining diqqat e’tiborini jalb qilgan asosiy muammolar:
 ====
-Притчи
+#Inson ruhiyati, borlig‘i, irodasi, hayot mazmuni, aniq fanlarga yangicha munosabat, madaniyat.
 ====
-Святыня
+Dunyoning abadiyligi, hayotning asosi, bilish manbai.
 ====
-#Книги
+Ontologiya, gnoseologiya, aksiologiya, praksiologiya.
 ====
-Покорность
-
-
-+++++
-
-
-Когда и где возникла религия
+Hayot-o‘lim masalasi.
+++++
+Neokantchilik oqimining namoyandalari kimlar
 ====
-#в Древнем Египте в V тысячелетии до н. э.
+E.Gusserl, M.Xaydegger, J.P.Sartr.
 ====
-в Древней Месопотамии в IV тысячелетии до н. э.
+K.Marks, F.Engels, V.I.Lenin, V.Diltey.
 ====
-в эпоху верхнего палеолита, около 40—50 тыс. лет назад
-====
-в Древнем Риме в V до н. э.
-
-
-+++++
-
-
-Как называется система взглядов, отвергающих религиозные представления (вера в бога, в бессмертие души, в потусторонний мир и т. п.) и религию в целом
-====
-Демократия
-====
-религиозный анархизм
-====
-свобода совести
-====
-#Атеизм
-
-
-+++++
-
-
-Назовите одну из ранних форм религии, означавшую веру в существование сверхъестественных сил в виде духов, душ
-====
-#Анимизм
-====
-Тотемизм
-====
-Фетишизм
-====
-Магия
-
-
-+++++
-
-
-Какие четыре этапа пути проходит человек чтобы достичь духовно-психологического совершенства:
-====
-#Шариат, путь духовного совершенствования, просвещение, познание и осознание, истина
-====
-Путь благочестия
-====
-Путь истины
-====
-Путь буддизма
-
-
-+++++
-
-
-Что такое Мифология
-====
-стремление к достижению прочных знаний, умений и навыков;
-====
-Связь культуры и религии
-====
-#от греч. mythos – сказание, предание и – рассказ, толкование) – изображение природы, всего мира как населенных живыми существами с их магической, чудесной и фантастической практикой
-====
-совокупность свойств личности
-
-
-+++++
-
-
-Что такое Язычество
-====
-Вера в сверхестественные силы
-====
-Форма языка
-====
-Мировая религия
-====
-#феномен духовной культуры древних народов, в основе которой лежит вера во многих богов (идолопоклонство)
-
-
-+++++
-
-
-Что означает термин «миссионер»?
-====
-Потеряно
-====
-Послушание
-====
-Фиксируется
-====
-#Обязательство
-
-
-+++++
-
-
-Что означает слово «фанатизм»?
-====
-#От греческого, латинского «исступлённый» 
-====
-Арабское слово "вера"
-====
-русского слово "молитва"
-====
-английское "определение"
-
-
-+++++
-
-
-Кто является основателем учения Мотурудия?
-====
-Шейх Мотурудий
-====
-Абу Хурайра аль-Мотуруди
-====
-#Абу Мансур аль-Мотурудий
-====
-Абу Акрам ал Мотуруди
-
-
-+++++
-
-
-В чем смысл слова, «новости»?
-====
-#Хадис
-====
-Чтение
-====
-Муттаасиб 
-====
-Сунна
-
-
-+++++
-
-
-Когда была принята новая редакция Закона Республики Узбекистан «О свободе совести и религиозных организациях»?
-====
-1 май 1999 г. 
-====
-#1 май 1998 г.
-====
-сентябр 1998 г. 
-====
-апрел 1991 г. 
-
-
-+++++
-
-
-Кто автор книги «Аль-Хидоя»?
-====
-Имам Термизи
-====
-   Самаркандий
-====
-#Бурхониддин Маргилони
-====
-Абдулхалик Гиждувоний
-
-
-+++++
-
-
-Прозелит кто?
-====
-Религиозный человек
-====
-человек, отрекшийся от своей религии
-====
-#стремление обратить других в свою веру
-====
-Фанатик
-
-
-+++++
-
-
-Когда был издан закон «О свободе совести и религиозных организациях»?
-====
-1990 год
-====
-1992 год
-====
-1993
-====
-#1991 год
-
-
-+++++
-
-
-Кто является основателем суфизма?
-====
-Накшбанди
-====
-Термизий, Мирлик Динор
-====
-Шакик Баяхий, Имам Бухари
-====
-   #Хасан Басри, Робия Адавия
-
-
-+++++
-
-
-Когда сформировалось общество сознания Кришны?
-====
-в 1873 году
-====
-830-е годы
-====
-1964г
-====
-#1965 г.
-
-
-+++++
-
-
-Когда были организованы Свидетели Иеговы?
-====
-830-е годы
-====
-#в 1873 году 
-====
-1965г
-====
-1964 г.
-
-
-+++++
-
-
-Кто является первым лидером религиозного экстремистского движения Исламского движения Узбекистана?
-====
-#Тохир Юлдашев
-====
-Умар Одил
-====
-Усман Гази
-====
-Жума Наманганий
-
-
-+++++
-
-
-Кто является основателем религиозного экстремистского движения Нур?
-====
-Та?июддин Набахоний
-====
-Фатхулла Гулен
-====
-#Саид Нурсий
-====
-Акром Йўлдошев
-
-
-+++++
-
-
-Когда Мухаммад провозгласил себя посланником Аллаха?
-====
-#610 г.
-====
-570г.
-====
-622г.
-====
-632г.
-
-
-+++++
-
-
-Определите основателя исламской организации Хизб-ут-Тахрир
-====
-Саид Нурсий
-====
-#Та?июддин Набахоний
-====
-Фатхулла Гулен
-====
-Акром Йўлдошев
-
-
-+++++
-
-
-Что означает слово «Хариджиты»?
-====
-Традиция
-====
-сторона, группа
-====
-#мятежник, заговорщик
-====
-    Группа
-
-
-+++++
-
-
-Каковы основные направления ислама?
-====
-#Сунниты и Шииты
-====
-Модернизм и фундаментализм
-====
-Исмаилизм и вахобизм
-====
-Суфизм и лидерство
-
-
-+++++
-
-
-Когда мусульмане начинают год хиджры?
-====
-С самого начала пророчества Мухаммеда
-====
-С рождение Пророка Мухаммада
-====
-#Первая мусульманская иммиграция из Ясриба в Медину
-====
-С появление ученых-хадисоведов
-
-
-+++++
-
-
-Какие мазхабы суннитского ислама сушествуют?
-====
-#Маликия, Ханафия, Шафиа и Ханбалия
-====
-Ханафиты, сунниты, хариджиты и ваххабиты
-====
-Все секты и маххабы отделенные от ислама
-====
-Хизб-ут-Тахрир, Акромия, сунниты
-
-
-+++++
-
-
-Что такое хадисы?
-====
-#Учения Мухаммада о жизни, деятельности, религиозных и нравственных учениях
-====
-Комментарии, написанные на Священном Коране
-====
-религиозная книга, объединяющая фетвы шариата и высших ученых
-====
-Божьи откровения
-
-
-+++++
-
-
-Великие мыслители хадисоведы Туркестана?
-====
-Исмаил аль-Бухари, Алишер Навои, аль-Фараби
-====
-#Имам в Термизи, Исмаил аль-Бухари
-====
-Абу Али Ибн Сина, Имам в - Термизи, Беруний
-====
-Бахуддин Накшбанд, Ибн Сина, Исмаил Бухари
-
-
-+++++
-
-
-Пять столпов ислама:
-====
-Послушание, вера в судьбу, жертва, хутба.
-====
-Хатна, намаз, пост, хадж, жертва
-====
-#Вера, пост, молитва, закят, хадж. 
-====
-Вера в Аллаха, вера в Мухаммада, молитва Джума, Коран
-
- 
-+++++
-
-
- Что такое тотемизм?
-====
-#В первобытном обществе, предполагая, что различные животные являются основой рода, обожествление и поклонение
-====
-Одна из форм исторической религии
-====
-Мечты и другие убеждения - верить в тайны
-====
-Гадание и поклонение неодушевленным объектам
-
-
-+++++
-
-
- Джайнизм является национальной религией….
-====
-#Индии
-====
-Японии
-====
-Китая
-====
-Монголии
-
-
-+++++
-
-
-Национальная религия Японии это-
-====
-Буддизм
-====
-#Синтоизм
-====
-Тотемизм
-====
-Конфуцизм
-
-
-+++++
-
-
-Кто главный бог синтоизма?
-====
-Создатель Бог Брахма
-====
-Бог правды Ахура Мазда
-====
-Божество-хранитель Вишну
-====
-#Солнечная богиня Аматерасу
-
-
-+++++
-
-
-Какая самая большая национальная религия в мире по числу верующих в мире?
-====
-Конфуцизм
-====
-Иуддаизм
-====
-Синтоизм
-====
-#Индуизм
-
-
-+++++
-
-
-Как называется место молитвы в иудаизме?
-====
-Мечеть
-====
-#Синагога
-====
-Монастырь
-====
-Церковь
-
-
-+++++
-
-
-Какие четыре больших собрания являются ведами?
-====
-Ригведа, Яшт, Гот, Самаведа
-====
-#Ригведа, Самаведа, Яжурведа, Адхарваведа
-====
-Яшт, Ригведа, Яжурведа, Гот
-====
-Ригведа, Гот, Яшт, Адхарваведа
-
-
-+++++
-
-
- Монотеистические религии
-====
-Иудаизм, ведизм, ислам
-====
-Иудаизм, ислам, сикхизм
-====
-Ведизм, индуизм, синтоизм
-====
-#Ислам, Буддизм, Христианство
-
-
-+++++
-
-
-Какой мыслитель пропагандировал идею «Бог в душе, руки в работе» “Алло? –дилда, ?ўл – ишда бўлсин” (“Дилба-ёр, даст ба кор”)?
-====
-Абдул?одир Жийлоний
-====
-Нажмиддин Кубро
-====
-Ахмад Яссавий
-====
-#Ба?оуддин На?шбанд
-
-
-+++++
-
-
-В чем смысл термина «террор»?
-====
-#запугивание и ужас
-====
-подрывная деятельность и убийство
-====
-убийство силой
-====
-Распространение Ислама
-
-
-+++++
-
-
-Кто автор «Хидоя» («Истинная Дорога» («Тўгри йўл»))
-====
-Мусо Хоразмий
-====
-#Бур?ониддин Мар?иноний
-====
-Имом Бухорий
-====
-Ахмад Яссавий
-
-
-+++++
-
-
-Что такое религиозная организация?
-====
-Медресе
-====
-Мечеть
-====
-#это сообщество верующих и их общин
-====
-Церковь
-
-
-+++++
-
-
-Священные источники ислама?
-====
-Авесто
-====
-Библия
-Трипитака
-====
-#Каран и хадисы
-
-
-+++++
-
-
-Кто является основателем святой кабы?
-====
-Пророк Мухаммад
-====
-#Пророк Ибрагим
-====
-Иисус Христос
-====
-Пророк Моисей
-
-
-+++++
-
-
-Какая религия учит нирване?
-====
-Нет такой религии
-====
-Ислам
-====
-Христианство
-====
-#Буддизм
-
-
-+++++
-
-
-В официальном документе содержится ли религиозная принадлежность человека?
-====
-В исключительных случаях
-====
-Да
-====
-#Нет
-====
-В некоторых случаях
-
-
-+++++
-
-
-Что такое терпимость?
-====
-Религиозный экстремизм
-====
-#Религиозная толерантность
-====
-Религиозный фанатизм
-====
-Религиозный фундаментализм
-
-
-+++++
-
-
-Какие были доисламские религии Центральной Азии?
-====
-#Буддизм и зороастризм
-====
-Монизм и маздакизм
-====
-Иудаизм и христианство
-====
-Синтоизм
-
-
-+++++
-
-
-Какой арабский предводитель принёс и распространил ислам в Среднюю Азию?
-====
-Умар ибн Хаттоб
-====
-Зайд ибн Собит
-====
-#?утайба ибн Муслим
-====
-Варака ибн Навфал
-
-
-+++++
-
-
-Кто был основателем тасаввуфа в Хорезме в XII веке?
-====
-#Нажмиддин Кубро
-====
-Ахмад Яссавий
-====
-Бахоуддин На?шбанд
-====
-Абдул?одир Жийлоний
-
-
-+++++
-
-
-В каком министерстве или организации религиозные школы проходят регистрацию и получают соответствующую лицензию 
-====
-#В Министерстве юстиции Республики Узбекистан
-====
-В Мусульманском совете Узбекистана
-====
-Кабинет Министров Республики Узбекистан
-====
-Сами религиозные организации принимают решение
-
-
-+++++
-
-
-Где возник Иудаизм?
-====
-В Индии
-====
-#В Палестине
-====
-В Израиле
-====
-Во Вьетнаме
-
-
-+++++
-
-
-Какой мазхаб суннитского ислама широко распространена в Узбекистане?
-====
-Шофиий
-====
-#?анафия
-====
-Моликия
-====
-Ханбалия
-
-
-+++++
-
-
-На основе какаго движения возник Акромия?
-====
-Вахабизм
-====
-Нур
-====
-#?изб ат-та?рир
-====
-Ал-Ихвон ал-муслимун
-
-
-+++++
-
-
- Как отрасль гуманитарного знания, религиоведение возникло
- ====
-В Европе во второй половине IX в.
-====
-В США во второй половине XX в.
-====
-В Европе во второй половине XX в.
-====
-#В Европе во второй половине XIX в.
-
-
-+++++
-
-
- Религиозная идеология
-====
-представления о мире в целом, а также о различных сторонах бытия - природы, общества, человека
-====
-это более или менее стройная система религиозных идей, взглядов и представлений
+F.Nisshe, A.Shopengauer, I.Shelling.
 ==== 
-Догмы, утверждения, предписания, содержащих последовательное изложение религиозных взглядов
+#O.Libman, G.Gelmgols, F.Lange, G.Kogen, P.Natorp.
+++++  
+Pozitivizm qachon shakllandi
 ====
-#Все ответы верны
-
-
-+++++
-
-
- Церковь
+#X1X asrning 40-yillarida.
 ====
-#автономная религиозная организация
+XX asrning birinchi yarmida.
 ====
-автономная религиозная партия
+X1X-XX asrlar.
 ====
-Дом молитвы
+XX asr oxiri.
+++++
+Pozitivizm asoschisi kim
 ====
-Все ответы верны
-
-
-+++++
-
-
- Секта-
-====
-лат. - замкнутая группа
+G.Gesse. 
 ==== 
-объединение верующих, противопоставляющих себя официальному религиозному учению на основе изменения вероучения и культа.
-====
-объединение верующих
-====
-#Все ответы верны
-
-
-+++++
-
-
- Секуляризация-
-====
-процесс освобождения различных сфер общества
+Gegel. 
 ==== 
-позднелат. saecularis – мирской, светский
-====
-процесс освобождения различных сфер общества, общественного, группового и индивидуального сознания, деятельности и поведения людей
-====
-#Все ответы верны
-
-
-+++++
-
-
-Современное название религии Зороастризма
-====
-Ахурамазда
-====
-Иранизм
-====
-Заратуштра
-====
-#Парсизм
-
-
-+++++
-
-
-Главная идея Корана
-====
-Борьба с неверными
-====
-Воспитать гармонично развитую личность
-====
-Жихад
-====
-#Борьба с многобожием и утверждением единой религии – ислама
-
-
-+++++
-
-
- Шариат
-====
-комплекс предписаний, обязательных для исполнения
-====
-араб. шариа – прямой, правильный путь, закон, предписание
-====
-представляет собой общее учение об исламском образе жизни
-====
-#Все ответы верны
-
-
-+++++
-
-
-   Миссионерство – это
-====
-от греч.  — «обращённый, нашедший своё место») — стремление обратить других в свою веру
-====
-#от латинского  «missio», что означает «посылка, поручение»
-====
-от греческого  «missio», что означает «задание»
-====
-от француского  «missio», выполнять поручение»
-
-
-+++++
-
-
- Прозелитизм
-====
-#от греч.  — «обращённый, нашедший своё место» — стремление обратить других в свою веру
-====
-от латинского  «missio», что означает «посылка, поручение»
-====
-от латинского  — «обращённый, нашедший своё место» 
-====
-от руского  — «обращённый, нашедший своё место» 
-
-
-+++++
-
-
-Религиозный фундаментализм — это
-====
-# (лат. «основание») - тенденция или оформившееся течение в богословии
-====
-от латинского  «missio», что означает «посылка, поручение»
-====
-от латинского  — «обращённый, нашедший своё место» 
-====
-это крайняя степень увлечения религиозной деятельностью
- 
-
-+++++
-
-
-Религиозный фанатизм – это 
-====
-от греч.  — «обращённый, нашедший своё место» — стремление обратить других в свою веру
-====
-#это крайняя степень увлечения религиозной деятельностью с созданием из нее культа, поклонением и растворением в группе единомышленников
-====
-лат. «основание») - тенденция или оформившееся течение в богословии
-====
-от латинского  «missio», что означает «посылка, поручение»
-
-
-+++++
-
-
- Виды религиозного фанатизма
-====
-Фундаментализм, религиозная экспансия
-====
-Прозелетизм, религиозная экспансия, миссионерство
-====
-Фундаментализм, миссионерство
-====
-#Прозелетизм, религиозная экспансия
-
-
-+++++
-
-
- Экстремизм — это 
-====
-от греч.  — «обращённый, нашедший своё место
-====
-от латинского  «посылка, поручение»
-====
-#приверженность отдельных людей или групп к крайним взглядам и поступкам
-====
-это крайняя степень увлечения религиозной деятельностью
-
-
-+++++
-
-
- Терроризм — это
-====
-это крайняя степень увлечения религиозной деятельностью
-====
-от латинского  «посылка, поручение»
-====
-от греч.  — «обращённый, нашедший своё место
-====
-#от латинского слова «страх, ужас» 
-
-
-+++++
-
-
- Виды терроризма:
-====
-#Политический, использующий религиозные мотивы, националистический, криминальный, технологический
-====
-Политический, экономический, технологический
-====
-Политический, националистический, криминальный, технологический
-====
-Политический, криминальный, технологический
-
-
-+++++
-
-
- Когда был принят закон Республики Узбекистан «О свободе совести и религиозных организациях»
-====
-1 мая 1998 года
-====
-14 июня 1998
-====
-1 мая 1991 года
-====
-#14 июня 1991
-
-
-+++++
-
-
- Разновидности новых религиозных движений 
-====
-Политические, экономические, духовные, экологические
-====
-Политические, экономические, духовные
-====
-Неохристианские, саентологические, экономические, духовные
-====
-#Неохристианские, саентологические, неоориенталистские, харизматические
-
-
-+++++
-
-
-Когда возникла и основатель секты «Свидетели Иеговы»?
-====
-в Бостоне в 1979 г., Кип Мак Кинг
-====
-в 1954 г. в Южной Корее, Сан Мён Мун
-====
-#возникла в 70-х гг. ХIХ в. в США, Чарльз Тейт Рассел
-====
-США 1953 г.,  Р.Л.Хаббард
-
-
-+++++
-
-
- Когда возникла и основатель секты «Церковь объединения»
-====
-Основано в 1955 г., Абхи Саран Шри Шримад Бхактиведанта Свами Прабхупадай
-====
-#в 1954 г. в Южной Корее, Сан Мён Мун
-====
-США 1953 г., Р.Л.Хаббард
-====
-в Бостоне в 1979 г., Кип Мак Кинг
-
-
-+++++
-
-
- Когда возникла и основатель секты «Церковь христа» 
-====
-США 1953 г., Р.Л.Хаббард
-====
-возникла в 70-х гг. ХIХ в. в США, Чарльз Тейт Рассел
-====
-в 1954 г. в Южной Корее, Сан Мён Мун
-====
-#в Бостоне в 1979 г., Кип Мак Кинг
-
-
-+++++
-
-
- Когда возникла и основатель секты «Церковь Саентологии»
-====
-#США 1953 г., Р.Л.Хаббард
-====
-возникла в 70-х гг. ХIХ в. в США, Чарльз Тейт Рассел
-====
-в 1954 г. в Южной Корее, Сан Мён Мун
-====
-в Бостоне в 1979 г., Кип Мак Кинг
-
-
-+++++
-
-
- Когда возникла и основатель секты «Международное общество сознания Кришны»
-====
-#Основано в 1955 г., Абхи Саран Шри Шримад Бхактиведанта Свами Прабхупадай
-====
-возникла в 70-х гг. ХIХ в. в США, Чарльз Тейт Рассел
-====
-в 1954 г. в Южной Корее, Сан Мён Мун
-====
-США 1953 г.,  Р.Л.Хаббард
-
-
-+++++
-
-
- В каком веке возник ваххабизм:
-====
-в 20 веке
-====
-в 8 веке
-====
-#в 18 веке
-====
-в 1 веке
-
-
-+++++
-
-
-Буддизм возник в …
-====
-Персии (Иране), VII в. до н. э.
-====
-Палестине, I в. н. э.
-====
-Аравии, VII в. н. э.
-====
-#Индии, VI в. до н. э.
-
-
-+++++
-
-
-Ислам возник в …
-====
-X в. н. э. в Иране
-====
-I в. н. э. в Палестине
-====
-#VII в. н. э. в Аравии
-====
-VII до н. э. в Иране
-
-
-+++++
-
-
- Поклонение множеству богов характерно для …
-====
-#Политеизма
-====
-Дуализма
-====
-Генотеизма
-====
-Монотеизма
-
-
-+++++
-
-
-Что такое Язычество
-====
-Мировая религия
-====
-#феномен духовной культуры древних народов, в основе которой лежит вера во многих богов (идолопоклонство)
-====
-Форма языка 
-====
-Вера в сверхестественные силы
-
-
-+++++
-
-
- Отрицание существование бога это –
-====
-#Атеизм
-====
-Пантеизм
-====
-Дуализм
-====
-Монотеизм
-
-
-+++++
-
-
-Название поклонения неодушевлённым предметам:
+#L.Feyerbax. 
 ==== 
-#Фетишизм 
+O.Kont. 
+++++
+Pozitivizm shakllangan mamlakatlar:
 ====
-анимизм 
+Fransiya, Yaponiya, Hindiston.
 ====
-тотемизм 
+#Germaniya, Angliya, Rossiya, Italiya.
 ====
-магия 
-
-
-+++++
-
-
-Как зовут Будду? 
-====
-Фаррух Булсара 
-====
-#Сиддхартха Гаутама 
-====
-Ааль Рашид
-====
-Магамед
-
-
-+++++
-
-
-Что изучает религиоведение?
-====
- мировые религии планеты,
-====
-отношения религии и государства,
-====
-взаимосвязь религий мира,
-====
-#закономерности развития религий.
-
-
-+++++
-
-
-Период возникновения ранних форм религий:
-====
-1млн. лет – 500 тыс. лет     
-====
-400тыс. лет – 40 тыс. лет
-====
-40 тыс. лет – 12 тыс. лет      
-====
-#100тыс. лет – 40 тыс. лет
-
-
-+++++
-
-
-Сколько основных направлений выделилось в христианстве?
-====
-два   
-====
-#три   
-====
-четыре   
-====
-Пять
-
-
-+++++
-
-
-В каком веке христианство стало государственной религией Руси?
-====
-в VII веке   
-====
-в VIII веке  
-====
-в IХ веке   
-====
-#в Х веке
-
-
-+++++
-
-
-Что изучает религиоведение.
-====
-#закономерности развития и характеристики религий.
-====
-Историю возникновения и развития основных мировых религий.
-====
-Процессы взаимодействия общества и религии.
-====
-Свод законов.
-
-
-+++++
-
-
-Коран для мусульман это.
-====
-Свод законов.
-====
-#Священная книга.
-====
-Основной учебник о нормах жизни в обществе.
-====
-Процессы взаимодействия общества и религии.
-
-
-+++++
-
-
-Что такое нирвана.
-====
-Молитва буддийских монахов.
-====
-Обряд крещения.
-====
-#Блаженное состояние покоя в буддизме.
-====
-Пост.
-
-
-+++++
-
-
-Какая из форм религиозных воззрений основывается на утверждении о тесной связи между группой людей и каким-то животным.
-====
-#Тотеизм.
-====
-Монотеизм.
-====
-Политеизм.
-====
-Дуализм.
-
-
-+++++
-
-
-Как именуются высшие божества в индуизме.
-====
-Вишну, Брахма, Кали.
-====
-#Вишну, Шива, Брахма.
-====
-Шива, Брахма, Кали.
-====
-Вишну, Брахма, Сарасвати.
-
-
-+++++
-
-
-Что называют паломничеством.
-====
-Переход из одного духовного состояния в другое.
-====
-#Путешествие верующих к святым местам для получения благословения.
-====
-Процесс перерождения.
-====
-Иерархическая система.
-
-
-+++++
-
-
-В какой из религий разработана доктрина о переселении душ (сансара).
-====
-Буддизм.
-====
-Иудаизм.
-====
-#Индуизм.
-====
-Ислам.
-
-
-+++++
-
-
-Бодхисаттва – кто это.
-====
-Верховный жрец в индуизме.
-====
-Основатель буддизма.
-====
-#Существо, решившее стать Буддой и помочь людям прервать череду безначальных реинкарнаций.
-====
-Направление Христианства.
-
-
-+++++
-
-
-Самой древней мировой религией является.
-====
-Ислам.
-====
-Христианство.
-====
-#Буддизм.
-====
-Тотемизм.
-
-
-+++++
-
-
-В каком году произошло разделение христианской церкви на Западную (Римско-Католическую) и Восточную (Греко-Кафолическую)
-====
-В 312 году.
-====
-В 963 году.
-====
-#В 1054 году.
-====
-В 1254 году.
-
-
-+++++
-
-
-Какая религия стала доктриальной основой ламаизма.
-====
-#Буддизм.
-====
-Кришнаизм.
-====
-Синтоизм.
-====
-Ислам.
-
-
-+++++
-
-
-Поклонение множеству богов характерно для …
-====
-Монотеизма
-====
-Генотеизма
-====
-#Политеизма
-====
-Ислама
-
-
-+++++
-
-
-Папское государство именуется …
-====
-Андорра
-====
-#Ватикан
-====
-Монако
-====
-Сан-Марино
-
-
-+++++
-
-
-Атеизм — это: 
-====
-#мировоззрение, отрицающее существование сверхъестественных сил и ставящее целью доказать это.
-====
-Вера в единого бога.
-====
-Вера в многобожие.
-====
-Вера в свободу выбора человека.
-
-
-+++++
-
-
-Брахманизм — это:
+O‘zbekiston, Qozog‘iston, Qirg‘iziston.
 ==== 
-Вера в единого бога.
+Amerika, Xitoy, Yaponiya.
+++++
+Sotsiologiya fanining asoschisi kim
 ====
-Вера в многобожие.
-====
-#религия в Индии, ее вероучение основано на Ведах и их комментариях, а основная добродетель — подчинение брахманам.
-====
-Вера в свободу выбора человека. 
-
-
-+++++
-
-
-Веды — это: 
-====
-#древнейшие памятники индийской религиозной литературы.
-====
-Священная книга ислама.
-====
-Священная книга христианства.
-====
-Отрицание существования рая и ада.
-
-
-+++++
-
-
-Вероисповедание — это: 
-====
-Вера в единого бога.
-====
-#принадлежность к какой-либо религии.
-====
-Атеистическое вероисповедание.
-====
-мировоззрение, отрицающее существование сверхъестественных сил и ставящее целью доказать это.
-
-
-+++++
-
-
-Ветхий Завет — это: 
-====
-#часть Библии, рассматриваемая как Священное Писание иудаизмом и христианством.
-====
-древнейшие памятники индийской религиозной литературы.
-====
-Священная книга ислама.
-====
-Священная книга христианства.
-
-
-+++++
-
-
-Даосизм — это:
-====
-Мировая религия
-====
-учение о Дао
-====
-учение о духовной первооснове мира, в древнекитайской философии, основателем которого считается Лао-Цзы.
-====
-#Правильный ответ b,c.
-
-
-+++++
-
-
-Конфессия — это: 
-====
-#религиозная общность последователей одного из направлений в какой-либо религии.
-====
-Секта.
-====
-Направление буддизма.
-====
-Религиозный экстремизм.
-
-
-+++++
-
-
-Магия — это: 
-====
-Вера в единого бога.
-====
-религия Древнего Ирана.
-====
-Священная книга
-====
-#действия, основанные на вере в сверхъестественные способности человека общаться с духами.
-
-
-+++++
-
-
-Монотеизм — это: 
-====
-#Единобожие.
-====
-Многобожие.
-====
-Культ личности.
-====
-Секта. 
-
-
-+++++
-
-
-Что такое информационное пространство?
-====
-#сфера деятельности, связанная с формированием, созданием, преобразованием, передачей, использованием, хранением информации, оказывающая воздействие, в том числе на индивидуальное и общественное сознание, информационную инфраструктуру и собственно информацию;
-====
-состояние защищенности личности, организации и государства и их интересов от угроз, деструктивных и иных негативных воздействий в информационном пространстве; 
-====
-сфера деятельности в информационном пространстве, образованная совокупностью коммуникационных каналов Интернета и других телекоммуникационных сетей, технологической инфраструктуры, обеспечивающей их функционирование, и любых форм осуществляемой посредством их использования человеческой активности (личности, организации, государства);
-====
-совокупность условий, при которых все составляющие киберпространства защищены от максимально возможного числа угроз и воздействий с нежелательными последствиями
-
-
-+++++
-
-
-Что такое информационная безопасность?
-====
-сфера деятельности, связанная с формированием, созданием, преобразованием, передачей, использованием, хранением информации, оказывающая воздействие, в том числе на индивидуальное и общественное сознание, информационную инфраструктуру и собственно информацию;
-====
-#состояние защищенности личности, организации и государства и их интересов от угроз, деструктивных и иных негативных воздействий в информационном пространстве;
+G.Gesse. 
 ==== 
-сфера деятельности в информационном пространстве, образованная совокупностью коммуникационных каналов Интернета и других телекоммуникационных сетей, технологической инфраструктуры, обеспечивающей их функционирование, и любых форм осуществляемой посредством их использования человеческой активности (личности, организации, государства);
+Gegel. 
+==== 
+L.Feyerbax. 
+==== 
+#O.Kont. 
+++++
+«Hayot falsafasi»ning vakillari:
 ====
-совокупность условий, при которых все составляющие киберпространства защищены от максимально возможного числа угроз и воздействий с нежелательными последствиями
+Anri Avenarius, Bertran Rassel.
+====
+Fr.Bredli, Fr.Bekon, R.Dekart, J.Lokk.
+====
+#F.Nisshe, O.Shpengler, A.Bergson, A.Shopengauer.
+====
+E.Gusserl, M.Xaydegger, J.P.Sartr
+++++
+Germaniyada «hayot falsafasi»ning asoschisi kim
+====
+G.Gesse. 
+==== 
+Gegel.
+==== 
+L.Feyerbax. 
+==== 
+#F.Nisshe.
+++++  
+«Hokimiyatga intilish irodasi» asarining muallifi kim
+====
+G.Gesse. 
+==== 
+Gegel. 
+==== 
+L.Feyerbax. 
+==== 
+#F.Nisshe.
+++++
+Pragmatizm oqimi qachon va qayerda shakllandi
+====
+X1X asr oxiri Rossiyada.
+====
+XX asr o‘rtasi Fransiyada.
+====
+XX asr ikkinchi yarmi Germaniyada.
+====
+#XX asrning boshlari AQShda.
+++++
+Pragmatizm oqimining asoschisi kim
+====
+G.Gesse.
+==== 
+Gegel. 
+==== 
+L.Feyerbax. 
+==== 
+#Ch.S.Pirs.
+++++ 
+«Pragma» so‘zining ma’nosi nima
+====
+#Ish, harakat.
+====
+Foyda, daromad.
+====
+Boylik.
+====
+Omad
+++++
+Pragmatizm falsafasining shiori:
+====
+«Har narsaga shubha bilan qarash!»
+====
+#«Hamma ishni ishonch-e’tiqod bilan boshlash!»
+====
+«Manfaat - har narsadan ustun!»
+====
+«Faqat foyda, daromad keltiradigan ishni bajarish!»  
+++++ 
+Ekzistensializmning namoyandalari kimlar?
+====
+Anri Avenarius, Bertran Rassel.    
+====
+V.Diltey, G.Zimmel.
+====
+F.Nisshe, O.Shpengler, A.Bergson, A.Shopengauer.
+====
+#M.Xaydegger, K.Yaspers, J.P.Sartr, A.Kamyu.
+++++
+Fransiya ekzistensializmi vakillari:
+====
+Anri Avenarius, Bertran Rassel.    
+====
+V.Diltey, G.Zimmel.
+====
+F.Nisshe, O.Shpengler, A.Bergson, A.Shopengauer.
+====
+#J.P.Sartr, Alber Kamyu.
+++++
+Fransuz ekzistensializmi diqqat e’tiborini qaratgan asosiy muammolar:
+====
+#Erkinlik, erkin tanlash huquqi.
+====
+Bilish masalasi.
+====
+Borliq masalasi.
+====
+Axloq masalasi.
+++++
+A.Kamyu «O‘zga», va «Vabo» asarlarida qanday muammoni ko‘targan?
+====
+#Insonni jamiyatdan, insondan va o‘zidan begonalashish muammosini.
+====
+Bilish muammosini.
+====
+Borliq muammosini.
+====
+Axloq muammosini.
+++++
+J.P.Sartr fikricha, inson ichki erkinligi qanday vaziyatda yuzaga chiqadi?
+====
+Iztirobda.
+====
+Hurramlikda.
+====
+Jahl chiqqanda.
+====
+#Hayot va o‘lim o‘rtasida tanlash xolatidagi chegaraviy vaziyatda.
+++++
+Freydizm ta’limoti qanday nomlanadi?
+====
+Germenevtika.
+====
+Irrasional.
+====
+Rasional.
+====
+#Ruhiyat tahlili.
+++++
+Ilohiy komediya asari qaysi faylasuf qalamiga mansub
+====
+Franchesko Petrarka
+====
+#Dante Aligyeri
+====
+Mirandola
+====
+Lorenso Valla
+++++
+Uyg‘nish davri tabiiyshunos falsafasining asoschisi kim bo‘lgan
+====
+#Leonardo da Vinchi
+====
+Petrarka
+====
+Dante
+====
+Sokrat
+++++
+Nikolay Kopernik qayerda tug‘ilgan
+====
+#Polshada
+====
+Rossiyada
+====
+Fransiya
+====
+Germaniya
+++++
+“Utopiya ” asarining muallifi kim
+====
+Shekspir
+====
+#Tomos Mor
+====
+Dante
+====
+Petrarka
+++++
+T Mor o‘zining “Utopiya” asarida qanday jamiyatni tasvirlab beradi
+====
+Afsonaviy
+====
+#Ideal
+====
+Fantastik
+====
+Qadimiy
+++++
+Utopiyaliklar davlatini kim boshqargan
+====
+Parlament
+====
+Duma
+====
+#Ma’rifatli hukmdor
+====
+Tiran
+++++
+Bruno qanday falsafiy an’ana tarafdori bo’lgan
+====
+#Panteistik
+====
+Rasional
+====
+Dualistik
+====
+Irasional
+++++
+Bruno koinotning cheksizligiga qanday munosabatda bulgan
+====
+#Olam cheksiz
+====
+Olam cheklangan
+====
+Olam xudo tomonidan yaratilgan
+====
+Olam xilma-xil
+++++
+Ong qanday bosqichlarga egadir
+====
+#Sezgilar,tassavur, idrok,taffakkur,aqil
+====
+Sezgilar, idrok,taffakkur
+====
+Sezgilar, ta’asurot, aqil
+====
+Sezgilar,aqil,idrok
+++++
+Aflotun dunyo to‘g‘risida qanday fikrda bo‘lgan
+====
+Koinot dunyosidir
+====
+Dunyo g‘oyalar dunyosidir
+====
+Dunyo ruhiy dunyodir
+====
+#Narsalar dunyisi g‘oyalar dunyosining, ya’ni toza, pok, doimiy abadiy go‘zal dunyoning so‘nib-so‘nmas, xira soyasidir
+++++
+Aflotun «ideal davlat» ida qanday tabaqalar mavjud bo‘lgan
+====
+#hokimlar, faylasuflar, harbiylar, dehqon va hunarmandlar
+====
+Aslzodalar, qullar, harbiylar
+====
+Quldorlar, mayda mulk egalari, yollanma harbiylar
+====
+To‘g‘ri javob yo‘q
+++++
+Aflotun kimning shogirdi bo‘lgan?
+====
+#Suqrotning shogirdi bo‘lgan
+====
+Demokritning shogirdi bo‘lgan
+====
+C. Pifagorning shogirdi bo‘lgan
+====
+To‘g‘ri javob yo‘q
+++++
+Zenonning  qaysi aporiyalarini bilasiz?
+====
+“Gerakl va arslon”, “Atirgul yaprog‘i”
+====
+«Dixoto¬miya», «Axill va toshbaqa»,«Yoy»
+====
+“Trigonometriya”, “Prometey va ot”
+====
+Teotet
+++++
+Demokrit fikricha, nima barcha narsa, xo¬di¬salarning sababchisi, asosi?
+====
+#Atom
+====
+Xudo
+====
+Iloh
+====
+Farishta
+++++
+«O‘z-o‘zingni bil!» degan mashhur hikmatli iborasi kimga tegishli? 
+====
+#A. Suqrotga
+====
+Aflotun
+====
+Aristotelga
+====
+I. Kantga
+++++
+«Dixoto¬miya», «Axill va toshbaqa», «Yoy», «Gʻalla dona¬si» nomli aporiyalarining muallifi kim
+====
+#Zenon
+====
+Parmenid
+====
+Pifagor
+====
+Aflotun
+++++
+Geraklit  to‘xtovsiz o‘zgarishlarning asosiy sababini tabiat¬dagi nimada  deb biladi
+====
+#Qarama qarshilik
+====
+Xudoga
+====
+Tabiyatga
+====
+Insonga
+++++
+Olamning asosiga “appeyron”ni qo‘ygan faylasuf kim edi?
+====
+#Anaksimandr
+====
+Fales
+====
+Pifagor
+====
+Aflotun
+++++
+Milet maktabi namoyondalariga kimlar kiradi
+====
+Pifagor, Fales
+====
+#Fales, Anaksimandr, Anaksimen
+====
+Fales. Anaksimen
+====
+Geraklit
+++++
+Dastlabki  diniy-falsafiy fikrlar, meloddan deyarli uch ming yil avval..............  shakllana boshlagan edi.
+====
+Misr va Bobilda
+====
+Yunoniston va Rimda
+====
+#Xitoy va Xindiston
+====
+Rimda
+++++
+Demokrit fikricha, nima barcha narsa, xo¬di¬salarning sababchisi, asosi?
+====
+#Atom
+====
+Xudo
+====
+Iloh
+====
+Din
+++++
+Mirza Bedilning asarlari qaysi qatorda to‘g‘ri berilgan
+====
+Chor unsur”, Kimiyoi saodat”, “Siyosatnoma”
+====
+“Irfon”, Navodirul vaqoye”, “Qutadg‘u bilik”
+====
+#Nuqot”, «Irfon”, «Chor unsur”
+====
+Siyosatnoma”, «Navodirul vaqoye”, «Nuqot”
+++++
+Nisbiy xaqiqat nima
+====
+nisbatan to‘g‘ri deb xisoblangan bilimlar
+====
+ijtimoiy taraqqiyotning xar bir bosqichida doimo takomillashtirilib boriladigan bilimlar
+====
+#ijtimoiy taraqqiyotning xar bir bosqichida doimo yangilanib turuvchi bilimlar
+====
+Barcha javoblar to’g’ri
+++++
+Shaxs deb nimaga aytiladi
+====
+shaxs - bu xar qanday aloxida olingan kishi
+====
+shaxs - bu boshqalarni o‘ziga bo‘ysundira oladigan kishi
+====
+#shaxs - barcha ijtimoiy munosabatlar majmuasi
+====
+shaxs - bu o‘ta qobiliyatli, bilimli va ziyoli odam.
+++++
+Shaxs erkinligi nima
+====
+o‘zining konstitusion xuquqlarini anglash
+====
+kishining ichki dunyosi
+====
+kishi faoliyati uchun cheklanmagan imkoniyat
+====
+#kishilar tomonidan anglab olingan zarurat
+++++
+Davrimizning jaxonshumul (global) muammolari tushunchasi nimani anglatadi
+====
+insoniyatning barcha qatlamlari va xalqlari ishtirokidagina xal etish mumkin bo‘lgan muammolar
+====
+ikki yoki undan ortiq mamlakat yoki xalqlar doirasida vujudga kelgan muammolar
+====
+ko‘lami jixatdan butun yer yuzi axolisining ko‘pchiligiga taalluqli bo‘lgan muammolar
+====
+#barcha javoblar to’g’ri.
+++++
+Jaxonshumul muammolar qanday turkumlashtiriladi?
+====
+milliy, sinfiy, umuminsoniyat miqyosda
+====
+#juz’iy, mintaqaviy, umumbashariy miqyosda
+====
+diniy, madaniy, ilmiy tafakkur doirasida
+====
+rivojlangan, o‘rtacha va kam taraqqiy etgan mamlakatlar doirasida.
+++++
+Mantiq fanining asoschisi kim?
+====
+Konftusiy
+====
+Platon
+====
+Forobiy
+====
+#Aristotel
+++++
+Estetika atamasini kim birinchi marta ilmiy iste’molga olib kirgan?
+====
+Aristotel
+====
+Leonardo Dovinchi
+====
+#A.Baumgarten
+====
+Geraklit
+++++
+“Aqlga muvofiq narsalarning barchasi mavjud, mavjud narsalarning barchasi aqlga muvofiq” g‘oyasining muallifi?
+====
+Shelling
+====
+Kant
+====
+Gegel
+====
+#Dekart
+++++
+“Hindlarning tasavvuricha, ruh butunlay mustaqil holatda mavjuddir va har bir narsaga, jismlarga o‘tish - ko‘chish qobiliyatiga ega”. Mazkur fikrning muallifi?
+====
+#Al-Beruniy
+====
+Ibn Sino
+====
+Mirza Bedil
+====
+Abdurauf Fitrat
+++++
+Ishlab chiqarish muhitining estetik jihatlarini vujudga keltirish, unga “ma’naviy qadriyat” maqomini berish...
+====
+#dizayn (sanoat estetikasi) deyiladi
+====
+estetik faoliyat deyiladi
+====
+estetik qadriyat deyiladi
+====
+injenerlik grafikasi deyiladi
+++++
+Estetikaning asosiy tushunchalari bu ...
+====
+#go‘zallik, ulug‘vorlik, fojeaviylik, kulgulilik
+====
+go‘zallik, ezgulik, mehnatsevarlik
+====
+ulug‘vorlik, go‘zallik, insonparvarlik
+====
+fojeaviylik, adolat, vatanparvarlik
+++++
+Estetik ong .....
+====
+#ma’naviy-ruhiy vofqea hodisalar majmui bo‘lib, ular ijtimoiy hayot zaminida vujudga keladigan estetik his, estetik did, estetik fikr, estetik orzu, estetik qarashlar tizimidir
+====
+moddiy ishlab chiqarish sohalarining, insonning his-tuyg‘ularini aqliy faoliyatini, ijtimoiy qobiliyatini qamrab oladi
+====
+estetik his-tuyg‘ular, kategoriyalar majmuasi
+====
+insonning fikr-mulohazalari, xulq-atvori, hatti-harakatlari majmuasi
+++++
+“Etosfera” tushunchasining mazmuni nima?
+====
+#jamiyat va insoniyatning ongli hayotida barcha axloqiy qonun-qoidalarni o‘zida ifodalovchi sfera-qobiqni anglatadi
+====
+etnografiyaning alohida qismi bo‘lib, millat va elatlarning kelib chiqishi, urf-odatlari, qadriyatlarini o‘rganadi
+====
+falsafiy tushuncha, dialektika kategoriyalaridan biri
+====
+dunyo qobiqlari ichida bunday sfera yo‘q, hech qanday ma’no anglatmaydi
+++++
+Sakrash turlari quyidagilar:
+====
+asta-sekinlik bilan buladigan
+====
+portlash yuli bilan
+====
+#asta-sekinlik va portlash yuli bilan
+====
+asta sekinlik, portlash, dialektik yo‘l bilan
 
 
-+++++
 
 
-Что такое киберпространство?
-====
-сфера деятельности, связанная с формированием, созданием, преобразованием, передачей, использованием, хранением информации, оказывающая воздействие, в том числе на индивидуальное и общественное сознание, информационную инфраструктуру и собственно информацию;
-====
-состояние защищенности личности, организации и государства и их интересов от угроз, деструктивных и иных негативных воздействий в информационном пространстве; 
-====
-#сфера деятельности в информационном пространстве, образованная совокупностью коммуникационных каналов Интернета и других телекоммуникационных сетей, технологической инфраструктуры, обеспечивающей их функционирование, и любых форм осуществляемой посредством их использования человеческой активности (личности, организации, государства);
-====
-совокупность условий, при которых все составляющие киберпространства защищены от максимально возможного числа угроз и воздействий с нежелательными последствиями
 
 
-+++++
 
 
-Что такое кибербезопасность?
-====
-сфера деятельности, связанная с формированием, созданием, преобразованием, передачей, использованием, хранением информации, оказывающая воздействие, в том числе на индивидуальное и общественное сознание, информационную инфраструктуру и собственно информацию;
-====
-состояние защищенности личности, организации и государства и их интересов от угроз, деструктивных и иных негативных воздействий в информационном пространстве; 
-====
-сфера деятельности в информационном пространстве, образованная совокупностью коммуникационных каналов Интернета и других телекоммуникационных сетей, технологической инфраструктуры, обеспечивающей их функционирование, и любых форм осуществляемой посредством их использования человеческой активности (личности, организации, государства);
-====
-#совокупность условий, при которых все составляющие киберпространства защищены от максимально возможного числа угроз и воздействий с нежелательными последствиями
+
+
 
 
 
