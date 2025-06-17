@@ -1,1714 +1,895 @@
-Falsafa so’zining lug’aviy ma’nosini toping
-====
-#Donishmandlikni sevaman
-====
-Fikrlayman
-====
-O’zlikni anglamoq
-====
-Donishmandlik sirlari
-++++
-Falsafada bilish nazariyasini ifoda etuvchi tushuncha
-====
-Ontologiya
-====                        
-Akseologiya
-====
-#Gnoseologiya
-====                 
-Praksiologiya
-++++
-"Men bilmasligimni bilaman" – deb aytgan faylasuf kim
-====
-Demokrit
-====
-Empedokl
-====
-Anakvagor
-====
-#Suqrot
-++++
-Falsafiy tafakkur qanday manfaatlarni ifoda etishi zarur====
-#umuminsoniy
-====                         
-milliy-mintaqaviy
-====
-Sinfiy
-====                                         
-iqtisodiy
-++++
-Muso al-Xorazmiyning jaxon fani taraqqiyotiga qo’shgan xissasi nimalardan iborat
-====
-Fan tarixida birinchi astronomik jadvalning asoschisi
-====
-Xind, Ivrit, Yunon, Lotin tillaridan to’plagan asarlarni tarjima qilgan
-====
-Geotsentrik nazariyaning asoschisi, yerning globusini kashf etgan kashfiyotchi
-====
-#O’nlik sanoq sistemasi, arifmetik ilm amallari, algoritmlar nazariyasi va Algebra fanining asoschisi
-++++
-Tasavvuf ta’limoti va uning Markaziy Osiyodagi tariqatlari
-====
-Xamadoniy, Arslonbob, Xo’ja Axror
-====
-Maxdumi A’zam, Boxarziy, Said Kulol
-====
-#Naqshbandiya, Yassaviya, Kubroviya
-====
-Xojagoniy, Zikri-Xufiya, Mavlaviya
-++++
-XIX asr oxiri XX asr birinchi choragida keng quloch yoygan jadidlar xarakatining tub maqsadi nima bo’lgan
-====
-dinni islox qilish orqali jamiyatni yangilash
-====
-#maorifda yevropacha o’qitish uslubiga o’tish orqali xalqni tez va keng  qatlamlarini  ma’rifatli qilish
-====                                                                                                                                mustamlakachilik va sinfiy zulmdan xalqni ozodlikka olib chiqish uchun kurashganlar
-====            
-xalqning siyosiy ongini oshirish orqali qullikdan ozod bo’lishini maqsad qilib qo’yganlar
-++++
-Falsafaning mustaqil ijtimoiy ong shakli bo’lib shakllanishida xal qiluvchi omil nima
-====
-uning ilmiy ob’ektivligi
-====
-#uning dunyoqarash xarakteri
-====
-uning ijtimoiy-tarixiy xarakteri
-====
-uning madaniy-ma’naviy tizimdagi aloxida o’rni va roli
-++++
-Eng qadimgi ilk dunyoqarash shakli
-====
-siyosiy va xuquqiy
-====               
-axloqiy va badiiy
-====
-diniy va falsafiy
-====             
-#diniy-mifologik
-++++
-Inson bilishining umumiy qonuniyatlarini falsafaning qaysi qismi o’rganadi
-====
-Ontologiya
-====			
-Sotsiologiya
-====
-#Gnoseologiya
-====	
-aksiologiya
-++++
-Borliq tushunchasining falsafiy mazmuni nima
-====
-ma’naviy reallikning yig’indisi
-====
-xudoni bilishning aloxida yo’li
-====
-#ob’ektiv va sub’ektiv reallikning yaxlitligi
-====
-dunyoning ziddiyatli xolati
-++++
-Borliqning «birinchi tabiati» va borliqning «ikkinchi tabiati» ko’rinishining o’zaro farqlari nimada
-====
-birinchi tabiat ko’rinishi ijtimoiy borliq bilan bog’liqdir
-====
-ikkinchi tabiat ko’rinishi ijtimoiy borliq bilan bog’liqdir
-====
-birinchisi ikkinchisining xosilasidir
-====
-#ikkinchisi birinchisining xosilasidir
-++++
-Monistik ta’limotlarning tub mohiyati nimadan iborat
-====
-olamning birligi to’g’risidagi qarashlarning to’g’riligiga ishonchda
-====
-olamning birligini inkor etuvchi qarashlar
-====
-#olamning birligini bir substantsiyadan tarkib topadi degan qarash
-====
-olam ikki yoki ko’p substantsiyalardan tarkib topadi degan qarashlar
-++++
-Eng murakkab harakat shakli
-====
-#ijtimoiy
-====
-Ximiyaviy
-====            
-Biologik
-====          
-mexanik va fizik
-++++
-Kishining o’z-o’ziga bo’lgan munosabatlarida nima belgilovchi rol o’ynaydi
-====
-#o’z-o’zini anglash
-====   
-Iroda
-====
-Xotira
-====                        
-Tasavvur
-++++
-Falsafiy kategoriyalar deb nimaga aytiladi
-====
-fan va falsafadagi xar qanday umumiy tushunchalar
-====
-ob’ektiv va sub’ektiv reallikdagi xodisalarni aniq ifoda etuvchi tushunchalar
-====
-ob’ektning sub’ekt ongidagi in’ikosini aks etdiruvchi tushunchalar
-====
-#mazmunan kengaytirib bo’lmaydigan eng umumiy tushunchalar
-++++
-Ilmiy bilishning tub moxiyatini o’zida mujassamlash-tiruvchi asosiy belgi nima
-====
-Manfaat
-====
-#Tajriba
-====
-E’tiqod
-====
-Mantiq
-++++
-Agnostitsizm nima?
-====
-#dunyoni bilishni inkor etuvchi ta’limot
-====
-insonning kelib chiqishida tabiiy omilning xal qiluvchi axamiyatini inkor etuvchi ta’limot
-====
-insonning kelib chiqishida ijtimoiy omilning xal etuvchi axamiyatini e’tirof etuvchi ta’limot
-====
-borliq haqidagi ta’limot
-++++
-Ratsionalizm ta’limotining tub moxiyati nima
-====
-#bilishda aqlning roli xal qiluvchi axamiyatga ega deb xisoblovchi ta’limot
-====
-bilishda sezgi a’zolarini xal qiluvchi axamiyatini e’tirof etuvchi ta’limot
-====
-dunyoni bilish mumkin deb xisoblaydigan ta’limot
-====
-umuminsoniy manfaatlarning ustuvorligini tan oluvchi ta’limot
-++++
-Sensualizm va uning moxiyati nima
-====
-bilishda aqlning roli xal qiluvchi axamiyatga ega deb xisoblovchi ta’limot
-====
-#bilishda sezgi a’zolarining xal qiluvchi axamiyatini e’tirof  etuvchi ta’limot
-====
-dunyoni bilish mumkinligini inkor etuvchi ta’limot
-====
-milliy va umuminsoniy manfaatlarning mushtarakligi xamda ularning ustuvorligini tan oluvchi ta’limot
-++++
-Jamiyatning tabiatdan farq qilishiga sabab bo’luvchi eng asosiy omil nimada
-====
-ijtimoiy taraqqiyotning o’ta noyobligida
-====
-#ijtimoiy qonunlar asosida rivojlanishida
-====
-tabiiy qonunlardan mustaqil bo’lganligida
-====
-tabiatdan tashqari kuchlarning irodasi bilan rivojlanishida
-++++
-Aksiologiya nima
-====
-inson bilishining umumiy qonuniyatlarini o’rganuvchi falsafaning bir bo’lagi
-====
-ijtimoiy taraqqiyot qonuniyatlarini o’rganuvchi falsafaning bir qismi
-====
-#falsafaning qadriyatlar soxasini o’rganuvchi soxasi
-====
-falsafaning sinflar va siyosiy partiyalarning o’zaro aloqadorligini o’rganuvchi soxasi
-++++
-«Ijtimoiy borliq» tushunchasi nimani anglatadi
-====
-ishlab chiqarish munosabatlari yig’indisi
-====
-kishilar o’rtasida shakllangan o’zaro aloqadorliklar tizimi
-====
-ijtimoiy sinflar va tabaqalar yig’indisi
-====
-#ijtimoiy taraqqiyotning muayyan bosqichidagi kishilar o’rtasidagi barcha          ijtimoiy munosabatlar majmuasi
-++++
-Huquq nima
-====
-jamiyatda shaxs erkinligini ta’minlovchi tadbirlar
-====
-kishilarning jamiyatda o’z o’rinlarini aniq belgilab olish uchun belgilab qo’yilgan hatti-harakatlar normasi
-====
-#kishilar o’rtasidagi munosabatlarni tartibga solish uchun siyosiy hokimiyat tomonidan belgilangan zaruriy hatti-harakatlar dasturi
-====
-hukmron siyosiy kuchlarning qonun darajasiga ko’tarilgan irodasi
-++++
-Huquqiy davlat nima
-====
-muayyan ijtimoiy sinflar yoki tabaqalar irodasining qonun darajasiga ko’tarilishi
-====
-#qonun ustuvorligi ta’minlangan jamiyat
-====
-shaxs erkinligini qonunlar bilan chegaralab qo’yadigan jamiyat
-====
-xalq irodasini inkor etuvchi jamiyat
-++++
-Jamiyat taraqqiyotining qaysi bosqichida kishilarda ahloq normalari shakllangan
-====
-#kishilik jamiyatining ilk bosqichlarida
-====
-eng qadimgi va qadimgi davrlarda
-====
-dunyoviy dinlar vujudga kelgandan keyin
-====
-ibtidoiy davrning o’rta va so’nggi davrlarida
-++++
-XVII-XVIII asr fransuz mutafakkirlari ijtimoiy taraqqiyot mezoni deb nimani tushunganlar
-====
-diniy tasavvurlar
-====
-#ilm - ma’rifat
-====
-falsafiy dunyoqarash
-====
-jangovor «xur fikrlilik»
-++++
-Qadimgi Yunon falsafasida atomlar nazariyasining asoschisi kim
-====
-Levkipp
-====
-Lukretsiy
-====
-Epikur
-====
-#Demokrit
-++++
-Xorazm Ma’mun akademiyasining eng buyuk tabiatshunos olimi kim edi
-====
-Abu Abdulloh Xorazmiy
-====
-Ahmad ibn Abdullo Marvaziy
-====
-#Abu Rayhon Beruniy
-====
-Abbos Javhariy
-++++
-Beruninyning fan tarixiga doir qanday asari bor
-====
-“Saydana” 
-====
-“Geodeziya” 
-====
-“Mineralogiya” 
-====
-#“Qadimgi halqlardan qolgan yodgorliklar
-++++
-Ibn Sino o’zining qaysi asari bilan shuhrat qozongan
-====
-“Donishnoma”
-====
-“Mantiq” 
-====
-“Qonunlar” 
-====
-#“Al qonun fi tibb” –Tabobat qonuni
-++++
-Lotinlashtirilgan nomi”Alfrganus” bo’lgan Markaziy Osiyolik faylasuf kim edi
-====
-Al Xorazmiy
-====
-#Al Farg’oniy
-====
-Ibn Sino
-====
-Abu Nasr Farobiy
-++++
-Qaysi alloma―Sharq Arastusi ―Muallim us-soniy, degan yuksak nomga sazovor bo’lgan
-====
-#Abu Nasr Forobiy
-====
-Abu Rayhon Beruniy
-====
-Ibn Sino
-====
-Ali Qushchi
-++++ 
-Mirzo Ulug’bekning astronomiya haqidagi asosiy asari qaysi bandda ko’rsatilgan
-====
-#Ziji Ko’ragoniy
-====
-Astronomik jadvallar
-====
-Samo haqida risola
-====
-Samoviy sferalarning aylanishi
-++++
-Teologiya bu nima
-====
-#Xudo haqidagi ta’limot
-====
-Xudolarning kelib chikishi
-====
-Odamlar haqidagi ta’limot
-====
-Jon haqidagi ta’limot
-++++
-Panteizm bu…
-====
-#Xudoning barcha narsalarda mavjudligi
-====
-Materiyaning ongga nisbatan birligi haqida
-====
-Akl- bilishning asosiy kuroli haqidagi qarashlar
-====
-Inson haqidagi ta’limot
-++++
-Gumanistlar ta’kidicha.... 
-====
-#Inson eng oliy mo’jiza
-====
-Tushunish uchun e’tiqod qil
-====
-Xudo mavjudligi besh yo’l orqali isbotlanishi mumkin
-====
-Dunyoni bilish mumkin
-++++
-Uyg’nish davri tabiiyshunos falsafasining asoschisi kim bo’lgan
-====
-#Leonardo da Vinchi
-====
-Petrarka
-====
-Dante
-====
-Sokrat
-++++
-Dunyoning geliotsentrik sistemasining asoschisi kim bo’lgan
-====
-Ptolemey
-====
-Foma Akvinskiy
-====
-#Nikolay Kopernik
-====
-Aristotel
-++++
-“Utopiya ” asarining muallifi kim
-====
-SHekspir
-====
-#Tomos Mor
-====
-Dante
-====
-Petrarka
-++++
-T Mor o’zining “Utopiya” asarida qanday jamiyatni tasvirlab beradi
-====
-Afsonaviy
-====
-#Ideal
-====
-Fantastik
-====
-qadimiy
-++++
-Jordano Bruno kaysi davlatda tugilgan
-====
-#Italiyada
-====
-Germaniyada
-====
-Frantsiyada
-====
-Angliyada
-++++
-Kompanellaning kanday asari asosiydir
-====
-#Quyosh shaxri 
-====
-Organon 
-====
-Yangi Organon 
-====
-Kritiy
-++++
-Aflotun kimning shogirdi bo’lgan
-====
-#Suqrotning shogirdi bo’lgan
-====
-Demokritning shogirdi bo’lgan
-====
-Pifagorning shogirdi bo’lgan
-====
-Diogenning shogirdi bo’lgan
-++++
-«O’z-o’zingni bil!» degan mashhur hikmatli iborasi kimga tegishli?
-====  
-#Suqrotga
-====
-Aflotun
-====
-Aristotelga
-====
-I. Kantga
-++++
-Geraklit  to’xtovsiz o’zgarishlarning asosiy sababini tabiat¬dagi nimada  deb biladi?
-====
-#Qarama qarshilik
-====
-Xudoga
-====
-Tabiyatga
-====
-Insonga
-++++
-Olamning asosiga “appeyron”ni qo’ygan faylasuf kim edi?
-====
-#Anaksimandr
-====
-Fales
-====
-Pifagor
-====
-Aflotun
-++++
-Milet maktabi namoyondalariga kimlar kiradi?
-====
-Pifagor, Fales
-====
-#Fales, Anaksimandr, Anaksimen
-====
-Fales. Anaksimen
-====
-Geraklit
-++++
-SHaxs deb nimaga aytiladi?
-====
-shaxs - bu xar qanday aloxida olingan kishi
-====
-shaxs - bu boshqalarni o’ziga bo’ysundira oladigan kishi
-====
-#shaxs - barcha ijtimoiy munosabatlar majmuasi
-====
-shaxs - bu o’ta qobiliyatli, bilimli va ziyoli odam
-++++
-SHaxs erkinligi nima?
-====
-o’zining konstitutsion xuquqlarini anglash;
-====
-kishining ichki dunyosi;
-====
-kishi faoliyati uchun cheklanmagan imkoniyat;
-====
-#kishilar tomonidan anglab olingan zarurat.
-++++
-Global muammolar qanday turkumlashtiriladi?
-====
-milliy, sinfiy, umuminsoniyat miqyosda;
-====
-#mahalliy, mintaqaviy, umumbashariy miqyosda;
-====
-diniy, madaniy, ilmiy tafakkur doirasida;
-====
-rivojlangan, o’rtacha va kam taraqqiy etgan mamlakatlar doirasida.
-++++
-Ongning kelib chiqishida tabiiy va ijtimoiy omillari ...
-====
-Ong - kishi miyasining maxsuli ekanligi
-====
-Ong - ijtimoiy muxit maxsuli ekanligi
-====
-#Ong - xam biologik, xam ijtimoiy taraqqiyot maxsuli ekanligi
-====
-Ong - bu kishi tarbiyasining maxsuli ekanligi
-++++
-Fatalizm – bu………..
-====
-tabiat ruxning moddiy ko‘rinishi deb targ‘ib etuvchi ta’limot
-====
-#dunyo, kishilarning kelajak taqdiri oldindan belgilab qo‘yiladi deb tushinadigan ta’limot
-====
-narsa va xodisalar o‘rtasida sababiy bog‘lanishlar-nigina tan oluvchi oqim
-====
-zulmga qarshi, erkni kuylovchi inqilobiy qarashlarni o‘zida mujassam etuvchi mafkura
-++++
-Falsafiy kategoriyalar deb nimaga aytiladi?
-====
-fan va falsafadagi xar qanday umumiy tushunchalar
-====
-ob’yektiv va sub’yektiv reallikdagi xodisalarni aniq ifoda etuvchi tushunchalar
-====
-ob’yektning sub’yekt ongidagi in’ikosini aks etdiruvchi tushunchalar
-====
-#mazmunan kengaytirib bo‘lmaydigan eng umumiy tushunchalar
-++++
-Faqat sababiy bog‘lanishlar orqali dunyoning falsafiy manzarasini yoritib beruvchi oqim nima deb nomlanadi?
-====
-Fatalism
-====
-Nigilizm
-====     
-Anarxizm
-====                 
-#Determinizm
-++++
-Faqat zaruratlikni e’tirof etib, tasodiflikni inkor etuvchi falsafiy ta’limot.
-====
-#fatalizm
-====  
-agnostisizm      
-====    
-anarxizm     
-====  
-determinizm
-++++
-Mazmun deb nimaga aytiladi
-====
-predmet yoki xodisalarning aynan shy predmet yoki xodisa bo‘lishi uchun zapyp bo‘lgan belgilar yig‘indisiga
-====
-predmet yoki xodisani tashkil etuvchi barcha belgilar yig‘indisiga
-====
-#shaklni ifoda etuvchi ichki zaruriy bog‘lanishlarga
-====
-predmetlarni tashqi xodisalar bilan munosabatiga
-++++ 
-Moxiyat deb nimaga aytiladi
-====
-xodisalar orqali yuzaga chiquvchi ichki zaruriy aloqadorliklarga
-====
-predmet yoki xodisani tashkil etuvchi barcha belgilar yig‘indisiga
-====
-predmet yoki xodisalarning aynan shu predmet yoki xodisa bo‘lishi uchun zarur bo‘lgan eng muxim belgilar yig‘indisiga
-====
-#xodisalar orqali ifoda etiluvchi mazmunga
-++++
-Me’yor kategoriyasining falsafiy mazmuni
-====
-qarama-qarshi sifatlarni muayyan maqsad yo‘nalishida muvozanatlashtirish
-====
-#muayyan sifatlar doirasidagi miqdoriy o‘zgarishlar chegarasi
-====
-muayyan miqdor doirasidagi sifatiy o‘zgarishlar chegarasi
-====
-ichki va tashqi ziddiyatlar chegarasi
-++++
-Bilishning «ob’yekti» deganda ...
-====
-sub’yekt ongidan tashqaridagi mavjud bo‘lgan predmet va xodisalar yig‘indisi tushuniladi
-====
-#ob’yektiv va sub’yektiv reallikning sub’yektning bilish faoliyati doirasiga kiruvchi predmet va xodisalar majmuasi tushuniladi
-====
-biluvchi sub’yektga qarama-qarshi turgan barcha predmet va xodisalar yig‘indisi tushuniladi
-====
-ob’yektlar o’rtasida turli xodisalar yig’indisi
-++++
-Agar bilish ob’yekti tabiiy xodisalar bo‘lganda, biluvchi «sub’yekt»...
-====
-#umuminsoniyat manfaatlarini ifoda etadi
-====
-milliy-mintaqaviy manfaatlarni ifoda etadi
-====
-sinfiy yoki davlat manfaatlarini ifoda etadi
-====
-diniy va irqiy manfaatlarni ifoda etadi
-++++
-Agar sub’yekt faoliyati ijtimoiy xodisalarni bilishga qaratilsa unda tadqiqotchi sub’yekt kimlarning manfaatlarini ifoda etadi
-====
-#umuminsoniyat manfaatlarini
-====
-milliy-mintaqaviy manfaatlarni
-====
-sinfiy, davlat va boshqa siyosiy kuchlar manfaatlarini
-====
-diniy, irqiy yoki boshqa ijtimoiy kuchlar manfaatlarini
-++++
-Ilmiy bilishning tub moxiyatini o‘zida mujassamlash-tiruvchi asosiy belgi nima
-====
-manfaat   
-====     
-#tajriba   
-====  
-e’tiqod     
-====
-mantiq
-++++
-Ilmiy bilimlar oddiy bilimlardan nima bilan farq qiladi
-====
-muayyan manfaatlarni ifoda etishi bilan
-====
-muayyan mantiqqa asoslanishlari bilan
-====
-#bilimlarning muayyan mantiq va tajribalar asosida to‘plangan bilimlarning sistemalashtirilishi bilan
-====
-olamning izchil ilmiy manzarasini chizib berishlari bilan
-++++
-Agnostisizm nima
-====
-#dunyoni bilishni inkor etuvchi ta’limot
-====
-insonning kelib chiqishida tabiiy omilning xal qiluvchi axamiyatini inkor etuvchi ta’limot
-====
-insonning kelib chiqishida ijtimoiy omilning xal etuvchi axamiyatini e’tirof etuvchi ta’limot
-====
-qadriyatlar haqidagi ta’limot
-++++
-Rasionalizm ta’limotining tub moxiyati nima
-====
-#bilishda aqlning roli xal qiluvchi axamiyatga ega deb xisoblovchi ta’limot
-====
-bilishda sezgi a’zolarini xal qiluvchi axamiyatini e’tirof etuvchi ta’limot
-====
-dunyoni bilish mumkin deb xisoblaydigan ta’limot
-====
-umuminsoniy manfaatlarning ustuvorligini tan oluvchi ta’limot
-++++
-Sensualizm va uning moxiyati nima
-====
-bilishda aqlning roli xal qiluvchi axamiyatga ega deb xisoblovchi ta’limot
-====
-#bilishda sezgi a’zolarining xal qiluvchi axamiyatini e’tirof  etuvchi ta’limot
-====
-dunyoni bilish mumkinligini inkor etuvchi ta’limot
-====
-milliy va umuminsoniy manfaatlarning mushtarakligi xamda ularning ustuvorligini tan oluvchi ta’limot
-++++
-Absolyut xaqiqat nima
-====
-predmet va xodisalarning ob’yektiv mazmunga ega ekanligi
-====
-#narsa va xodisalar bilan ularning aks etdiruvchi tushunchalarning aynanligi
-====
-biluvchi sub’yekt manfaatlariga to‘la mos keluvchi bilimlar
-====
-predmet   va   xodisalar   to‘g‘risidagi   fan-texnika taraqqiyotining keyingi bosqichlarida inkor etish mumkin bo‘lmagan bilimlar
-++++
-Nisbiy xaqiqat nima
-====
-#nisbatan to‘g‘ri deb xisoblangan bilimlar
-====
-ijtimoiy taraqqiyotning xar bir bosqichida doimo takomillashtirilib boriladigan bilimlar
-====
-ijtimoiy taraqqiyotning xar bir bosqichida doimo yangilanib turuvchi bilimlar
-====
-kundalik bilimlar
-++++
-Ijtimoiy taraqqiyot va uning mezoni to‘g‘risida K.Marks ta’limotining asosiy kamchiligi nimadan iborat
-====
-#sinflar o‘rtasidagi ziddiyatni kelishtirib bo‘lmaydigan antogonistik xarakterga ega deb qarashlarida
-====
-ishlab chiqaruvchi kuchlarning xarakatlantiruvchi manbasi mexnat kurollarining ishlab chiqarish jarayonida stixiyali takomillashishida deb tushunganligida
-====
-mexnat qurollarini takomillashtirishda xal qiluvchi kuch fan ekanligini e’tirof etmaganligida
-====
-inson hayotida kundalik bilimlarning ahamiyatini e’tirof etganida
-++++
-Ijtimoiy voqelikni bilishning aloxida xususiyati nimada
-====
-tadqiqotchi sub’yekt - umuminsoniy manfaatlarni ifoda qiluvchi bo‘lib qatnashishida
-====
-sub’yekt - umuminsoniyat nomidan qatnasha olmasligida
-====
-#ijtimoiy xodisalarni o‘rganishda milliy, sinfiy, mintaqaviy, diniy manfaatlarning ustuvorligida
-====
-barcha javoblar to’g’ri
-++++
-Ijtimoiy falsafa nimani o‘rganadi
-====
-jamiyat taraqqiyotining xarakatlantiruvchi kuchlari va qonuniyatlarini
-====
-sosial   tuzumning   funksiyasi   va   rivojlanish qonuniyatlarini
-====
-jamiyatdagi muxim ijtimoiy xodisalarning o‘zaro aloqalarini
-====
-#barcha javoblar to’g’ri
-++++
-Ijtimoiy munosabatlar tushunchasining mazmuni nima
-====
-ommaning kayfiyatlari, maqsadlarini aks ettiruvchi tushuncha
-====
-barcha ma’naviy munosabatlarning majmuasi
-====
-#kishilarning moddiy va ma’naviy faoliyatlarini o‘zida aks etdiruvchi munosabatlar
-====
-moddiy va ma’naviy munosabatlarni aks etdiruvchi murakkab jarayon
-++++
-Jamiyatning tabiatdan farq qilishiga sabab bo‘luvchi eng asosiy omil nimada
-====
-ijtimoiy taraqqiyotning o‘ta noyobligida
-====
-#ijtimoiy qonunlar asosida rivojlanishida
-====
-tabiiy qonunlardan mustaqil bo‘lganligida
-====
-tabiatdan tashqari kuchlarning irodasi bilan rivojlanishida
-++++
-Jamiyatning ijtimoiy strukturasini aniqlang
-====
-#sosial sinflar, ijtimoiy guruxlar
-====
-siyosiy partiyalar, ijtimoiy tashkilotlar
-====
-kishilarning tarixiy birliklari: urug‘, qabila, elat, millat
-====
-davlat va siyosiy xamda iqtisodiy sistemalar
-++++
-Aksiologiya nima
-====
-inson bilishining umumiy qonuniyatlarini o‘rganuvchi falsafaning bir bo‘lagi
-====
-ijtimoiy taraqqiyot qonuniyatlarini o‘rganuvchi falsafaning bir qismi
-====
-#falsafaning qadriyatlar soxasini o‘rganuvchi soxasi
-====
-falsafaning sinflar va siyosiy partiyalarning o‘zaro aloqadorligini o‘rganuvchi soxasi
-++++
-«Ijtimoiy borliq» tushunchasi nimani anglatadi
-====
-ishlab chiqarish munosabatlari yig‘indisi
-====
-kishilar o‘rtasida shakllangan o‘zaro aloqadorliklar tizimi
-====
-ijtimoiy sinflar va tabaqalar yig‘indisi
-====
-#ijtimoiy taraqqiyotning muayyan bosqichidagi kishilar o‘rtasidagi barcha             ijtimoiy munosabatlar majmuasi
-++++
-Davlat nima
-====
-ijtimoiy tizimning asosiy elementi
-====
-ijtimoiy muxitga o‘ta faol ta’sir o‘tkazuvchi siyosiy tashkilot
-====
-qonun chiqaruvchi xokimiyat tomonidan qabul qilingan farmon va qarorlarni xayotga joriy qiluvchi tizim
-====
-#xukumat darajasidagi jamiyatni boshqaruvchi organ
-++++
-Siyosiy ong nima
-====
-millatlar, ijtimoiy sinflar va tabaqalar, jamiyat va shaxs o‘rtasidagi munosabatlarning kishilar ongida aks etishi
-====
-#muayyan jamiyat a’zolarining ongida kishilar o‘rtasidagi siyosiy          munosabatlarning aks etishi
-====
-ijtimoiy muxitning kundalik ong darajasidagi aks etdirilishi
-====
-ijtimoiy munosabatlarni kishilar ongida aks etishi
-++++
-Siyosiy ongning quyi bosqichi nima
-====
-o‘qimishli bo‘lmagan odamning ongida ijtimoiy munosabatlarning aks etilish darajasi
-====
-#ijtimoiy munosabatlarning kishilarning kundalik ongi darajasida aks ettirilishi
-====
-ijtimoiy munosabatlarning kishilar ongida xissiy bilish darajasida aks etilishi
-====
-ziyoli odamlarning ilmiy bilish darajasi
-++++
-Xuquqiy munosabatlar nima
-====
-jamiyat a’zolariga xukmron siyosiy kuchlar manfaatlari va   irodasiga   zid   bo‘lmagan,    ruxsat    etilgan    xatti-xarakatlar majmuasi, faoliyat doirasi
-====
-xukmron siyosiy kuchlar tomonidan ruxsat etilgan xatti-xarakatlar majmuasi;
-====
-#jamiyatning erkin fuqarosi bo‘lishi va xayot kechirishi uchun zarur bo‘lgan xokimiyat tomonidan ruxsat etilgan daxlsiz xatti-xarakatlar doirasi
-====
-jamiyat orasidagi ijtimoiy munosabatlar xilma xilligi
-++++
-Jamiyat taraqqiyotining qaysi bosqichida kishilarda axloq normalari shakllangan
-====
-#kishilik jamiyatining ilk bosqichlarida
-====
-eng qadimgi va qadimgi davrlarda
-====
-dunyoviy dinlar vujudga kelgandan keyin
-====
-ibtidoiy davrning o‘rta va so‘nggi davrlarida
-++++
-«Falsafiy ong» ijtimoiy ongning aloxida shakli sifatida nimalarni o‘zida aks ettiradi
-====
-kishilar ongida ijtimoiy munosabatlarning in’ikos etilish shakllarini
-====
-mavjud siyosiy munosabatlarning kishilarning kundalik ong darajasida aks etilishini
-====
-#insonning tashqi olam predmet va xodisalarga bo‘lgan munosabatlarning kishilar ongida yaxlit xolda aks ettirilishini
-====
-ijtimoiy munosabatlar yig’indisi
-++++
-Kishilarning ma’lum xudud va davrdagi moddiy xamda ma’naviy madaniyatini to‘laroq aks etdiruvchi falsafiy tushunchani toping
-====
-tarixiy davr
-====
-kishilarning tarixiy birliklari
-====
-#sivilizatsiya
-====
-etnik birlik
-++++
-Ijtimoiy taraqqiyot va uning mezoni deganda Zardusht ta’limotida nima asos qilib olingan
-====
-diniy ibodatga amal qilish darajasi
-====
-#ezgulik va qaboxat kuchlari o‘rtasidagi ziddiyat
-====
-dunyoni anglash darajasi
-====
-axloq normalariga amal qilish darajasi
-++++
-Qadimgi yunon mutafakkirlari ijtimoiy xayot yo‘nalishini qanday tushungan
-====
-yuqoridan pastga tobora tubanlashish jarayoni sifatida
-====
-bir tekis gorizontal chiziq bo‘yicha xarakat qiluvchi ijtimoiy xodisa sifatida
-====
-#pastdan yuqoriga, oddiydan-murakkablik tomon doimo takomillashishda
-====
-xar qanday xarakat inkor etiladi
-++++
-XVII-XVIII acp fransuz mutafakkirlari ijtimoiy taraqqiyot mezoni deb nimani tushunganlar
-====
-diniy tasavvurlar
-====
-#ilm - ma’rifat
-====
-falsafiy dunyoqarash
-====
-jangovor «xur fikrlilik»
-++++
-Buyuk nemis klassik faylasufi Gegel ijtimoiy taraqqiyotni xarakatlantiruvchi kuch deb nima tushungan
-====
-#ilg‘or falsafiy ta’limot
-====
-gumanizm ruxidagi diniy e’tiqod
-====
-fuqarolarning ma’rifatlilik darajasi
-====
-tabiiy fanlar, birinchi navbatda matematika
-++++
-Buyuk nemis klassik faylasufi L.Feyerbax ta’limoti bo‘yicha ijtimoiy taraqqiyot mezoni deb nima tushunilgan
-====
-falsafiy ong
-====    
-#diniy ong
-====
-ilmiy ong     
-====     
-siyosiy ong
-++++
-«Davlat - xamma narsa, shaxs - xech narsa» tamoyiliga asoslanuvchi ta’limot.
-====
-#Nigilizm
-====
-Volyuntarizm
-====
-Pragmatism
-====
-Pozitivizm
-++++
-Davrimizning jaxonshumul (global) muammolari tushunchasi nimani anglatadi
-====
-insoniyatning barcha qatlamlari va xalqlari ishtirokidagina xal etish mumkin bo‘lgan muammolar
-====
-ikki yoki undan ortiq mamlakat yoki xalqlar doirasida vujudga kelgan muammolar
-====
-ko‘lami jixatdan butun yer yuzi axolisining ko‘pchiligiga taalluqli bo‘lgan muammolar
-====
-#barcha javoblar to’g’ri
-++++
-«Yangicha siyosiy tafakkur» deganda...
-====
-barcha siyosiy va ijtimoiy xodisalarga sinfiy nuqtai nazardan yondashish
-====
-ijtimoiy munosabatlarga milliy manfaat nuqtai nazaridan yondashish
-====
-ijtimoiy xodisalarga yondashilganda umuminsoniy manfaatlar ustuvorligining e’tirof etilishi
-====
-#ijtimoiy xodisalarga yondashilganda milliy va umuminsoniy manfaatlar ustuvorligining e’tirof etilishi
-++++
-Insonning tabiatga qaramligining tobora usib borish tendensiyasining sabablari nimada
-====
-tabiiy xom-ashyo zaxiralarining kamayib borishida
-====
-insoniyat ekologik xavfning kulamini tobora chukur xis kila boshlaganligida
-====
-axoli mikdorining kupayishi xavfli tus olayotganligida
-====
-#barcha javoblar to’g’ri
-++++
-Insonning faoliyat olib borish doirasini qanday ilmiy-falsafiy tushuncha orqali ifoda etiladi
-====
-#Noosfera
-====   
-Gidrosfera 
-====     
-Biosfera
-====  
-Atmosfera
-++++             
-«Yangicha falsafiy tafakkur» tushunchasining moxiyatini ochib beruvchi eng muxim belgi nima
-====
-#kishining tabiiy va ijtimoiy xodisalarga bo‘lgan munosabatlarida umuminsoniy manfaatlar ustuvorligining e’tirof etilishi
-====
-ITT yangi ma’lumotlari asosida dunyoning yaxlit manzarasini chizib berish
-====
-falsafiy qonun va kategoriyalarni butunlay inkor etib yangi falsafiy g‘oyalar bilan qurollanish
-====
-milliy istiqlol mafkuralariga mos keluvchi, mamlakatimiz taraqqiyotiga xizmat qiluvchi qarashlar, g‘oyalar va ta’limotlar bilan qurollanish
-++++
-Tafakkur shakllari nimalardan iborat
-====
-#tushuncha, xukm, xulosa chiqarishdan
-==== 
-kategoriyalardan 
-====
-so‘zdan
-====    
-tildan
-++++
-Markaziy Osiyolik olimlardsan kimlar “Baytul hikmat” da faoliyat ko‘rsatganlar
-====
-#Ahmad Farg‘oniy, Muhammad Muso Horazmiy, Ahmad ibn Abdullo Marvaziy, Abbos Javhariy
-====
-Abu Nasr Forobiy,  Muhammad Muso Horazmiy, Beruniy, Ahmad Farg‘oniy
-====
-Abbos Javhariy,  AbdullohHorazmiy,  Beruniy,  Zamahshariy,  Abu Nasr Forobiy
-====
-Baytul hikmat da Markaziy Osiyolik olimlar faoliyat ko‘rsatmaganlar
-++++
-Xorazm Ma’mun akademiyasining eng biuyuk tabiashunos olimi kim edi
-====
-Abu Abdulloh Xorazmiy
-====
-Ahmad ibn Abdullo Marvaziy
-====
-#Abu Rayhon Beruniy
-====
-Abbos Javhariy
-++++
-Beruninyning tabiashunoslikka bag‘ishlangan qanday asarlarini bilasiz
-====
-“Hindiston” , “Qadimgi halqlardan qolgan yodgorliklar”, “Geodeziya”
-====
-#“Mineralogiya”, “ Geodeziya”, “ Qonuni Ma’sudiy”, “Saydana
-====
-“Miniralogiya”, “Qadimgi halqlardan qolgan yodgorliklar”, “Saydana”
-====
-Tabiashunoslikka doir hech qanday asari yo‘q
-++++
-Umar Xayyom qaysi asari bilan olamga mashxur bo‘ldi
-====
-Hikoyalari bilan
-====
-#Ruboiyati, yani sheriy asarlari bilan
-====
-“Tarixi hukamo” asari bilan
-====
-astranomiyaga oid asarlari bilan
-++++
-Arastu asarlarining sharxlovchisi bo‘lgan birinchi arab faylasufi kim
-====
-Ibn Tufayl
-====
-AlMotrudiy
-====
-Ibn Rushd
-====
-#Al Kindiy
-++++
-Quydagi qaysi asarlarda insonning ijtimoiy mohiyati, jamiyat hayotidagi o‘rni, ijtimoiy vazifasi kabi masalalar yoritilgan
-====
-Devonu lug‘at at- turk
-====
-#Qutadigu bilig
-==== 
-Mafotax ul — ulum
-====
-Hindiston
-++++
-Markaziy Osiyo xalqlarining urf- odatlari, ijtimoiy — iqtisodiy hayotining xususiyatlari xaqidagi muhim manba bo‘lgan asar qaysi
-====
-Geodeziya
-====
-Mafotax ul — ulum
-====
-Qutadigu bilig
-====
-#Devonu lug‘at at turk
-++++
-Lotinlashtirilgan nomi”Alfrganus” bo‘lgan Markaziy Osiyolik faylasuf kim edi
-====
-Al Xorazmiy
-====
-#Al Farg‘oniy
-====
-Ibn Sino
-====
-Ar Roziy
-++++
-Qaysi alloma―Sharq Arastusi ―Muallim us-soniy, degan yuksak nomga sazovor bo‘lgan
-====
-#Abu Nasr Forobiy
-====
-Abu Rayhon Beruniy
-====
-Ibn Sino
-====
-Ali Qushchi
-++++
-«To‘rt ulus tarixi» asarining muallifi kim
-====
-#Mirzo Ulug‘bek
-====
-Xondamir
-====
-Fitrat
-====
-Ahmad Donish
-++++
-«Nimaga ishonsam ushani bilaman» ta’kidi kimga tegishli
-====
-#P’yer Abelyar
-====
-Foma Akvinskiy
-====
-Ioann Skot Eriugen
-====
-Anselmga
-++++
-Sxolastika qanday maqsad asosida vujudga keldi
-====
-#e’tikodlar belgisini qayta ishlab chikish
-====
-“cherkov otalari “ishlarini tugirlash
-====
-nasroniy dogmatikasini tartibga solish va uni ommaviylashtirish
-====
-ruhoniylarni kundalik yumushlarini tartibga solish
-++++
-Xudoning  mavjudligi haqidagi  beshta isbotlarni kim ishlab chikkan
-==== 
-#Foma Akvinskiy
-====
-P’yer Abelyar
-====
-Tertullian
-====
-Origen
-++++
-Panteizm bu…
-====
-#Xudoning barcha narsalarda mavjudligi
-====
-Materiyaning ongga nisbatan birligi haqida
-====
-Akl- bilishning asosiy quroli haqidagi qarashlar
-====
-Ong barcha narsalarning asosi
-++++
-Inson jamiyatining gumanistik idealini kim sharxlagan
-====
-#T.Mor
-====
-M.de Monten
-====
-Toland
-====
-Pristli
-++++
-“Pozitiv falsafa asoslari” kursining matnini kim yaratgan
-====
-#O. Kont
-====
-Shelling
-====
-Mill
-====
-Spenser
-++++
-Qaysi bir fransuz mutafakkiri «Ensiklopediya»ning asoschisi bo‘lgan
-====
-#Didro
-====
-Golbax
-====
-Lametri
-====
-Gelvesiy
-++++
-XIX -XX asr Gʻarbiy Yevropa falsafasining asosiy oqimlari:
-====
-#Pozitivizm, «hayot falsafasi», tomizm,  neokantchilik,  neogegelchilik, pragmatizm, ekzistensializm, falsafiy antropologiya, germenevtika, neopozitivizm, modernizm, postmodernizm, strukturalizm, lingvistik pozitivizm, empiriokritisizm, ruhiy tahlil, neorealizm.
-====
-Marksizm-leninizm, materializm, idealizm, agnostisizm.
-====
-Empiriokritisizm, postmodernizm, pragmatizm.
-====
-Hamma javob to‘g‘ri.
-++++
-XX asr ikkinchi yarmida rivojlangan oqimlar:
-====
-Ekzistensializm, neomarksizm, freydizm, strukturalizm.
-====
-#Neotomizm, ekzistensializm, germenevtika, strukturalizm,
-modernizm, poststrukturalizm, lingvistik tahlil, futurizm, falsafiy antropologiya, postmodernizm, pragmatizm, neofreydizm.
-====
-Diniy antropologiya, realizm, nominalizm, gumanizm.
-====
-Marksizm, neomarksizm, freydizm.
-++++
-Eng yangi davr Gʻarb falsafasining diqqat e’tiborini jalb qilgan asosiy muammolar:
-====
-#Inson ruhiyati, borlig‘i, irodasi, hayot mazmuni, aniq fanlarga yangicha munosabat, madaniyat.
-====
-Dunyoning abadiyligi, hayotning asosi, bilish manbai.
-====
-Ontologiya, gnoseologiya, aksiologiya, praksiologiya.
-====
-Hayot-o‘lim masalasi.
-++++
-Neokantchilik oqimining namoyandalari kimlar
-====
-E.Gusserl, M.Xaydegger, J.P.Sartr.
-====
-K.Marks, F.Engels, V.I.Lenin, V.Diltey.
-====
-F.Nisshe, A.Shopengauer, I.Shelling.
-==== 
-#O.Libman, G.Gelmgols, F.Lange, G.Kogen, P.Natorp.
-++++  
-Pozitivizm qachon shakllandi
-====
-#X1X asrning 40-yillarida.
-====
-XX asrning birinchi yarmida.
-====
-X1X-XX asrlar.
-====
-XX asr oxiri.
-++++
-Pozitivizm asoschisi kim
-====
-G.Gesse. 
-==== 
-Gegel. 
-==== 
-#L.Feyerbax. 
-==== 
-O.Kont. 
-++++
-Pozitivizm shakllangan mamlakatlar:
-====
-Fransiya, Yaponiya, Hindiston.
-====
-#Germaniya, Angliya, Rossiya, Italiya.
-====
-O‘zbekiston, Qozog‘iston, Qirg‘iziston.
-==== 
-Amerika, Xitoy, Yaponiya.
-++++
-Sotsiologiya fanining asoschisi kim
-====
-G.Gesse. 
-==== 
-Gegel. 
-==== 
-L.Feyerbax. 
-==== 
-#O.Kont. 
-++++
-«Hayot falsafasi»ning vakillari:
-====
-Anri Avenarius, Bertran Rassel.
-====
-Fr.Bredli, Fr.Bekon, R.Dekart, J.Lokk.
-====
-#F.Nisshe, O.Shpengler, A.Bergson, A.Shopengauer.
-====
-E.Gusserl, M.Xaydegger, J.P.Sartr
-++++
-Germaniyada «hayot falsafasi»ning asoschisi kim
-====
-G.Gesse. 
-==== 
-Gegel.
-==== 
-L.Feyerbax. 
-==== 
-#F.Nisshe.
-++++  
-«Hokimiyatga intilish irodasi» asarining muallifi kim
-====
-G.Gesse. 
-==== 
-Gegel. 
-==== 
-L.Feyerbax. 
-==== 
-#F.Nisshe.
-++++
-Pragmatizm oqimi qachon va qayerda shakllandi
-====
-X1X asr oxiri Rossiyada.
-====
-XX asr o‘rtasi Fransiyada.
-====
-XX asr ikkinchi yarmi Germaniyada.
-====
-#XX asrning boshlari AQShda.
-++++
-Pragmatizm oqimining asoschisi kim
-====
-G.Gesse.
-==== 
-Gegel. 
-==== 
-L.Feyerbax. 
-==== 
-#Ch.S.Pirs.
-++++ 
-«Pragma» so‘zining ma’nosi nima
-====
-#Ish, harakat.
-====
-Foyda, daromad.
-====
-Boylik.
-====
-Omad
-++++
-Pragmatizm falsafasining shiori:
-====
-«Har narsaga shubha bilan qarash!»
-====
-#«Hamma ishni ishonch-e’tiqod bilan boshlash!»
-====
-«Manfaat - har narsadan ustun!»
-====
-«Faqat foyda, daromad keltiradigan ishni bajarish!»  
-++++ 
-Ekzistensializmning namoyandalari kimlar?
-====
-Anri Avenarius, Bertran Rassel.    
-====
-V.Diltey, G.Zimmel.
-====
-F.Nisshe, O.Shpengler, A.Bergson, A.Shopengauer.
-====
-#M.Xaydegger, K.Yaspers, J.P.Sartr, A.Kamyu.
-++++
-Fransiya ekzistensializmi vakillari:
-====
-Anri Avenarius, Bertran Rassel.    
-====
-V.Diltey, G.Zimmel.
-====
-F.Nisshe, O.Shpengler, A.Bergson, A.Shopengauer.
-====
-#J.P.Sartr, Alber Kamyu.
-++++
-Fransuz ekzistensializmi diqqat e’tiborini qaratgan asosiy muammolar:
-====
-#Erkinlik, erkin tanlash huquqi.
-====
-Bilish masalasi.
-====
-Borliq masalasi.
-====
-Axloq masalasi.
-++++
-A.Kamyu «O‘zga», va «Vabo» asarlarida qanday muammoni ko‘targan?
-====
-#Insonni jamiyatdan, insondan va o‘zidan begonalashish muammosini.
-====
-Bilish muammosini.
-====
-Borliq muammosini.
-====
-Axloq muammosini.
-++++
-J.P.Sartr fikricha, inson ichki erkinligi qanday vaziyatda yuzaga chiqadi?
-====
-Iztirobda.
-====
-Hurramlikda.
-====
-Jahl chiqqanda.
-====
-#Hayot va o‘lim o‘rtasida tanlash xolatidagi chegaraviy vaziyatda.
-++++
-Freydizm ta’limoti qanday nomlanadi?
-====
-Germenevtika.
-====
-Irrasional.
-====
-Rasional.
-====
-#Ruhiyat tahlili.
-++++
-Ilohiy komediya asari qaysi faylasuf qalamiga mansub
-====
-Franchesko Petrarka
-====
-#Dante Aligyeri
-====
-Mirandola
-====
-Lorenso Valla
-++++
-Uyg‘nish davri tabiiyshunos falsafasining asoschisi kim bo‘lgan
-====
-#Leonardo da Vinchi
-====
-Petrarka
-====
-Dante
-====
-Sokrat
-++++
-Nikolay Kopernik qayerda tug‘ilgan
-====
-#Polshada
-====
-Rossiyada
-====
-Fransiya
-====
-Germaniya
-++++
-“Utopiya ” asarining muallifi kim
-====
-Shekspir
-====
-#Tomos Mor
-====
-Dante
-====
-Petrarka
-++++
-T Mor o‘zining “Utopiya” asarida qanday jamiyatni tasvirlab beradi
-====
-Afsonaviy
-====
-#Ideal
-====
-Fantastik
-====
-Qadimiy
-++++
-Utopiyaliklar davlatini kim boshqargan
-====
-Parlament
-====
-Duma
-====
-#Ma’rifatli hukmdor
-====
-Tiran
-++++
-Bruno qanday falsafiy an’ana tarafdori bo’lgan
-====
-#Panteistik
-====
-Rasional
-====
-Dualistik
-====
-Irasional
-++++
-Bruno koinotning cheksizligiga qanday munosabatda bulgan
-====
-#Olam cheksiz
-====
-Olam cheklangan
-====
-Olam xudo tomonidan yaratilgan
-====
-Olam xilma-xil
-++++
-Ong qanday bosqichlarga egadir
-====
-#Sezgilar,tassavur, idrok,taffakkur,aqil
-====
-Sezgilar, idrok,taffakkur
-====
-Sezgilar, ta’asurot, aqil
-====
-Sezgilar,aqil,idrok
-++++
-Aflotun dunyo to‘g‘risida qanday fikrda bo‘lgan
-====
-Koinot dunyosidir
-====
-Dunyo g‘oyalar dunyosidir
-====
-Dunyo ruhiy dunyodir
-====
-#Narsalar dunyisi g‘oyalar dunyosining, ya’ni toza, pok, doimiy abadiy go‘zal dunyoning so‘nib-so‘nmas, xira soyasidir
-++++
-Aflotun «ideal davlat» ida qanday tabaqalar mavjud bo‘lgan
-====
-#hokimlar, faylasuflar, harbiylar, dehqon va hunarmandlar
-====
-Aslzodalar, qullar, harbiylar
-====
-Quldorlar, mayda mulk egalari, yollanma harbiylar
-====
-To‘g‘ri javob yo‘q
-++++
-Aflotun kimning shogirdi bo‘lgan?
-====
-#Suqrotning shogirdi bo‘lgan
-====
-Demokritning shogirdi bo‘lgan
-====
-C. Pifagorning shogirdi bo‘lgan
-====
-To‘g‘ri javob yo‘q
-++++
-Zenonning  qaysi aporiyalarini bilasiz?
-====
-“Gerakl va arslon”, “Atirgul yaprog‘i”
-====
-«Dixoto¬miya», «Axill va toshbaqa»,«Yoy»
-====
-“Trigonometriya”, “Prometey va ot”
-====
-Teotet
-++++
-Demokrit fikricha, nima barcha narsa, xo¬di¬salarning sababchisi, asosi?
-====
-#Atom
-====
-Xudo
-====
-Iloh
-====
-Farishta
-++++
-«O‘z-o‘zingni bil!» degan mashhur hikmatli iborasi kimga tegishli? 
-====
-#A. Suqrotga
-====
-Aflotun
-====
-Aristotelga
-====
-I. Kantga
-++++
-«Dixoto¬miya», «Axill va toshbaqa», «Yoy», «Gʻalla dona¬si» nomli aporiyalarining muallifi kim
-====
-#Zenon
-====
-Parmenid
-====
-Pifagor
-====
-Aflotun
-++++
-Geraklit  to‘xtovsiz o‘zgarishlarning asosiy sababini tabiat¬dagi nimada  deb biladi
-====
-#Qarama qarshilik
-====
-Xudoga
-====
-Tabiyatga
-====
-Insonga
-++++
-Olamning asosiga “appeyron”ni qo‘ygan faylasuf kim edi?
-====
-#Anaksimandr
-====
-Fales
-====
-Pifagor
-====
-Aflotun
-++++
-Milet maktabi namoyondalariga kimlar kiradi
-====
-Pifagor, Fales
-====
-#Fales, Anaksimandr, Anaksimen
-====
-Fales. Anaksimen
-====
-Geraklit
-++++
-Dastlabki  diniy-falsafiy fikrlar, meloddan deyarli uch ming yil avval..............  shakllana boshlagan edi.
-====
-Misr va Bobilda
-====
-Yunoniston va Rimda
-====
-#Xitoy va Xindiston
-====
-Rimda
-++++
-Demokrit fikricha, nima barcha narsa, xo¬di¬salarning sababchisi, asosi?
-====
-#Atom
-====
-Xudo
-====
-Iloh
-====
-Din
-++++
-Mirza Bedilning asarlari qaysi qatorda to‘g‘ri berilgan
-====
-Chor unsur”, Kimiyoi saodat”, “Siyosatnoma”
-====
-“Irfon”, Navodirul vaqoye”, “Qutadg‘u bilik”
-====
-#Nuqot”, «Irfon”, «Chor unsur”
-====
-Siyosatnoma”, «Navodirul vaqoye”, «Nuqot”
-++++
-Nisbiy xaqiqat nima
-====
-nisbatan to‘g‘ri deb xisoblangan bilimlar
-====
-ijtimoiy taraqqiyotning xar bir bosqichida doimo takomillashtirilib boriladigan bilimlar
-====
-#ijtimoiy taraqqiyotning xar bir bosqichida doimo yangilanib turuvchi bilimlar
-====
-Barcha javoblar to’g’ri
-++++
-Shaxs deb nimaga aytiladi
-====
-shaxs - bu xar qanday aloxida olingan kishi
-====
-shaxs - bu boshqalarni o‘ziga bo‘ysundira oladigan kishi
-====
-#shaxs - barcha ijtimoiy munosabatlar majmuasi
-====
-shaxs - bu o‘ta qobiliyatli, bilimli va ziyoli odam.
-++++
-Shaxs erkinligi nima
-====
-o‘zining konstitusion xuquqlarini anglash
-====
-kishining ichki dunyosi
-====
-kishi faoliyati uchun cheklanmagan imkoniyat
-====
-#kishilar tomonidan anglab olingan zarurat
-++++
-Davrimizning jaxonshumul (global) muammolari tushunchasi nimani anglatadi
-====
-insoniyatning barcha qatlamlari va xalqlari ishtirokidagina xal etish mumkin bo‘lgan muammolar
-====
-ikki yoki undan ortiq mamlakat yoki xalqlar doirasida vujudga kelgan muammolar
-====
-ko‘lami jixatdan butun yer yuzi axolisining ko‘pchiligiga taalluqli bo‘lgan muammolar
-====
-#barcha javoblar to’g’ri.
-++++
-Jaxonshumul muammolar qanday turkumlashtiriladi?
-====
-milliy, sinfiy, umuminsoniyat miqyosda
-====
-#juz’iy, mintaqaviy, umumbashariy miqyosda
-====
-diniy, madaniy, ilmiy tafakkur doirasida
-====
-rivojlangan, o‘rtacha va kam taraqqiy etgan mamlakatlar doirasida.
-++++
-Mantiq fanining asoschisi kim?
-====
-Konftusiy
-====
-Platon
-====
-Forobiy
-====
-#Aristotel
-++++
-Estetika atamasini kim birinchi marta ilmiy iste’molga olib kirgan?
-====
-Aristotel
-====
-Leonardo Dovinchi
-====
-#A.Baumgarten
-====
-Geraklit
-++++
-“Aqlga muvofiq narsalarning barchasi mavjud, mavjud narsalarning barchasi aqlga muvofiq” g‘oyasining muallifi?
-====
-Shelling
-====
-Kant
-====
-Gegel
-====
-#Dekart
-++++
-“Hindlarning tasavvuricha, ruh butunlay mustaqil holatda mavjuddir va har bir narsaga, jismlarga o‘tish - ko‘chish qobiliyatiga ega”. Mazkur fikrning muallifi?
-====
-#Al-Beruniy
-====
-Ibn Sino
-====
-Mirza Bedil
-====
-Abdurauf Fitrat
-++++
-Ishlab chiqarish muhitining estetik jihatlarini vujudga keltirish, unga “ma’naviy qadriyat” maqomini berish...
-====
-#dizayn (sanoat estetikasi) deyiladi
-====
-estetik faoliyat deyiladi
-====
-estetik qadriyat deyiladi
-====
-injenerlik grafikasi deyiladi
-++++
-Estetikaning asosiy tushunchalari bu ...
-====
-#go‘zallik, ulug‘vorlik, fojeaviylik, kulgulilik
-====
-go‘zallik, ezgulik, mehnatsevarlik
-====
-ulug‘vorlik, go‘zallik, insonparvarlik
-====
-fojeaviylik, adolat, vatanparvarlik
-++++
-Estetik ong .....
-====
-#ma’naviy-ruhiy vofqea hodisalar majmui bo‘lib, ular ijtimoiy hayot zaminida vujudga keladigan estetik his, estetik did, estetik fikr, estetik orzu, estetik qarashlar tizimidir
-====
-moddiy ishlab chiqarish sohalarining, insonning his-tuyg‘ularini aqliy faoliyatini, ijtimoiy qobiliyatini qamrab oladi
-====
-estetik his-tuyg‘ular, kategoriyalar majmuasi
-====
-insonning fikr-mulohazalari, xulq-atvori, hatti-harakatlari majmuasi
-++++
-“Etosfera” tushunchasining mazmuni nima?
-====
-#jamiyat va insoniyatning ongli hayotida barcha axloqiy qonun-qoidalarni o‘zida ifodalovchi sfera-qobiqni anglatadi
-====
-etnografiyaning alohida qismi bo‘lib, millat va elatlarning kelib chiqishi, urf-odatlari, qadriyatlarini o‘rganadi
-====
-falsafiy tushuncha, dialektika kategoriyalaridan biri
-====
-dunyo qobiqlari ichida bunday sfera yo‘q, hech qanday ma’no anglatmaydi
-++++
-Sakrash turlari quyidagilar:
-====
-asta-sekinlik bilan buladigan
-====
-portlash yuli bilan
-====
-#asta-sekinlik va portlash yuli bilan
-====
-asta sekinlik, portlash, dialektik yo‘l bilan
+Savollar va Javoblar
+1. She _____ a beautiful song during the concert.
+Javob: sang
 
+2. Last year they _____ to the mountains for their vacation.
+Javob: went
 
+3. He _____ his car in the garage last night.
+Javob: parked
 
+4. Yesterday we _____ a delicious cake for her birthday.
+Javob: baked
 
+5. I _____ to bed early because I was tired.
+Javob: went
 
+6. He _____ his hand when he fell off his bike.
+Javob: hurt
 
+7. They _____ a lot of photos on their last trip.
+Javob: took
 
+8. I _____ my keys and couldn't find them anywhere.
+Javob: lost
 
+9. She _____ a new dress for the party. It is quite fashionable.
+Javob: bought
 
+10. He _____ to the doctor because he had a headache.
+Javob: went
 
+11. We _____ a wonderful time at the beach last summer.
+Javob: had
 
+12. Yesterday after lessons he _____ a book about history in the library.
+Javob: read
 
+13. They _____ to the cinema and saw a scary movie.
+Javob: went
 
+14. I _____ my homework before dinner.
+Javob: did
 
+15. He _____ to the park every day last week.
+Javob: went
 
+16. A : _____ are you going to drink?
+Javob: What
+
+17. A : _____ is Jasur going to get married?
+B : Next week.
+A : _____ is he going to marry?
+B : His groupmate.
+Javob: When / Who
+
+18. A: _____ are you going to the butcher’s?
+Javob: Why
+
+19. “_____ did the story take place?”
+Javob: Where
+
+20. “_____ did you buy your new laptop?”
+Javob: Where
+
+21. “_____ did you pay for this blender?”
+Javob: How much
+
+22. “_____ did you buy?”
+Javob: When
+
+23. _____ did you buy this bag? – I bought it for my Granny.
+Javob: Why
+
+24. “_____ are you leaving for Beijing?”
+Javob: Where
+
+25. “_____ did you go there?”
+Javob: How
+
+26. “_____ did you go?” – “To the bank.”
+Javob: What
+
+27. “_____ did you go?” – “By car.”
+Javob: When
+
+28. “_____ do you want to go for your winter holidays?”
+Javob: Why
+
+29. “_____ is your cousin like?”
+Javob: Where
+
+30. There are two bags on the shelf. ________ is yours?
+Javob: How
+
+31. The architects of the digital world, who write code to create applications, websites, and games.
+Javob: Where
+
+32. _______ use their analytical and statistical skills to extract meaningful points from large datasets.
+Javob: What
+
+33. The specialists who plan, budget, and coordinate the work of IT teams to ensure projects are delivered on time and within budget are _______.
+Javob: Which
+
+34. ________ monitor for malicious activity, such as hacking attempts and data breaches, and implement security measures to prevent and decrease these risks.
+Javob: Data Analysts
+
+35. Whose job can involve front-end development, focusing on the user interface, or back-end development, dealing with the server-side logic?
+Javob: Project Managers
+
+36. I __________ the hotel early the next morning.
+Javob: Security Specialists
+
+37. At that time, the sun ___________ brightly and the temperature ___________.
+Javob: Software Developers
+
+38. When I came, in the square café owners ____________ tables outside.
+Javob: left
+
+39. They ______ their homework when the teacher __________ in.
+Javob: was shining / was
+
+40. While she _________, her brother _______ video games.
+Javob: were arranging
+
+41. Two teenage girls _________ on a bench. What were they listening to?
+Javob: were doing / came in
+
+42. Ergonomics is the science of ____________ workplaces and tools to fit the users' needs, promoting comfort, efficiency, and safety.
+Javob: was cooking / was playing
+
+43. ___________ ergonomic practices can significantly reduce the risk of injuries, such as repetitive strain injuries, back pain, and musculoskeletal disorders.
+Javob: were sitting
+
+44. Proper ergonomic practices significantly _________ the risk of injuries.
+Javob: designing
+
+45. What is the antonym of ‘floor’?
+Javob: Applying
+
+46. What is the antonym of ‘top’?
+Javob: reduces
+
+47. What is the synonym of ‘maintain’?
+Javob: ceiling
+
+48. What is the antonym of ‘short’?
+Javob: bottom
+
+49. What is the synonym of ‘allow’?
+Javob: preserve
+
+50. What is the synonym of “adjust”?
+Javob: tall
+
+51. What type of computer is primarily used for gaming but can also perform other functions?
+Javob: permit
+
+52. Which type of computer is designed for technical or scientific applications?
+Javob: adapt
+
+53. What is the main function of servers?
+Javob: Gaming PC
+
+54. Which type of computer is known for its reliability and is used by large organizations?
+Javob: Workstation
+
+55. Supercomputers are primarily used in which of the following fields?
+Javob: serve data
+
+56. Touchscreen _________ are highly portable and often used for browsing, reading, and media consumption.
+Javob: Mainframe
+
+57. These stationary computers _______ typically _______ at home or in offices.
+Javob: scientific computing
+
+58. Embedded Computers are specialized computers ____________ into other devices, such as appliances, vehicles, and smartphones.
+Javob: tablets
+
+59. Large, powerful computers used primarily by large organizations for bulk data processing, transaction processing, and critical applications.
+Javob: are / used
+
+60. What are “ice caps”?
+Javob: built-in
+
+61. Can I go and play football, please, Mum?
+Javob: Mainframe
+
+62. When ice melts, it ________ water.
+Javob: large masses of ice
+
+63. If you eat too much sugar, you __________ feel sick.
+Javob: Yes
+
+64. If the temperature drops below 0°C, water __________.
+Javob: becomes
+
+65. If you study hard, you __________ pass the test.
+Javob: might
+
+66. If you don’t water a plant, it _________.
+Javob: freezes
+
+67. If you heat water to 100°C, it __________.
+Javob: will
+
+68. If you put food in the fridge, ____________.
+Javob: wilts
+
+69. If you leave metal out in the rain, ____________.
+Javob: boils
+
+70. If you throw a pebble into the sea, _______________.
+Javob: it stays fresh
+
+71. If you mix blue and yellow, _________________.
+Javob: it rusts
+
+72. What is video conferencing?
+Javob: it sinks
+
+73. I am too nervous. I am _________ on Saturday.
+Javob: green
+
+74. Parking might be a ___________, so take the subway.
+Javob: online meeting
+
+75. What time are you coming? I’ll pick you up from the ___________.
+Javob: getting married
+
+76. If there were no cars, lorries, vans etc. in the world, _________.
+Javob: problem
+
+77. You couldn’t travel long distances _______ you went by public transport.
+Javob: station
+
+78. You would probably shop locally ___ going to a big supermarket.
+Javob: there would be no traffic
+
+79. The motorways would be empty ______ you could cycle on them safely.
+Javob: unless
+
+80. We would eat more food from our local area ______ it would be difficult to transport it from other places.
+Javob: instead of
+
+81. Which of the following devices is primarily designed for video editing, graphic design, and gaming?
+Javob: so that
+
+82. What is the primary feature that distinguishes tablets and smartphones from other devices?
+Javob: because
+
+83. Which device is commonly used in presentations to display images and videos on larger screens?
+Javob: Workstation
+
+84. Digital cameras are mainly used for ______ .
+Javob: touchscreen
+
+85. What makes virtual reality (VR) headsets unique among multimedia devices?
+Javob: projector
+
+86. What sets Smart TVs apart from traditional televisions?
+Javob: taking photos
+
+87. Which of these devices is primarily used to enhance audio experiences?
+Javob: 3D immersion
+
+88. Why are multimedia devices considered integral to modern communication and entertainment?
+Javob: internet connectivity
+
+89. What is a common use of projectors in home environments?
+Javob: speaker
+
+90. When did you________?
+Javob: communication and fun
+
+91. I _________ (already / finish) my homework.
+Javob: home theater
+
+92. She ________ (not / see) this movie yet.
+Javob: arrive
+
+93. They ________ (visit) Paris several times.
+Javob: have already finished
+
+94. _______ you ever ______ (try) sushi?
+Javob: has not seen
+
+95. We _______ (live) in this city for 10 years.
+Javob: have visited
+
+96. He _________ (just / finish) his project.
+Javob: Have / tried
+
+97. I ________ (never / be) to Australia.
+Javob: have lived
+
+98. _______ she ______ (complete) the task yet?
+Javob: has just finished
+
+99. They _____ (not / finish) their homework yet.
+Javob: have never been
+
+100. We ______ (just / come) back from vacation.
+Javob: Has / completed
+
+101. I bought a new ______ for my living room.
+Javob: have not finished
+
+102. He works as a _______ in a big company.
+Javob: have just come
+
+103. We saw a beautiful ______ in the park.
+Javob: sofa
+
+104. The _______ was crowded on Black Friday.
+Javob: manager
+
+105. Find a compound noun from the sentence. “My grandmother loves her greenhouse full of flowers.”
+Javob: statue
+
+106. A ______ is a popular tourist attraction in London.
+Javob: mall
+
+107. He forgot to pack his ______ for the trip.
+Javob: greenhouse
+
+108. Which is not a compound word?
+Javob: Big Ben
+
+109. The ______ was very helpful at the hotel.
+Javob: suitcase
+
+110. They installed a new _______ to protect the house.
+Javob: sunshine
+
+111. Which of the following sentences uses a verb followed by the infinitive correctly?
+Javob: receptionist
+
+112. Which verb is followed by the +ing form correctly?
+Javob: alarm system
+
+113. Which verb can take either the infinitive or the +ing form?
+Javob: want to learn
+
+114. In the sentence, “He stopped to check his phone”, what does the verb “stopped” mean?
+Javob: enjoy learning
+
+115. Which of the following verbs is typically followed by the infinitive?
+Javob: start to learn
+
+116. What is the meaning of “try” in the sentence, “Try restarting your computer”?
+Javob: paused another action
+
+117. I can’t stand _______ in long queues.
+Javob: decide
+
+118. Which sentence correctly uses a verb followed by the infinitive?
+Javob: suggest an action
+
+119. Which sentence is incorrect based on the rules for verb patterns?
+Javob: To wait
+
+120. He keeps ________ about his achievements.
+Javob: incorrect usage
+
+121. Which of the following is NOT mentioned as a feature of SSDs in the text?
+Javob: bragging
+
+122. What is the primary disadvantage of cloud storage mentioned in the text?
+Javob: limited write cycles
+
+123. Which of the following correctly matches the storage type with its characteristic?
+Javob: data breaches
+
+124. Choose the best answer. Computers that provide data, resources, or services to other computers over a network.
+Javob: SSD - fast, Cloud - remote access
+
+125. Choose the best answer. Portable computers that combine all components into a single unit, making them easy to carry and use anywhere.
+Javob: Servers
+
+126. Choose the best answer. Touchscreen devices that are highly portable and often used for browsing, reading, and media consumption.
+Javob: Laptops
+
+127. Choose the best answer. These are stationary computers typically used at home or in offices.
+Javob: Tablets
+
+128. Choose the best answer. While primarily designed for gaming, these devices can also function as computers for internet browsing, streaming, and media playback.
+Javob: Desktops
+
+129. Choose the best answer. They are built to handle multiple requests simultaneously and are essential for ________ networks and websites.
+Javob: Gaming PCs
+
+130. Choose the correct answer. What is the main purpose of antivirus software?
+Javob: support
+
+131. Choose the correct answer. Why are regular updates important for antivirus programs?
+Javob: detect threats
+
+132. Choose the correct answer. How can users improve their computer security besides using antivirus software?
+Javob: to stay protected
+
+133. Choose the correct answer. What does real-time protection do?
+Javob: use strong passwords
+
+134. Choose proper answer. What can happen if a computer is not properly protected?
+Javob: block malware in real time
+
+135. Choose proper answer. What is the first step in writing a blog post?
+Javob: hacking risk
+
+136. Choose proper answer. Why is an outline important for a blog post?
+Javob: brainstorming
+
+137. Choose proper answer. What should the introduction do?
+Javob: structure ideas
+
+138. Choose proper answer. Why is proofreading important?
+Javob: catch reader's attention
+
+139. Choose correct answer. How can you improve engagement in a blog post?
+Javob: avoid mistakes
+
+140. Choose the correct answer. If I ___ (be) you, I would accept the offer.
+Javob: add visuals
+
+141. Choose the correct answer. If she ________ more money, she would buy a new phone.
+Javob: I were
+
+142. Choose the correct answer. If we ______ in Paris, we would visit the Eiffel Tower often.
+Javob: had
+
+143. Choose proper answer. If he ________ more, he would pass the test easily.
+Javob: lived
+
+144. Choose proper answer. If they _______ their own business, they would be successful.
+Javob: studied
+
+145. Choose proper answer. If I _______ taller, I would become a basketball player.
+Javob: started
+
+146. Choose proper answer. If you ________ earlier, you wouldn’t miss the bus.
+Javob: were
+
+147. Choose proper answer. If he _______ to the gym regularly, he would be in better shape.
+Javob: woke up earlier
+
+148. Choose the correct answer. If I ______ more languages, I would work internationally.
+Javob: went
+
+149. Choose the correct answer. If we _______ a car, we wouldn’t have to take the bus.
+Javob: knew
+
+150. Choose the correct answer. If she _______ more confident, she would apply for the job.
+Javob: had
+
+151. Choose the correct answer. If they ______ earlier, they wouldn’t be late for school.
+Javob: was
+
+152. Choose the correct answer. If I ________ in a different country, I would experience a new culture.
+Javob: lived
+
+153. Choose the correct answer. If you _______ more carefully, you wouldn’t make so many mistakes.
+Javob: drove
+
+154. Choose the correct answer. If he _______ a better job, he would be happier.
+Javob: had
+
+155. Choose the right answer. What does computer software do?
+Javob: software operation
+
+156. Choose the right answer. How is software commonly categorized?
+Javob: system and application
+
+157. Choose the right answer. What is the primary example of system software?
+Javob: Operating System
+
+158. Choose the right answer. Which of the following is application software?
+Javob: MS Word
+
+159. Choose the right answer. What does utility software do?
+Javob: disk management
+
+160. Choose the right answer. What is the role of system software?
+Javob: core operations
+
+161. Choose the right answer. What is an example of utility software?
+Javob: Antivirus
+
+162. Choose the right answer. Which category of software includes specific task-oriented programs?
+Javob: specific usage
+
+163. Choose the right answer. Which is an example of Spreadsheet Application?
+Javob: Excel
+
+164. Choose the right answer. __________ is utilized for writing, testing, debugging, and developing other software programs.
+Javob: IDE
+
+165. Choose the right answer. His approach is ________ hers.
+Javob: different from
+
+166. Choose the right answer. The two solutions are __________ each other in effectiveness.
+Javob: similar to
+
+167. Choose the right answer. She is ______ for this task.
+Javob: qualified
+
+168. Choose the right answer. He has ______ a lot of experience.
+Javob: gained
+
+169. Choose the right answer. The more I learn, ______ I realize I need to study more.
+Javob: the more
+
+170. Choose the right answer. What is the first stage in software development?
+Javob: requirement gathering
+
+171. Choose the right answer. Which stage involves creating the user interface?
+Javob: UI design
+
+172. Choose the right answer. During which stage are bugs identified and fixed?
+Javob: debugging
+
+173. Choose the right answer. What does deployment refer to?
+Javob: release
+
+174. Choose the right answer. Which stage comes last in the software development process?
+Javob: maintenance
+
+175. Choose the right answer. What is primarily discussed during the planning stage?
+Javob: planning
+
+176. Choose the right answer. What can prompt updates in the maintenance phase?
+Javob: user feedback
+
+177. Choose the right answer. Which stage is focused on the actual writing of the software?
+Javob: coding
+
+178. Choose the right answer. What is a key aspect of the testing stage?
+Javob: error detection
+
+179. Choose the right answer. In the context of software development, what does maintenance ensure?
+Javob: long-term functionality
+
+180. Choose the right answer. What does “heating up” refer to?
+Javob: getting hot
+
+181. Choose the right answer. What are “fossil fuels”?
+Javob: coal and oil
+
+182. Choose the right answer. What are “greenhouse gases”?
+Javob: pollution-causing gases
+
+183. Choose the right answer. What does “global warming” mean?
+Javob: temperature increase
+
+184. Choose the right answer. What are “rainforests”?
+Javob: tropical forests
+
+185. Why are HDDs still widely used?
+Javob: cost-effective
+
+186. What makes NAS devices ideal for office use?
+Javob: shared access
+
+187. What is the primary purpose of the introduction in an opinion essay?
+Javob: state opinion
+
+188. Which of the following is typically included in the main body of an opinion essay?
+Javob: supporting reasons
+
+189. Which of the following phrases is used to introduce additional points?
+Javob: furthermore
+
+190. What should the conclusion of an opinion essay include?
+Javob: restate opinion
+
+191. What is the purpose of using a conclusion sentence in an opinion essay?
+Javob: summary
+
+192. What is the main feature of the writing strategy for an opinion essay?
+Javob: clear argument
+
+193. Which of the following phrases introduces an opposing viewpoint?
+Javob: however
+
+194. What tense is typically used in an opinion essay?
+Javob: present simple
+
+195. Which type of website is designed for selling and purchasing goods online?
+Javob: e-commerce
+
+196. What is the primary purpose of a blog?
+Javob: sharing ideas
+
+197. Which website allows users to find information online by indexing and ranking content?
+Javob: search engine
+
+198. What makes dynamic websites unique compared to static websites?
+Javob: content interaction
+
+199. Which type of website often provides tutorials, courses and research materials?
+Javob: education
+
+200. What is a key characteristic of subscription-based websites?
+Javob: paywall
+
+201. A ________ is someone who damages property on purpose, often as a form of rebellion.
+Javob: vandal
+
+202. The punishment for breaking a law is called a ________.
+Javob: penalty
+
+203. A ________ is responsible for deciding whether the accused is innocent or guilty in a trial.
+Javob: judge
+
+204. Which of the following is a type of punishment where the offender is executed?
+Javob: death penalty
+
+205. A ________ is someone who enters a property illegally to steal.
+Javob: burglar
+
+206. A person who observes an event but does not participate is a ________.
+Javob: witness
+
+207. To ________ a law means to fail to follow it.
+Javob: break
+
+208. What is the role of a prosecutor in a court case?
+Javob: present case
+
+209. Someone who steals without using violence is a ________.
+Javob: thief
+
+210. Who determines the final verdict in a trial?
+Javob: jury
+
+211. What is the punishment for a serious crime, such as murder, in some countries?
+Javob: capital punishment
+
+212. A ________ enters a house illegally to steal items.
+Javob: housebreaker
+
+213. What is the primary focus of social media?
+Javob: connect with others
+
+214. Which of the following is NOT a general social media platform?
+Javob: music app
+
+215. How do businesses use social media?
+Javob: promote products
+
+216. How does social media help entrepreneurs and artists?
+Javob: build audience
+
+217. What mental health issues can excessive use of social media cause?
+Javob: anxiety
+
+218. Why is false information a concern on social media?
+Javob: misleading people
+
+219. What productivity problem is associated with social media in the workplace?
+Javob: distraction
+
+220. You may watch the television show ____________ you are finished with your homework.
+Javob: after
+
+221. Linda was sound asleep in her bed when ____________________ she heard a loud noise and woke up.
+Javob: suddenly
+
+222. First, Alisher's mother had to stop by the grocery store. ____________________ they went home.
+Javob: Then
+
+223. Heather decided not to go to the party. ________________ she changed her mind.
+Javob: Eventually
+
+224. Let's play a game of cards ______________ we wait for the apple pie to bake in the oven.
+Javob: while
+
+225. I will go with you to the mall ____________ I finish doing my chores.
+Javob: when
+
+226. It took me a long time to learn how to knit a scarf. ____________________, I have become much better at it.
+Javob: Eventually
+
+227. What does “hack into” mean?
+Javob: gain access
+
+228. What does “log out” mean?
+Javob: sign out
+
+229. Which phrase means “to connect two devices”?
+Javob: link
+
+230. What does “key in” mean?
+Javob: type in
+
+231. Which phrase means “to begin using a computer system”?
+Javob: log on
+
+232. What does LAN stand for?
+Javob: Local Area Network
+
+233. What is the largest WAN in the world?
+Javob: Internet
+
+234. Why are networks important?
+Javob: communication
+
+235. Which of the following devices manages network connections?
+Javob: router
+
+236. How do devices connect in a network?
+Javob: via cables or wireless
+
+237. Which suffix means “full of something”?
+Javob: -ful
+
+238. What does the suffix “-ish” mean?
+Javob: -like
+
+239. Which of the following creates an adjective meaning “relating to something”?
+Javob: -al
+
+240. What does the suffix “-ous” mean?
+Javob: -full of
+
+241. Which suffix would you use to describe “can be done or possible”?
+Javob: -able
+
+242. What is a smartphone?
+Javob: mobile phone
+
+243. What is a tablet?
+Javob: portable device
+
+244. What does a smart watch do?
+Javob: tracks health
+
+245. What is the purpose of a laptop?
+Javob: computing
+
+246. What is a desktop computer designed for?
+Javob: stationary computing
+
+247. What is a VR headset used for?
+Javob: VR content
+
+248. What is an e-reader used for?
+Javob: read ebooks
+
+249. What is a drone?
+Javob: fly and film
+
+250. What is the primary function of a game console?
+Javob: gaming
+
+251. What does a smart speaker do?
+Javob: voice assistant
+
+252. What is a wearable fitness tracker?
+Javob: fitness tracking
+
+253. What is a digital camera used for?
+Javob: taking pictures
+
+254. Which network topology connects every node in series along a single cable?
+Javob: bus
+
+255. In which network topology does a central hub connect to all other nodes?
+Javob: star
+
+256. What is the function of a mesh network?
+Javob: connected routes
+
+257. The project ______ by the group of students this week.
+Javob: is being done
+
+258. Her kitchen furniture ______ delivered to her home next Sunday.
+Javob: will be
+
+259. ______ the hall been decorated for New Year recently?
+Javob: Has
+
+260. The documents ______ signed by the director today.
+Javob: are being
+
+261. The program ______ by the team this month.
+Javob: is being
+
+262. A new app ______ just ______ developed for the marketing company.
+Javob: has / been
+
+263. The journal ______ published recently.
+Javob: was
+
+264. ______ the results of the exam be announced tomorrow?
+Javob: Will
+
+265. The project ______ finished by next week.
+Javob: will be
+
+266. The invitations ______ next Monday.
+Javob: will be
+
+267. His car ______ repaired tomorrow morning.
+Javob: will be
+
+268. Our office building ______ constructed next year.
+Javob: has not arrived
+
+269. The announcement ______ sent to the participants soon.
+Javob: was
+
+270. The parcel ______ yet.
+Javob: helps
+
+271. The new policy ______ accomplished in March.
+Javob: makes
+
+272. "To sum up, learning a new language ______ you communicate with people from different cultures."
+Javob: reduces
+
+273. "In conclusion, teamwork ______ people work together to achieve their goals."
+Javob: protects
+
+274. "To conclude, spending time in nature ______ stress and improves mental health."
+Javob: improves
+
+275. "In conclusion, using less plastic ______ the environment and reduces pollution."
+Javob: It saves energy
+
+276. "To conclude, practicing kindness ______ relationships and builds a better society."
+Javob: It leads to better marks
+
+277. Choose the best conclusion for the main idea: "Recycling helps protect the environment."
+Javob: It keeps you healthy
+
+278. Choose the best conclusion for the main idea: "Studying regularly improves your grades."
+Javob: It boosts creativity
+
+279. Choose the best conclusion for the main idea: "Healthy eating keeps your body strong."
+Javob: It strengthens your body
+
+280. Choose the best conclusion for the main idea: "Reading improves your imagination."
+Javob: have / done
+
+281. Choose the best conclusion for the main idea: "Exercise is important for a healthy life."
+Javob: has / been
+
+282. The project ______ already ______ by the students.
+Javob: will be delivered
+
+283. The conference hall ______ already ______ by the staff.
+Javob: has not been solved
+
+284. The goods ______ (deliver) by tomorrow morning.
+Javob: will be announced
+
+285. The political problem ______ (not/solve) yet.
+Javob: Operating System
+
+286. The exam results ______ (announce) after the meeting.
+Javob: Graphical User Interface
+
+287. What does OS stand for?
+Javob: ease of use
+
+288. GUI stands for _______.
+Javob: computers
+
+289. What is the main purpose of GUI?
+Javob: icon
+
+290. Where is GUI typically used?
+Javob: window
+
+291. A small picture representing an app or function is a/an ________.
+Javob: GUI
+
+292. A rectangular area where programs open is a/an ______.
+Javob: button
+
+293. A visual interface with icons and buttons is a/an ________.
+Javob: menu
+
+294. A clickable element that performs an action is a/an _______.
+Javob: help
+
+295. A list of options in a program is called a/an ______.
+Javob: __________________
+
+296. I promise I _______ you.
+Javob: __________________
+
+297. The wall doesn’t look safe. It ________.
+Javob: __________________
 
