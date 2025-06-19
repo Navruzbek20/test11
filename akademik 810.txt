@@ -1,1667 +1,3091 @@
-Вычислите двойной интеграл функции z=1, где D — прямоугольник x∈[0, 2], y∈[0, 3]:
-======
-5
-======
-#6
-======
-3
-======
-2
-+++++
-Вычислите двойной интеграл функции z=x + y, где D — квадрат x∈[0, 1], y∈[0, 1]:
-======
-#1
-======
-1/2
-======
-2
-======
-0
-+++++
-Чему равен двойной интеграл функции z=y², где D — квадрат x∈[0, 1], y∈[0, 1]:
-======
-#1/3
-======
-1/2
-======
-1
-======
-2/3
-+++++
-Найдите двойной интеграл функции z=xy, где D — квадрат x∈[0, 1], y∈[0, 1]:
-======
-#1/4
-======
-1/2
-======
-1
-======
-0
-+++++
-Вычислите двойной интеграл функции z=2x, где D — прямоугольник x∈[0, 1], y∈[0, 2]:
-======
-1
-======
-#2
-======
-3
-======
-4
-+++++
-Найдите двойной интеграл функции z=x² + y², где D — квадрат x∈[0, 1], y∈[0, 1]:
-======
-#2/3
-======
-1
-======
-1/2
-======
-1/3
-+++++
-
-Чтобы найти объём под поверхностью z = f(x, y) над областью D, нужно вычислить:
-====
-#Двойной интеграл
-====
-Неопределенный интеграл
-====
-Частные производные
-====
-Линию уровня
-
-+++++
-
-Что показывает центр тяжести плоской фигуры?
-====
-Общее количество массы
-====
-#Точку, где сосредоточена вся масса фигуры
-====
-Периметр фигуры
-====
-Значение функции в центре
-
-+++++
-
-Что вычисляет тройной интеграл ∭f(x, y, z)dV?
-====
-Площадь
-====
-Объём области V
-====
-Объём под поверхностью
-====
-#Массу тела (если f — плотность)
-
-+++++
-
-Если f(x, y, z) = 1, то ∭dV вычисляет:
-====
-Площадь области V
-====
-Длину границы области
-====
-#Объём области V
-====
-Производную функции
-
-+++++
-
-Что такое "dV" в тройном интеграле ∭f(x, y, z)dV?
-====
-dV = dx
-====
-dV = dxdy
-====
-#dV = dxdydz
-====
-dV = dz
-
-+++++
-
-При переходе к цилиндрическим координатам, dV записывается как:
-====
-#rdrdθdz
-====
-drdθdz
-====
-dzdrdθ
-====
-r²drdθdz
-
-+++++
-
-Тройной интеграл ∭ρ(x, y, z)dV вычисляет массу тела, если ρ — это:
-====
-Температура
-====
-Давление
-====
-#Плотность
-====
-Объём
-
-+++++
-
-В сферических координатах dV записывается как:
-====
-#r²sinφdrdθdφ
-====
-rdrdθdφ
-====
-r²drdθdφ
-====
-sinφdrdθdφ
-
-+++++
-
-Векторное поле — это:
-====
-Функция, сопоставляющая каждой точке скаляр
-====
-#Функция, сопоставляющая каждой точке вектор
-====
-Набор чисел
-====
-Линия уровня
-
-+++++
-
-Градиент скалярной функции — это:
-====
-Скалярное поле
-====
-#Векторное поле
-====
-Матрица
-====
-Постоянное число
-
-+++++
-
-Что показывает дивергенция векторного поля?
-====
-Степень вращения
-====
-#Источник или сток поля в точке
-====
-Значение функции
-====
-Максимум функции
-
-
-
-
-+++++
-
-Что показывает длина (модуль) вектора градиента?
-====
-Площадь под графиком
-====
-#Максимальную скорость изменения функции
-====
-Координаты функции
-====
-Значение функции
-
-+++++
-
-Что такое скалярное поле?
-====
-Функция, ставящая в соответствие каждой точке в пространстве вектор
-====
-#Числовая функция, определённая в каждой точке пространства
-====
-Проекция векторного поля
-====
-Поверхность уровня
-
-+++++
-
-Найдите модуль числа z=3+4i.
-====
-4
-====
-#5
-====
-7
-====
-3
-
-+++++
-
-Найдите сопряжённое к числу z=2−5i.
-====
-#2+5i
-====
-−2+5i
-====
-2−5i
-====
-−2−5i
-
-+++++
-
-Вычислите (1+2i)+(3−i).
-====
-#4+i 
-====
-2+i 
-====
-3+3i
-====
-4+3i
-
-+++++
-
-Найдите разность: (5+6i)−(2+4i).
-====
-#3+2i
-====
-3+10i
-====
-7+2i
-====
-2+3i
-
-+++++
-
-Найдите произведение: (1+i)(1−i).
-====
-0
-====
-1
-====
-#2
-====
-−1
-
-+++++
-
-Вычислите (4+2i)/(1+i).
-====
-2+3i
-====
-#3−i 
-====
-1+i 
-====
-2−3i
-
-+++++
-
-Найдите модуль числа z=−5+12i.
-====
-12
-====
-5
-====
-#13
-====
-7
-
-+++++
-
-Найдите аргумент числа z=i.
-====
-0
-====
-#π/2
-====
-π
-====
-2π
-
-+++++
-Представьте z=1+i в тригонометрической форме.
-======
-√2(cosπ+isinπ)
-======
-#√2(cosπ/4+isinπ/4)
-======
-√2(cosπ/2+isinπ/2)
-======
-√2(cos0+isin0)
-+++++
-Представьте z=−1+i в тригонометрической форме.
-======
-√2(cosπ/4+isinπ/4)
-======
-√2(cos5π/4+isin5π/4)
-======
-#√2(cos3π/4+isin3π/4)
-======
-√2(cos7π/4+isin7π/4)
-+++++
-Представьте z=1+i в показательной форме.
-======
-#√2e<sup>iπ/4</sup>
-======
-2e<sup>iπ/2</sup>
-======
-e<sup>iπ</sup>
-======
-e<sup>i</sup>
-
-+++++
-
-Что показывает производная вектор-функции r(t)?
-====
-Длину кривой
-====
-#Направление и скорость изменения вектора
-====
-Постоянное значение
-====
-Объём тела
-
-
-
-
-+++++
-
-
-
-Какой геометрический смысл имеет интеграл от вектор-функции скорости?
-====
-Ускорение
-====
-Пройденный путь
-====
-#Радиус-вектор положения
-====
-Длина касательной
-
-
-
-+++++
-
-
-
-Если r(t) описывает положение точки, то r'(t) это:
-====
-Ускорение
-====
-Путь
-====
-#Скорость
-====
-Масса
-
-
-
-+++++
-
-
-
-Производная суммы двух вектор-функций равна:
-====
-Произведению их производных
-====
-#Сумме их производных
-====
-Разности их интегралов
-====
-Постоянной
-
-
-
-+++++
-
-
-
-Как вычисляется интеграл суммы двух вектор-функций?
-====
-#По отдельности и затем суммируются
-====
-Как интеграл их произведения
-====
-Только по одной из них
-====
-Делением одной функции на другую
-
-
-
-
-+++++
-
-
-Что означают коэффициенты a<sub>n</sub> и b<sub>n</sub> в ряде Фурье?
-======
-Производные
-======
-Корни уравнения
-======
-#Амплитуды косинус и синус составляющих
-======
-Значения функции в нуле
-
-
-+++++
-
-
-Если r(t) = (x(t), y(t), z(t)), как вычислить её производную?
-======
-По модулю r(t)
-======
-#Покомпонентно: (x'(t), y'(t), z'(t))
-======
-Только по x
-======
-Сначала найти интеграл, потом продифференцировать
-
-+++++
-
-
-Как называется длина кривой, измеренная от начальной точки?
-====
-Радиус кривизны
-====
-#Длина дуги
-====
-Длина хорды
-====
-Центр кривизны
-
-
-
-+++++
-
-
-
-Что описывает вектор скорости?
-====
-Массу точки
-====
-#Изменение положения точки по времени
-====
-Траекторию движения
-====
-Время движения
-
-
-
-+++++
-
-
-
-Если r(t) — радиус-вектор положения точки, то скорость v(t) равна:
-====
-r(t)
-====
-#r'(t)
-====
-r''(t)
-====
-Постоянному вектору
-
-
-
-
-+++++
-
-
-
-Как найти ускорение точки в пространстве?
-====
-Найти интеграл от скорости
-====
-#Взять производную от радиус-вектора дважды
-====
-Разделить радиус-вектор на время
-====
-Посчитать длину траектории
-
-
-
-+++++
-
-
-
-При равномерном прямолинейном движении ускорение:
-====
-#Равно нулю
-====
-Постоянное и не нулевое
-====
-Изменяется по синусоиде
-====
-Растёт бесконечно
-
-
-
-+++++
-
-
-Область определения функции f(x, y) = 1/(x² + y²) — это:
-======
-Вся плоскость
-======
-#Вся плоскость кроме точки (0, 0)
-======
-Только точка (0, 0)
-======
-Пустое множество
-
-
-+++++
-
-
-Что называется областью определения функции двух переменных z = f(x, y)?
-====
-Область, где f(x, y) > 0
-====
-#Множество всех пар (x, y), для которых функция имеет смысл
-====
-Область, где z = 0
-====
-Плоскость XOY
-
-
-
-+++++
-
-
-
-Какой вид имеет график функции двух переменных?
-====
-Кривая на плоскости
-====
-#Поверхность в пространстве
-====
-Прямая линия
-====
-Отрезок
-
-
-+++++
-
-
-
-Какая функция имеет разрыв в точке (0, 0)?
-====
-f(x, y) = x + y
-====
-#f(x, y) = (x² - y²)/(x² + y²) при (x, y) ≠ (0, 0)
-====
-f(x, y) = x²y
-====
-f(x, y) = sin(x) + cos(y)
-
-
-
-+++++
-
-
-
-Область определения функции f(x, y) = ln(x + y) — это:
-====
-#x + y > 0
-====
-x > 0
-====
-y > 0
-====
-Вся плоскость
-
-
-+++++
-
-
-
-Что такое смешанная частная производная?
-====
-#Производная по x и y одновременно
-====
-Интеграл по x и y
-====
-Производная по x дважды
-====
-Производная по y дважды
-
-
-
-+++++
-
-
-
-График функции f(x, y) = x² + y² — это:
-====
-Плоскость
-====
-Седловая поверхность
-====
-#Параболоид
-====
-Прямая
-
-
-
-+++++
-
-
-
-Что такое частная производная функции f(x, y) по x?
-====
-Производная функции по y
-====
-#Производная по x, при фиксированном y
-====
-Производная от произведения x и y
-====
-Интеграл по x
-
-
-
-+++++
-
-
-
-Как записывается частная производная функции f(x, y) по x?
-====
-df/dx
-====
-#∂f/∂x
-====
-d²f/dx²
-====
-∂²f/∂x²
-
-
-
-+++++
-
-
-
-Как записывается вторая частная производная функции f(x, y) по x?
-====
-df/dx
-====
-∂f/∂x
-====
-d²f/dx²
-====
-#∂²f/∂x²
-
-
-
-+++++
-
-
-
-Для функции f(x, y) = x²y + y³ частная производная по x равна:
-====
-#2xy
-====
-y³
-====
-2x
-====
-0
-
-
-
-+++++
-
-
-
-Что показывает частная производная по y?
-====
-Изменение функции при изменении x
-====
-#Изменение функции при изменении y (при фиксированном x)
-====
-Площадь под кривой
-====
-Точку экстремума
-
-
-
-+++++
-
-
-
-Частная производная функции f(x, y) = x + y² по y равна:
-====
-0
-====
-#2y
-====
-y
-====
-x
-
-
-
-+++++
-
-
-
-Если f(x, y) = x² + y², чему равна смешанная частная производная по x, затем по y?
-====
-#0
-====
-1
-====
-2
-====
-4
-
-
-
-
-+++++
-
-
-
-Частная производная функции f(x, y) = xy + y по y равна:
-====
-#x + 1
-====
-y + 1
-====
-1
-====
-x
-
-
-
-+++++
-
-
-
-Найдите смешанную частную производную f(x, y) = x²y³ по x, затем по y:
-====
-#6xy²
-====
-2xy³
-====
-3x²y²
-====
-0
-
-
-+++++
-
-
-
-Если функция f(x, y) = sin(xy), частная производная по x равна:
-====
-#ycos(xy)
-====
-xcos(xy)
-====
-cos(y)
-====
-ysin(xy)
-
-
-
-+++++
-
-
-
-Частная производная функции f(x, y) = ln(x² + y²) по x равна:
-====
-2x
-====
-x/(x² + y²)
-====
-#2x/(x² + y²)
-====
-1/(x + y)
-
-
-+++++
-
-
-
-Частная производная функции f(x, y) = arctg(y/x) по x равна:
-====
-#-y/(x² + y²)
-====
-y/(x² + y²)
-====
--x/(x² + y²)
-====
-1/(1 + (y/x)²)
-
-
-
-+++++
-
-
-
-Для функции f(x, y) = x²y + y²x, частная производная по y равна:
-====
-2x + x²
-====
-x² + 2y
-====
-#x² + 2xy
-====
-2y + x
-
-
-
-+++++
-
-Частная производная функции f(x, y) = x³y² по y равна:
-======
-3x²y
-======
-2xy
-======
-3x<sup>2</sup>y<sup>2</sup>
-======
-#2x³y
-
-
-+++++
-
-
-
-Как записывается полный дифференциал функции z = f(x, y)?
-====
-#dz=(∂f/∂x)dx+(∂f/∂y)dy 
-====
-dz = df/dx
-====
-dz = ∂²f/∂x²
-====
-dz = dx + dy
-
-
-
-+++++
-
-
-
-Для функции z = x² + y² полный дифференциал равен:
-====
-#2xdx + 2ydy
-====
-xdx + ydy
-====
-dx + dy
-====
-2xdy + 2ydx
-
-
-
-+++++
-
-
-
-Для функции z = x²y + y² полный дифференциал равен:
-====
-#(2xy)dx + (x² + 2y)dy
-====
-(x² + 2y)dx + (2xy)dy
-====
-2xdx + 2ydy
-====
-(2x + y)dx + (2y + x)dy
-
-
-+++++
-
-
-
-Какой вид имеет полный дифференциал функции трёх переменных z = f(x, y, z)?
-====
-#dz=(∂f/∂x)dx+(∂f/∂y)dy+(∂f/∂z)dz 
-====
-dz = dx + dy + dz
-====
-dz = f(x, y, z)
-====
-dz = ∂²f/∂x²dx²
-
-
-
-+++++
-
-
-
-Найдите полный дифференциал функции z = ln(xy):
-====
-#(1/x)dx + (1/y)dy
-====
-(1/x + 1/y)dxdy
-====
-(1/y)dx + (1/x)dy
-====
-(1/(xy))dxdy
-
-
-
-+++++
-
-
-
-Обозначение ∂²f/∂x² означает:
-====
-Первая частная производная по x
-====
-#Вторая частная производная по x
-====
-Смешанная частная производная
-====
-Интеграл по x
-
-
-
-+++++
-
-
-
-Для функции f(x, y) = x²y³, чему равна ∂²f/∂x²?
-====
-#2y³
-====
-6xy³
-====
-0
-====
-3x²y²
-
-
-
-+++++
-
-
-
-Для функции f(x, y) = x³ + y³, чему равна частная производная второго порядка по x?
-====
-3x
-====
-#6x
-====
-3x²
-====
-0
-
-
-
-+++++
-
-
-
-Что называется экстремумом функции двух переменных?
-====
-Область определения функции
-====
-#Максимум или минимум функции
-====
-Интеграл функции
-====
-Точка разрыва функции
-
-
-+++++
-
-
-
-Критическая точка функции двух переменных — это точка, где:
-====
-#Частные производные равны нулю или не существуют
-====
-Функция возрастает
-====
-Функция интегрируется
-====
-Только одна частная производная равна нулю
-
-
-
-
-+++++
-
-
-
-Если D < 0, то критическая точка является:
-====
-Максимумом
-====
-Минимумом
-====
-#Стационарной точкой
-====
-Нет экстремума
-
-
-
-+++++
-
-Если функция f(x, y) = e<sup>x+y</sup>, частная производная по x равна:
-======
-#e<sup>x+y</sup>
-======
-e<sup>x</sup>
-======
-e<sup>y</sup>
-======
-xe<sup>x+y</sup>
-
-+++++
-
-Если z = e<sup>xy</sup>, чему равен полный дифференциал?
-======
-e<sup>xy</sup>dx + e<sup>xy</sup>dy
-======
-# ye<sup>xy</sup>dx + xe<sup>xy</sup>dy
-======
-xe<sup>xy</sup>dx + ye<sup>xy</sup>dy
-======
-0
-
-
-+++++
-
-
-
-Ряд Фурье используется для:
-====
-решения квадратных уравнений
-====
-#представления периодических функций
-====
-нахождения производной
-====
-сокращения дробей
-
-
-
-+++++
-
-
-
-Какие функции можно разложить в ряд Фурье?
-====
-Только непрерывные
-====
-Только дифференцируемые
-====
-#Любые периодические с ограниченным разрывом
-====
-Только синусоиды
-
-
-
-+++++
-
-
-
-Какой период у функции, если разложение Фурье задано на отрезке [−L; L]?
-====
-L
-====
-#2L
-====
-π
-====
-1
-
-
-
-
-+++++
-
-
-
-Для чего используется разложение функции в ряд Фурье?
-====
-Для нахождения корней уравнений
-====
-#Для представления функции через тригонометрические функции
-====
-Для вычисления определённого интеграла
-====
-Для упрощения логарифмов
-
-
-
-+++++
-
-
-
-Какие основные функции входят в ряд Фурье?
-====
-Линейные и квадратные функции
-====
-#Синусы и косинусы
-====
-Экспоненты и логарифмы
-====
-Полиномы и экспоненты
-
-z = 3 + 4i va  z' = 1 - 2i larning yig'indisi nima bo'ladi?
-====
-4+6i
-====
-#4+2i
-====
-2+2i
-====
-4+i
-++++
-Kompleks sonning modulini toping: z=3+4i
-====
-#5
-====
-4
-====
-2
-====
-3
-++++
-Quyidagi kompleks sonlarni z=2+3i va z′=1−i larning ko'paytmasini toping?
-====
-#5+i
-====
-4+2i
-====
-2+2i
-====
-4+i
-++++
-Quyidagi kompleks sonlarni z=4+2i va z′=1−i larning bo'linmasi nimaga teng?
-====
-#2−i
-====
-4+2i
-====
-2+2i
-====
-4+i
-++++
-Furye qatori nima uchun ishlatiladi?
-====
-#Matematika va fizikada to'lqinlarni va signallarni tahlil qilish uchun
-====
-Faqat musiqiy tonlarni yaratish uchun
-====
-Yalpi fizik qonunlarni izohlash uchun
-====
-Faqat geometrik shakllarni o'rganish uchun
-++++
-Furye qatori nima uchun ishlatiladi?
-====
-#Matematika va fizikada to'lqinlarni va signallarni tahlil qilish uchun
-====
-Faqat musiqiy tonlarni yaratish uchun
-====
-Yalpi fizik qonunlarni izohlash uchun
-====
-Faqat geometrik shakllarni o'rganish uchun
-++++
-Furye qatoridagi koeffitsiyentlarini qanday hisoblash mumkin?
-====
-#Integrallar yordamida
-====
-Faoliyatlar yordamida
-====
-Faqat yodlash orqali
-====
-Grafiklar yordamida
-++++
-Furye qatorining asosiy maqsadi nima?
-====
-#Funksiyalarni sinusoida va kosinusoida qismlariga ajratish
-====
-Ikkita sonni bir-biriga bo'lish
-====
-Yuzaning ichki qismlarini topish
-====
-Faqat turli diagrammalarni yasash
-++++
-Furye qatoridagi alfa nol harfi nima ifodalaydi?
-====
-#Funksiyaning o'rtacha qiymatini
-====
-To'liq amplitudani
-====
-Kosinus funksiyasini
-====
-Sinus funksiyasini
-++++
-Furye qatorlari nima uchun signalni tahlil qilishda ishlatiladi?
-====
-#To'lqinlarning chastotasi va fazasini aniqlash uchun
-====
-Faqat signalning amplitudasini oshirish uchun
-====
-Yalpi energiya hisoblash uchun
-====
-Faqat ma'lumotlarni kompressiya qilish uchun
-++++
-Furye qatori musiqa signallarini tahlil qilishda qanday yordam beradi?
-====
-#Musiqiy tonlarni sinusoida va kosinusoida ajratish orqali
-====
-Musiqaning uzunligini o'lchash orqali
-====
-Musiqa tezligini hisoblash orqali 
-====
-Musiqa yorqinligini oshirish orqali
-++++
-Furye qatorlarining birinchi tatbiqi qaysi sohada ishlatilgan?
-====
-#Elektronika va signalni uzatish
-====
-Tibbiyot sohasida
-====
-Qishloq xo'jaligida
-====
-Arxitektura va dizayn sohasida
-++++
-Furye qatorlari qanday usulda tasvirlar va video fayllarni tahlil qilishda qo'llaniladi?
-====
-#To'lqinlarni ajratish va kompressiya qilish orqali
-====
-Faqat ranglarni ajratish orqali
-====
-Tasvirlarni kattalashtirish orqali
-====
-Tasvirlarni rasmga aylantirish orqali
-++++
-Fazodagi egri chiziq qanday beriladi?
-====
-#Vektor funksiyasi yordamida
-====
-Oddiy algebraik tenglama orqali
-====
-Matritsalar orqali
-====
-Doimiy vektor yordamida
-++++
-Vektor funksiyaning hosilasi fizikada nimani bildiradi?
-====
-#Harakat qilayotgan nuqtaning tezligini
-====
-Yo‘nalishni o‘zgartirishni
-====
-Kuchni o‘lchashni
-====
-Aylanish burchagini
-++++
-Vektor funksiyaning integrali fizikada ko‘pincha nimani anglatadi?
-====
-#Bosib o‘tilgan yo‘lni
-====
-Chastotani
-====
-Og‘irlik kuchini
-====
-Doiraviy harakatni
-++++
-Egrilik nimani o‘lchaydi?
-====
-#Egri chiziqning qanday darajada bukilganini
-====
-Chiziqning uzunligini
-====
-Tezlikni
-====
-Nuqtaning og‘irligini
-++++
-Ikki o‘zgaruvchili funksiyaning grafigi qanday fazoda tasvirlanadi?
-====
-#Uch o‘lchovli fazoda (3D)
-====
-Ikki o‘lchovli fazoda (2D)
-====
-Vaqt o‘qi bilan
-====
-Raqamli koordinata sistemada
-++++
-Xususiy hosila nima?
-====
-#Faqat bitta o‘zgaruvchiga nisbatan olinadigan hosila
-====
-To‘liq hosilaning kvadrati
-====
-Funksiya grafigining yuqori chekkasi
-====
-Integralning teskari shakli
-++++
-Aralash xususiy hosilalar haqida qaysi teorema to‘g‘ri?
-====
-#Agar hosilalar uzluksiz bo‘lsa, aralash hosilalar teng bo‘ladi
-====
-Har doim aralash hosilalar teng emas
-====
-Faqat x ga nisbatan hosila olinadi
-====
-Hosila olishda integral kerak bo‘ladi
-++++
-Agar f(x,y) funksiyaning to‘la differensiali mavjud bo‘lsa, bu nimani bildiradi?
-====
-#Funksiya har ikki yo‘nalishda differensiallanadi
-====
-Funksiya faqat x bo‘yicha o‘zgaradi
-====
-Funksiya grafigi doira shaklida bo‘ladi
-====
-Funksiya har doim nolga teng
-++++
-Ekstremumni aniqlashda foydalaniladigan ikkinchi tartibli hosilalar asosida tuziladigan ifoda qanday ataladi?
-====
-#Diskriminant (yoki ikkinchi hosilalar determinanti)
-====
-Gradient
-====
-Divergensiya
-====
-Integral
-++++
-Ikki karrali integralning geometrik ma'nosi nima?
-====
-#Funksiya ostidagi hajmni ifodalaydi
-====
-Egri chiziq uzunligini topadi
-====
-Vektor hosilasini beradi
-====
-Massani topadi
-++++
-Agar integrallash sohasi to‘g‘ri to‘rtburchak bo‘lsa, ikki karrali integral qanday hisoblanadi?
-====
-#Ketma-ket oddiy ikki integral sifatida
-====
-Faqat grafigini chizish orqali
-====
-Hosila olish orqali
-====
-Limit topish orqali
-++++
-Ikki karrali integral fizikada nimani ifodalashi mumkin?
-====
-#Yuzaga taqsimlangan massani
-====
-Chastotani
-====
-Tezlikni
-====
-Egrilikni
-++++
-Uch karrali integral orqali quyidagilardan qaysi biri hisoblanmaydi?
-====
-#Egri chiziq uzunligi
-====
-Hajm
-====
-Massaning taqsimoti
-====
-Zichlik bo‘yicha umumiy massa
-++++
-Agar fazoviy soha to‘g‘ri paralelepiped shaklida bo‘lsa, uch karrali integral qanday hisoblanadi?
-====
-#Oddiy ketma-ket integrallar orqali
-====
-Faqat chiziqli algebra yordamida
-====
-Cheksiz limit orqali
-====
-Matritsa determinantidan foydalangan holda
-++++
-(2+3i)(1-i) kompleks sonning mavhum qismini toping?
-====
-#1
-====
-5
-====
--1
-====
--5
-++++
-(1+3i)(2+i)+(-2+i)(3-i) ifodaning qiymatini toping?
-====
-#-6+12i
-====
-5-11i
-====
-6-12i
-====
-8-4i
-++++
-(2-i)/(1-2i) kompleks sonning mavhum qismini toping?
-====
-1/5
-====
-#3/5
-====
--1/5
-====
-2/5
-++++
-(2+3i)(1-i) kompleks sonning haqiqiy qismini toping?
-====
-1
-====
-#5
-====
--1
-====
--5
-++++
-(2-i)/(1-2i) kompleks sonning haqiqiy qismini toping?
-====
-1/5
-====
-#4/5
-====
--1/5
-====
-2/5
-++++
-(1+i)(-2+2i) kompleks sonning argumenti nimaga teng?
-====
-#π
-====
--π
-====
-π/2
-====
-0
-++++
-1+i kompleks sonning argumenti nimaga teng?
-====
-#π/4
-====
--π/4
-====
-π/2
-====
-0
-++++
--2+2i kompleks sonning argumenti nimaga teng?
-====
-#3π/4
-====
--π/4
-====
-π/2
-====
-0
-++++
--3-4i kompleks sonning modulini toping
-====
-4
-====
-#5
-====
--5
-====
-3
-++++
-(4+3i)+(-2-3i) kompleks sonni modulini toping
-====
-7
-====
-3
-====
-#2
-====
-4
-++++
-(12+3i) kompleks sonni mavhum qismini toping?
-====
-#3
+To’rtta talaba laboratoriya ishida nisbiy xatolikni turlicha aniqladi. Bularning qay birining natijasi qoniqarsiz deb xisoblanadi?
 ==== 
-12
-====
--12
-====
--3
+1 
+==== 
+3 
+==== 
+5 
+==== 
+#7
 ++++
-(12+3i) kompleks sonni haqiqiy qismini toping?
-====
+Istemolchidagi kuchlanish tushuvi 35 V. Agar bu istemolchining elektr qarshiligi 50 Ω bo‘lsa, undagi tok kuchi (A) ni aniqlang. I=U/R
+==== 
+0,1
+=== 
+0,5 
+==== 
+0,9
+==== 
+#0,7
+++++
+Agar difraksion panjaradan o‘tishdagi kuzatilayotgan maximumning maxsimal tartib raqami 3 ga teng bo‘lsa, maximumlar sonini toping.
+==== 
 3
 ==== 
-#12
-====
--12
-====
--3
+#7
+==== 
+5
+==== 
+9
 ++++
-(1+3i)(2+i)+(-2+i)(3-i) kompleks sonni haqiqiy qismini toping?
+Oq yorug‘lik shisha prizmaga tushirilmoqda. Shishadan o‘tgan nur necha xil rangga ajraladi?
+==== 
+5
+==== 
+#7
+==== 
+9
+==== 
+3
+++++
+
+Elektromagnit to‘lqinlar shkalasidan olingan quyidagi nurlarning qay birini to‘lqin uzunligi eng katta?
+==== 
+Sariq
+==== 
+Binafsha 
+==== 
+Yashil 
+==== 
+#Qizil 
+++++
+Elektromagnit to‘lqinlar shkalasidan olingan quyidagi nurlarning qay birini chastotasi eng katta?
+==== 
+Sariq
+==== 
+#Binafsha 
+==== 
+Yashil 
+==== 
+Qizil 
+++++
+So‘nuvchi tebranishlarning davri T=3 s, so‘nishning logarifmik dekrementi θ=2,1, boshlang‘ich fazasi esa nolga teng. So‘nish kefitsentini toping. 
+==== 
+0,3
+==== 
+0,5 
+==== 
+#0,7 
+==== 
+0,9
+++++
+So‘nuvchi tebranishlarning tenglamasi x=0,5 e-0,7t cos (3πt+7) ko‘rinishda bo‘lsa, tebranishning boshlang’ich fazasini (rad) toping.
+==== 
+3
+==== 
+5 
+==== 
+#7 
+==== 
+9
+++++
+
+So‘nuvchi tebranishlarning tenglamasi x=0,5 e-0,7t cos (1,4πt+7) ko‘rinishda bo‘lsa, tebranishning chastotasini toping.
+==== 
+0,3         
+==== 
+0,5 
+==== 
+#0,7                          
+==== 
+0,9
+++++
+So‘nuvchi tebranishlarning tenglamasi x=0,07 e-0,7t cos (1,4πt+7) (m) ko‘rinishda bo‘lsa, tebranishning boshlang‘ich amplitudasini toping.
+==== 
+3         
+==== 
+5 
+==== 
+#7                          
+==== 
+9
+++++
+Moddaning nisbiy dielektrik singdiruvchanligi 24,5 ga va nisbiy magnit kirituvchanligi 2 ga teng bo‘lsa, bu moddaning optik zichligini toping. 
+==== 
+3         
+==== 
+5 
+==== 
+#7                          
+==== 
+9
+++++
+
+Yorug‘likning biror shaffof muxitdagi tezligi 4,3*107 m/s bo‘lsa, bu muhitning optik  zichligini toping. 
+==== 
+#≈7
+==== 
+≈9
+==== 
+≈11
+==== 
+≈5
+++++
+Ikki xil  manbadan chiqayotgan kogerent to‘lqinlar qo‘shilishi natijasida interferensiya qaysi soxada maximumga erishadi?
+==== 
+yopiq soxada
+==== 
+erkin soxada
+==== 
+ochiq soxa
+==== 
+#ikki xil manbadan kogerent  to‘lqinlar chiqmaydi
+++++
+G‘altak ipni quyoshli kunda yerga yaqinlashtirilganda soya xosil bo’ladi. Uni yerdan yuqoriga ko‘tarila boshlaganda soya xiralashadi va asta sekin ko‘rinmay qoladi. Bunga sabab nima?
+==== 
+#yorug’lik difraksiyasi
+==== 
+yorug‘likning qaytishi
+==== 
+yorug'lik interferensiyasi
+==== 
+yorug‘lik dispersiyasi
+++++
+Ikki kogerent to‘lqinlarning qo‘shilishi natijasida ayrim soxalarda maximumga va ayrim soxalarda minimumga erishish xodisasi …. deyiladi. Nuqtalar o‘rnini tog’ri to‘latuvchi javobni  toping.
+==== 
+yorug’lik difraksiyasi
+==== 
+yorug‘likning qaytishi
+==== 
+#yorug'lik interferensiyasi
+==== 
+yorug‘lik dispersiyasi
+++++
+Chelak tubida tanga yotibdi. Chelakka suv quyilganida tanganing ko‘rinishi yuqoriroqqa ko‘tariladi. Bunga sabab nima?
+==== 
+yorug’lik difraksiyasi
+==== 
+#yorug‘likning sinishi
+==== 
+yorug'lik interferensiyasi
+==== 
+yorug‘lik dispersiyasi
+++++
+Osmonda kamalak nimaning xisobiga xosil bo‘ladi?
+==== 
+yorug’lik difraksiyasi
+==== 
+yorug‘likning sinishi
+==== 
+yorug'lik interferensiyasi
+==== 
+#yorug‘lik dispersiyasi
+++++
+Agar yarim o‘tkazgich elektr tokini asosan elektronlar xisobiga o‘tkazsa bu qanday  turdagi  yarim o‘tkazgich xisoblanadi?
+==== 
+#donorli 
+==== 
+akseptorli
+==== 
+neytronli
+==== 
+plazmali 
+++++
+Agar yarim o‘tkazgich elektr tokini  asosan kovaklar xisobiga o‘tkazsa bu qanday  turdagi  yarim o‘tkazgich xisoblanadi?
+==== 
+donorli 
+==== 
+#akseptorli
+==== 
+neytronli
+==== 
+plazmali 
+++++
+Gazning kuchli ionlashgan xolatiga nima deyiladi? 
+==== 
+donor
+==== 
+akseptor
+==== 
+neytron
+==== 
+#plazma
+++++
+
+Agar tebranish sin yoki cos qonuniga bo‘ysunsa bunday tebranishlarga …. deyiladi. Nuqtalar o‘rnini to‘g‘ri mazmunda to‘ldiring. 
+==== 
+erkin tebranish
+==== 
+#garmonik tebranish
+==== 
+majburiy tebranish
+==== 
+mexanik tebranish
+++++
+Agar tebranish davriy tashqi ta’sir xisobiga sodir bo‘lsa bunday tebranishlarga …. deyiladi. Nuqtalar o‘rnini to‘g‘ri mazmunda to‘ldiring.
+==== 
+erkin tebranish
+==== 
+garmonik tebranish
+==== 
+#majburiy tebranish
+==== 
+mexanik tebranish
+++++
+Agar tebranish boshlang’ich tashqi ta’sirxisobiga sodir bo‘lsa, bunday tebranishlarga ….. deyiladi. Nuqtalar o‘rnini to‘g‘ri mazmunda to‘ldiring.
+==== 
+#erkin tebranish
+==== 
+garmonik tebranish
+==== 
+majburiy tebranish
+==== 
+mexanik tebranish
+++++
+Davriy takrorlanadigan harakatlarga ….. deyiladi. Nuqtalar o‘rnini to‘g‘ri mazmunda to‘ldiring.
+==== 
+erkin tebranish
+==== 
+garmonik tebranish
+==== 
+majburiy tebranish
+==== 
+#mexanik tebranish
+++++
+
+
+Matematik mayatnikning uzunligi 16 marta ortsa, uning tebranish davri qanday o‘zgaradi?
+==== 
+#4 marta ortadi 
+==== 
+3 marta kamayadi 
+==== 
+o‘zgarmaydi
+==== 
+aniqlab bo‘lmaydi
+++++ 
+Prujinali mayatnikdagi yukning massasi 16 marta kamaysa, uning tebranish chastotasi qanday o‘zgaradi? 
+==== 
+#4 marta ortadi 
+==== 
+3 marta kamayadi 
+==== 
+o‘zgarmaydi
+==== 
+aniqlab bo‘lmaydi
+++++ 
+Quyidagilar orasidan qay biri ortiqcha? 
+==== 
+Difraksiya
+==== 
+Qutblanish 
+==== 
+Interferensiya 
+==== 
+#Yorug‘lik kuchi
+++++
+Bog‘lanish energiyasi 63 J bo‘lishi uchun zarraning massasi qancha (pikogramm) bo‘lishi kerak?
+==== 
+3
+==== 
+5
+==== 
+#7
+==== 
+9
+++++
+Fokus masofasi 10,5 sm bo‘lgan yig‘uvchi linzadan 21 sm masofaga joylashtirilgan buyumning xaqiqiy tasviri linzadan qanday masofada (sm) xosil bo‘ladi? 
+==== 
+15
+==== 
+19
+==== 
+#21
+==== 
+25
+++++
+Mendeleyev davriy jadvalining 51-tartib raqamida surma joylashgan bo‘lib, undagi nuklonlar soni 121 ga teng. Bu elementdagi neytronlar sonini toping.
+==== 
+65
+==== 
+27
 ====
+#70
+==== 
+73
+++++
+Sоlеnоiddan qanday (A) tоk o‘tganda, unda 0,8 mWb mаgnit оqimi hоsil bo‘lish jarayonida, mаgnit mаydоn enеrgiyasi 5,6 mJ ga teng bo‘ladi?
+==== 
+#14
+==== 
+13
+==== 
+9
+==== 
+15
+++++
+Induktivligi 168 mH bo‘lgan g‘altakdan 0,4 5 tok o‘tmoqda. G‘altakning mаgnit mаydоnning enеrgiyasini (mJ) toping.
+==== 
+#21
+==== 
+19
+==== 
+23
+==== 
+25
+++++
+
+
+
+
+
+Konturni kesib o‘tuvchi magnit oqimi 0,5 s ichida 5 Wb dan 12 Wb gacha tekis o‘zgardi. Konturda hosil bo‘lgan induksiya EYuKni (V) toping
+==== 
+#14
+==== 
+25
+==== 
+37
+==== 
+13
+++++
+Tok kuchi 0,7 A bo‘lganda induktivligi 60 mH bo‘lgan g‘altakda qanday magnit oqimi (mWb) yuzaga keladi?
+==== 
+#42
+==== 
+39
+==== 
+45
+==== 
+33
+++++
+Induktivligi 2 H bo‘lgan g‘altakda o‘zinduksiya EYuKning qiymati 56 V bo‘lishi uchun g‘altakdan o‘tayotgan tokning o‘zgarish tezligi qanday bo‘lishi kerak?
+==== 
+#28
+==== 
+10 
+==== 
+30
+====
+32
+++++
+Rаdiusi 2π (sm) bo‘lgаn g‘altakdan 3,5 А tоk оqmоqdа. G‘altak ichiga mаgnit singdiruvchаnligi 20 bo‘lgаn fеrrоmаgnit o‘zаgi kiritilsа, g‘аltаk ichidаgi mаgnit mаydоn induksiyasi (mkT) qаndаy bo‘lаdi? Galtakdagi o‘ramlar soni 150 ga teng.
+==== 
+#7
+==== 
+11
+==== 
+97
+==== 
+13
+++++
+Son jixatdan magnit maydon oqimining o‘zgarish tezligiga teng bo‘lgan fizik kattalik bu … . Nuqtalar o‘rnini to‘g‘ri mazmunda to‘ldiring.
+==== 
+Kattalik
+==== 
+Magnit oqimi
+==== 
+Bosim 
+==== 
+#Induksion EYuK
+++++
+Magnit maydonning kuchlanganligi H=140/π kA/m,Vakuumda shu maydonning
+magnit induktsiyasi B (mT) aniqlansin.
+==== 
+#56
+==== 
+65
+==== 
+71
+==== 
+43
+++++
+I=7 A tok oqayotgan ingichka xalqa markazidagi magnit induktsiya (mkT) topilsin.
+Halqaning radiusi r = 5π sm.
+==== 
+#28
+==== 
+17
+==== 
+19
+==== 
+23
+++++
+To’g’ri cheksiz uzun o’tkazgichdan I=7 A tok oqmoqda O’tkazgichdan r=5sm uzoklikda turgan nuqtadagi magnit induktsiya B (mkT) aniqlansin.
+==== 
+#28
+==== 
+27
+==== 
+33 
+==== 
+35
+++++
+
+Musbat zaryadga magnit maydon tomonidan ta’sir qiluvchi Lorens kuchi yo‘nalishini qaysi qonun asosida aniqlanadi?
+==== 
+#chap qo‘l qonuni
+==== 
+o‘ng qo‘l qonuni
+==== 
+Nyuton qonuni
+==== 
+Gey-Lyussak qonuni
+++++
+Magnit maydonida joylashtirilgan tokli o‘tkazgichga maydon tomonidan ta’sir qiluvchi Amper kuchi yo‘nalishi qaysi qonun asosida aniqlanadi?
+====
+#chap qo‘l qonuni
+==== 
+o‘ng qo‘l qonuni
+==== 
+Nyuton qonuni
+==== 
+Gey-Lyussak qonuni
+++++
+O‘tkazgichdagi tok kuchi 3,5 marta ortib, tekshirilayotgan masofa 2 marta kamaytirildi. Bu nuqtadagi magnit maydon induksiyasi avvalgisidan qanday farq qiladi?
+==== 
+#7 marta ortadi
+==== 
+5 marta kamayadi
+==== 
+3 marta ortadi
+==== 
+9 marta kamayadi
+++++ 
+Magnit maydonidagi konturga ta’sir qiluvchi kuchlar momenti 63 mN*m bu maydonnig magnit induksiyasi 9 mT bo‘lsa kontur momentini (Amp*m2) toping. 
+==== 
+#7
+==== 
+9
+==== 
+11
+====
+13
+++++
+Agar nuqtaning tebranish amplitudasi A = 7 sm, tebranayotgan nuqtaning maksimal tezligi υmax = 30 sm/s, va boshlang‘ich fazasi φ = 10o bo‘lsa, nuqtaning garmonik tebranma xarakat tenglamasini yozing.
+==== 
+#x = 0,7 cos (2t + π/18), m
+==== 
+x = 0,15 cos (2t + π/15), m
+==== 
+x = 0,13 cos (2t + π/8), m
+====
+x = 0,15 cos (3t + π/6), m
+++++
+Moddiy nuqta A = 70 sm amplituda va T = 5 s davr bilan garmonik tebranma xarakat qilmoqda. Moddiy nuqtaning maksimal tezlanishini (mm/s2) aniqlang. π2=10 deb xisoblansin.
+==== 
+#112
+==== 
+45
+==== 
+107
+====
+97
+++++
+Bir xil yo‘nalish va bir xil davrga ega bo‘lgan ikki garmonik tebranishlar A1 = 40 sm va A2 = 80 sm amplitudalarga ega bo‘lib, fazalar farqi φ = 45o ga teng. Natijaviy tebranish amplitudasini aniqlang.
+==== 
+#112
+==== 
+123
+==== 
+45
+==== 
+89
+++++
+Bir xil T = 4 s davr va bir xil amplitudalar A = 5 sm ga ega bo‘lgan bir xil yo‘nalishdagi ikki garmonik tebranishlarning fazalar farqi π/4 ga teng. Agar tebranishlardan birining boshlang‘ich fazasi 0 ga teng bo‘lsa, tebranishlarning qo‘shilishidan xosil bo‘lgan
+natijaviy tebranishning xarakat tenglamasini yozing.
+==== 
+# x = 9,24 cos (πt/2 + π/8), sm
+==== 
+x = 9,2 cos (πt/5 + π/3), sm
+==== 
+x = 9,25 cos (πt/6 + π/7), sm
+==== 
+x = 9,4 cos (πt/3 + π/5), sm
+++++
+Elektr tebranish konturi induktivligshi L=25 mGn bo‘lgan indutiv g‘altakdan, sig‘imi C=10 mkF bo‘lgan kondensatordan va qarshiligi R= 1 Om bo‘lgan rezistordan iborat. Ushbu tebranish konturi uchun tebranishning so‘nish logarifmik dekrementini aniqlang.
+==== 
+#0,063
+==== 
+0,045
+==== 
+0,027
+==== 
+0,012
+++++
+Yung tajribasida tirqishlar orasidagi masofa d = 1mm, tirqishlardan ekrangacha bo‘lgan masofa esa l = 3 m bo‘lsa, 3-qorong‘i soxaning vaziyatini (mm) aniqlang. Tirqishlar to‘lqin uzunligi λ=0,5 mkm bo‘lgan yorug‘lik bilan yoritilmoqda.
+==== 
+#5,25
+==== 
+3,24
+==== 
+2,56
+==== 
+1,15
+++++
+Agar binafsha yorug‘lik filtrini (0,4 mkm) qizil (0,7 mkm) yorug‘lik filtri bilan almashtirilsa, Frenel ko‘zgulari bilan o‘tkazilgan tajribadagi interferension soxa kengliklari necha marta o‘zgaradi?
+==== 
+#1,75
+==== 
+2,5
+==== 
+3,14
+==== 
+4,56
+++++
+Nuqsonli ko‘z egasiga -3 (Dptr) tartibdagi ko‘zoynak taqqan xolatda kitob o‘qishi tavsiya etilishi uchun uni ko‘zining optik kuchi qanday (Dptr) bo‘lishi kerak?
+==== 
+#+7
+==== 
++5
+==== 
+-5
+==== 
++3
+++++
+Metall sirtiga tushayotgan foton energiyasi 20 eV, fotoelektronlarning maksimal kinetik energiyasi 6 eV bo‘lsa, fotoeffektning qizil chegarasini (eV) aniqlang.
+==== 
+#14
+==== 
+5
+==== 
+18
+==== 
+25
+++++
+Dielektrik singdiruvchanligi 24,5 va magnit kirituvchanligi ga teng bo‘lgan moddaning optik zichligini baholang.
+==== 
+#7
+==== 
+9
+==== 
+10
+==== 
+6
+++++
+Elektr qarshiligi 140 Ω bo‘lgan o‘tkazgichdan 0,3 A tok oqishi uchun bu qismdagi kuchlanish tushuvi qanday bo‘lishi kerak?
+==== 
+#42
+==== 
+15
+==== 
 12
-====
+==== 
+20
+++++
+Nur tushirilayotgan absalyut qora jism qaytarish koefitsenti 0,4 ga teng bo‘lgan boshqa jism bilan almashtirilsa yorug‘lik bosimi qanday o‘zgaradi?
+==== 
+#1,4 marta ortadi
+==== 
+1,2 marta kamayadi
+==== 
+o‘zgarmaydi
+==== 
+1,6 marta ortadi
+++++
+Tabiiy modda tarkibidagi birinchi izatopning massa ulushi 0,3 ga teng bo‘lsa ikkinchi izatopning massa ulushi qanday?
+==== 
+#0,7
+==== 
+0,5
+==== 
+0,6
+==== 
+0,2
+++++
+Tarkibidagi pratonlar soni bir hil bo‘lib, nuklonlar soni bilan farq qiladigan elementlar …. xisoblanadi. Nuqtalar o‘rnini to‘g‘ri mazmunda to‘ldiring.
+==== 
+#izatoplar
+==== 
+izobarlar 
+==== 
+izomerlar
+==== 
+dielektriklar
+++++
+Mendeleyev davriy jadvalining 13-tartib raqamida alyuminiy joylashgan bo‘lib, uning nisbiy atom massasi 27 ga teng. Alyuminiydagi neytronlar sonini aniqlang.
+==== 
+#14
+==== 
+10
+==== 
 6
-====
-#-6
-====
--12
+==== 
+17
 ++++
-(1+3i)(2+i)+(-2+i)(3-i) kompleks sonni mavhum qismini toping?
-====
-#12
-====
-6
-====
--6
-====
--12
+Poloniyning nisbiy atom massasi 209 ga teng va undagi neytronlar soni 125 ta eknligini bilgan xolda uning Mendeleyev davriy jadvalidagi tartib raqamini aniqlang.
+==== 
+#84
+==== 
+75
+==== 
+90
+==== 
+60
 ++++
-(2-i)/(1-2i) kompleks sonni haqiqiy qismini toping?
-====
-1/5
-====
-#4/5
-====
--1/5
-====
-2/5
+Alyuminiyning massa soni 27 ga teng ekanligi ma’lum bo‘lsa, alyuminiy yadrosining radiusini (F) toping. r0=1,4 F deb oling.
+==== 
+#4,2
+==== 
+1,6
+==== 
+2,4
+==== 
+3,4
 ++++
-(1+i)(-2+2i) kompleks sonning argument nimaga teng?
+Yorug‘lik qaytarish koefitsenti 0 ga teng bo‘lgan modda qaytarish koefitsenti 0,4 ga teng bo‘lgan modda bilan almashtirildi. Bu xolatda yorug‘lik bosimi qanday o‘zgaradi?
+==== 
+#1,4 marta ortadi
+==== 
+2 marta kamayadi
+==== 
+o‘zgarmaydi
+==== 
+2 marta kamayadi
+
+
+
+
+Как изменяется амплитуда при гармоническом затухающем колебании?
 ====
-#π
+Уменьшается по закону синуса;
 ====
--π
+Уменьшается по закону косинуса;
 ====
-π/2
+#Уменьшается по экспоненциальному закону;
 ====
-0
-++++
-(1+i) kompleks sonning argumenti nimaga teng?
+Уменьшается линейно.
+
+
+
+
+
++++++
+
+
+
+
+
+Как изменится частота колебаний математического маятника, если уменьшить амплитуды колебания в 3 раза?
 ====
-#π/4
+увеличится в 3 раза;
 ====
--π/4
+уменьшиться в 3 раза;
 ====
-π/2
+#не изменится;
 ====
-0
-++++
-(-2+2i) kompleks sonning argumenti nimaga teng?
+увеличится в 9 раз.
+
+
+
+
+
++++++
+
+
+
+
+
+Насколько уменьшится интенсивность света проходящейся через поляризатор?
 ====
-#3π/4
+#в 2 раза;
 ====
--π/4
+в 4 раза;
 ====
-π/2
+в 6 раз;
 ====
-0
-++++
-(1-i) kompleks sonning argumenti nimaga teng?
+в 8 раз.
+
+
+
+
+
++++++
+
+
+
+
+
+Из двух имеющихся математических маятников первый имеет длину 25 см, а второй 1 м. Период каких из этих маятников меньше и во сколько раз?
 ====
-3π/4
+#первое в два раза;
 ====
-#-π/4
+второе в два раза;
 ====
-π/2
+первое в четыре раза;
 ====
-0
-++++
-(1-3i) kompleks sonning argumenti nimaga teng?
+второе в четыре раза.
+
+
+
+
+
++++++
+
+
+
+
+
+Длина математического маятника, если его максимальное тангенциальное ускорение равно а и амплитуда колебания А, равна … .
 ====
-arctg3
+Aga;
 ====
-#-arctg3
+#Ag/a;
 ====
-π/2
+ag/A;
 ====
-0
-++++
-(1+3i) kompleks sonning argumenti nimaga teng?
+Aa/g.
+
+
+
+
+
++++++
+
+
+
+
+
+Колебательный контур состоит из катушки и двух последовательно соединенных конденсаторов с емкостью с каждый. Как изменится частота свободных электромагнитных колебаний контура, если конденсаторы подсоединить параллельно?
 ====
-#arctg3
+увеличится в 2 раза;
 ====
--arctg3
+#уменьшится в 2 раза;
 ====
-arctg1/3
+увеличится в 4 раза;
 ====
--arctg1/3
-++++
-(2-3i) kompleks sonning argumenti nimaga teng?
+уменьшится в 4 раза.
+
+
+
+
+
++++++
+
+
+
+
+
+Уравнение колебаний источника волны  . Скорость распространения колебаний в среде 600 м/с. Чему равна длина волны (м)?
 ====
-arctg3/2
+10;
 ====
-#-arctg3/2
+4;
 ====
-arctg2/3
+#3;
 ====
--arctg2/3
-++++
-(2+3i) kompleks sonning argumenti nimaga teng?
+2.
+
+
+
+
+
++++++
+
+
+
+
+
+Как изменится период электромагнитных колебаний, если внутрь катушки колебательного контура ввести сердечник из ферромагнетика?
 ====
-#arctg3/2
+#увеличится;
 ====
--arctg3/2
+уменьшится;
 ====
-arctg2/3
+не изменится;
 ====
--arctg2/3
-++++
-(2-i)/(1-2i) kompleks sonning modulini toping.
+сначало уменьшится, потом увеличится.
+
+
+
+
+
++++++
+
+
+
+
+
+Как меняется интесивность света продящийся через поляризатор и анализатор, если угол между главными плоскостьями составляет φ = 60о.
 ====
-5/4
+уменьшится в 2 раза;
 ====
-4/5
+#уменьшится в 4 раза;
 ====
-#1
+уменьшится в 6 раза;;
 ====
-3/5
-++++
-(4+3i) kompleks sonning modulini toping.
+уменьшится в 8 раза;.
+
+
+
+
+
++++++
+
+
+
+
+
+Укажите правильное расположение нежеперечисленных видов электромагнитного излучения в порядке увеличение их частоты.
 ====
-4/3
+Ультрафиолетовое, Рентгеновское, инфракрасное, радиоволны;
 ====
-3/4
+Рентгеновское, Рентгеновское, инфракрасное,ультрафиолетовое;
 ====
-#5
+#Радиоволны, инфракрасное, ультрафиолетовое, рентгеновское;
 ====
-4
-++++
-(4-3i) kompleks sonning modulini toping.
+Рентгеновское, ультрафиолетовое, инфракрасное, радиоволны.
+
+
+
+
+
++++++
+
+
+
+
+
+При каких излучениях фотон имеет наименьшую энергию?
 ====
-4/3
+Ультрафиолетовое;
 ====
-3/4
+#Инфракрасное;
 ====
-#5
+Синее;
 ====
-4
+Красное.
+
+
+
+
+
++++++
+
+
+
+
+
+В данной точке среды возникает интерференционный максимум, если...
+====
+#разность хода волн равна чётному числу полуволн;
+====
+разность хода волн равна нечётному числу полуволн;
+====
+разность хода волн равна разности фаз волн;
+====
+разность хода волн равна нулю.
+
+
+
+
+
++++++
+
+
+
+
+
+В данной точке среды возникает интерференционный минимум, если...
+====
+разность хода волн равна чётному числу полуволн;
+====
+#разность хода волн равна нечётному числу полуволн;
+====
+разность хода волн равна разности фаз волн;
+====
+разность хода волн равна нулю.
+
+
+
+
+
++++++
+
+
+
+
+
+Интерференцию от двух ламп накаливания нельзя наблюдать, так как световые волны , излучаемые ими…
+====
+слишком малой интенсивности;
+====
+слишком большой интенсивности;
+====
+неполяризованы;
+====
+#не когерентны.
+
+
+
+
+
++++++
+
+
+
+
+
+При повышении температуры проводимость собственных полупроводников _______________.
+====
+уменьшается
+====
+#увеличивается
+====
+не зависит от температуры
+====
+зависит от вида полупроводников
+
+
+
+
+
++++++
+
+
+
+
+
+Как меняется энергетическая светимость чёрного тела при смещения длина волны соответствующей максимуму спектральной плотности энергетической светимости с 360 нм на 720 нм.
+====
+Уменьшится в 2 раза;
+====
+Уменьшится в 4 раза;
+====
+Уменьшится в 8 раза;
+====
+#Уменьшится в 16 раза.
+
+
+
+
+
++++++
+
+
+
+
+
+Укажите виды фотоэффекта.
+====
+Внешный, вентильный, внутренный;
+====
+#Внешный, внутренный;
+====
+Внешный, внутренный, тепловой;
+====
+Внешный, внутренный, смещанный.
+
+
+
+
+
++++++
+
+
+
+
+
+Какое из нижеперечисленных определений не относится к фотоэффекту?
+====
+Фототок насыщения прямо пропорционально интенсивности света;
+====
+Максимальная скорость фотоэлектронов зависит от частоты света и не зависит от интенсивности освещения;
+====
+#Тело излучает свет порциями, а не непрырыно;
+====
+Для каждого тело имеется своя красная граница фотоэффекта.
+
+
+
+
+
++++++
+
+
+
+
+
+При повышении температуры удельное сопротивление собственных полупроводников _______________.
+====
+#уменьшается
+====
+увеличивается
+====
+не зависит от температуры
+====
+зависит от вида полупроводников
+
+
+
+
+
++++++
+
+
+
+
+
+В зависимости от степени химической чистоты полупроводники подразделяют на ____________ и _______________ .
+====
+#собственные и примесные
+====
+чистые и примесные
+====
+электронные и примесные
+====
+собственные и электронные
+
+
+
+
+
++++++
+
+
+
+
+
+Пружинный маятник колеблится с периодом Т. Если массу груза увеличить на 60 г, период увеличивается в два раза. Определить массу груза (г). 
+====
+10;
+====
+#20;
+====
+30;
+====
+40.
+
+
+
+
+
++++++
+
+
+
+
+
+Где правильно указан смысл первого постулата Бора?
+====
+В атоме электроны движется по круговым орбитам и излучают при этом электромагнитные волны;
+====
+#Атом может находится только в одном из стационарных состояниях, в которых он не излучает электромагнитные волны; 
+====
+при переходе из одного стационарного состояния в другое атом поглощает или излучает квант электромагнитного излучения; 
+====
+А и В.
+
+
+
+
+
++++++
+
+
+
+
+
+Какие спектральные серии излучения водорода находятся в ультрафиолетеовой области спектра? 
+====
+#Лаймана;
+====
+Бальмера;
+====
+Пшена;
+====
+Лаймана и Бальмера.
+
+
+
+
+
++++++
+
+
+
+
+
+Где правильно указан смысл второго постулата Бора?
+====
+В атоме электроны движется по круговым орбитам и излучают при этом электромагнитные волны;
+====
+Атом может находится только в одном из стационарных состояниях, в которых он не излучает электромагнитные волны; 
+====
+#при переходе из одного стационарного состояния в другое атом поглощает или излучает квант электромагнитного излучения; 
+====
+А и В.
+
+
+
+
+
++++++
+
+
+
+
+
+Указать ошибочное утверждение.
+====
+В теории Бора спектральные линии атома водорода возникают в результате перехода электронов с одной орбиты на другое;
+====
+В теории Бора каждый электронный переход сопровождается излучением или поглощением электромагнитной волны;
+====
+Модель атома Бора объяснила спектры водорода и водородоподобных атомов;
+====
+#при переходе с более высокой на более низкую орбиту электрон поглощает квант электромагнитного излучения.
+
+
+
+
+
++++++
+
+
+
+
+
+Расстояние между первым и пятым гребнями волны равно 40 см. Чему равна длина волны?
+====
+20 м;
+====
+40 м;
+====
+8 м;
+====
+#10 м.
+
+
+
+
+
++++++
+
+
+
+
+
+Проводимость собственных полупроводников обусловлена термической активацией электронов и их перебросом из____________ в _______________.
+====
+валентной зоны, запрещенную зону
+====
+запрещенной зоны, зону проводимости
+====
+#валентной зоны, зону проводимости
+====
+зоны проводимости, валентную зону
+
+
+
+
+
++++++
+
+
+
+
+
+Носителями тока в полупроводниках являются:
+====
+электроны
+====
+положительные и отрицательные ионы
+====
+электроны и полжительные ионы
+====
+#электроны и дырки
+
+
+
+
+
++++++
+
+
+
+
+
+Полупроводников, проводимость которых обусловлена преимущественно наличием в них дырок, называют полупровoдниками:
+====
+n- типа
+====
+#p- типа
+====
+i- типа
+====
+p-n- типа
+
+
+
+
+
++++++
+
+
+
+
+
+Полупроводников, проводимость которых обусловлена преимущественно наличием в них электронов, называют полупровoдниками:
+====
+#n- типа
+====
+p- типа
+====
+i- типа
+====
+p-n- типа
+
+
+
+
+
++++++
+
+
+
+
+
+Примесь придающий в полупроводник электронный тип проводимости называется:
+====
+чужеродный
+====
+собственный
+====
+#донорный
+====
+акцепторный
+
+
+
+
+
++++++
+
+
+
+
+
+Примесь придающий в полупроводник дырочный тип проводимости называется:
+====
+чужеродный
+====
+собственный
+====
+донорный
+====
+#акцепторный
+
+
+
+
+
++++++
+
+
+
+
+
+Предмет находится на расстоянии а = 0,1 м от переднего фокуса собирающей линзы, а экран, на котором получается четкое изображение предмета – на расстоянии b = 0,4 м от заднего фокуса линзы. Найдите увеличение Г предмета.
+====
+#2,0;
+====
+2,5;
+====
+3,0;
+====
+3,5.
+
+
+
+
+
++++++
+
+
+
+
+
+Груз массой 1 кг совершает колебания под действием пружины жесткостью 400 Н/м. Каково максимальное смещение груза из положения равновесие, если в положении равновесия модуль его скорости равен 4 м/с.
+====
+0,04 м;
+====
+0,1 м;
+====
+0,4 м;
+====
+#0,2 м.
+
+
+
+
+
++++++
+
+
+
+
+
+Как изменится период колебаний груза, подвешенное на резиновом жгуте, если жгут сложить пополам и подвесить на него тот же груз?
+====
+Увеличиться в 2 раза;
+====
+Увеличиться в 4 раза;
+====
+Не изменится;
+====
+#Уменьшится в 2 раза.
+
+
+
+
++++++
+
+
+
+
+
+Период колебаний волны на поверхности воды равно 2 с, расстояние между соседними волнами – 20 см. Определить скорость волн (мм/с).
+====
+1;
+====
+10;
+====
+#100;
+====
+0,1.
+
+
+
+
+
++++++
+
+
+
+
+
+Лодка качается на волнах, которые распространяются со скоростью 1,5 м/с. Расстояние между двумя ближайшими гребнями волны 9 м. Укажите период колебания лодки.
+====
+1,5 с;
+====
+3 с;
+====
+#6 с;
+====
+9 с.
+
+
+
+
+
++++++
+
+
+
+
+
+Наблюдатель определил, что расстояние между соседними гребнями волн 12 м. Чему будет равна скорость распространении волны, если гребень волны проходит мимо наблюдателя через каждые 6 с?
+====
+18 м/с;
+====
+12 м/с;
+====
+6 м/с;
+====
+#2 м/с.
+
+
+
+
+
++++++
+
+
+
+
+
+Каким из перечисленных ниже свойств обладают поперечные волны, но не обладают продольные волны?
+====
+преломление;
+====
+интерференция;
+====
+#поляризация;
+====
+дифракция.
+
+
+
+
+
++++++
+
+
+
+
+
+
+Расстояние между первым и третьим гребнями волны равно 18 см. Чему равна длина волны?
+====
+#9 см;
+====
+18 см;
+====
+56 см;
+====
+72 см.
+
+
+
+
+
++++++
+
+
+
+
+
+Укажите правильное расположение нежеперечисленных видов электромагнитного излучения в порядке убывания их длин волн.
+====
+Ультрафиолетовое, Рентгеновское, инфракрасное, радиоволны;
+====
+Рентгеновское, Рентгеновское, инфракрасное,ультрафиолетовое;
+====
+#Радиоволны, инфракрасное, ультрафиолетовое, рентгеновское;
+====
+Рентгеновское, ультрафиолетовое, инфракрасное, радиоволны.
+
+
+
+
+
++++++
+
+
+
+
+
+Интерференцией света называется явление:
+====
+#наложения когерентных волн и перераспределения их энергии в пространстве;
+====
+рассеяния света неоднородностями среды;
+====
+отклонения света от прямолинейного распространения;
+====
+разложения белого света в спектр.
+
+
+
+
+
++++++
+
+
+
+
+Укажите ошибочное утверждение:
+====
+Дж. Томсон выдвину гипотезу, что атом представляет собой непрерывно заряженный положительным зарядом шар, внутри которого находятся отрицательно заряженные электроны;
+====
+Гипотеза Томсона бала опровергнута результатами Э.Резерфорда, который предложил ядерную (планетарную) модель атома; 
+====
+Макс Планк выдвынул гипотузу, что атомы излучают электромагнитные волны не непрерывно, а определенными порциями- квантами;
+====
+#Энергия кванта электромагнитного излучения, испускаемого при переходе с одной орбиты на другую, равна кинетической энергии электрона.
+
+
+
+
+
++++++
+
+
+
+
+
+Указать правильное утверждение. Основной недостаток планетарной модели атома Резерфорда заключается в том, что:
+====
+Ато не является неделимой частицей вещества и рассматривается как сложная система, состоящая из электрически заряженных частиц;
+====
+#Атом неустойчив, так как электрон вращаясь по круговой орбите и имея центростремельное ускорение, должен непрырывно излучать электромагнитные волны;
+====
+Атомное ядро имеет очень малые размеры и почти вся масса сосредоточена в его ядре;
+====
+В состав атома входят разноименно заряженные частицы.
+
+
+
+
+
++++++
+
+
+
+
+Какие спектральные серии излучения водорода находятся в видимой области спектра? 
+====
+Лаймана;
+====
+#Бальмера;
+====
+Пшена;
+====
+Лаймана и Бальмера.
+
+
+
+
+
++++++
+
+
+
+
+
+Какие квантовые числа существуют?
+====
+n – главное и l- орбитальное квантовое число;
+====
+m – магнитное кванттовое число;
+====
+s – спиновое квантовое число;
+====
+#Все вышеперечисленные.
+
+
+
+
+
++++++
+
+
+
+
+
+На основание квантовой теории Планка, поглощение или испускание телом света имеет: 
+====
+#Дискретный спектр
+====
+Непрерывный спектр
+====
+Прямолинейный 
+====
+Как дискретный, так и непрерывный
+
+
+
+
+
++++++
+
+
+
+
+
+Укажите оптическую силу объектива проекционного аппарата, если он дает двадцатикратное увеличение, когда слайд находится от него на расстоянии 21 см.
+====
+4 дптр;
+====
+#5 дптр;
+====
+6 дптр;
+====
+7 дптр.
+
+
+
+
+
++++++
+
+
+
+
+
+
+В атоме, согласно принципу Паули, в одном состоянии, определяемом четырьмя квантовыми числами, может находиться максимальное количество электронов:
+====
+3
+====
+#2
+====
+1
+====
+бесконечное число
+
+
+
+
+
++++++
+
+
+
+
+
+Укажите экспериментальное поджтверждение справедливости постулатов Бора.
+====
+#Опыты Франка и Герца;
+====
+Эффект Комптона;
+====
+Опыт Штерна;
+====
+Опыты Дэвиссона и Джермера.
+
+
+
+
+
++++++
+
+
+
+
+
+Что такая частота колебаний?
+====
+#Количество колебаний за единицу времени;
+====
+Количество колебаний за 1 с;
+====
+Указывает число полных колебаний;
+====
+Величина измеряемая в 1 Гц.
+
+
+
+
+
++++++
+
+
+
+
+
+
+
+Как изменится период пружинного маятника, если увеличить массу колеблющийся тело в 4 раза?
+====
+Увеличиться в 4 раза;
+====
+#Увеличиться в 2 раза;
+====
+Уменьшиться в 2 раза;
+====
+Уменьшиться в 4 раза.
+
+
+
+
+
++++++
+
+
+
+
+
+Световые волны когерентны, если у них …
+====
+совпадают амплитуды;
+====
+совпадают частоты;
+====
+постоянен сдвиг фаз;
+====
+#совпадают частоты и постоянен сдвиг фаз.
+
+
+
+
+
++++++
+
+
+
+
+
+Материальная точка совершает гармоническое колебание с частотой ν = 1 Гц, в момент времени t = 0 проходит положение, определяемое координатой x0 = 5 см, со скоростью υ0 = 15 см/с. Определите амплитуду колебаний.
+====
+#5,54 см;
+====
+5,74 см;
+====
+5,94 см;
+====
+6,14 см.
+
+
+
+
+
++++++
+
+
+
+
+
+Материальная точка совершает колебания согласно уравнению  . В какой-то момент времени смещение точки х1 = 15 см. При возрастании фазы колебаний в два раза смещение оказалось равным 24 см. Определите амплитуду А колебаний.
+====
+36 см;
+====
+32 см;
+====
+30 см;
+====
+#25 см.
+
+
+
+
+
++++++
+
+
+
+
+
+Через какую долю периода Т скорость точки будет равна половине ее максимальной скорости? В начальной момент, совершая гармонические колебания, точки проходит положение равновесия.
+====
+Т/2;
+====
+Т/3;
+====
+Т/4;
+====
+#Т/6.
+
+
+
+
+
++++++
+
+
+
+
+
+Емкость конденсатора в контуре С= 5 мкФ, циклическая частота колебаний контура 500 рад/с. Чему равна индуктивность (Гн) катушки?
+====
+500;
+====
+50;
+====
+1;
+====
+#0,8.
+
+
+
+
+
++++++
+
+
+
+
+
+Под действием силы 6 Н пружина удлиняется на 1,5 см. На эту пружину подвесили тело массой 1 кг. Определить его период (с) колебиния.
+====
+0,63;
+====
+#0,31;
+====
+0,16;
+====
+1,26.
+
+
+
+
+
++++++
+
+
+
+
+
+В каком направлении колеблются частицы среды в продольной волне?
+====
+Во всех направлениях;
+====
+#Только в направлении распространения волны;
+====
+В направлении, в перпендикулярном направлению распространения волны;
+====
+В направлении распространения волны и в перпендикулярном направлении.
+
+
+
+
+
++++++
+
+
+
+
+
+В каком направлении колеблются частицы среды в поперечной волне?
+====
+Во всех направлениях;
+====
+Только в направлении распространения волны;
+====
+#В направлении, в перпендикулярном направлению распространения волны;
+====
+В направлении распространения волны и в перпендикулярном направлении
+
+
+
+
+
++++++
+
+
+
+
+
+Дайте определения длины волны λ.
+====
+Расстояние проходимой волной за время t;
+====
+#Расстояние между ближайшими частицами, колеблющимися в одинаковой фазе;
+====
+Расстояние между двумя частицами, колеблющимися в противоположной фазе;
+====
+Расстояние между первым и последними частицами, колеблющимися в одинаковой фазе;
+
+
+
+
+
++++++
+
+
+
+
+
+Что такой волновой фронт?
+====
+#Геометрическое место точек, до которых доходят колебания к моменту t;
+====
+Геометрическое место точек, до которых доходят колебания за период Т;
+====
+Геометрическое место точек, колеблющихся в одинаковой фазе;
+====
+Все ответы верны.
+
+
+
+
+
++++++
+
+
+
+
+
+Пробка колеблется на волнах с частотой 1 Гц. Какова скорость распространения волны (м/с), если расстояние между двумя соседними горбами волны равно 1 м?
+====
+2;
+====
+#1;
+====
+3;
+====
+4.
+
+
+
+
+
++++++
+
+
+
+
+
+Какое из нижеперечисленных видов электромагнитного излучения обладает наименьшую длину волны?
+====
+Рентгеновское излучение;
+====
+#Гамма излучение;
+====
+Ультрафиолетовое излучение;
+====
+Инфракрасное излучение.
+
+
+
+
+
++++++
+
+
+
+
+
+Какое из нижеперечисленных видов электромагнитного излучения обладает наименьшую частоту?
+====
+Рентгеновское излучение;
+====
+Гамма излучение;
+====
+Ультрафиолетовое излучение;
+====
+#Инфракрасное излучение.
+
+
+
+
+
++++++
+
+
+
+
+
+Когерентные волны – это волны, имеющие в любой точке пространства ...
+====
+одинаковые скорости и постоянную разность фаз;
+====
+#одинаковую частоту и постоянную разность фаз;
+====
+одинаковые скорости и частоту;
+====
+постоянную разность фаз и одинаковую амплитуды.
+
+
+
+
+
++++++
+
+
+
+
+
+Интерференция световых волн возможна, если они имеют ...
+====
+одинаковые длины волн и частоты;
+====
+постоянную разность фаз и одинаковые скорости;
+====
+одинаковые длины волн и скорости;
+====
+#постоянную разность фаз и одинаковые длины волн.
+
+
+
+
+
++++++
+
+
+
+
+
+При выдувании мылного пузыря при некоторой толщине пленки он приобретает радужную окраску. Какое физическое явление лежит в основе этого наблюдения?
+====
+дифракция;
+====
+#интерференция;
+====
+поляризация;
+====
+дисперсия.
+
+
+
+
+
++++++
+
+
+
+
+
+При каких излучениях фотон имеет наибольшую энергию?
+====
+#Ультрафиолетовое;
+====
+Инфракрасное;
+====
+Синее;
+====
+Красное.
+
+
+
+
++++++
+
+
+
+
+
+Какое из приведенных выражение определяет понятие интерференции?
+====
+огибание волной препятствия;
+====
+разложение в спектр при преломлении;
+====
+#наложение когерентных волн;
+====
+уменьшение отражения света от поверхности линзы.
+
+
+
+
+
++++++
+
+
+
+
+
+Какое из нижеперечисленных излучений имеет наибольшую длину волны?
+====
+Ультрафиолетовое;
+====
+#Инфракрасное;
+====
+Синее;
+====
+Красное.
+
+
+
+
+
++++++
+
+
+
+
+
+Что такой резонанс?
+====
+Резкое возрастание амплитуды вынужденных колебаний при определенной значении частоты вынуждающей силы;
+====
+Зависимость амплитуды вынужденных колебаний от частоты и амплитуды вынуждающей силы;
+====
+Согласованность частоты колдебания с частатой определенной гармоники струны;
+====
+#Резкое возрастание амплитуды вынужденных колебаний при равенстве частоты вынуждающей силы с собственной частотой системы.
+
+
+
+
+
++++++
+
+
+
+
+
+Что такой период колебание?
+====
+Промежуток времени начало и конца колебания;
+====
+Величина обратно пропорциональная частоте колебания;
+====
+#Время за которой фаза колебания меняется на 2π;
+====
+Отношение 2π на циклическую частоту.
+
+
+
+
+
++++++
+
+
+
+
+
+Как изменится период электромагнитных колебаний в колебательном контуре, если конденсатор контура заполнить диэлектриком с диэлектрической проницаемостью Ɛ= 4.
+====
+#увеличится в 2 раза;
+====
+уменьшится в 4раза;
+====
+увеличится в 16 раз;
+====
+уменьшится в 2 раза.
+
+
+
+
+
++++++
+
+
+
+
+
+Пробка колеблется на волнах 10 раз за 5 с. Какова скорость распространения волны (м/с), если расстояние между двумя соседними горбами волны равно 1 м?
+====
+#2;
+====
+2,5;
+====
+3;
+====
+4.
+
+
+
+
+
++++++
+
+
+
+
+
+Разность фаз колебаний в двух точках, расположенных на одной линии вдоль направления распространения волны, равна 2π. Какова длина волны (м), если расстояние между этими точками равно 2 м?
+====
+1;
+====
+2;
+====
+#4;
+====
+6.
+
+
+
+
+
++++++
+
+
+
+
+
+Наименьшее расстояние вдоль направления распространения волны между двумя точками среды, колеблющимися со сдвигом фаз 2π/3, равно 2 м. Чему равна длина волны (м)?
+====
+4;
+====
+2;
+====
+8;
+====
+#6.
+
+
+
+
+
++++++
+
+
+
+
+
+Определите разность фаз для точек, удаленных от источника колебаний на 3,5 и 2,0 м. Период колебаний 0,5 с, скорость распространения волны 6 м/с.
+====
+π/2;
+====
+0;
+====
+#π;
+====
+π/4.
+
+
+
+
+
++++++
+
+
+
+
+
+При наблюдении интерференции красного света в опыте Юнга расстояние между соседними темными полосами на экране равно 6 мм. Если источник красного света заменить источником фиолетового света, длина волны которого в 1,5 раза меньше, то это расстояние станет равным, ___мм.
+====
+9;
+====
+8;
+====
+#4;
+====
+3.
+
+
+
+
+
++++++
+
+
+
+
+
+Какое из нижеперечисленных излучений имеет наибольшую частоту?
+====
+#Ультрафиолетовое;
+====
+Инфракрасное;
+====
+Синее;
+====
+Красное.
+
+
+
+
+
++++++
+
+
+
+
+
+Какие из низеприведенных примеров объясняется явлением дифракцией света? 1) Радужная окраска на мылнем пузыре и на тоньких пленках; 2) Кольцы Ньютона; 3) Образование светлой пятны в центре тени за непрозрачного диска; 4) Смешение луча в сторону геометрической тени.
+====
+1,3 ;
+====
+1,2;
+====
+#3,4;
+====
+1,2,3.
+
+
+
+
+
++++++
+
+
+
+
+
+В каких условиях проявляется дифракция волн?
+====
+В отсутсвие препятствия;
+====
+#Когда размеры припятствия соизеримы с длиной волны;
+====
+Когда размеры припятствия намного превышает длины волны;
+====
+Когда размеры припятствия значтельно меньше длины волны.
+
+
+
+
+
++++++
+
+
+
+
+
+Как меняется дифракционная картина при увеличение длины волны падающего монохроматического излучение?
+====
+#Уменьшается расстояние между максимумами;
+====
+Увеличивается расстояние между максимумами;
+====
+Не меняется;
+====
+Увеличится число максимумов.
+
+
+
+
+
++++++
+
+
+
+
+
+Каково проявление явления интерференция света?
+====
+слияние световых пучков в каждой точке области, исходящих из двух или нескольких источников когерентного света;
+====
+#усиление или ослабление интенсивности в области слияние световых пучков, исходящих из двух или нескольких источников когерентного света;
+====
+огибание препятствия световыми волнами и проникновение их в области геометрической тени;
+====
+разложение белого света в спектр.
+
+
+
+
+
++++++
+
+
+
+
+
+Изменится ли частота и длина волны света при переходе его из вакуума в воду?
+====
+#длина волны уменьшается, а частота увеличивается;
+====
+длина волны увеличивается, а частота уменьшается;
+====
+длина волны уменьшается, а частота неизменяется;
+====
+длина волны увеличивается, а частота неизменяется
+
+
+
+
+
++++++
+
+
+
+
+
+При интерференции когерентных лучей с длиной волны 300 нм максимум второго порядка возникает при разности хода:
+====
+300 нм;
+====
+#600 нм;
+====
+150 нм;
+====
+100 нм.
+
+
+
+
+
++++++
+
+
+
+
+Укажите правильное расположение нежеперечисленных видов электромагнитного излучения в порядке убывания их частоты.
+====
+Ультрафиолетовое, Рентгеновское, инфракрасное, радиоволны;
+====
+Рентгеновское, Рентгеновское, инфракрасное,ультрафиолетовое;
+====
+Радиоволны, инфракрасное, ультрафиолетовое, рентгеновское;
+====
+#Рентгеновское, ультрафиолетовое, инфракрасное, радиоволны.
+
+
+
+
+
++++++
+
+
+Укажите соответствие нижеследующих физических величин с их единицами измерения. A. частота колебаний; B. период колебаний; C. амплитуда колебаний. 1) м/с; 2) с; 3) Гц; 4) Н/м; 5) м
+====
+#3,2,5; 
+====
+2,3,5; 
+====
+2,3,4;
+====
+3,4,5.
+
+
+
+
++++++
+
+
+
+
+Какие колебания называются гармоническими?
+====
+Всякие периодически повторяющийся колебания называются гармоническими;
+====
+Колебания описывающийся по закону синуса называются гармоническими;
+====
+Колебания описывающийся по закону косинуса называются гармоническими;
+====
+#Колебания описывающийся по закону синуса или косинуса называются гармоническими.
+
+
+
+
+
++++++
+
+
+
+
+
+В колебательном контуре электрические колебания задается уравнением q = 10-2cos20t. Укажите амплитудное значение заряда конденсатора.
+====
+#10-2 К; 
+====
+20 К; 
+====
+cos20t К; 
+====
+20t К.
+
+
+
+
+
++++++
+
+
+
+
+
+В конденсаторе колебательного контура изменили начальное значение заряда. При этом какое из перечисленных значений электрических колебаний возникающие в колебательном контуре остается не изменным.
+====
+Амплитудное значение тока;
+====
+#Период колебания;
+====
+Амплитудное значение напряжения в конденсаторе;
+====
+Амплитуда магнитной индукции поле катушки.
+
+
+
+
+
++++++
+
+
+
+
+
+В каких веществах возникают продольные упругие волны?
+====
+Твердых телах и на поверхности жидкостей;
+====
+#В твердых телах, жидкостях и в газах;
+====
+В твердых телах и в газах;
+====
+Только в твёрдых телах.
+
+
+
+
+
++++++
+
+
+
+
+
+Нормальной дисперсией называется, когда ....
+====
+#наблюдается увеличение показателя преломление среды с уменьшением длины волны падающего света;
+====
+наблюдается уменьшение показателя преломление среды с уменьшением длины волны падающего света;
+====
+размеры препятствия соизмеримы с длиной волны;
+====
+не наблюдается зависимости показателя преломление среды от длины волны падающего света.
+
+
+
+
+
++++++
+
+
+
+
+
+Аномальной дисперсией называется, когда ....
+====
+наблюдается увеличение показателя преломление среды с уменьшением длины волны падающего света;
+====
+#наблюдается уменьшение показателя преломление среды с уменьшением длины волны падающего света;
+====
+размеры припятствия соизеримы с длиной волны;
+====
+не наблюдается зависимости показателя преломление среды от длины волны падающего света.
+
+
+
+
+
++++++
+
+
+
+
+
+Как изменится цвет монохроматического пучка света при переходе из вакуума в прозрачную среду с абсолютным показателем преломления 1,5 ? 
+====
+Спектр сместится в сторону красных лучей;
+====
+Спектр сместится в сторону фиолетовых лучей;
+====
+Зависит от угла падения;
+====
+#Не изменится.
+
+
+
+
+
++++++
+
+
+
+
+
+В каких явлениях проявляется поперечность световых волн?
+====
+Интерференция света;
+====
+Дифракция света;
+====
+Дисперсия света;
+====
+#Поляризация света.
+
+
+
+
+
++++++
+
+
+
+
+
+Как изменится кинетическая энергия фотоэлектронов при увеличение частоты излучения в 2 раза?
+====
+Увеличится в 2 раза;
+====
+Уменьшится в 2 раза;
+====
+#Увеличится больше чем в 2 раза;
+====
+Уменьшится больше чем в 2 раза.
+
+
+
+
+
++++++
+
+
+
+
+
+Какие колебания называются свободными?
+====
+#Если тело совершает колебательное движение за счёт первоначально полученной извне энергии, без поддержки внешных сил;
+====
+Если тело совершает колебательное движение за счёт периодически меняющийся внешных сил;
+====
+Если колеблющийся величина изменяется по закону синуса (косинуса);
+====
+Если колебание является затухающими.
+
+
+
+
+
++++++
+
+
+
+
+
+Определите период колебаний пружинного маятника, если частота собственных колебаний его равна 1 Гц.
+====
+5 с;
+====
+2 с;
+====
+#1 с;
+====
+0,1 с.
+
+
+
+
+
++++++
+
+
+
+
+
+Как изменится период колебания математического маятника при увеличении массы и длины маятника в 9 раз?
+====
+не изменится;
+====
+увеличится в 9 раза;
+====
+уменьшится в 3 раза;
+====
+#увеличится в 3 раза.
+
+
+
+
+
++++++
+
+
+
+
+
+Какова частота колебания математического маятника, если он совершает 8 полных колебаний за 40 с?
+====
+2 Гц;
+====
+5 Гц;
+====
+3,2 Гц;
+====
+#0,2 Гц.
+
+
+
+
+
++++++
+
+
+
+
+
+Груз подвещенный пружине с жесткостью 200 Н/м совершает свободное гармоническое колебания. Каким должен быть жесткость пружины, чтобы увеличить период колебания в 2 раза?
+====
+400 Н/м;
+====
+100 Н/м;
+====
+#50 Н/м;
+====
+200 Н/м.
+
+
+
+
+
++++++
+
+
+
+
+
+Как изменится период колебания пружинного маятника, если уменьшить амплитуду колебинии в 2 раза и массу груза в 4 раза?
+====
+Увеличится в 4 раза;
+====
+Увеличится в 2 раза;
+====
+#Уменьшится в 2 раза;
+====
+Уменьшится в 4 раза.
+
+
+
+
+
++++++
+
+
+
+
+
+Как изменится частота колебаний колебательного контура, если расстояние между пластинами плоского конденсатора контура увеличить в 2 раза?
+====
+увеличится в 2 раза;
+====
+уменьшится в 2 раза;
+====
+увеличится в   раза;
+====
+#уменьшится в   раза.
+
+
+
+
+
++++++
+
+
+
+
+
+Как изменится частота электромагнитных колебаний, если внутрь катушки колебательного контура ввести сердечник из ферромагнетика?
+====
+увеличится;
+====
+#уменьшится;
+====
+не изменится;
+====
+сначало уменьшится, потом увеличится.
+
+
+
+
+
++++++
+
+
+
+
+
+В каких веществах возникают продольные   упругие волны?
+====
+Твердых телах и на поверхности жидкостей;
+====
+В твердых телах, жидкостях и в газах;
+====
+В твердых телах и в газах;
+====
+#Только в твёрдых телах.
+
+
+
+
+
++++++
+
+
+
+
+
+Внутри каких сред (1-газ, 2-жидкость, 3-твёрдое тело) могут распространяться поперечные механические волны?
+====
+только 1;
+====
+только 2;
+====
+только 3;
+====
+#1 и 2.
+
+
+
+
+
++++++
+
+
+
+
+
+Внутри каких сред (1-газ, 2-жидкость, 3-твёрдое тело) могут распространяться 
+ поперечные механические волны?
+====
+1 и 2;
+====
+1 и 3;
+====
+2 и 3;
+====
+#1,2 и 3.
+
+
+
+
+
++++++
+
+
+
+
+
+Какое из нижеперечисленных видов электромагнитного излучения обладает наибольшую частоту?
+====
+Рентгеновское излучение;
+====
+#Гамма излучение;
+====
+Ультрафиолетовое излучение;
+====
+Инфракрасное излучение.
+
+
+
+
+
++++++
+
+
+
+
+
+Дайте определение волновой поверхности.
+====
+Геометрическое место точек, до которых доходят колебания к моменту t;
+====
+Геометрическое место точек, до которых доходят колебания за период Т;
+====
+#Геометрическое место точек, колеблющихся в одинаковой фазе;
+====
+Все ответы верны.
+
+
+
+
+
++++++
+
+
+
+
+
+Что указывает вектор Умова?
+====
+Направлению распространение плоской волны;
+====
+Направлению распространение сферической волны;
+====
+#Вектор плотности потока энергии;
+====
+Направлению колебания частиц среды.
+
+
+
+
+
++++++
+
+
+
+
+
+Монохроматическая волна – это волна:
+====
+волна большой амплитуды;
+====
+волна, имеющий белый цвет;
+====
+#имеет определённую частоту;
+====
+первичная волна.
+
+
+
+
+
++++++
+
+
+
+
+
+Электромагнитные волны – это:
+====
+#переменное электромагнитное поле, распространяющееся в пространстве с конечной скоростью;
+====
+переменное электромагнитное поле, распространяющееся в пространстве с бесконечной скоростью;
+====
+постоянное электромагнитное поле, распространяющееся в пространстве с конечной скоростью;
+====
+постоянное электромагнитное поле, распространяющееся в пространстве с бесконечной скоростью.
+
+
+
+
+
++++++
+
+
+
+
+
+Окрашивание тоньких плёнок в различные цвета обусловлено явлением:
+====
+дисперсия;
+====
+дифракция света;
+====
+интерференция света;
+====
+#интерференция и дифракция.
+
+
++++++
+
+
+
+
+
+Какое из нижеперечисленных видов электромагнитного излучения обладает наибольшую длину волны?
+====
+Рентгеновское излучение;
+====
+Гамма излучение;
+====
+Ультрафиолетовое излучение;
+====
+#Инфракрасное излучение.
+
+
+
+
+
++++++
+
+
+
+
+
+Математический маятник совершает гармоническое колебание с частотой ν. Как изменится частота колебания, если уменьшит длины нити маятника в 9 раз?
+====
+#3 ν;
+====
+ν/3;
+====
+ν/9; 
+====
+9 ν.
+
+
+
+
+
++++++
+
+
+
+
+
+Волны, испускаемые естественными источниками, не когерентны потому что...
+====
+различаются частоты колебаний, испускаемых источником;
+====
+разность фаз колебаний остается постоянной во времени;
+====
+#разность фаз колебаний непрерывно меняется во времени;
+====
+направление колебаний векторов напряженности электрического и магнитного полей непрерывно меняются.
+
+
+
+
+
++++++
+
+
+
+
+
+Когерентные волны можно получить с помощью ...
+====
+отражения волны;
+====
+преломление волны;
+====
+#разделения волны с помощью двух щелей;
+====
+поглощения волны.
+
+
+
+
+
++++++
+
+
+
+
+
+Интерференционная картина наблюдается в белом свете. Как окрашен центральный максимум?
+====
+#в белый свет;
+====
+красный цвет;
+====
+синий цвет;
+====
+фиолетовый цвет.
+
+
+
+
+
++++++
+
+
+
+
+
+Какие из перечисленных явлений объясняются интерференцией света? 1. радужная окраска тоньких мыльных пленок , 2. появление светового пятна в центре тени от малого непрозрачного диска, 3. кольца Ньютона, 4. отклонение световых лучей в область геометрической тени.
+====
+только 1;
+====
+#1 и 3;
+====
+только 2;
+====
+2 и 4.
+
+
+
+
+
++++++
+
+Полупроводников, проводимость которых обусловена преимущественно наличием в них дырок, называют полупровoдниками:
+====
+n- типа
+====
+#p- типа
+====
+i- типа
+====
+p-n- типа
+
++++++
+
+Полупроводников, проводимость которых обусловена преимущественно наличием в них электронов, называют полупровoдниками:
+====
+#n- типа
+====
+p- типа
+====
+i- типа
+====
+p-n- типа
+
++++++
+
+Примесь придающий в полупроводник электронный тип проводимости называется:
+====
+чужеродный
+====
+собственный
+====
+#донорный
+====
+акцепторный
+
++++++
+
+Примесь придающий в полупроводник дырочный тип проводимости называется:
+====
+чужеродный
+====
+собственный
+====
+донорный
+====
+#акцепторный
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
