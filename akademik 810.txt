@@ -1,44 +1,1001 @@
 
-
-
-
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-Как изменяется амплитуда при гармоническом затухающем колебании?
+Grafikli matnlarni ekranga chiqaruvchi TextRect funksiyasininig vazifasi
 ====
-Уменьшается по закону синуса;
+#matnni berilgan nuqta va shaklda chiqarish
 ====
-Уменьшается по закону косинуса;
+Matnning 1- va oxirgi qatorlarining orasidagi o’lchamlarni qaytaradi
 ====
-#Уменьшается по экспоненциальному закону;
+Matnning uzunligi
 ====
-Уменьшается линейно.
+Matnning balandligi
 
 
+
++++++
+
+
+
+
+Qiymat o'zlashtirish operatorini ko'rsating.
+====
+#=
+====
+= =
+====
+: :
+====
+.
+
+
+
++++++
+C++ Builderda Image1 komponentasiga kompyuterning "d" diskida joylashgan "tatu.jpg" nomli rasmni yuklash kodini ko'rsating
+====
+#Image1-&gt;Picture-&gt;LoadFromFile("D:tatu.jpg");
+====
+Image-&gt;Picture-&gt;LoadFrom("D://tatu.jpg//");
+====
+Image1-&gt;Picture-&gt;LoadFromPicture("D:tatu.jpg");
+====
+Image1-&gt;Picture-&gt;LoadFromImage("D:tatu.jpeg");
+
+
+
++++++
+
+
+
+Dastur ishchi xolatda "Edit1" komponentasiga yozilgan ma'lumotlar "Edit2" komponentasida ham bir xil namoyon bo'lish kodini ko'rsating
+====
+#Edit2-&gt;Text=Edit1-&gt;Text;
+====
+Edit2-&gt;Caption=Edit1-&gt;Caption;
+====
+Edit1-&gt;Align=Edit2-&gt;Align;
+====
+Edit2-&gt;TextValue=Edit1-&gt;TextValue;
+
+
+
++++++
+
+
+
+Satrli ma'lumotni butun sonli ma'lumotga o'zgartirish funksiyasini ko'rsating.
+====
+#StrToInt()
+====
+StringToInteger()
+====
+IntToStr()
+====
+IntegerToStr()
+
+
+
++++++
+
+
+
+Butun sonli ma'lumotni satrli ma'lumotga o'zgartirish funksiyasini ko'rsating.
+====
+#IntToStr()
+====
+StrToInt()
+====
+IntegerToStr()
+====
+IntegerToString()
+
+
+
++++++
+
+
+
+Dastur ishga tushirilganda asosiy forma ekranning markazida paydo bo'lishi uchun uning qaysi xususiyatdan foydalaniladi?
+====
+#Position
+====
+Align
+====
+Aligment
+====
+WindowState
+
+
+
++++++
+
+
+
+Formadan kodlar oynasiga o’tish yoki aksincha qaysi tugma orqali buyruq beriladi
+====
+#F12
+====
+F2
+====
+F11
+====
+Ctrl+F10
+
+
+
++++++
+
+
+
+Bir sohani nusxalash funksiyasi qaysi
+====
+#CopyRect
+====
+CopyMode
+====
+CopyText
+====
+Copy
+
+
+
++++++
+
+
+
+Grafikli matnlarni ekranga chiqaruvchi TextExtent funksiyasininig vazifasi
+====
+#Matnning 1- va oxirgi qatorlarining orasidagi o’lchamlarni qaytaradi
+====
+Matnning uzunligi
+====
+Matnning balandligi
+====
+berilgan matnni kerakli nuqtaga chiqarish
+
+
+
++++++
+
+
+
+TCppWebBrowser komponentasining qaysi xususiyatiga *.html faylni yo’li ko'rsatiladi?
+====
+#Navigate
+====
+LoadFromFile
+====
+WriteFromFile
+====
+OpenFile
+
+
+
++++++
+
+
+
+Grafikli matnlarni ekranga chiqaruvchi TextWidth funksiyasininig vazifasi
+====
+#Matnning uzunligi
+====
+Matnning balandligi
+====
+Matnning 1- va oxirgi qatorlarining orasidagi o’lchamlarni qaytaradi
+====
+berilgan matnni kerakli nuqtaga chiqarish
+
+
++++++
+
+
+
+
+
+C++ Builderda forma shaffofligini qaysi xususiyat orqali faollashtiriladi?
+====
+#AlphaBlend
+====
+AlphaBlendValue
+====
+Align
+====
+Visible
+
+
+
++++++
+
+
+
+C++ Builderda forma shaffofligi qabul qiladigan qiymat oralig'ini ko'rsating.
+====
+#0-255
+====
+1-255
+====
+0-256
+====
+1-100
+
+
+
++++++
+
+
+AutoSize form obyektining vazifasi
+====
+#Avtomatik o’lchamni o’rnatish 
+====
+Formatdagi sistemali tugmalar
+====
+Sarlavhani nomlash
+====
+Nusxalash
+
+
+
++++++
+
+
+
+Align xossasining vazifasi
+====
+#Joylashuvi
+====
+Ustunlar soni
+====
+rangi
+====
+Qator va ustunning sarlavha rangi
+
+
+
++++++
+
+
+
+C++ Builderda Edit1 komponentasida matn chiqarish uchun qanday amallar bajariladi?
+====
+#Edit1-&gt; Text = “Matn”;
+====
+Label1-&gt;Caption = “Matn”;
+====
+Label1-&gt;Text = “Matn”;
+====
+Edit1-&gt; Caption = “Matn”;
+
+
+
++++++
+
+
+
+ColCount xossasining vazifasi 
+====
+#Ustunlar soni
+====
+rangi
+====
+Qator va ustunning sarlavha rangi
+====
+Joylashuvi
+
+
+
++++++
+
+
+
+Color xossasining vazifasi
+====
+#rangi
+====
+Joylashuvi
+====
+Ustunlar soni
+====
+hajmi
+
+
+
++++++
+
+
+
+C++ Builderda MaskEdit1 komponentasiga joriy vaqtni chiqarish uchun qanday amallar bajariladi? 
+====
+#MaskEdit1-&gt;Text=TimeToStr(Now());
+====
+MaskEdit1-&gt;Text=Time(Now());
+====
+MaskEdit1-&gt;Text=Time( );
+====
+MaskEdit1-&gt;Text=IntToStr(Now());
+
+
++++++
+
+
+
+O'rnatiluvchi dastur yaratishda foydalaniladigan dastur nomini toping?
+====
+#InnoSetup Compiler
+====
+C++ Builder XE
+====
+WinRAR
+====
+Notepad
+
+
+
++++++
+
+
+
+C++ Builderda Label komponentasida matn chiqarish uchun qanday amallar bajariladi?
+====
+#Label1-&gt;Caption = “Matn”;
+====
+Edit1-&gt; Text = “Matn”;
+====
+Label1-&gt;Text = “Matn”;
+====
+Edit1-&gt; Caption = “Matn”;
+
+
+
++++++
+
+
+
+C++ Builderda int tipida ‘a=5, b=8, c=a+b; ’ o’zgaruvchilari berilgan, "c" o’zgaruvchini Label1 komponentasida chiqarish uchun qanday amallar bajariladi? 
+====
+#Label1-&gt;Caption=IntToStr(c);
+====
+Label1-&gt;Caption=c.StrToInt();
+====
+Label1-&gt;Caption=FloatTo(c);
+====
+Label1-&gt;Caption=StrToInt(c);
+
+
+
++++++
+
+
+
+C++ Builderda Button1 komponentasini dastur ishchi holatida formada ko’rinmasligi uchun qanday amallarni bajarish kerak? 
+====
+#Button1-&gt;Visible=false;
+====
+Button1-&gt;Enabled=false;
+====
+Button1-&gt;Visible=true;
+====
+Button1-&gt;Enabled=true;
+
+
+
++++++
+
+
+
+C++ Builderda joylashgan Edit1 komponentasidagi ma’lumotni Label1 komponentasiga chiqarish uchun qanday amallarni bajarish kerak? 
+====
+#Label1-&gt;Caption=Edit1-&gt;Text; 
+====
+Edit1-&gt;Text=Label1-&gt;Caption; 
+====
+Label1-&gt;Text=Edit1-&gt;Caption; 
+====
+Edit1-&gt;Caption=Label1-&gt;Text; 
+
+
+
++++++
+
+
+
+C++ Builderda asosiy menyular yaratishga mo’ljallangan komponenta nomini ko’rsating: 
+====
+#MainMenu
+====
+PopupMenu
+====
+MenuMain
+====
+TMenu
+
+
+
++++++
+
+
+
+ C++ Builderda kontekst menyular yaratishga mo’ljallangan komponenta nomini ko’rsating: 
+====
+#PopupMenu
+====
+MainMenu
+====
+MenuMain
+====
+TMenu
+
+
+
++++++
+
+
+
+C++ Builderda Button1 komponentasini bosganda Shape1 komponentasi kvadrat shaklini olishi uchun qanday amallar bajariladi? 
+====
+#Shape1-&gt;Shape=stSquare;
+====
+Shape1-&gt;Shape=stCircle;
+====
+Shape1-&gt;Shape=stRectangle;
+====
+Shape1-&gt;Shape=stLine;
+
+
+
++++++
+
+
+
+C++ Builderda Label1 komponentasiga joriy vaqtni chiqarish uchun qanday amallar bajariladi? 
+====
+#Label1-&gt;Caption=TimeToStr(Now( ));
+====
+Label1-&gt;Caption=Time(Now( ));
+====
+Label1-&gt;Caption=Time( );
+====
+Label1-&gt;Caption=IntToStr(Now( ));
+
+
+
++++++
+
+
+
+C++ Builderda Button1 komponentasi chertilganda Label1 komponentasi yashirin (ko’rinmas) xolatga o’tishi uchun qanday amallar bajariladi? 
+====
+#Label1-&gt;Visible=false;
+====
+Label1-&gt;Visible=true;
+====
+Label1-&gt;Enabled=false;
+====
+Label1-&gt;Enabled=true;
+
+
+
++++++
+
+
+
+C++ Builderda Button1 komponentasi chertilganda Button1 komponentasi yashirin (ko’rinmas) xolatga o’tishi uchun qanday amallar bajariladi? 
+====
+#Button1-&gt;Visible=false;
+====
+Button2-&gt;Visible=false;
+====
+Button1-&gt;Enabled=false;
+====
+Button2-&gt;Enabled=false;
+
+
+
++++++
+
+
+
+C++ Builderda Button1 komponentasi chertilganda Button2 komponentasi noaktiv (ishlamaydigan) xolatga o’tishi uchun qanday amallar bajariladi? 
+====
+#Button2-&gt;Enabled=false;
+====
+Button2-&gt;Enabled=true;
+====
+Button1-&gt;Enabled=false;
+====
+Button1-&gt;Enabled=true;
+
+
+
++++++
+
+
+
+C++ Builderda Button1 komponentasi chertilganda Label1 komponentasi noaktiv (ishlamaydigan) xolatga o’tishi uchun qanday amallar bajariladi? 
+====
+#Label1-&gt;Enabled=false;
+====
+Label1-&gt;Enabled=true;
+====
+Label1-&gt;Visible=false;
+====
+Label1-&gt;Visible=true;
+
+
+
++++++
+
+
+
+C++ Builderda Button1 komponentasi chertilganda Button1 komponentasi noaktiv (ishlamaydigan) xolatga o’tishi uchun qanday amallar bajariladi?
+====
+#Button1-&gt;Enabled=false;
+====
+Button1-&gt;Enabled=true;
+====
+Button1-&gt;Visible=false;
+====
+Button1-&gt;Visible=true;
+
+
+
++++++
+
+
+
+C++ Builderda Button1 komponentasini chertganga formaning sarlovhasiga (Form1) Edit1 komponentasiga kiritilgan qiymatni chiqarish uchun qanday dastur yozish kerak? 
+====
+#Form1-&gt;Caption=Edit1-&gt;Text;
+====
+Form1-&gt;Text=Edit1-&gt;Text;
+====
+Form1-&gt;Caption=Edit1-&gt;Caption;
+====
+Form1-&gt;Caption==Edit1-&gt;Caption;
+
+
+
++++++
+
+
+
+C++ Builderda Formaning “OnCreate” hodisasi qachon ishga tushadi? 
+====
+#Forma (yaratilganda) ishga tushganda
+====
+Forma faol bo’lganda 
+====
+Forma bir marta chertilganda
+====
+Formaga sichqon ko’rsatkichi olib kelinishi bilan
+
+
+
++++++
+
+
+
+C++ Builderda Formaning “OnActivate” hodisasi qachon ishga tushadi?
+====
+#Forma faol bo’lganda 
+====
+Forma (yaratilganda) ishga tushganda
+====
+Forma bir marta chertilganda
+====
+Forma ikki marta chertilganda
+
+
+
++++++
+
+
+
+C++ Builderda ADOTable komponentasiga bog'langan jadvalning aktiv satridan bitta oldingi satrni aktiv qilish buyrug'i qaysi?
+====
+#ADOTable1-&gt;Prior( );
+====
+ADOTable1-&gt; Next( );
+====
+ADOTable1-&gt;Last( );
+====
+ADOTable1-&gt;Post( );
+
+
+
++++++
+
+
+
+C++ Builderda ADOTable komponentasiga bog'langan jadvalning aktiv satridan bitta keyingi satrni aktiv qilish buyrug'i qaysi?
+====
+#ADOTable1-&gt; Next( );
+====
+ADOTable1-&gt;First( );
+====
+ADOTable1-&gt;Prior( );
+====
+ADOTable1-&gt;Last( );
+
+
+
++++++
+
+
+
+C++ Builderda ADOTable komponentasiga bog'langan jadvalning birinchi satrini aktiv qilish buyrug'i qaysi?
+====
+#ADOTable1-&gt;First( );
+====
+ADOTable1-&gt;Last( );
+====
+ADOTable1-&gt;Prior( );
+====
+ADOTable1-&gt;Post( );
+
+
+
++++++
+
+
+
+C++ Builderda ADOTable komponentasiga bog'langan jadvalning oxirgi satrini aktiv qilish buyrug'i qaysi?
+====
+#ADOTable1-&gt;Last( );
+====
+ADOTable1-&gt;First( );
+====
+ADOTable1-&gt; Next( );
+====
+ADOTable1-&gt;Prior( );
+
+
+
++++++
+
+
+Dasturchi tomonidan dastur elementlari uchun ixtiyoriy tanlangan nom nima deyiladi?
+====
+#Identifikator
+====
+Direktiva
+====
+O’zgaruvchi
+====
+Operator
+
+
+
++++++
+
+
+
+C++ Builderda Edit1 komponentasiga katta harf registrida ma’lumot kiritish uchun qanday amallar bajariladi? 
+====
+#Edit1-&gt;CharCase=ecUpperCase;
+====
+Edit1-&gt;CharCase=ecLowerCase;
+====
+Edit1-&gt;CharCase=ecNormal;
+====
+Edit1-&gt;CharCase=true;
+
+
+
++++++
+
+
+
+C++ Builderda Edit1 komponentasiga 5 tagacha bo’lgan simvolda ma’lumot kiritish uchun qanday amallar bajariladi? 
+====
+#Edit1-&gt;MaxLength=5;
+====
+Edit1-&gt;Length=5;
+====
+Edit1-&gt;Max=5;
+====
+Edit1-&gt;Min=5;
+
+
+
++++++
+
+
+
+C++ Builderda Edit1 komponentasiga joriy vaqtni chiqarish uchun qanday amallar bajariladi? 
+====
+#Edit1-&gt;Text=TimeToStr(Now( ));
+====
+Edit1-&gt;Text=Time(Now( ));
+====
+Edit1-&gt;Text=Time( );
+====
+Edit1-&gt;Text=IntToStr(Now( ));
+
+
+
++++++
+
+
+
+C++ Builderda LabeledEdit1 komponentasiga joriy vaqtni chiqarish uchun qanday amallar bajariladi? 
+====
+#LabeledEdit1-&gt;Text=TimeToStr(Now());
+====
+LabeledEdit1-&gt;Text=Time(Now());
+====
+LabeledEdit1-&gt;Text=Time( );
+====
+LabeledEdit1-&gt;Text=IntToStr(Now());
+
+
+
++++++
+
+
+
+C++ Builderda Button1 komponentasi chertilganda Edit1 komponentasidagi ma’lumot Label1 komponentasiga o’tishi va Edit1 dagi ma’lumot o’chirilishi uchun qanday amallar bajariladi? 
+====
+#Label1-&gt;Caption=Edit1-&gt;Text; Edit1-&gt;Text="";
+====
+Label1-&gt;Caption=Edit1-&gt;Text;
+====
+Edit1-&gt;Text=Label1-&gt;Caption; Edit1-&gt;Text=" ";
+====
+Label1-&gt;Caption=Edit1-&gt;Text; Label1-&gt;Text=" ";
+
+
+
++++++
+
+
+
+C++ Builderda Button1 komponentasi chertilganda Label1 komponentasidagi ma’lumot Edit1 komponentasiga o’tishi va Label1 dagi ma’lumot o’chirilishi uchun qanday amallar bajariladi? 
+====
+#Edit1-&gt;Text=Label1-&gt;Caption; Label1-&gt;Caption=" "; 
+====
+Edit1-&gt;Text=Label1-&gt;Caption;
+====
+Label1-&gt;Caption;=Edit1-&gt;Text; Label1-&gt;Caption=" "; 
+====
+Edit1-&gt;Text=Label1-&gt;Caption; Text1-&gt;Caption=" "; 
+
+
+
++++++
+
+
+
+FrameRect shakllarining vazifasi yoki qiymati
+====
+#To’g’ri burchakli to’rtburchak atrof chiziqlarini 1 pikselga tenglashtirish, to’g’ri burchakli to’rtburchak fonsiz
+====
+Nuqtalar bo’yicha soha chizadi 
+====
+To’g’ri burchakli to’rtburchak.
+====
+Chegarasiz to’g’ri burchakli to’rtburchakning foni
+
+
+
++++++
+
+
+
+FixedColor xossasining vazifasi 
+====
+#Qator va ustunning sarlavha rangi
+====
+rangi
+====
+Joylashuvi
+====
+Ustunlar soni
+
+
+
++++++
+
+
+
+Natijalarni jadval ko’rinishini ifodalash uchun C++ Builderda Additional qo’shimcha bo’limining qaysi elementlaridan foydalanamiz?
+====
+#TStringGrid
+====
+Tcanvas
+====
+TColor
+====
+TPen
+
+
+
++++++
+
+
+
+Grid  xossasining vazifasi 
+====
+#Bunday xossa mavjud emas
+====
+Rangi aniqlaydi
+====
+Nuqtaning bosh holati
+====
+Chiziqning ko’rinishi
+
+
+
++++++
+
+
+
+Polygon shakllarining vazifasi yoki qiymati 
+====
+#Nuqtalar bo’yicha soha chizadi 
+====
+To’g’ri burchakli to’rtburchak.
+====
+Chegarasiz to’g’ri burchakli to’rtburchakning foni
+====
+To’g’ri burchakli to’rtburchak atrof chiziqlarini 1 pikselga tenglashtirish, to’g’ri burchakli to’rtburchak fonsiz
+
+
+
++++++
+
+
+
+Rectangle shakllarining vazifasi yoki qiymati
+====
+#To’g’ri burchakli to’rtburchak
+====
+Chegarasiz to’g’ri burchakli to’rtburchakning foni
+====
+To’g’ri burchakli to’rtburchak atrof chiziqlarini 1 pikselga tenglashtirish, to’g’ri burchakli to’rtburchak fonsiz
+====
+Nuqtalar bo’yicha soha chizadi
+
+
+
++++++
+
+
+
+FillRect shakllarining vazifasi yoki qiymati
+====
+#Chegarasiz to’g’ri burchakli to’rtburchakning foni
+====
+To’g’ri burchakli to’rtburchak atrof chiziqlarini 1 pikselga tenglashtirish, to’g’ri burchakli to’rtburchak fonsiz
+====
+Nuqtalar bo’yicha soha chizadi
+====
+To’g’ri burchakli to’rtburchak
+
+
+
++++++
+
+
+
+Grafikli matnlarni ekranga chiqaruvchi TextOut funksiyasininig vazifasi
+====
+#berilgan matnni kerakli nuqtaga chiqarish
+====
+Matnning 1- va oxirgi qatorlarining orasidagi o’lchamlarni qaytaradi
+====
+Matnning uzunligi
+====
+Matnning balandligi
+
+
+
++++++
+
+
+
+C++ Builderda Edit1 komponentasiga kritilayotgan simvollarni barchasini ‘@’ ko’rinishida chiqarish uchun qanday amallar bajariladi? 
+====
+#Edit1-&gt;PasswordChar='@';
+====
+Edit1-&gt;Password='@';
+====
+Edit1-&gt;Char='@';
+====
+Edit1-&gt;PassChar='@';
+
+
+
++++++
+
+
+
+FixedCols xossasining vazifasi
+====
+#ustun bo’yicha sarlavha soni (odatda 1 ta)
+====
+Qator bo’yicha sarlavha soni(odatda 1 ta)
+====
+Chiziqlar qalinligi
+====
+Qatorlar soni
+
+
+
++++++
+
+
+
+FixedRows xossasining vazifasi
+====
+#Qator bo’yicha sarlavha soni(odatda 1 ta)
+====
+ustun bo’yicha sarlavha soni (odatda 1 ta)
+====
+Chiziqlar qalinligi
+====
+Qatorlar soni
+
+
+
++++++
+
+
+
+GridLineWidth xossasining vazifasi
+====
+#Chiziqlar qalinligi
+====
+Qator bo’yicha sarlavha soni(odatda 1 ta)
+====
+ustun bo’yicha sarlavha soni (odatda 1 ta)
+====
+Joylashuvi
+
+
+
++++++
+
+
+
+RowCount xossasining vazifasi
+====
+#Qatorlar soni
+====
+* Qator bo’yicha sarlavha soni(odatda 1 ta)
+====
+ustun bo’yicha sarlavha soni (odatda 1 ta)
+====
+Chiziqlar qalinligi
+
+
+
++++++
+
+
+
+Handle  xossasining vazifasi 
+====
+#Deskriptorop pen.
+====
+Rangi aniqlaydi
+====
+Nuqtaning bosh holati
+====
+Chiziqning ko’rinishi
+
+
+
++++++
+
+
+
+Mode  xossasining vazifasi
+====
+#Nuqtaning bosh holati
+====
+Deskriptorop pen.
+====
+Rangi aniqlaydi
+====
+Qatorlar soni
 
 
 
@@ -48,37 +1005,15 @@
 
 
 
-Как изменится частота колебаний математического маятника, если уменьшить амплитуды колебания в 3 раза?
+Html kengaytmali fayllarni dasturga bog'lashda qaysi komponentadan foydalaniladi?
 ====
-увеличится в 3 раза;
+#TCppWebBrowser
 ====
-уменьшиться в 3 раза;
+TPageProducer
 ====
-#не изменится;
+TDataSource
 ====
-увеличится в 9 раз.
-
-
-
-
-
-+++++
-
-
-
-
-
-Насколько уменьшится интенсивность света проходящейся через поляризатор?
-====
-#в 2 раза;
-====
-в 4 раза;
-====
-в 6 раз;
-====
-в 8 раз.
-
-
+TDataTable
 
 
 
@@ -86,19 +1021,15 @@
 
 
 
-
-
-Из двух имеющихся математических маятников первый имеет длину 25 см, а второй 1 м. Период каких из этих маятников меньше и во сколько раз?
+Variant tipi qanday o'zgaruvchilarga nisbatan qo'llaniladi? 
 ====
-#первое в два раза;
+#Tipi oldindan ma'lum bo'lmagan o'zgaruvchilarga
 ====
-второе в два раза;
+Satrli o'zgaruvchilarga nisbatan
 ====
-первое в четыре раза;
+Sonli o'zgaruvchilarga nisbatan
 ====
-второе в четыре раза.
-
-
+Fayl tipiga nisbatan
 
 
 
@@ -106,19 +1037,15 @@
 
 
 
-
-
-Длина математического маятника, если его максимальное тангенциальное ускорение равно а и амплитуда колебания А, равна … .
+C++ Builderda ADOTable komponentasiga bog'langan jadvalga yangi yozuv qo’shish funksiyasini toping? 
 ====
-Aga;
+#ADOTable1-&gt;Insert( );
 ====
-#Ag/a;
+ADOTable1-&gt;Last( );
 ====
-ag/A;
+ADOTable1-&gt;Post( );
 ====
-Aa/g.
-
-
+ADOTable1-&gt;Edit( );
 
 
 
@@ -126,19 +1053,15 @@ Aa/g.
 
 
 
-
-
-Колебательный контур состоит из катушки и двух последовательно соединенных конденсаторов с емкостью с каждый. Как изменится частота свободных электромагнитных колебаний контура, если конденсаторы подсоединить параллельно?
+C++ Builderda Button1 komponentasini bosganda, agar CheckBox1 ob’yekti tanlangan (belgilangan) bo’lsa “Tanlangan” degan yozuvni chiqarish kodini ko’rsating: 
 ====
-увеличится в 2 раза;
+#if (CheckBox1-&gt;Checked==true) ShowMessage("Tanlangan");
 ====
-#уменьшится в 2 раза;
+if (CheckBox1-&gt;Checked-&gt;false) ShowMessage("Tanlangan");
 ====
-увеличится в 4 раза;
+if (Button1-&gt;Checked==true) ShowMessage("Tanlangan");
 ====
-уменьшится в 4 раза.
-
-
+if (CheckBox1-&gt;Checked-&gt;true) ShowMessage("Tanlangan");
 
 
 
@@ -146,19 +1069,15 @@ Aa/g.
 
 
 
-
-
-Уравнение колебаний источника волны  . Скорость распространения колебаний в среде 600 м/с. Чему равна длина волны (м)?
+C++ Builderda Edit1 komponentasiga kritilayotgan simvollarni barchasini ‘*’ ko’rinishida chiqarish uchun qanday amallar bajariladi? 
 ====
-10;
+#Edit1-&gt;PasswordChar='*';
 ====
-4;
+Edit1-&gt;Password='*';
 ====
-#3;
+Edit1-&gt;Char='*';
 ====
-2.
-
-
+Edit1-&gt;PassChar='*';
 
 
 
@@ -166,19 +1085,15 @@ Aa/g.
 
 
 
-
-
-Как изменится период электромагнитных колебаний, если внутрь катушки колебательного контура ввести сердечник из ферромагнетика?
+C++ Builderda Edit1 komponentasiga kritilayotgan simvollarni barchasini ‘&amp;’ ko’rinishida chiqarish uchun qanday amallar bajariladi? 
 ====
-#увеличится;
+#Edit1-&gt;PasswordChar='&amp;';
 ====
-уменьшится;
+Edit1-&gt;Password='&amp;';
 ====
-не изменится;
+Edit1-&gt;Char='&amp;';
 ====
-сначало уменьшится, потом увеличится.
-
-
+Edit1-&gt;PassChar='&amp;';
 
 
 
@@ -186,19 +1101,15 @@ Aa/g.
 
 
 
-
-
-Как меняется интесивность света продящийся через поляризатор и анализатор, если угол между главными плоскостьями составляет φ = 60о.
+C++ Builderda BitBtn1 komponentasiga rasm qo’yishda qaysi hossadan foydalaniladi?
 ====
-уменьшится в 2 раза;
+#Glyph
 ====
-#уменьшится в 4 раза;
+Picture
 ====
-уменьшится в 6 раза;;
+Image
 ====
-уменьшится в 8 раза;.
-
-
+Graph
 
 
 
@@ -206,19 +1117,15 @@ Aa/g.
 
 
 
-
-
-Укажите правильное расположение нежеперечисленных видов электромагнитного излучения в порядке увеличение их частоты.
+C++ Builderda MaskEdit komponentasining qaysi hususiyati orqali maska(qolip) qo'yiladi? 
 ====
-Ультрафиолетовое, Рентгеновское, инфракрасное, радиоволны;
+#EditMask 
 ====
-Рентгеновское, Рентгеновское, инфракрасное,ультрафиолетовое;
+Text
 ====
-#Радиоволны, инфракрасное, ультрафиолетовое, рентгеновское;
+Mask
 ====
-Рентгеновское, ультрафиолетовое, инфракрасное, радиоволны.
-
-
+CharCase
 
 
 
@@ -226,19 +1133,15 @@ Aa/g.
 
 
 
-
-
-При каких излучениях фотон имеет наименьшую энергию?
+C++ Builderda Image komponentasining qaysi hususiyati orqali rasm qo'yiladi? 
 ====
-Ультрафиолетовое;
+#Picture
 ====
-#Инфракрасное;
+Glyph
 ====
-Синее;
+Image
 ====
-Красное.
-
-
+Graph
 
 
 
@@ -246,19 +1149,15 @@ Aa/g.
 
 
 
-
-
-В данной точке среды возникает интерференционный максимум, если...
+C++ Builderda Button1 komponentasini bosganda Shape1 komponentasi aylana shaklini olishi uchun qanday amallar bajariladi? 
 ====
-#разность хода волн равна чётному числу полуволн;
+#Shape1-&gt;Shape=stCircle;
 ====
-разность хода волн равна нечётному числу полуволн;
+Shape1-&gt;Shape=Circle;
 ====
-разность хода волн равна разности фаз волн;
+Shape1-&gt;Shape==stCircle;
 ====
-разность хода волн равна нулю.
-
-
+Shape1-&gt;Shape==Circle;
 
 
 
@@ -266,19 +1165,15 @@ Aa/g.
 
 
 
-
-
-В данной точке среды возникает интерференционный минимум, если...
+Bevosita rekursiv funksiya nima ish bajaradi?
 ====
-разность хода волн равна чётному числу полуволн;
+#o’ziga -o’zi murojat qiladi
 ====
-#разность хода волн равна нечётному числу полуволн;
+o’zidan keyingisiga murojat qiladi
 ====
-разность хода волн равна разности фаз волн;
+ish bajarmaydi
 ====
-разность хода волн равна нулю.
-
-
+bir xil nomli boshqa funksiyaga murojat qiladi
 
 
 
@@ -286,19 +1181,15 @@ Aa/g.
 
 
 
-
-
-Интерференцию от двух ламп накаливания нельзя наблюдать, так как световые волны , излучаемые ими…
+C++ Builderda Button1 komponentasi chertilganda Edit1 komponentasi noaktiv (ishlamaydigan) xolatga o’tishi uchun qanday amallar bajariladi? 
 ====
-слишком малой интенсивности;
+#Edit1-&gt;Enabled=false;
 ====
-слишком большой интенсивности;
+Edit1-&gt;Enabled=true;
 ====
-неполяризованы;
+Edit1-&gt;Visible=false;
 ====
-#не когерентны.
-
-
+Edit1-&gt;Visible=true;
 
 
 
@@ -306,19 +1197,15 @@ Aa/g.
 
 
 
-
-
-При повышении температуры проводимость собственных полупроводников _______________.
+C++ Builderda Formaning “OnClose” hodisasi qachon ishga tushadi? 
 ====
-уменьшается
+#Forma yopilishidan oldin
 ====
-#увеличивается
+Forma ikki marta chertilganda
 ====
-не зависит от температуры
+Formaga sichqon ko’rsatkichi olib kelinishi bilan
 ====
-зависит от вида полупроводников
-
-
+Forma faol bo’lganda 
 
 
 
@@ -326,19 +1213,15 @@ Aa/g.
 
 
 
-
-
-Как меняется энергетическая светимость чёрного тела при смещения длина волны соответствующей максимуму спектральной плотности энергетической светимости с 360 нм на 720 нм.
+C++ Builderda Button1 komponentasini chertganga formaning kenglik o’lchamini Edit1 komponentasiga kiritilgan qiymatga tenglash uchun qanday dastur yozish kerak? 
 ====
-Уменьшится в 2 раза;
+#Form1-&gt;Width=StrToInt(Edit1-&gt;Text);
 ====
-Уменьшится в 4 раза;
+Form1-&gt;Width=StrToChar(Edit1-&gt;Text);
 ====
-Уменьшится в 8 раза;
+Form1-&gt;Width=IntToStr(Edit1-&gt;Text);
 ====
-#Уменьшится в 16 раза.
-
-
+Form1-&gt;Width=Edit1-&gt;Text;
 
 
 
@@ -346,19 +1229,15 @@ Aa/g.
 
 
 
-
-
-Укажите виды фотоэффекта.
+C++ Builderda Formaning “OnDblClick” hodisasi qachon ishga tushadi? 
 ====
-Внешный, вентильный, внутренный;
+#Forma ikki marta chertilganda
 ====
-#Внешный, внутренный;
+Forma yopilishidan oldin
 ====
-Внешный, внутренный, тепловой;
+Forma bir marta chertilganda
 ====
-Внешный, внутренный, смещанный.
-
-
+Forma faol bo’lganda 
 
 
 
@@ -366,19 +1245,15 @@ Aa/g.
 
 
 
-
-
-Какое из нижеперечисленных определений не относится к фотоэффекту?
+C++ Builderda Button1 komponentasini chertganga formaning balandlik o’lchamini Edit1 komponentasiga kiritilgan qiymatga tenglash uchun qanday dastur yozish kerak? 
 ====
-Фототок насыщения прямо пропорционально интенсивности света;
+#Form1-&gt;Height=StrToInt(Edit1-&gt;Text);
 ====
-Максимальная скорость фотоэлектронов зависит от частоты света и не зависит от интенсивности освещения;
+Form1-&gt;Height=StrToChar(Edit1-&gt;Text);
 ====
-#Тело излучает свет порциями, а не непрырыно;
+Form1-&gt;Height=IntToStr(Edit1-&gt;Text);
 ====
-Для каждого тело имеется своя красная граница фотоэффекта.
-
-
+Form1-&gt;Height=Edit1-&gt;Text;
 
 
 
@@ -386,19 +1261,15 @@ Aa/g.
 
 
 
-
-
-При повышении температуры удельное сопротивление собственных полупроводников _______________.
+C++ Builderda Button1 komponentasini chertganga formaning rangini ko’k rangga o’zgartirish uchun qanday dastur yozish kerak? 
 ====
-#уменьшается
+#Form1-&gt;Color=clBlue;
 ====
-увеличивается
+Form1-&gt;Color=Blue;
 ====
-не зависит от температуры
+Form1-&gt;FontColor=clBlue;
 ====
-зависит от вида полупроводников
-
-
+Form1-&gt;Color==clBlue;
 
 
 
@@ -406,19 +1277,15 @@ Aa/g.
 
 
 
-
-
-В зависимости от степени химической чистоты полупроводники подразделяют на ____________ и _______________ .
+Bir xil toifali, chekli qiymatlarning tartiblangan to’plamiga nima deb ataladi?
 ====
-#собственные и примесные
+#massiv
 ====
-чистые и примесные
+oqim
 ====
-электронные и примесные
+funksiya
 ====
-собственные и электронные
-
-
+rekursiv funksiya 
 
 
 
@@ -426,19 +1293,15 @@ Aa/g.
 
 
 
-
-
-Пружинный маятник колеблится с периодом Т. Если массу груза увеличить на 60 г, период увеличивается в два раза. Определить массу груза (г). 
+Katta va kichik harflardan, ostki chiziq bilan boshlanadigan ketma ketlik …. deyiladi.
 ====
-10;
+#identifikator
 ====
-#20;
+xizmatchi so'z
 ====
-30;
+massiv
 ====
-40.
-
-
+funksiya
 
 
 
@@ -446,19 +1309,15 @@ Aa/g.
 
 
 
-
-
-Где правильно указан смысл первого постулата Бора?
+Parametrli takrorlash operatorini ko'rsating
 ====
-В атоме электроны движется по круговым орбитам и излучают при этом электромагнитные волны;
+#for
 ====
-#Атом может находится только в одном из стационарных состояниях, в которых он не излучает электромагнитные волны; 
+if
 ====
-при переходе из одного стационарного состояния в другое атом поглощает или излучает квант электромагнитного излучения; 
+while
 ====
-А и В.
-
-
+switch
 
 
 
@@ -466,19 +1325,15 @@ Aa/g.
 
 
 
-
-
-Какие спектральные серии излучения водорода находятся в ультрафиолетеовой области спектра? 
+C++ Builderda Formaning “OnClick” hodisasi qachon ishga tushadi? 
 ====
-#Лаймана;
+#Forma bir marta chertilganda
 ====
-Бальмера;
+Forma (yaratilganda) ishga tushganda
 ====
-Пшена;
+Forma ikki marta chertilganda
 ====
-Лаймана и Бальмера.
-
-
+Forma yopilishidan oldin
 
 
 
@@ -486,19 +1341,15 @@ Aa/g.
 
 
 
-
-
-Где правильно указан смысл второго постулата Бора?
+C++ Builderda Edit1 komponentasiga kritilayotgan simvollarni barchasini ‘#’ ko’rinishida chiqarish uchun qanday amallar bajariladi? 
 ====
-В атоме электроны движется по круговым орбитам и излучают при этом электромагнитные волны;
+#Edit1-&gt;PasswordChar='#';
 ====
-Атом может находится только в одном из стационарных состояниях, в которых он не излучает электромагнитные волны; 
+Edit1-&gt;Password='#';
 ====
-#при переходе из одного стационарного состояния в другое атом поглощает или излучает квант электромагнитного излучения; 
+Edit1-&gt;Char='#';
 ====
-А и В.
-
-
+Edit1-&gt;PassChar='#';
 
 
 
@@ -506,19 +1357,15 @@ Aa/g.
 
 
 
-
-
-Указать ошибочное утверждение.
+C++ Builderda Button1 komponentasini bosganda, agar RadioButton1 ob’yekti tanlangan (belgilangan) bo’lsa “Tanlangan” degan yozuvni chiqarish kodini ko’rsating: 
 ====
-В теории Бора спектральные линии атома водорода возникают в результате перехода электронов с одной орбиты на другое;
+#if (RadioButton1-&gt;Checked==true) ShowMessage("Tanlangan"); 
 ====
-В теории Бора каждый электронный переход сопровождается излучением или поглощением электромагнитной волны;
+if (RadioButton1-&gt;Checked=true) ShowMessage("Tanlangan"); 
 ====
-Модель атома Бора объяснила спектры водорода и водородоподобных атомов;
+if (Radio1-&gt;Checked==true) ShowMessage("Tanlangan"); 
 ====
-#при переходе с более высокой на более низкую орбиту электрон поглощает квант электромагнитного излучения.
-
-
+if (Radio1-&gt;Checked==false) ShowMessage("Tanlangan"); 
 
 
 
@@ -526,19 +1373,15 @@ Aa/g.
 
 
 
-
-
-Расстояние между первым и пятым гребнями волны равно 40 см. Чему равна длина волны?
+C++ Builderda 2 sonni ustida arifmetik amallar bajarish uchun ularni formaga qaysi komponenta orqali to'gridan-tog'ri kiritish mumkin? 
 ====
-20 м;
+#Edit
 ====
-40 м;
+Label
 ====
-8 м;
+Button
 ====
-#10 м.
-
-
+BitBtn
 
 
 
@@ -546,19 +1389,15 @@ Aa/g.
 
 
 
-
-
-Проводимость собственных полупроводников обусловлена термической активацией электронов и их перебросом из____________ в _______________.
+C++ Builderda Edit1 komponentasiga ma’lumot kiritishni taqiqlash uchun qanday amallar bajariladi? 
 ====
-валентной зоны, запрещенную зону
+#Edit1-&gt;ReadOnly=true;
 ====
-запрещенной зоны, зону проводимости
+Edit1-&gt;CharCase=ecLowerCase;
 ====
-#валентной зоны, зону проводимости
+Edit1-&gt;ReadOnly=false;
 ====
-зоны проводимости, валентную зону
-
-
+Edit1-&gt;ReadOnly==true;
 
 
 
@@ -566,19 +1405,15 @@ Aa/g.
 
 
 
-
-
-Носителями тока в полупроводниках являются:
+C++ Builderda Edit1 komponentasiga kichik harf registrida ma’lumot kiritish uchun qanday amallar bajariladi? 
 ====
-электроны
+#Edit1-&gt;CharCase=ecLowerCase;
 ====
-положительные и отрицательные ионы
+Edit1-&gt;CharCase=ecUpperCase;
 ====
-электроны и полжительные ионы
+Edit1-&gt;CharCase=ecNormal;
 ====
-#электроны и дырки
-
-
+Edit1-&gt;CharCase=true;
 
 
 
@@ -586,19 +1421,15 @@ Aa/g.
 
 
 
-
-
-Полупроводников, проводимость которых обусловлена преимущественно наличием в них дырок, называют полупровoдниками:
+C++ Builderda Button1 komponentasi chertilganda Button2 komponentasi yashirin (ko’rinmas) xolatga o’tishi uchun qanday amallar bajariladi? 
 ====
-n- типа
+#Button2-&gt;Visible=false;
 ====
-#p- типа
+Button1-&gt;Visible=false;
 ====
-i- типа
+Button2-&gt;Visible=true;
 ====
-p-n- типа
-
-
+Button1-&gt;Visible=true;
 
 
 
@@ -606,19 +1437,15 @@ p-n- типа
 
 
 
-
-
-Полупроводников, проводимость которых обусловлена преимущественно наличием в них электронов, называют полупровoдниками:
+C++ Builderda Button1 komponentasi chertilganda Edit1 komponentasi yashirin (ko’rinmas) xolatga o’tishi uchun qanday amallar bajariladi? 
 ====
-#n- типа
+#Edit1-&gt;Visible=false;
 ====
-p- типа
+Edit1-&gt;Visible=true;
 ====
-i- типа
+Edit1-&gt;Enabled=false;
 ====
-p-n- типа
-
-
+Edit1-&gt;Enabled=true;
 
 
 
@@ -626,19 +1453,15 @@ p-n- типа
 
 
 
-
-
-Примесь придающий в полупроводник электронный тип проводимости называется:
+C++ dasturlash tilida funksiyalar o’z –o’zini chaqirish imkoniyatiga qaysi funksiyada ega bo’ladi?
 ====
-чужеродный
+#rekursiv
 ====
-собственный
+getline
 ====
-#донорный
+insert
 ====
-акцепторный
-
-
+return 
 
 
 
@@ -646,1671 +1469,62 @@ p-n- типа
 
 
 
-
-
-Примесь придающий в полупроводник дырочный тип проводимости называется:
-====
-чужеродный
-====
-собственный
-====
-донорный
-====
-#акцепторный
-
-
-
-
-
-+++++
-
-
-
-
-
-Предмет находится на расстоянии а = 0,1 м от переднего фокуса собирающей линзы, а экран, на котором получается четкое изображение предмета – на расстоянии b = 0,4 м от заднего фокуса линзы. Найдите увеличение Г предмета.
-====
-#2,0;
-====
-2,5;
-====
-3,0;
-====
-3,5.
-
-
-
-
-
-+++++
-
-
-
-
-
-Груз массой 1 кг совершает колебания под действием пружины жесткостью 400 Н/м. Каково максимальное смещение груза из положения равновесие, если в положении равновесия модуль его скорости равен 4 м/с.
-====
-0,04 м;
-====
-0,1 м;
-====
-0,4 м;
-====
-#0,2 м.
-
-
-
-
-
-+++++
-
-
-
-
-
-Как изменится период колебаний груза, подвешенное на резиновом жгуте, если жгут сложить пополам и подвесить на него тот же груз?
-====
-Увеличиться в 2 раза;
-====
-Увеличиться в 4 раза;
-====
-Не изменится;
-====
-#Уменьшится в 2 раза.
-
-
-
-
-+++++
-
-
-
-
-
-Период колебаний волны на поверхности воды равно 2 с, расстояние между соседними волнами – 20 см. Определить скорость волн (мм/с).
-====
-1;
-====
-10;
-====
-#100;
-====
-0,1.
-
-
-
-
-
-+++++
-
-
-
-
-
-Лодка качается на волнах, которые распространяются со скоростью 1,5 м/с. Расстояние между двумя ближайшими гребнями волны 9 м. Укажите период колебания лодки.
-====
-1,5 с;
-====
-3 с;
-====
-#6 с;
-====
-9 с.
-
-
-
-
-
-+++++
-
-
-
-
-
-Наблюдатель определил, что расстояние между соседними гребнями волн 12 м. Чему будет равна скорость распространении волны, если гребень волны проходит мимо наблюдателя через каждые 6 с?
-====
-18 м/с;
-====
-12 м/с;
-====
-6 м/с;
-====
-#2 м/с.
-
-
-
-
-
-+++++
-
-
-
-
-
-Каким из перечисленных ниже свойств обладают поперечные волны, но не обладают продольные волны?
-====
-преломление;
-====
-интерференция;
-====
-#поляризация;
-====
-дифракция.
-
-
-
-
-
-+++++
-
-
-
-
-
-
-Расстояние между первым и третьим гребнями волны равно 18 см. Чему равна длина волны?
-====
-#9 см;
-====
-18 см;
-====
-56 см;
-====
-72 см.
-
-
-
-
-
-+++++
-
-
-
-
-
-Укажите правильное расположение нежеперечисленных видов электромагнитного излучения в порядке убывания их длин волн.
-====
-Ультрафиолетовое, Рентгеновское, инфракрасное, радиоволны;
-====
-Рентгеновское, Рентгеновское, инфракрасное,ультрафиолетовое;
-====
-#Радиоволны, инфракрасное, ультрафиолетовое, рентгеновское;
-====
-Рентгеновское, ультрафиолетовое, инфракрасное, радиоволны.
-
-
-
-
-
-+++++
-
-
-
-
-
-Интерференцией света называется явление:
-====
-#наложения когерентных волн и перераспределения их энергии в пространстве;
-====
-рассеяния света неоднородностями среды;
-====
-отклонения света от прямолинейного распространения;
-====
-разложения белого света в спектр.
-
-
-
-
-
-+++++
-
-
-
-
-Укажите ошибочное утверждение:
-====
-Дж. Томсон выдвину гипотезу, что атом представляет собой непрерывно заряженный положительным зарядом шар, внутри которого находятся отрицательно заряженные электроны;
-====
-Гипотеза Томсона бала опровергнута результатами Э.Резерфорда, который предложил ядерную (планетарную) модель атома; 
-====
-Макс Планк выдвынул гипотузу, что атомы излучают электромагнитные волны не непрерывно, а определенными порциями- квантами;
-====
-#Энергия кванта электромагнитного излучения, испускаемого при переходе с одной орбиты на другую, равна кинетической энергии электрона.
-
-
-
-
-
-+++++
-
-
-
-
-
-Указать правильное утверждение. Основной недостаток планетарной модели атома Резерфорда заключается в том, что:
-====
-Ато не является неделимой частицей вещества и рассматривается как сложная система, состоящая из электрически заряженных частиц;
-====
-#Атом неустойчив, так как электрон вращаясь по круговой орбите и имея центростремельное ускорение, должен непрырывно излучать электромагнитные волны;
-====
-Атомное ядро имеет очень малые размеры и почти вся масса сосредоточена в его ядре;
-====
-В состав атома входят разноименно заряженные частицы.
-
-
-
-
-
-+++++
-
-
-
-
-Какие спектральные серии излучения водорода находятся в видимой области спектра? 
-====
-Лаймана;
-====
-#Бальмера;
-====
-Пшена;
-====
-Лаймана и Бальмера.
-
-
-
-
-
-+++++
-
-
-
-
-
-Какие квантовые числа существуют?
-====
-n – главное и l- орбитальное квантовое число;
-====
-m – магнитное кванттовое число;
-====
-s – спиновое квантовое число;
-====
-#Все вышеперечисленные.
-
-
-
-
-
-+++++
-
-
-
-
-
-На основание квантовой теории Планка, поглощение или испускание телом света имеет: 
-====
-#Дискретный спектр
-====
-Непрерывный спектр
-====
-Прямолинейный 
-====
-Как дискретный, так и непрерывный
-
-
-
-
-
-+++++
-
-
-
-
-
-Укажите оптическую силу объектива проекционного аппарата, если он дает двадцатикратное увеличение, когда слайд находится от него на расстоянии 21 см.
-====
-4 дптр;
-====
-#5 дптр;
-====
-6 дптр;
-====
-7 дптр.
-
-
-
-
-
-+++++
-
-
-
-
-
-
-В атоме, согласно принципу Паули, в одном состоянии, определяемом четырьмя квантовыми числами, может находиться максимальное количество электронов:
-====
-3
+Shart operatorini necha xil ko’rinishi mavjud ?
 ====
 #2
 ====
 1
 ====
-бесконечное число
-
-
-
-
-
-+++++
-
-
-
-
-
-Укажите экспериментальное поджтверждение справедливости постулатов Бора.
-====
-#Опыты Франка и Герца;
-====
-Эффект Комптона;
-====
-Опыт Штерна;
-====
-Опыты Дэвиссона и Джермера.
-
-
-
-
-
-+++++
-
-
-
-
-
-Что такая частота колебаний?
-====
-#Количество колебаний за единицу времени;
-====
-Количество колебаний за 1 с;
-====
-Указывает число полных колебаний;
-====
-Величина измеряемая в 1 Гц.
-
-
-
-
-
-+++++
-
-
-
-
-
-
-
-Как изменится период пружинного маятника, если увеличить массу колеблющийся тело в 4 раза?
-====
-Увеличиться в 4 раза;
-====
-#Увеличиться в 2 раза;
-====
-Уменьшиться в 2 раза;
-====
-Уменьшиться в 4 раза.
-
-
-
-
-
-+++++
-
-
-
-
-
-Световые волны когерентны, если у них …
-====
-совпадают амплитуды;
-====
-совпадают частоты;
-====
-постоянен сдвиг фаз;
-====
-#совпадают частоты и постоянен сдвиг фаз.
-
-
-
-
-
-+++++
-
-
-
-
-
-Материальная точка совершает гармоническое колебание с частотой ν = 1 Гц, в момент времени t = 0 проходит положение, определяемое координатой x0 = 5 см, со скоростью υ0 = 15 см/с. Определите амплитуду колебаний.
-====
-#5,54 см;
-====
-5,74 см;
-====
-5,94 см;
-====
-6,14 см.
-
-
-
-
-
-+++++
-
-
-
-
-
-Материальная точка совершает колебания согласно уравнению  . В какой-то момент времени смещение точки х1 = 15 см. При возрастании фазы колебаний в два раза смещение оказалось равным 24 см. Определите амплитуду А колебаний.
-====
-36 см;
-====
-32 см;
-====
-30 см;
-====
-#25 см.
-
-
-
-
-
-+++++
-
-
-
-
-
-Через какую долю периода Т скорость точки будет равна половине ее максимальной скорости? В начальной момент, совершая гармонические колебания, точки проходит положение равновесия.
-====
-Т/2;
-====
-Т/3;
-====
-Т/4;
-====
-#Т/6.
-
-
-
-
-
-+++++
-
-
-
-
-
-Емкость конденсатора в контуре С= 5 мкФ, циклическая частота колебаний контура 500 рад/с. Чему равна индуктивность (Гн) катушки?
-====
-500;
-====
-50;
-====
-1;
-====
-#0,8.
-
-
-
-
-
-+++++
-
-
-
-
-
-Под действием силы 6 Н пружина удлиняется на 1,5 см. На эту пружину подвесили тело массой 1 кг. Определить его период (с) колебиния.
-====
-0,63;
-====
-#0,31;
-====
-0,16;
-====
-1,26.
-
-
-
-
-
-+++++
-
-
-
-
-
-В каком направлении колеблются частицы среды в продольной волне?
-====
-Во всех направлениях;
-====
-#Только в направлении распространения волны;
-====
-В направлении, в перпендикулярном направлению распространения волны;
-====
-В направлении распространения волны и в перпендикулярном направлении.
-
-
-
-
-
-+++++
-
-
-
-
-
-В каком направлении колеблются частицы среды в поперечной волне?
-====
-Во всех направлениях;
-====
-Только в направлении распространения волны;
-====
-#В направлении, в перпендикулярном направлению распространения волны;
-====
-В направлении распространения волны и в перпендикулярном направлении
-
-
-
-
-
-+++++
-
-
-
-
-
-Дайте определения длины волны λ.
-====
-Расстояние проходимой волной за время t;
-====
-#Расстояние между ближайшими частицами, колеблющимися в одинаковой фазе;
-====
-Расстояние между двумя частицами, колеблющимися в противоположной фазе;
-====
-Расстояние между первым и последними частицами, колеблющимися в одинаковой фазе;
-
-
-
-
-
-+++++
-
-
-
-
-
-Что такой волновой фронт?
-====
-#Геометрическое место точек, до которых доходят колебания к моменту t;
-====
-Геометрическое место точек, до которых доходят колебания за период Т;
-====
-Геометрическое место точек, колеблющихся в одинаковой фазе;
-====
-Все ответы верны.
-
-
-
-
-
-+++++
-
-
-
-
-
-Пробка колеблется на волнах с частотой 1 Гц. Какова скорость распространения волны (м/с), если расстояние между двумя соседними горбами волны равно 1 м?
-====
-2;
-====
-#1;
-====
-3;
-====
-4.
-
-
-
-
-
-+++++
-
-
-
-
-
-Какое из нижеперечисленных видов электромагнитного излучения обладает наименьшую длину волны?
-====
-Рентгеновское излучение;
-====
-#Гамма излучение;
-====
-Ультрафиолетовое излучение;
-====
-Инфракрасное излучение.
-
-
-
-
-
-+++++
-
-
-
-
-
-Какое из нижеперечисленных видов электромагнитного излучения обладает наименьшую частоту?
-====
-Рентгеновское излучение;
-====
-Гамма излучение;
-====
-Ультрафиолетовое излучение;
-====
-#Инфракрасное излучение.
-
-
-
-
-
-+++++
-
-
-
-
-
-Когерентные волны – это волны, имеющие в любой точке пространства ...
-====
-одинаковые скорости и постоянную разность фаз;
-====
-#одинаковую частоту и постоянную разность фаз;
-====
-одинаковые скорости и частоту;
-====
-постоянную разность фаз и одинаковую амплитуды.
-
-
-
-
-
-+++++
-
-
-
-
-
-Интерференция световых волн возможна, если они имеют ...
-====
-одинаковые длины волн и частоты;
-====
-постоянную разность фаз и одинаковые скорости;
-====
-одинаковые длины волн и скорости;
-====
-#постоянную разность фаз и одинаковые длины волн.
-
-
-
-
-
-+++++
-
-
-
-
-
-При выдувании мылного пузыря при некоторой толщине пленки он приобретает радужную окраску. Какое физическое явление лежит в основе этого наблюдения?
-====
-дифракция;
-====
-#интерференция;
-====
-поляризация;
-====
-дисперсия.
-
-
-
-
-
-+++++
-
-
-
-
-
-При каких излучениях фотон имеет наибольшую энергию?
-====
-#Ультрафиолетовое;
-====
-Инфракрасное;
-====
-Синее;
-====
-Красное.
-
-
-
-
-+++++
-
-
-
-
-
-Какое из приведенных выражение определяет понятие интерференции?
-====
-огибание волной препятствия;
-====
-разложение в спектр при преломлении;
-====
-#наложение когерентных волн;
-====
-уменьшение отражения света от поверхности линзы.
-
-
-
-
-
-+++++
-
-
-
-
-
-Какое из нижеперечисленных излучений имеет наибольшую длину волны?
-====
-Ультрафиолетовое;
-====
-#Инфракрасное;
-====
-Синее;
-====
-Красное.
-
-
-
-
-
-+++++
-
-
-
-
-
-Что такой резонанс?
-====
-Резкое возрастание амплитуды вынужденных колебаний при определенной значении частоты вынуждающей силы;
-====
-Зависимость амплитуды вынужденных колебаний от частоты и амплитуды вынуждающей силы;
-====
-Согласованность частоты колдебания с частатой определенной гармоники струны;
-====
-#Резкое возрастание амплитуды вынужденных колебаний при равенстве частоты вынуждающей силы с собственной частотой системы.
-
-
-
-
-
-+++++
-
-
-
-
-
-Что такой период колебание?
-====
-Промежуток времени начало и конца колебания;
-====
-Величина обратно пропорциональная частоте колебания;
-====
-#Время за которой фаза колебания меняется на 2π;
-====
-Отношение 2π на циклическую частоту.
-
-
-
-
-
-+++++
-
-
-
-
-
-Как изменится период электромагнитных колебаний в колебательном контуре, если конденсатор контура заполнить диэлектриком с диэлектрической проницаемостью Ɛ= 4.
-====
-#увеличится в 2 раза;
-====
-уменьшится в 4раза;
-====
-увеличится в 16 раз;
-====
-уменьшится в 2 раза.
-
-
-
-
-
-+++++
-
-
-
-
-
-Пробка колеблется на волнах 10 раз за 5 с. Какова скорость распространения волны (м/с), если расстояние между двумя соседними горбами волны равно 1 м?
-====
-#2;
-====
-2,5;
-====
-3;
-====
-4.
-
-
-
-
-
-+++++
-
-
-
-
-
-Разность фаз колебаний в двух точках, расположенных на одной линии вдоль направления распространения волны, равна 2π. Какова длина волны (м), если расстояние между этими точками равно 2 м?
-====
-1;
-====
-2;
-====
-#4;
-====
-6.
-
-
-
-
-
-+++++
-
-
-
-
-
-Наименьшее расстояние вдоль направления распространения волны между двумя точками среды, колеблющимися со сдвигом фаз 2π/3, равно 2 м. Чему равна длина волны (м)?
-====
-4;
-====
-2;
-====
-8;
-====
-#6.
-
-
-
-
-
-+++++
-
-
-
-
-
-Определите разность фаз для точек, удаленных от источника колебаний на 3,5 и 2,0 м. Период колебаний 0,5 с, скорость распространения волны 6 м/с.
-====
-π/2;
-====
-0;
-====
-#π;
-====
-π/4.
-
-
-
-
-
-+++++
-
-
-
-
-
-При наблюдении интерференции красного света в опыте Юнга расстояние между соседними темными полосами на экране равно 6 мм. Если источник красного света заменить источником фиолетового света, длина волны которого в 1,5 раза меньше, то это расстояние станет равным, ___мм.
-====
-9;
-====
-8;
-====
-#4;
-====
-3.
-
-
-
-
-
-+++++
-
-
-
-
-
-Какое из нижеперечисленных излучений имеет наибольшую частоту?
-====
-#Ультрафиолетовое;
-====
-Инфракрасное;
-====
-Синее;
-====
-Красное.
-
-
-
-
-
-+++++
-
-
-
-
-
-Какие из низеприведенных примеров объясняется явлением дифракцией света? 1) Радужная окраска на мылнем пузыре и на тоньких пленках; 2) Кольцы Ньютона; 3) Образование светлой пятны в центре тени за непрозрачного диска; 4) Смешение луча в сторону геометрической тени.
-====
-1,3 ;
-====
-1,2;
-====
-#3,4;
-====
-1,2,3.
-
-
-
-
-
-+++++
-
-
-
-
-
-В каких условиях проявляется дифракция волн?
-====
-В отсутсвие препятствия;
-====
-#Когда размеры припятствия соизеримы с длиной волны;
-====
-Когда размеры припятствия намного превышает длины волны;
-====
-Когда размеры припятствия значтельно меньше длины волны.
-
-
-
-
-
-+++++
-
-
-
-
-
-Как меняется дифракционная картина при увеличение длины волны падающего монохроматического излучение?
-====
-#Уменьшается расстояние между максимумами;
-====
-Увеличивается расстояние между максимумами;
-====
-Не меняется;
-====
-Увеличится число максимумов.
-
-
-
-
-
-+++++
-
-
-
-
-
-Каково проявление явления интерференция света?
-====
-слияние световых пучков в каждой точке области, исходящих из двух или нескольких источников когерентного света;
-====
-#усиление или ослабление интенсивности в области слияние световых пучков, исходящих из двух или нескольких источников когерентного света;
-====
-огибание препятствия световыми волнами и проникновение их в области геометрической тени;
-====
-разложение белого света в спектр.
-
-
-
-
-
-+++++
-
-
-
-
-
-Изменится ли частота и длина волны света при переходе его из вакуума в воду?
-====
-#длина волны уменьшается, а частота увеличивается;
-====
-длина волны увеличивается, а частота уменьшается;
-====
-длина волны уменьшается, а частота неизменяется;
-====
-длина волны увеличивается, а частота неизменяется
-
-
-
-
-
-+++++
-
-
-
-
-
-При интерференции когерентных лучей с длиной волны 300 нм максимум второго порядка возникает при разности хода:
-====
-300 нм;
-====
-#600 нм;
-====
-150 нм;
-====
-100 нм.
-
-
-
-
-
-+++++
-
-
-
-
-Укажите правильное расположение нежеперечисленных видов электромагнитного излучения в порядке убывания их частоты.
-====
-Ультрафиолетовое, Рентгеновское, инфракрасное, радиоволны;
-====
-Рентгеновское, Рентгеновское, инфракрасное,ультрафиолетовое;
-====
-Радиоволны, инфракрасное, ультрафиолетовое, рентгеновское;
-====
-#Рентгеновское, ультрафиолетовое, инфракрасное, радиоволны.
-
-
-
-
-
-+++++
-
-
-Укажите соответствие нижеследующих физических величин с их единицами измерения. A. частота колебаний; B. период колебаний; C. амплитуда колебаний. 1) м/с; 2) с; 3) Гц; 4) Н/м; 5) м
-====
-#3,2,5; 
-====
-2,3,5; 
-====
-2,3,4;
-====
-3,4,5.
-
-
-
-
-+++++
-
-
-
-
-Какие колебания называются гармоническими?
-====
-Всякие периодически повторяющийся колебания называются гармоническими;
-====
-Колебания описывающийся по закону синуса называются гармоническими;
-====
-Колебания описывающийся по закону косинуса называются гармоническими;
-====
-#Колебания описывающийся по закону синуса или косинуса называются гармоническими.
-
-
-
-
-
-+++++
-
-
-
-
-
-В колебательном контуре электрические колебания задается уравнением q = 10-2cos20t. Укажите амплитудное значение заряда конденсатора.
-====
-#10-2 К; 
-====
-20 К; 
-====
-cos20t К; 
-====
-20t К.
-
-
-
-
-
-+++++
-
-
-
-
-
-В конденсаторе колебательного контура изменили начальное значение заряда. При этом какое из перечисленных значений электрических колебаний возникающие в колебательном контуре остается не изменным.
-====
-Амплитудное значение тока;
-====
-#Период колебания;
-====
-Амплитудное значение напряжения в конденсаторе;
-====
-Амплитуда магнитной индукции поле катушки.
-
-
-
-
-
-+++++
-
-
-
-
-
-В каких веществах возникают продольные упругие волны?
-====
-Твердых телах и на поверхности жидкостей;
-====
-#В твердых телах, жидкостях и в газах;
-====
-В твердых телах и в газах;
-====
-Только в твёрдых телах.
-
-
-
-
-
-+++++
-
-
-
-
-
-Нормальной дисперсией называется, когда ....
-====
-#наблюдается увеличение показателя преломление среды с уменьшением длины волны падающего света;
-====
-наблюдается уменьшение показателя преломление среды с уменьшением длины волны падающего света;
-====
-размеры препятствия соизмеримы с длиной волны;
-====
-не наблюдается зависимости показателя преломление среды от длины волны падающего света.
-
-
-
-
-
-+++++
-
-
-
-
-
-Аномальной дисперсией называется, когда ....
-====
-наблюдается увеличение показателя преломление среды с уменьшением длины волны падающего света;
-====
-#наблюдается уменьшение показателя преломление среды с уменьшением длины волны падающего света;
-====
-размеры припятствия соизеримы с длиной волны;
-====
-не наблюдается зависимости показателя преломление среды от длины волны падающего света.
-
-
-
-
-
-+++++
-
-
-
-
-
-Как изменится цвет монохроматического пучка света при переходе из вакуума в прозрачную среду с абсолютным показателем преломления 1,5 ? 
-====
-Спектр сместится в сторону красных лучей;
-====
-Спектр сместится в сторону фиолетовых лучей;
-====
-Зависит от угла падения;
-====
-#Не изменится.
-
-
-
-
-
-+++++
-
-
-
-
-
-В каких явлениях проявляется поперечность световых волн?
-====
-Интерференция света;
-====
-Дифракция света;
-====
-Дисперсия света;
-====
-#Поляризация света.
-
-
-
-
-
-+++++
-
-
-
-
-
-Как изменится кинетическая энергия фотоэлектронов при увеличение частоты излучения в 2 раза?
-====
-Увеличится в 2 раза;
-====
-Уменьшится в 2 раза;
-====
-#Увеличится больше чем в 2 раза;
-====
-Уменьшится больше чем в 2 раза.
-
-
-
-
-
-+++++
-
-
-
-
-
-Какие колебания называются свободными?
-====
-#Если тело совершает колебательное движение за счёт первоначально полученной извне энергии, без поддержки внешных сил;
-====
-Если тело совершает колебательное движение за счёт периодически меняющийся внешных сил;
-====
-Если колеблющийся величина изменяется по закону синуса (косинуса);
-====
-Если колебание является затухающими.
-
-
-
-
-
-+++++
-
-
-
-
-
-Определите период колебаний пружинного маятника, если частота собственных колебаний его равна 1 Гц.
-====
-5 с;
-====
-2 с;
-====
-#1 с;
-====
-0,1 с.
-
-
-
-
-
-+++++
-
-
-
-
-
-Как изменится период колебания математического маятника при увеличении массы и длины маятника в 9 раз?
-====
-не изменится;
-====
-увеличится в 9 раза;
-====
-уменьшится в 3 раза;
-====
-#увеличится в 3 раза.
-
-
-
-
-
-+++++
-
-
-
-
-
-Какова частота колебания математического маятника, если он совершает 8 полных колебаний за 40 с?
-====
-2 Гц;
-====
-5 Гц;
-====
-3,2 Гц;
-====
-#0,2 Гц.
-
-
-
-
-
-+++++
-
-
-
-
-
-Груз подвещенный пружине с жесткостью 200 Н/м совершает свободное гармоническое колебания. Каким должен быть жесткость пружины, чтобы увеличить период колебания в 2 раза?
-====
-400 Н/м;
-====
-100 Н/м;
-====
-#50 Н/м;
-====
-200 Н/м.
-
-
-
-
-
-+++++
-
-
-
-
-
-Как изменится период колебания пружинного маятника, если уменьшить амплитуду колебинии в 2 раза и массу груза в 4 раза?
-====
-Увеличится в 4 раза;
-====
-Увеличится в 2 раза;
-====
-#Уменьшится в 2 раза;
-====
-Уменьшится в 4 раза.
-
-
-
-
-
-+++++
-
-
-
-
-
-Как изменится частота колебаний колебательного контура, если расстояние между пластинами плоского конденсатора контура увеличить в 2 раза?
-====
-увеличится в 2 раза;
-====
-уменьшится в 2 раза;
-====
-увеличится в   раза;
-====
-#уменьшится в   раза.
-
-
-
-
-
-+++++
-
-
-
-
-
-Как изменится частота электромагнитных колебаний, если внутрь катушки колебательного контура ввести сердечник из ферромагнетика?
-====
-увеличится;
-====
-#уменьшится;
-====
-не изменится;
-====
-сначало уменьшится, потом увеличится.
-
-
-
-
-
-+++++
-
-
-
-
-
-В каких веществах возникают продольные   упругие волны?
-====
-Твердых телах и на поверхности жидкостей;
-====
-В твердых телах, жидкостях и в газах;
-====
-В твердых телах и в газах;
-====
-#Только в твёрдых телах.
-
-
-
-
-
-+++++
-
-
-
-
-
-Внутри каких сред (1-газ, 2-жидкость, 3-твёрдое тело) могут распространяться поперечные механические волны?
-====
-только 1;
-====
-только 2;
+3
 ====
-только 3;
-====
-#1 и 2.
-
-
-
-
-
-+++++
-
-
-
-
-
-Внутри каких сред (1-газ, 2-жидкость, 3-твёрдое тело) могут распространяться 
- поперечные механические волны?
-====
-1 и 2;
-====
-1 и 3;
-====
-2 и 3;
-====
-#1,2 и 3.
-
-
-
-
-
-+++++
-
-
-
-
-
-Какое из нижеперечисленных видов электромагнитного излучения обладает наибольшую частоту?
-====
-Рентгеновское излучение;
-====
-#Гамма излучение;
-====
-Ультрафиолетовое излучение;
-====
-Инфракрасное излучение.
-
-
-
-
-
-+++++
-
-
-
-
-
-Дайте определение волновой поверхности.
-====
-Геометрическое место точек, до которых доходят колебания к моменту t;
-====
-Геометрическое место точек, до которых доходят колебания за период Т;
-====
-#Геометрическое место точек, колеблющихся в одинаковой фазе;
-====
-Все ответы верны.
-
-
-
-
-
-+++++
-
-
-
-
-
-Что указывает вектор Умова?
-====
-Направлению распространение плоской волны;
-====
-Направлению распространение сферической волны;
-====
-#Вектор плотности потока энергии;
-====
-Направлению колебания частиц среды.
-
-
-
+4
 
 
-+++++
-
-
-
-
-
-Монохроматическая волна – это волна:
-====
-волна большой амплитуды;
-====
-волна, имеющий белый цвет;
-====
-#имеет определённую частоту;
-====
-первичная волна.
-
-
 
-
-
 +++++
-
-
 
 
 
-Электромагнитные волны – это:
+Sharti keyin berilgan sikl operatori tuzilishini ko'rsating.
 ====
-#переменное электромагнитное поле, распространяющееся в пространстве с конечной скоростью;
+#do{sikl tanasi;} while(shart)
 ====
-переменное электромагнитное поле, распространяющееся в пространстве с бесконечной скоростью;
+while(shart) {sikl tanasi;}
 ====
-постоянное электромагнитное поле, распространяющееся в пространстве с конечной скоростью;
+while(sikl tanasi) {shart;}
 ====
-постоянное электромагнитное поле, распространяющееся в пространстве с бесконечной скоростью.
+do{shart} while(sikl tanasi;)
 
 
 
-
-
 +++++
-
-
 
 
 
-Окрашивание тоньких плёнок в различные цвета обусловлено явлением:
+Sharti keyin berilgan sikl operatorini ko'rsating.
 ====
-дисперсия;
+#do{}while()
 ====
-дифракция света;
+for()
 ====
-интерференция света;
+while()
 ====
-#интерференция и дифракция.
+if()
 
 
 +++++
 
 
 
-
-
-Какое из нижеперечисленных видов электромагнитного излучения обладает наибольшую длину волны?
+Hoshiyalarning stilini o’zgartirish elementi nomini toping?
 ====
-Рентгеновское излучение;
+#Border Style
 ====
-Гамма излучение;
+Data access
 ====
-Ультрафиолетовое излучение;
+On close
 ====
-#Инфракрасное излучение.
-
-
+On hide
 
 
 
@@ -2318,19 +1532,15 @@ cos20t К;
 
 
 
-
-
-Математический маятник совершает гармоническое колебание с частотой ν. Как изменится частота колебания, если уменьшит длины нити маятника в 9 раз?
+MoveTo  xossasining vazifasi
 ====
-#3 ν;
+#Berilgan nuqtaga o’tish.
 ====
-ν/3;
+Chiziq chizish(joriy nuqtadan berilgan nuqtagacha)
 ====
-ν/9; 
+Tpoin ning massiv obyektlarini birlashtirish
 ====
-9 ν.
-
-
+Qator va ustunning sarlavha rangi
 
 
 
@@ -2338,19 +1548,15 @@ cos20t К;
 
 
 
-
-
-Волны, испускаемые естественными источниками, не когерентны потому что...
+LineTo  xossasining vazifasi 
 ====
-различаются частоты колебаний, испускаемых источником;
+#Chiziq chizish(joriy nuqtadan berilgan nuqtagacha)
 ====
-разность фаз колебаний остается постоянной во времени;
+Tpoin ning massiv obyektlarini birlashtirish
 ====
-#разность фаз колебаний непрерывно меняется во времени;
+Qator va ustunning sarlavha rangi
 ====
-направление колебаний векторов напряженности электрического и магнитного полей непрерывно меняются.
-
-
+Berilgan nuqtaga o’tish.
 
 
 
@@ -2358,19 +1564,15 @@ cos20t К;
 
 
 
-
-
-Когерентные волны можно получить с помощью ...
+Polyline xossasining vazifasi
 ====
-отражения волны;
+#Tpoin ning massiv obyektlarini birlashtirish
 ====
-преломление волны;
+Qator va ustunning sarlavha rangi
 ====
-#разделения волны с помощью двух щелей;
+Berilgan nuqtaga o’tish.
 ====
-поглощения волны.
-
-
+Chiziq chizish(joriy nuqtadan berilgan nuqtagacha)
 
 
 
@@ -2378,90 +1580,46 @@ cos20t К;
 
 
 
-
-
-Интерференционная картина наблюдается в белом свете. Как окрашен центральный максимум?
+Polygon shakllarining vazifasi yoki qiymati 
 ====
-#в белый свет;
+#Nuqtalar bo’yicha soha chizadi 
 ====
-красный цвет;
+To’g’ri burchakli to’rtburchak.
 ====
-синий цвет;
+Chegarasiz to’g’ri burchakli to’rtburchakning foni
 ====
-фиолетовый цвет.
-
-
+To’g’ri burchakli to’rtburchak atrof chiziqlarini 1 pikselga tenglashtirish, to’g’ri burchakli to’rtburchak fonsiz
 
 
 
 +++++
-
-
-
-
-
-Какие из перечисленных явлений объясняются интерференцией света? 1. радужная окраска тоньких мыльных пленок , 2. появление светового пятна в центре тени от малого непрозрачного диска, 3. кольца Ньютона, 4. отклонение световых лучей в область геометрической тени.
-====
-только 1;
-====
-#1 и 3;
-====
-только 2;
-====
-2 и 4.
-
-
-
 
 
-+++++
 
-Полупроводников, проводимость которых обусловена преимущественно наличием в них дырок, называют полупровoдниками:
+Rectangle shakllarining vazifasi yoki qiymati
 ====
-n- типа
+#To’g’ri burchakli to’rtburchak
 ====
-#p- типа
+Chegarasiz to’g’ri burchakli to’rtburchakning foni
 ====
-i- типа
+To’g’ri burchakli to’rtburchak atrof chiziqlarini 1 pikselga tenglashtirish, to’g’ri burchakli to’rtburchak fonsiz
 ====
-p-n- типа
+Nuqtalar bo’yicha soha chizadi
 
-+++++
 
-Полупроводников, проводимость которых обусловена преимущественно наличием в них электронов, называют полупровoдниками:
-====
-#n- типа
-====
-p- типа
-====
-i- типа
-====
-p-n- типа
 
 +++++
 
-Примесь придающий в полупроводник электронный тип проводимости называется:
-====
-чужеродный
-====
-собственный
-====
-#донорный
-====
-акцепторный
 
-+++++
 
-Примесь придающий в полупроводник дырочный тип проводимости называется:
+FillRect shakllarining vazifasi yoki qiymati
 ====
-чужеродный
+#Chegarasiz to’g’ri burchakli to’rtburchakning foni
 ====
-собственный
+To’g’ri burchakli to’rtburchak atrof chiziqlarini 1 pikselga tenglashtirish, to’g’ri burchakli to’rtburchak fonsiz
 ====
-донорный
+Nuqtalar bo’yicha soha chizadi
 ====
-#акцепторный
-
-
+To’g’ri burchakli to’rtburchak
 
 
