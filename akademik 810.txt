@@ -1,4 +1,3794 @@
 
+
+Найдите результат программы после компиляции: 
+float b[6];
+b[0]=1;
+b[1]=2;
+b[2]=b[1]-1;
+cout&lt&ltb[4];
+====
+#
+любое число     
+====
+2
+====
+0
+====
+ошибка программы
+
++++++
+n=8 найдите результат программы:
+    int n, s = 0;
+    cout &lt&lt "n="; cin &gt&gt n;
+    for (int i = 0; i &lt= n; i = i + 2)
+    s += i;
+    cout &lt&lt s &lt&lt endl;
+====
+#
+20
+====
+10
+====
+21
+====
+19
+
++++++
+
+n=9 найдите результат программы:
+    int n, s = 0;
+    cout &lt&lt "n="; cin &gt&gt n;
+    for (int i = 0; i &lt= n; i++)
+    if (i % 2==1)
+        s += i;
+    cout &lt&lt s &lt&lt endl;
+====
+#
+25
+====
+35
+====
+15
+====
+26
+
++++++
+
+n=10 найдите результат программы:
+    int n, s = 0;
+    cout &lt&lt "n="; cin &gt&gt n;
+    for (int i = 1; i &lt= n; i++)
+    if (n % i == 0)
+        s += i;
+    cout &lt&lt s &lt&lt endl;
+====
+#
+18
+====
+16
+====
+17
+====
+19
+
++++++
+
+n=15 найдите результат программы:
+    int n, s = 0;
+    cout &lt&lt "n="; cin &gt&gt n;
+    for (int i = 1; i &lt= n; i++)
+    if (n % i == 0)
+        s += 1;
+    cout &lt&lt s &lt&lt endl;
+====
+#
+4
+====
+6
+====
+5
+====
+3
+
++++++
+
+n=5 найдите результат программы:
+    int n, s = 0;
+    cout &lt&lt "n="; cin &gt&gt n;
+    for (int i = 1; i &lt= n; i++)
+    s *= i;
+    cout &lt&lt s &lt&lt endl;
+====
+#
+0
+====
+1
+====
+10
+====
+-1
+
++++++
+
+n=6 найдите результат программы:
+    int n, s = 1;
+    cout &lt&lt "n="; cin &gt&gt n;
+    for (int i = 1; i &lt= n; i++)
+    s *= i;
+    cout &lt&lt s &lt&lt endl;
+====
+#
+720
+====
+120
+====
+700
+====
+24
+
++++++
+
+n=12 найдите результат программы:
+    int n, s = 0;
+    cout &lt&lt "n="; cin &gt&gt n;
+    for (int i = 2; i &lt= n; i++)
+    {
+        bool b = true;
+        for (int j = 2; j &lt i; j++)
+          if (i % j == 0)
+          {
+              b = false;
+              break;
+          }
+        if ( b ) s += i;
+    }
+    cout &lt&lt s &lt&lt endl;
+====
+#
+28
+====
+15
+====
+27
+====
+30
+
++++++
+
+n=15 найдите результат программы:
+    int n, s = 0;
+    cout &lt&lt "n="; cin &gt&gt n;
+    for (int i = 1; i &lt= n; i++)
+    {
+        int k = 0;
+        for (int j = 1; j &lt i; j++)
+        if (i % j == 0) k++;
+        if ( k == 1 ) s += i;
+    }
+    cout &lt&lt s &lt&lt endl;
+====
+#
+41
+====
+40
+====
+42
+====
+51
+
++++++
+
+n=8 найдите результат программы:
+    int n, s = 1, i = 2;
+    cout &lt&lt "n="; cin &gt&gt n;
+    for (int k = 1; k &lt= n; k++)
+    s *= i;
+    cout &lt&lt s &lt&lt endl;
+====
+#
+256
+====
+128
+====
+64
+====
+100
+
++++++
+
+n=3 найдите результат программы:
+    int n, s = 1, a;
+    cout &lt&lt "n="; cin &gt&gt n;
+    a = n;
+    for (int k = 1; k &lt= n; k++)
+    s *= a;
+    cout &lt&lt s &lt&lt endl;
+====
+#
+27
+====
+9
+====
+81
+====
+30
+
++++++
+
+n=10 найдите результат программы:
+    int n, s = 0;
+    cout &lt&lt "n="; cin &gt&gt n;
+    for (int k = 1; k &lt= n; k++)
+    {
+        if (k % 5 == 0)
+            continue;
+        s += k;
+    }
+    cout &lt&lt s &lt&lt endl;
+====
+#
+40
+====
+50
+====
+45
+====
+30
+
++++++
+
+n=8 найдите результат программы:
+    int s = 0, i, n;
+
+    cout &lt&lt "n="; cin &gt&gt n;
+
+    for (i = 1; i &lt= n; i++)
+    if (i % 2)
+        s += i;
+    else
+        s += 2 * i;
+   cout &lt&lt s &lt&lt endl;
+====
+#
+56
+====
+65
+====
+58
+====
+50
+
++++++
+
+n=10 найдите результат программы:
+    int s = 0, i, n;
+    cout &lt&lt "n="; cin &gt&gt n;
+    for (i = 1; i &lt= n; i++)
+    if (i % 3 == 0)
+       s += 2 * i;
+   cout &lt&lt s &lt&lt endl;
+====
+#
+36
+====
+30
+====
+26
+====
+20
+
++++++
+
+n=12 найдите результат программы:
+    int s = 0, i, n;
+    cout &lt&lt "n="; cin &gt&gt n;
+    for (i = 1; i &lt= n; i++)
+    switch ( i % 5 )
+    {
+     case 0: s += i;
+         break;
+     default : s++;
+    }
+   cout &lt&lt s &lt&lt endl;
+====
+#
+25
+====
+30
+====
+20
+====
+35
+
++++++
+
+n=8 найдите результат программы:
+    int s = 0, i = 0, n;
+    cout &lt&lt "n="; cin &gt&gt n;
+    dastur_uz : i++;
+    s += i;
+    if (i != n)
+       goto dastur_uz;
+    else
+        s *= 2;
+   cout &lt&lt s &lt&lt endl;
+====
+#
+72
+====
+60
+====
+70
+====
+64
+
++++++
+
+n=12 найдите результат программы:
+    int s = 0, i, k = 1, n;
+    cout &lt&lt "n="; cin &gt&gt n;
+    for (i = 1; i &lt= n; i++)
+    s += k;
+    k += i;
+    cout &lt&lt s &lt&lt endl;
+====
+#
+12
+====
+6
+====
+10
+====
+14
+
++++++
+
+n=9 найдите результат программы:
+    int s = 0, i, k = 1, n;
+    cout &lt&lt "n="; cin &gt&gt n;
+    for (i = 1; i &lt= n; i++)
+    k += i;
+    s += k;
+    cout &lt&lt s &lt&lt endl;
+====
+#
+46
+====
+45
+====
+40
+====
+47
+
++++++
+
+n=6 найдите результат программы:
+    int s = 0, i, k = 1, n;
+    cout &lt&lt "n="; cin &gt&gt n;
+    for (i = 1; i &lt= n; i++)
+    {
+        k += i;
+        s += k;
+    }
+   cout &lt&lt s &lt&lt endl;
+====
+#
+62
+====
+63
+====
+60
+====
+64
+
++++++
+
+n=8 найдите результат программы:
+    int s = 0, i, n;
+    cout &lt&lt "n="; cin &gt&gt n;
+    for (i = 1; i &lt= n; i++)
+    if (i % 2 == 0)
+        s += i; s *= 2;
+    cout &lt&lt s &lt&lt endl;
+====
+#
+40
+====
+50
+====
+30
+====
+42
+
++++++
+
+n=8 найдите результат программы:
+    int s = 0, i, n;
+    cout &lt&lt "n="; cin &gt&gt n;
+    for (i = 1; i &lt= n; i++)
+    if (i % 2 == 0)
+    {
+          s += i; s *= 2;
+    }
+   cout &lt&lt s &lt&lt endl;
+====
+#
+104
+====
+105
+====
+100
+====
+108
+
++++++
+
+n=12 найдите результат программы:
+    int s = 0, i, n;
+    cout &lt&lt "n="; cin &gt&gt n;
+    for (i = 1; i &lt= n; i++)
+    if (i % 5 == 0)
+        break;
+    else
+        s += i;
+   cout &lt&lt s &lt&lt endl;
+====
+#
+10
+====
+20
+====
+30
+====
+15
+
++++++
+
+n=13 найдите результат программы:
+    int s = 0, i = 1, n;
+    cout &lt&lt "n="; cin &gt&gt n;
+    do {
+        i += 2;
+        if (i % 3 == 0)
+            s += i;
+        else
+            s++;
+    } while (i &lt= n);
+    cout &lt&lt s &lt&lt endl;
+====
+#
+31
+====
+32
+====
+33
+====
+30
+
++++++
+
+n=5 найдите результат программы:
+    int s = 0, i = 1, p = 1, n;
+    cout &lt&lt "n="; cin &gt&gt n;
+    while (i &lt= n)
+    {
+          s += i;
+          p *= i;
+          i++;
+    }
+   s += p;
+   cout &lt&lt s &lt&lt endl;
+====
+#
+135
+====
+26
+====
+100
+====
+130
+
++++++
+
+n=10 найдите результат программы:
+    int n, s = 0, i = 0;;
+    cout &lt&lt "n="; cin &gt&gt n;
+    while (1 &gt 0)
+    {
+        i++;
+        s += i;
+        if ( i &gt= n ) break;
+    }
+    cout &lt&lt s &lt&lt endl;
+====
+#
+55
+====
+45
+====
+50
+====
+56
+
++++++
+
+n=8 найдите результат программы:
+    int n, s = 0;
+    cout &lt&lt "n="; cin &gt&gt n;
+    int i = n;
+    while (i &gt 0)
+    {
+        s += i--;
+        if (i &gt= n) break;
+    }
+    cout &lt&lt s &lt&lt endl;
+====
+#
+36
+====
+63
+====
+25
+====
+30
+
++++++
+
+n=10 найдите результат программы:
+    int n, s = 0;
+    cout &lt&lt "n="; cin &gt&gt n;
+    int i = 0;
+    do
+    {
+        i++;
+        s += i++;
+    } while ( i &lt n);
+    cout &lt&lt s &lt&lt endl;
+====
+#
+25
+====
+15
+====
+20
+====
+30
+
++++++
+
+n=10 найдите результат программы:
+    int n, s = 0;
+    cout &lt&lt "n="; cin &gt&gt n;
+    int i = n;
+    do
+    {
+        s += i--;
+    } while ( i &gt 0);
+    cout &lt&lt s &lt&lt endl;
+====
+#
+55
+====
+50
+====
+45
+====
+60
+
++++++
+
+a=5, b=10 найдите результат программы:
+    int a, b, s = 0;
+    cout &lt&lt "a="; cin &gt&gt a;
+    cout &lt&lt "b="; cin &gt&gt b;
+    int i = 0;
+    while (i &lt= a)
+    {
+        s += i;
+        i += b;
+    }
+    cout &lt&lt s &lt&lt endl;
+====
+#
+0
+====
+1
+====
+50
+====
+15
+
++++++
+
+a=3, b=4 найдите результат программы:
+    int a, b, s = 0;
+    cout &lt&lt "a="; cin &gt&gt a;
+    cout &lt&lt "b="; cin &gt&gt b;
+    int i = 0;
+    while (i &lt= a)
+    {
+        if (i % b == 0) s += i;
+        i++;
+    }
+    cout &lt&lt s &lt&lt endl;
+====
+#
+0
+====
+12
+====
+3
+====
+4
+
++++++
+
+a=10, b=10 найдите результат программы:
+    int a, b, s = 0;
+    cout &lt&lt "a="; cin &gt&gt a;
+    cout &lt&lt "b="; cin &gt&gt b;
+    int i = 0;
+    do
+    {
+        i = i + b;
+        s += i;
+    } while ( i &lt a );
+    cout &lt&lt s &lt&lt endl;
+====
+#
+10
+====
+5
+====
+11
+====
+100
+
++++++
+
+a=7, b=5 найдите результат программы:
+    int a, b, s = 0;
+    cout &lt&lt "a="; cin &gt&gt a;
+    cout &lt&lt "b="; cin &gt&gt b;
+    int i = 0;
+    do
+    {
+        i++;
+        if (i % b == 0) s += i;
+    } while ( i &lt a );
+    cout &lt&lt s &lt&lt endl;
+====
+#
+5
+====
+35
+====
+7
+====
+12
+
++++++
+
+a=10, b=5 найдите результат программы:
+    int a, b, s = 0;
+    cout &lt&lt "a="; cin &gt&gt a;
+    cout &lt&lt "b="; cin &gt&gt b;
+    int i = b;
+    while (i &lt= a)
+    {
+        s += 1;
+        i++;
+    }
+    cout &lt&lt s &lt&lt endl;
+====
+#
+6
+====
+10
+====
+50
+====
+5
+
++++++
+
+a=11, b=6 найдите результат программы:
+    int a, b, s = 0;
+    cout &lt&lt "a="; cin &gt&gt a;
+    cout &lt&lt "b="; cin &gt&gt b;
+    int i = b;
+    while (i &lt= a)
+    {
+        s += i;
+        i++;
+    }
+    cout &lt&lt s &lt&lt endl;
+====
+#
+51
+====
+11
+====
+6
+====
+66
+
++++++
+
+a=10, b=20 найдите результат программы:
+    int a, b, s;
+    cout &lt&lt "a="; cin &gt&gt a;
+    cout &lt&lt "b="; cin &gt&gt b;
+    s = a * b;
+    while (a != b)
+    if (a &gt b) a -= b;
+        else   b -= a;
+    s /= a;
+    cout &lt&lt a &lt&lt endl;
+====
+#
+10
+====
+20
+====
+200
+====
+100
+
++++++
+
+a=20, b=30 найдите результат программы:
+    int a, b, s;
+    cout &lt&lt "a="; cin &gt&gt a;
+    cout &lt&lt "b="; cin &gt&gt b;
+    s = a * b;
+    while (a != b)
+    if (a &gt b) a -= b;
+        else   b -= a;
+    s /= a;
+    cout &lt&lt s &lt&lt endl;
+====
+#
+60
+====
+30
+====
+20
+====
+50
+
++++++
+
+a=10, b=15 найдите результат программы:
+    int a, b, s;
+    cout &lt&lt "a="; cin &gt&gt a;
+    cout &lt&lt "b="; cin &gt&gt b;
+    s = 0;
+    while (a &gt= b)
+    {
+        s++;
+        a -= b;
+    }
+    s += a;
+    cout &lt&lt s &lt&lt endl;
+====
+#
+10
+====
+150
+====
+25
+====
+100
+
++++++
+
+n=899 найдите результат программы:
+    int n, s;
+    cout &lt&lt "n="; cin &gt&gt n;
+    s = 0;
+    while (n &gt 0)
+    {
+        s += n % 10;
+        n /= 10;
+    }
+    cout &lt&lt s &lt&lt endl;
+====
+#
+26
+====
+25
+====
+18
+====
+3
+
++++++
+
+n=7 найдите результат программы:
+    int n, s = 1;
+    cout &lt&lt "n="; cin &gt&gt n;
+    while (n &gt= 2)
+    {
+          s *= n;
+          n -= 2;
+    }
+    cout &lt&lt s &lt&lt endl;
+====
+#
+105
+====
+35
+====
+102
+====
+100
+
++++++
+
+n=10 найдите результат программы:
+    int n, s = 0;
+    cout &lt&lt "n="; cin &gt&gt n;
+    while (!( s * s &gt n))
+    s++;
+    cout &lt&lt s &lt&lt endl;
+====
+#
+4
+====
+6
+====
+5
+====
+10
+
++++++
+
+n=30 найдите результат программы:
+    int n, q;
+    cout &lt&lt "n="; cin &gt&gt n;
+    if (n != 1) q = n / 2;
+        else    q = 1;
+    while (!(q * q &lt= n))
+    q--;
+    cout &lt&lt q &lt&lt endl;
+====
+#
+5
+====
+6
+====
+30
+====
+4
+
++++++
+
+n=40 найдите результат программы:
+    int n, k = 0, s = 1;
+    cout &lt&lt "n="; cin &gt&gt n;
+    while (!(s &gt n))
+    {
+        s *= 3;
+        k++;
+    }
+    cout &lt&lt k &lt&lt endl;
+====
+#
+4
+====
+10
+====
+40
+====
+30
+
++++++
+
+n=80 найдите результат программы:
+    int n, s = 0;
+    cout &lt&lt "n="; cin &gt&gt n;
+    while (3 &lt= n)
+    {
+        n /= 3;
+        s++;
+    }
+    cout &lt&lt s &lt&lt endl;
+====
+#
+3
+====
+10
+====
+30
+====
+2
+
++++++
+
+Сколько раз выполнится цикл? 
+int a=15;
+while(a&gt0)
+{--a;}
+====
+#
+15
+====
+14
+====
+16
+====
+не разу
+
++++++
+
+Сколько раз выполнится цикл? 
+int i=1;
+while(i&gt-1)
+{cout&lt&lt i &lt&lt endl; i++;}
+====
+#
+*Бесконечно
+====
+Не разу
+====
+2
+====
+1
+
++++++
+
+Сколько раз выполнится цикл? 
+int a=0;
+while(a-1&lt5)
+{a++;}
+====
+#
+6
+====
+4
+====
+1
+====
+5
+
++++++
+
+Найдите результат программы: 
+for (int a=0; a&lt50; a+=10) {cout&lt&lta&lt&lt","}
+====
+#
+0,10,20,30,40
+====
+ 10,20,30,40,50
+====
+1,2,3,4,5
+====
+0,10,20,30
+
++++++
+
+Найдите результат программы:
+int s=-1;
+for (int a=0; a&lt10; a++) {s+=a;}
+cout&lt&lt s &lt&ltendl;
+====
+#
+44
+====
+45
+====
+55
+====
+46
+
++++++
+
+Найдите результат программы после компиляции:
+#include &ltiostream&gt
+using namespace std;
+int fact(int a)
+{
+    if (a==0) return 1;
+    else return fact(a-1)*(a+1);
+}
+int main( )
+{
+    int x=5;
+    cout &lt&lt fact(x);
+    return 0;
+}
+====
+#
+720
+====
+24
+====
+120
+====
+ошибка в программе
+
++++++
+
+Найдите результат программы после компиляции:
+#include &ltiostream&gt
+using namespace std;
+int fact(int a)
+{
+    if (a==0) return 1;
+    else return fact(a-1)*(a+0);
+}
+int main()
+{
+    int x=5;
+    cout &lt&lt fact(x);
+    return 0;
+}
+====
+#
+120
+====
+720
+====
+24
+====
+ошибка в программе
+
++++++
+
+Найдите результат программы после компиляции: 
+int a[ ]={2,3,4,1};
+sort(a, a+4);
+for(int i=0;i&lt4;i++)
+cout&lt&lta[i]&lt&lt” “;
+====
+#
+1,2,3,4
+====
+2,3,4,1
+====
+4
+====
+2,1
+
++++++
+
+Найдите результат программы после компиляции:
+#include &ltiostream&gt
+using namespace std;
+int fact(int a)
+{
+    if (a==0) return 1;
+    else return fact(a-1)*(a+1);
+}
+int main()
+{
+    int x=5;
+    cout &lt&lt fact(a);
+    return 0;
+}
+====
+#
+ошибка в программе
+====
+720
+====
+24
+====
+120
+
++++++
+
+Найдите результат программы после компиляции:
+#include &ltiostream&gt
+using namespace std;
+int fact(int a)
+{
+    if (a==0) return 1;
+    else return fact(a-1)*a;
+}
+int main()
+{
+    int x=5;
+    cout &lt&lt fakt(x);
+    return 0;
+}
+====
+#
+ошибка в программе
+====
+152
+====
+720
+====
+121
+
++++++
+
+Найдите результат программы после компиляции:
+#include &ltiostream&gt
+using namespace std;
+int powx(int a)
+{
+    if (a==1||a==2) return 1;
+    else
+    return powx(a-1)+powx(a-2);
+}
+int main()
+{
+    int x=8;
+    cout &lt&lt powx(x);
+    return 0;
+}
+====
+#
+21
+====
+34
+====
+13
+====
+ошибка в программе
+
++++++
+
+Найдите результат программы после компиляции:
+#include &ltiostream&gt
+using namespace std;
+int powx(int a)
+{
+    if (a==1||a==2) return 1;
+    else
+    return powx(a-1)+powx(a-2);
+}
+int main()
+{
+    int x=8;
+    cout &lt&lt powx(a);
+    return 0;
+}
+====
+#
+ошибка в программе
+====
+13
+====
+21
+====
+34
+
++++++
+
+Найдите результат программы после компиляции:
+#include &ltiostream&gt
+using namespace std;
+int sqr(int a, int b)
+{
+    if (b==0) return 1;
+    else
+    return sqr(a,b-1)*a;
+}
+int main()
+{
+    int a=2,b=3;
+    cout &lt&lt sqr(a,b);
+    return 0; }
+====
+#
+8
+====
+4
+====
+27
+====
+ошибка в программе
+
++++++
+
+Найдите результат программы после компиляции:
+#include &ltiostream&gt
+using namespace std;
+int sqr(int a, int b)
+{
+    if (b==0) return 1;
+    else
+    return sqr(a,b-1)*(a+1);
+}
+int main()
+{
+    int a=2,b=3;
+    cout &lt&lt sqr(a,b);
+    return 0; }
+====
+#
+27
+====
+8
+====
+5
+====
+ошибка в программе
+
++++++
+
+Найдите результат программы после компиляции:
+float b[6];
+b[0]=1;
+b[1]=2;
+b[2]=b[1]-1;
+cout&lt&ltb[2];
+====
+#
+1
+====
+2
+====
+4
+====
+6
+
++++++
+
+Найдите результат программы после компиляции:
+#include &ltiostream&gt
+using namespace std;
+int sqr(int a)
+{
+    if (a==0) return 0;
+    if (a==1) return 1;
+    else
+    return sqr(a-1)*(a);
+}
+int main()
+{
+    int a=3;
+    cout &lt&lt sqr(a);
+    return 0; }
+====
+#
+6
+====
+9
+====
+3
+====
+ошибка в программе
+
++++++
+
+Найдите результат программы после компиляции:  
+int main() {
+int s=0,k=0;
+int x[ ]={-1,2,5,-4,8,9}
+for(int i=0;i&lt6;i++)
+{ if(x[i]&lt=0) continiue;
+k++;
+s+=x[i];}
+cout&lt&ltk&lt&lt” “;
+cout&lt&lts;
+====
+#
+4  24     
+====
+24  4
+====
+ 2  -5     
+====
+-5    2
+
++++++
+
+Покажите вариант где обявлена двумерный массив: 
+====
+#
+int n,m; cin&gt&gtn&gt&gtm;
+int a[n][m];
+for(int i=0;i&ltn;i++){
+for(int j=0;j&ltm;j++){
+cout&lt&lta[i][j];}}
+====
+int a[5][5];
+for (int i=0;i&lt5;i++)
+cout&lt&lta[i][i];
+====
+int m;
+cin&gt&gtm;    int a[m];
+for(int i=0;i&ltm;i++) cout&lt&lta[i];
+====
+int n,m; cin&gt&gtn&gt&gtm;
+Int a[n][m]; 
+cin&gt&gta[n][m];
+
++++++
+
+Найдите результат программы после компиляции: 
+int arr[]={11,35,62,555,989};
+int sum=0;
+for(int i=0;i&lt5;i++) {sum+=arr[i];}
+cout&lt&ltsum&lt&ltendl;
+====
+#
+1652
+====
+10
+====
+1600
+====
+5
+
++++++
+
+Укажите массив имеющый двух строк и трех столбцов:
+====
+#
+int a[2][3];   
+====
+int a[][]={2,3};
+====
+int a[3]; int a[2];    
+====
+int a[3][2];      
+
++++++
+
+Найдите результат программы после компиляции: 
+string h[3]={Bahrom,Ilyos,Sodik};
+for(int i=0;i&lt3;i++)
+cout&lt&lth[i];
+====
+#
+ошибка в пограмме
+====
+Bahrom, Ilyos,Sodik   
+====
+Bahrom Ilyos Sodik    
+====
+3
+
++++++
+
+Как объявляются символные массивы в С++?
+====
+#
+char a[10] ;      
+====
+string h[5];    
+====
+int a[9];      
+====
+float  a[5];
+
++++++
+
+Укажите ответ где массив обьявлен правильно:
+====
+#
+int a[10]
+====
+int m{5}         
+====
+float a(5)          
+====
+float b[5,10]          
+
++++++
+
+Найдите где правильно объявлен двумерный динамический массив:
+====
+#
+int **a;
+====
+int }=a;
+====
+int *a;
+====
+int &a; 
+
++++++
+
+Найдите результат программы после компиляции: 
+int b[6]={1,2,3,4,5,6};
+for (int i=0;i&lt6;i++)
+{if(b[i]%2==0)
+cout&lt&ltb[i]&lt&lt” “;
+}
+====
+#
+2 4 6
+====
+2 3 4 6        
+====
+1 2 3 4 5 6        
+====
+1 3 5       
+
++++++
+
+Найдите результат программы после компиляции:
+int b[6]={1,2,3,4,5,6};
+int m=b[0];
+for (int i=0;i&lt6;i++)
+{ if(b[i]&ltm)
+m=b[i];}
+cout&lt&ltm&lt&ltendl;
+====
+#
+1
+====
+2
+====
+6
+====
+3
+
++++++
+
+Найдите результат программы после компиляции: 
+int b[6]={1,2,1,4,1,6};
+int m=b[0],t=0;
+for (int i=0;i&lt6;i++)
+{ if(b[i]&ltm){
+m=b[i]; t=i}
+cout&lt&ltt;
+====
+#
+0
+====
+1
+====
+3
+====
+5
+
++++++
+
+Найдите результат программы после компиляции: 
+int a[5][3]={2,2,2,3,3,3,2,1,1,4,4,3,1,2,3};
+float s=0;
+for (int i=0;i&lt5;i++)
+{for(int j=0;j&lt3;j++)
+{s=s+a[i][j];}
+}
+cout&lt&lts;
+====
+#
+36
+====
+15
+====
+30
+====
+40
+
++++++
+
+Найдите результат программы после компиляции:
+#include &ltiostream&gt
+using namespace std;
+int main( ){
+    short a,b; double c;
+    a=3; b=2; c=a/b;
+    if (c==1) {cout &lt&lt "odin" &lt&lt endl; }
+     else    {cout &lt&lt "dva" &lt&lt endl; }
+    return 0; }
+====
+#
+odin
+====
+dva
+====
+ошибка в программе
+====
+1,5
+
++++++
+
+Найдите результат программы после компиляции:
+ #include &ltiostream&gt
+using namespace std;
+int main( ) {
+int a,b; float c; 
+a=3;  b=2; c=a/b;
+    switch (c) {
+        case 1  : cout &lt&lt "C++"; break;
+        case 1.5: cout &lt&lt "Программа"; break;
+        case 2  : cout &lt&lt "Пауза"; break;
+        case 2.5: cout &lt&lt "Hello"; break; }
+    return 0; }
+====
+#
+Ошибка в программе
+====
+Пауза
+====
+Программа
+====
+Hello
+
++++++
+
+Найдите результат программы после компиляции: 
+#include &ltiostream&gt
+using namespace std;
+int main( ) {
+    short d;  double a,b,c;
+    a=1.5;  b=3; c=2.3;
+    d=a+b+c; 
+    cout &lt&lt d &lt&lt endl;
+return 0; }
+====
+#
+6
+====
+6,8
+====
+Ничего не выйдет    
+====
+ошибка в программе  
+
++++++
+
+Найдите результат программы после компиляции:
+#include &ltiostream&gt
+using namespace std;
+int main( ) {
+    int a; a=1500;
+    if (a%2==0)  {
+        a=a/100;
+        if (a/3==500)  {
+            if (a%4==3) { cout &lt&lt "Студент";  }
+            cout &lt&lt "Привет";  }
+        cout &lt&lt "Привет Студент"; }
+    return 0; }
+====
+#
+Привет Студент
+====
+Студент ПриветПривет Студент
+====
+Привет
+====
+Студент
+
++++++
+
+Найдите результат программы после компиляции:
+#include &ltiostream&gt
+using namespace std;
+int main( ) {
+   int a,b,c,d;
+   a=3;  b=2;  c=4;
+   d=a+b/2*c;
+   cout &lt&lt d &lt&lt endl;
+    return 0; }
+====
+#
+7
+====
+0
+====
+3
+====
+0,625
+
++++++
+
+Найдите результат программы после компиляции: 
+#include &ltiostream&gt
+using namespace std;
+int main()
+{  int a,b,c; double d;
+   a=3; b=2; c=4;
+   d=b/c*sqrt(c)/pow(a,b);
+   cout &lt&lt d &lt&lt endl;
+    return 0; }
+====
+#
+ошибка в программе 
+====
+2,25
+====
+21.0
+====
+0.(1)
+
++++++
+
+Найдите результат программы после компиляции: 
+#include &ltiostream&gt
+using namespace std;
+int main()
+{  double a,b,c,d;
+   a=3; b=2; c=4;
+   d=b/c*sqrt(c)/pow(a,b);
+   swap(a,d);
+   cout &lt&lt d &lt&lt endl;
+    return 0; }
+====
+#
+ошибка в программе 
+====
+1,25
+====
+3
+====
+1
+
++++++
+
+Найдите результат программы после компиляции: 
+#include &ltiostream&gt
+#include &ltcmath&gt
+using namespace std;
+int main( ){
+   int a,b,c;  double d;
+   a=0;  b=1; c=4;
+   d=b/c*sqrt(c)/pow(a,b);
+   swap(a,d);
+   cout &lt&lt d &lt&lt endl;
+    return 0; }
+====
+#
+3
+====
+2
+====
+0
+====
+ошибка в программе
+
++++++
+
+Найдите результат программы после компиляции:
+#include &ltiostream&gt
+using namespace std;
+int main( ) {
+    a=10;
+    b=2;
+    if (a/b==5)
+    {
+        if (a==10)
+        {
+            if (b==2)
+            { cout &lt&lt " 0 "; return 0;}
+            cout &lt&lt " 1 "; return 0;}
+        cout &lt&lt " 2 ";}
+return 0;}
+====
+#
+ошибка в программе
+====
+0
+====
+1
+====
+2
+
++++++
+
+Найдите результат программы после компиляции: 
+#include &ltiostream&gt
+using namespace std;
+int main ( ) {    
+int a,b,c; a=3; b=4; c=8;
+    bool e= a&gt=b && c&lt=b;
+    if (e)  {
+        if (e%11==0)
+        {  if (a==3)
+            {  cout &lt&lt "C++";  }
+            cout &lt&lt "Программист";
+        }
+        cout &lt&lt "Программирование";
+    }
+    return 0; }
+====
+#
+Ничего не выйдет
+====
+Программист   
+====
+Программирование
+====
+C++
+
++++++
+
+Найдите результат программы после компиляции:
+#include &ltiostream&gt
+using namespace std;
+int main()
+{ int a,b,c;
+    a=3;  b=4; c=8;
+    bool e= a&lt=b && c&gt=b;
+    if (e)
+    {  if (e%11==0)
+        { if (a==3)
+            {  cout &lt&lt "C++";  }
+            cout &lt&lt "программист";
+        }
+        cout &lt&lt "программирование";
+    }
+    return 0;
+} 
+====
+#
+программиование
+====
+C++
+====
+Ничего не выйдет   
+====
+программист
+
++++++
+
+Найдите результат программы после компиляции: 
+#include &ltiostream&gt
+#include &ltcmath&gt
+using namespace std;
+int main( ){
+    int a,b,c;  double d;
+    a=0;  b=2;  c=1;
+    d=(a+b)/c+pow(b,a)/b;
+    cout &lt&lt d &lt&lt endl;
+    return 0; }
+====
+#
+2,5
+====
+2
+====
+0
+====
+ошибка в программе  
+
++++++
+
+Найдите результат программы после компиляции: 
+#include &ltiostream&gt
+#include &ltcmath&gt
+using namespace std;
+int main( ) {
+    int a,b,c; double d;
+    a=0;  b=2; c=1;
+    d=pow(a+(b+2*c)/2,2)/(a+2*b);
+    cout &lt&lt d &lt&lt endl;
+    return 0; }
+====
+#
+1
+====
+2
+====
+0
+====
+ошибка в программе  
+
++++++
+
+Найдите результат программы после компиляции:
+  #include &ltiostream&gt
+using namespace std;
+int main( ) {
+    int a,b,c;
+    a=4;  b=8;  c=0;
+    bool e= a&gtb || b&gtc;
+    cout &lt&lt e &lt&lt endl;
+return 0; }
+====
+#
+1
+====
+0
+====
+-1
+====
+ошибка в программе  
+
++++++
+
+Найдите результат программы после компиляции:
+#include &ltiostream&gt
+using namespace std;
+int main( ) {
+    short a,b,c;  a=3.8;  b=2.2; c=1.5;
+    if (b+c==3)  { 
+        if (a+b==5)  {
+            if (a+c==4)  {
+                cout &lt&lt "программа";  }
+            cout &lt&lt "урок"; }
+        cout &lt&lt "закончен"; }
+return 0; }
+====
+#
+программаурокзакончен
+====
+Ничего не выйдет
+====
+урокзакончен 
+====
+закончен
+
++++++
+
+Найдите результат программы после компиляции:
+#include &ltiostream&gt
+using namespace std;
+int main( ) {
+    short a,b,c;
+    float d; a=10;  b=3;  c=9;
+    d=(a+c+3*b)/a;
+    cout &lt&lt d &lt&lt endl;
+return 0; }
+====
+#
+2
+====
+2,8
+====
+3
+====
+ошибка в программе 
+
++++++
+
+Найдите результат программы после компиляции: 
+#include &ltiostream&gt
+using namespace std;
+int main()
+{ int a,c; a=5; c=a/4;
+    switch (c)
+    {  case 1:
+        case 3: cout &lt&lt "1"; break;
+        case 5: cout &lt&lt "2"; break;
+        default: cout &lt&lt "3";
+    }
+return 0; }
+====
+#
+1
+====
+2
+====
+3
+====
+Ничего не выйдет
+
++++++
+
+Найдите результат программы после компиляции:
+#include &ltiostream&gt
+using namespace std;
+int main( ) {
+    int a,b,c;
+    a=5;
+    b=12;
+    c=b/a;
+    switch (c)
+    {  case 1:
+        case 3: cout &lt&lt "10"; break;
+        case 5: cout &lt&lt "15"; break;
+        default: cout &lt&lt "20";  }
+return 0; }
+====
+#
+20
+====
+10
+====
+15
+====
+Ничего не выйдет
+
++++++
+
+Найдите результат программы после компиляции: 
+#include &ltiostream&gt
+using namespace std;
+int main()
+{
+    int q=0;
+    string s="hello";
+    if (s[0]=='m')
+    {
+        q=q++;
+    }
+        cout &lt&lt q++;
+return 0; }
+====
+#
+0
+====
+1
+====
+2
+====
+hello
+
++++++
+
+Найдите результат программы после компиляции:
+#include &ltiostream&gt
+using namespace std;
+int main( ) {
+    int a,b,q=0;
+    a=1.2;  b=2;
+    if (b+a==3)  {
+        if (a==2)  {
+            q=q++; 
+        }
+        q++;
+    }
+        cout &lt&lt q++;
+return 0; }
+====
+#
+1
+====
+0
+====
+2
+====
+3
+
++++++
+
+Найдите результат программы после компиляции:
+#include &ltiostream&gt
+using namespace std;
+int main( ) {
+    int a,b,c;  a=10; b=5; c=7;
+    bool e = a&gt=b && c!=b || a&lt=c;
+    cout &lt&lt e &lt&lt endl;
+return 0; }
+====
+#
+1
+====
+0
+====
+-1
+====
+ошибка в программе
+
++++++
+
+Какая структура используется для чтения из файла в консоль?
+====
+#
+ifstream
+====
+ofstream
+====
+fstream
+====
+stream
+
++++++
+
+Какие структуры будут использоваться для записи в файл из консоли?
+====
+#
+ofstream
+====
+ifstream
+====
+fstream
+====
+stream
+
++++++
+
+Какой спецификатор используется для записи в файл после ключевого слова ios ::  ?
+====
+#
+out
+====
+in
+====
+app
+====
+ate
+
++++++
+
+Какой спецификатор используется для чтение из файла после ключевого слова ios ::  ?
+====
+#
+in
+====
+out
+====
+app
+====
+ate
+
++++++
+
+Какой спецификатор используется для записи в конец файла после ключевого слова ios :: ?
+====
+#
+app
+====
+in
+====
+out
+====
+ate
+
++++++
+
+Укажите объект класса в следующей программе:
+class Fakultet {
+    public: 
+    string nomi;    };
+int main( ){
+Fakultet kif;
+kif.nomi= “AT servis”;
+cout&lt&ltkif.nomi; } 
+====
+#
+kif
+====
+nomi
+====
+не имеет объекта
+====
+AT servis
+
++++++
+
+Укажите переменную класса в следующей программе:  
+class Fakultet {
+    public:
+    string nomi;    };
+int main( ){
+Fakultet kif;
+kif.nomi= “AT servis”;
+cout&lt&ltkif.nomi; }
+====
+#
+nomi
+====
+kif
+====
+не имеет переменных
+====
+AT servis
+
++++++
+
+Укажите функцию класса в следующей программе:  
+class Fakultet {
+    public: string nomi; };
+int main( ){
+Fakultet kif;
+kif.nomi= “AT servis”;
+cout&lt&ltkif.nomi; }
+====
+#
+не имеет
+====
+nomi
+====
+kif
+====
+AT servis
+
++++++
+
+Какой символ был пропущено при создании данного класса?  
+class Fakultet {
+    public:
+    string nomi;    } 
+int main( ){
+Fakultet kif;
+kif.nomi= “AT servis”;
+cout&lt&ltkif.nomi; }
+====
+#
+;
+====
+:
+====
+::
+====
+{}
+
++++++
+
+Какую задачу выполняет «name» в данном классе?    
+class Person { 
+public: string name;  int age;         
+void print( ) {
+cout &lt&lt "Имя : " &lt&lt name &lt&lt endl; 
+cout &lt&lt "Возраст : " &lt&lt age &lt&lt endl; } };
+====
+#
+переменная
+====
+функция
+====
+konstruktor
+====
+destruktor
+
++++++
+
+Какую задачу выполняет «age» в данном классе? 
+class Person {  
+public: string name;  int age;           
+void print( ) {
+cout &lt&lt "Имя : " &lt&lt name &lt&lt endl; 
+cout &lt&lt "Возраст : " &lt&lt age &lt&lt endl; } }; 
+====
+#
+переменная
+====
+функция
+====
+konstruktor
+====
+destruktor
+
++++++
+
+Какую задачу выполняет «print» в данном классе?   
+class person {  
+public: string name;  int age;           
+void print( ){
+cout &lt&lt "Имя: " &lt&lt name &lt&lt endl;
+cout &lt&lt "Возраст : " &lt&lt age &lt&lt endl; } }; 
+====
+#
+функция
+====
+переменная
+====
+konstruktor
+====
+destruktor
+
++++++
+
+Определите тип функции в данном классе. 
+class person {  
+public :  string name;   int age;     
+void print( ) {
+cout &lt&lt "Имя : " &lt&lt name &lt&lt endl;
+cout &lt&lt "Возраст: " &lt&lt age &lt&lt endl; } };
+====
+#
+void
+====
+int
+====
+class
+====
+string
+
++++++
+
+В каком спецификаторе объявлена переменная «а» в данном классе?    
+class person {
+private:  
+string name;   int age; 
+public:  
+void set(string a, int b){
+  name = a;  age = b; }
+void print( ) {
+cout &lt&lt "Имя : " &lt&lt name &lt&lt endl;
+cout &lt&lt "Возраст : " &lt&lt age &lt&lt endl;} }; 
+====
+#
+Public
+====
+Private
+====
+Protected
+====
+Typename
+
++++++
+
+Найдите результат программы:
+#include &ltiostream&gt
+using namespace std;
+template &ltclass T&gt
+T M (T a, T b){
+return a&gtb?a:b;}
+int main () {
+cout&lt&ltM &ltint&gt(4+3,6-1);
+return 0;} 
+====
+#
+7
+====
+6
+====
+4
+====
+5
+
++++++
+
+В каком спецификаторе объявлена переменная «аge» в данном классе?  
+class person {
+private:  
+string name;   int age; 
+public:  
+void set(string a, int b){
+  name = a;  age = b; }
+void print( ) {
+cout &lt&lt "Имя : " &lt&lt name &lt&lt endl;
+cout &lt&lt "Возраст : " &lt&lt age &lt&lt endl; } };
+====
+#
+Private
+====
+Public
+====
+Protected
+====
+Typename
+
++++++
+
+В каком спецификаторе объявлена переменная «b» в данном классе?    
+class person { 
+private:  
+string name;   int age; 
+public:  
+void set(string a, int b){
+  name = a;  age = b; }
+void print( ) {
+cout &lt&lt "Имя : " &lt&lt name &lt&lt endl;
+cout &lt&lt "Возраст : " &lt&lt age &lt&lt endl; } };
+====
+#
+Public
+====
+Private
+====
+Protected
+====
+Typename
+
++++++
+
+В каком спецификаторе объявлена функция «set» в данном классе?   
+class person {
+private:  
+string name;   int age; 
+public:  
+void set(string a, int b){
+  name = a;  age = b; }
+void print( ) {
+cout &lt&lt "Имя : " &lt&lt name &lt&lt endl;
+cout &lt&lt "Возраст : " &lt&lt age &lt&lt endl; } };    
+====
+#
+Public
+====
+Private
+====
+Protected
+====
+Typename
+
++++++
+
+В каком спецификаторе объявлена переменная «Value» в данном классе?      
+class Func { float Value;
+  void F(int x, float a, float b, float s){
+  a=cos(x);  b=sqrt(b*x); s=sin(-x);
+  Value=a*x*x+b*x+s;  } };       
+====
+#
+Private
+====
+Public
+====
+Protected
+====
+Typename
+
++++++
+
+Найдите результат программы: 
+#include &ltiostream&gt
+using namespace std;
+class Yuza{float a; float b; public: 
+int Y(int x){ a=x; return a*a;}
+float Y(float x, float y){ a=x; b=y; return a*b;}};
+int main (){
+Yuza T; cout&lt&ltT.Y(5,2)&lt&ltendl; return 0;}
+====
+#
+10
+====
+25
+====
+4
+====
+2,5
+
++++++
+
+Найдите результат программы:
+#include &ltiostream&gt
+using namespace std;
+class Yuza{float a; float b; public: 
+int Y(int x){ a=x; return a*a;}
+float Y(float x, float y){ a=x; b=y; return a*b;}};
+int main (){
+Yuza T;  cout&lt&ltT.Y(5.2)&lt&ltendl; return 0;}
+====
+#
+25
+====
+10
+====
+4
+====
+2,5
+
++++++
+
+Найдите результат программы:
+#include &ltiostream&gt
+using namespace std;
+class Yuza{float a; float b;  public: 
+int Y(int x){ a=x; return a*a;}
+          float Y(float x, float y){ a=x; b=y; return a*b;}};
+int main (){
+Yuza T; cout&lt&ltT.Y(1.2,2)&lt&ltendl; return 0;} 
+====
+#
+2.4
+====
+4
+====
+3
+====
+1
+
++++++
+
+Найдите результат программы:
+#include &ltiostream&gt
+using namespace std;
+class Yuza{float a; float b; public: 
+int Y(int x){a=x; return a*a;}
+float Y(float x, float y){a=x; b=y; return a*b;}};
+int main (){
+Yuza T; cout&lt&ltT.Y(1,2.2)&lt&ltendl; return 0;} 
+====
+#
+2.2
+====
+1,44
+====
+3,2
+====
+4
+
++++++
+
+Найдите результат программы:
+#include &ltiostream&gt
+using namespace std;
+class calc{float a,b; public:
+double cl(double x, double y){a=x; b=y; cout&lt&lta+b&lt&ltendl;}
+int cl(int i, int j){a=i; b=j; cout&lt&lta*b&lt&ltendl;} }; 
+int main ( ) {
+calc T;  T.cl(3, 2); return 0; } 
+====
+#
+6
+====
+5
+====
+9
+====
+4
+
++++++
+
+Найдите результат программы:
+#include &ltiostream&gt
+using namespace std;
+class calc{float a,b; public:
+double cl(double x, double y){a=x; b=y; cout&lt&lta+b&lt&ltendl;}
+int cl(int i, int j){a=i; b=j; cout&lt&lta*b&lt&ltendl;} }; 
+int main ( ) {
+calc T;   T.cl( 3. , 2. );   return 0; } 
+====
+#
+5
+====
+6
+====
+9
+====
+2
+
++++++
+
+Найдите результат программы:
+#include &ltiostream&gt
+using namespace std;
+class calc{float a,b; public:
+double cl(double x, double y){a=x; b=y; cout&lt&lta+b&lt&ltendl;}
+int cl(int i, int j){a=i; b=j; cout&lt&lta*b&lt&ltendl;} }; 
+int main () {
+calc T;  T.cl(6.28 ,  2. ); return 0; } 
+====
+#
+8,28
+====
+6,28
+====
+4,28
+====
+3,14
+
++++++
+
+Найдите результат программы:
+#include &ltiostream&gt
+using namespace std;
+class calc{float a,b; public:
+double cl(double x, double y){a=x; b=y; cout&lt&lta+b&lt&ltendl;}
+int cl(int i, int j){a=i; b=j; cout&lt&lta*b&lt&ltendl;} }; 
+int main () {
+calc T;  T.cl(6,2); return 0; } 
+====
+#
+12
+====
+36
+====
+4
+====
+8
+
++++++
+
+Что нужно сделать чтобы при клике на Button1, информация в Edit1 перешел в Label1 в C++ Builder? 
+====
+#
+Label1-&gtCaption=Edit1-&gtText; 
+====
+Edit1-&gtText=Label1-&gtCaption; 
+====
+Label1-&gtText=Edit1-&gtCaption; 
+====
+Edit1-&gtCaption=Label1-&gtText; 
+
++++++
+
+Найдите результат программы:
+#include &ltiostream&gt
+using namespace std;
+class calc{float a,b; public:
+double cl(double x){a=x; cout&lt&lta+a&lt&ltendl;}
+int cl(int i, int j){a=i; b=j; cout&lt&lta-b&lt&ltendl;} }; 
+int main () {
+calc T;  T.cl(6,2); return 0; } 
+====
+#
+4
+====
+12.4
+====
+8
+====
+36
+
++++++
+
+Найдите результат программы:
+#include &ltiostream&gt
+using namespace std;
+class calc{float a,b; public:
+double cl(double x){a=x; cout&lt&lta+a&lt&ltendl;}
+int cl(int i, int j){a=i; b=j; cout&lt&lta-b&lt&ltendl;} }; 
+int main () {
+calc T;  T.cl(6.2);  return 0; } 
+====
+#
+12.4
+====
+4
+====
+8
+====
+6
+
++++++
+
+Найдите результат программы:
+#include &ltiostream&gt
+using namespace std;
+class calc{float a,b; public:
+double cl(double x){a=x; cout&lt&lta+a&lt&ltendl;}
+int cl(int i, int j){a=i; b=j; cout&lt&lta-b&lt&ltendl;} }; 
+int main () {
+calc T;   T.cl(4,3);  return 0; }  
+====
+#
+1
+====
+7
+====
+8
+====
+12
+
++++++
+
+Найдите результат программы:
+ #include &ltiostream&gt
+using namespace std;
+class calc{float a,b; public:
+double cl(double x){a=x; cout&lt&lta+a&lt&ltendl;}
+int cl(int i, int j){a=i; b=j; cout&lt&lta-b&lt&ltendl;} }; 
+int main () {
+calc T; T.cl(5.1,3.2); return 0; } 
+====
+#
+2
+====
+8,3
+====
+1,9
+====
+6,4
+
++++++
+
+Найдите результат программы:
+#include &ltiostream&gt
+using namespace std;
+class Kattasi{ float a,b,c; public:
+int max( int x1, int y1 ){a=x1; b=y1; 
+return a&ltb?a:(b&ltc?b:c); }
+double max(double x2, double y2, double z2){
+a=x2; b=y2; c=z2;
+return a&gtb?a:(b&gtc?b:c);} }; 
+int main (){
+Kattasi T;
+cout&lt&ltT.max(5, 7); return 0; } 
+====
+#
+5
+====
+7
+====
+12
+====
+35
+
++++++
+
+Найдите результат программы:
+#include &ltiostream&gt
+using namespace std;
+class Kattasi{ float a,b,c; public:
+int max( int x1, int y1 ){a=x1; b=y1; 
+return a&ltb?a:(b&ltc?b:c); }
+double max(double x2, double y2, double z2){
+a=x2; b=y2; c=z2;
+return a&gtb?a:(b&gtc?b:c);} }; 
+int main (){
+Kattasi T;
+cout&lt&ltT.max(2.1,6); return 0; }  
+====
+#
+2
+====
+6
+====
+2,1
+====
+8,1
+
++++++
+
+Укажите название компонента в C++ Builder предназначенного для создания главного меню: 
+====
+#
+MainMenu
+====
+PopupMenu
+====
+MenuMain
+====
+TMenu
+
++++++
+
+Найдите результат программы:
+#include &ltiostream&gt
+using namespace std;
+class Kattasi{ float a,b,c; public:
+int max( int x1, int y1 ){a=x1; b=y1; 
+return a&ltb?a:b; }
+float max(float x2, float y2, float z2){
+a=x2; b=y2; c=z2;
+return a&gtb?a:(b&gtc?b:c);} }; 
+int main (){
+Kattasi T;
+cout&lt&ltT.max(5,7,4); return 0; } 
+====
+#
+7
+====
+4
+====
+5
+====
+9
+
++++++
+
+Найдите результат программы:
+#include &ltiostream&gt
+using namespace std;
+class Kattasi{ float a,b,c; public:
+int max( int x1, int y1 ){a=x1; b=y1; 
+return a&ltb?a:b; }
+float max(float x2, float y2, float z2){
+a=x2; b=y2; c=z2;
+return a&gtb?a:(b&gtc?b:c);} }; 
+int main (){
+Kattasi T;
+cout&lt&ltT.max(1.9,2); return 0; } 
+====
+#
+1
+====
+2
+====
+1,9
+====
+3,9
+
++++++
+
+Найдите результат программы:
+#include &ltiostream&gt
+using namespace std;
+template &lt typename T &gt
+T katta( T a, T b ){
+if (a&gtb) return a;
+else return b;}
+int main ( ) {
+cout&lt&ltkatta('a', 'b'); 
+return 0;} 
+====
+#
+b
+====
+a
+====
+ 'a', 'b' 
+====
+ошибка в программе 
+
++++++
+
+Найдите результат программы:
+#include &ltiostream&gt
+using namespace std;
+template &ltclass T&gt
+T add(T a, T b){
+return a; b; }
+int main( ){
+cout&lt&ltadd &ltint&gt(21,56) &lt&ltendl;
+return 0;} 
+====
+#
+21
+====
+56
+====
+77
+====
+21, 56
+
++++++
+
+Найдите результат программы:
+#include &ltiostream&gt
+using namespace std;
+template &lt typename T &gt
+T katta( T a, T b ){
+if (a&gtb) return a;
+else return b;}
+int main ( ) {
+cout&lt&ltkatta(string("as"), string("ac"));
+return 0; } 
+====
+#
+as
+====
+ac
+====
+a
+====
+ошибка в программе 
+
++++++
+
+Найдите результат программы: 
+#include &ltiostream&gt
+using namespace std;
+template &ltclass T&gt
+T add(T a, T b){
+return a+b; }
+int main( ){
+cout&lt&ltadd &ltfloat&gt(2.1,3.2) &lt&ltendl;
+return 0;} 
+====
+#
+5.3
+====
+5
+====
+2.1
+====
+3.2
+
++++++
+
+Найдите результат программы: 
+#include &ltiostream&gt
+using namespace std;
+template &ltclass T&gt 
+class my{T a, b;
+public:
+my(T x, T y){
+a = x; b = y;}
+T add(){return a + b;} };
+int main(){
+my &ltstring&gt d("ab", "cd");
+cout &lt&lt d.add();
+return 0;} 
+====
+#
+abcd
+====
+ab
+====
+cd
+====
+cdab
+
++++++
+
+Найдите результат программы:
+#include &ltiostream&gt
+using namespace std;
+template &lttypename T&gt 
+T a1(T a, T b){return a + b;}
+template &ltclass T&gt 
+T a2(T a, T b){return a&gtb?a:b;}
+int main(){
+cout&lt&lta1(8,4)+a2&ltdouble&gt(3.3,7.); 
+return 0;} 
+====
+#
+19
+====
+12
+====
+8
+====
+7
+
++++++
+
+Найдите результат программы:  
+#include &ltiostream&gt
+using namespace std;
+template &lttypename T&gt 
+T a1(T a, T b){return a + b;}
+template &ltclass T&gt 
+T a2(T a, T b){return a&gtb?a:b;}
+int main(){
+cout&lt&lta1(34,64); a2&ltdouble&gt(3.3,7.2); 
+return 0;} 
+====
+#
+98
+====
+64
+====
+34
+====
+7,2
+
++++++
+
+Найдите результат программы:  
+#include &ltiostream&gt
+using namespace std;
+template &lttypename T&gt 
+T a1(T a, T b){return a + b;}
+template &ltclass T&gt 
+T a2(T a, T b){return a&gtb?a:b;}
+int main(){
+cout&lt&lta1(15,17)-a2&ltdouble&gt(3,7); 
+return 0;} 
+====
+#
+25
+====
+17
+====
+15
+====
+21
+
++++++
+
+Что нужно сделать в C++ Builder чтобы в Label вывести "текст" ?
+====
+#
+Label1-&gtCaption = “текст”;
+====
+Edit1-&gt Text = “текст”;
+====
+Label1-&gtText = “текст”;
+====
+Edit1-&gt Caption = “текст”;
+
++++++
+
+Что нужно сделать в C++ Builder чтобы в Edit1 вывести "текст"?
+====
+#
+Edit1-&gt Text = “текст”;
+====
+Label1-&gtCaption = “текст”;
+====
+Label1-&gtText = “текст”;
+====
+Edit1-&gt Caption = “текст”;
+
++++++
+
+Дано переменные типа int a=5, b=8, с=а+b;  Что нужно сделать чтобы значеие "с" вывести в Label1? 
+====
+#
+Label1-&gtCaption=IntToStr(с);
+====
+Label1-&gtCaption=с;
+====
+Label1-&gtCaption=FloatToStr(с);
+====
+Label1-&gtCaption=StrToInt(с);
+
++++++
+
+Что нужно сделать чтобы после компиляции Button1 стал невидимым на форме? 
+====
+#
+Button1-&gtVisible=false;
+====
+Button1-&gtEnabled=false;
+====
+Button1-&gtVisible=true;
+====
+Button1-&gtEnabled=true;
+
++++++
+
+Укажите название компонента C++ Builder предназначенного для создания контекстоного меню: 
+====
+#
+PopupMenu
+====
+MainMenu
+====
+MenuMain
+====
+TMenu
+
++++++
+
+Укажите на программу, которая при клике на Button1, выводит на экран надпись: "Выбрано", если поставлена галочка на объект CheckBox1:
+====
+#
+if (CheckBox1-&gtChecked==true)  ShowMessage("Выбрано");
+====
+if (CheckBox1-&gtChecked==false)  ShowMessage("Выбрано");
+====
+if (Button1-&gtChecked-&gttrue)  ShowMessage("Выбрано");
+====
+if (CheckBox1-&gtChecked&lt-true)  ShowMessage("Выбрано");
+
++++++
+
+Укажите на программу, которая при клике на Button1, выводит на экран надпись: "Выбрано", если поставлено галочка на объект RadioButton1:
+====
+#
+if (RadioButton1-&gtChecked==true)  ShowMessage("Выбрано"); 
+====
+if (RadioButton1-&gtChecked=true)  ShowMessage("Выбрано"); 
+====
+if (Radio1-&gtChecked==true)  ShowMessage("Выбрано"); 
+====
+if (Radio1-&gtChecked==false)  ShowMessage("Выбрано"); 
+
++++++
+
+С помощью каких компонентов в C++ Builder можно вести переменные из клавиатуры?
+====
+#
+Edit
+====
+Label
+====
+Button
+====
+BitBtn
+
++++++
+
+Что нужно сделать чтобы в Edit1 запретить ввод информации? 
+====
+#
+Edit1-&gtReadOnly=true;
+====
+Edit1-&gtCharCase=ecLowerCase;
+====
+Edit1-&gtReadOnly=false;
+====
+Edit1-&gtReadOnly==true;
+
++++++
+
+Что нужно сделать чтобы при клике на Button1, компонент Button2 стал невидимым? 
+====
+#
+Button2-&gtVisible=false;
+====
+Button1-&gtVisible=false;
+====
+Button2-&gtVisible=true;
+====
+Button1-&gtVisible=true;
+
++++++
+
+Что нужно сделать чтобы при клике на Button1, компонент Edit1 стал невидимым?  
+====
+#
+Edit1-&gtVisible=false;
+====
+Edit1-&gtVisible=true;
+====
+Edit1-&gtEnabled=false;
+====
+Edit1-&gtEnabled=true;
+
++++++
+
+Что нужно сделать чтобы при клике на Button1, компонент Label1  стал невидимым? 
+====
+#
+Label1-&gtVisible=false;
+====
+Label1-&gtVisible=true;
+====
+Label1-&gtEnabled=false;
+====
+Label1-&gtEnabled=true;
+
++++++
+
+Что нужно сделать чтобы при клике на Button1, компонент Button1 стал невидимым? 
+====
+#
+Button1-&gtVisible=false;
+====
+Button2-&gtVisible=false;
+====
+Button1-&gtEnabled=false;
+====
+Button2-&gtEnabled=false;
+
++++++
+
+Что нужно сделать чтобы при клике на Button1, компонент Button2 стал неактивным? 
+====
+#
+Button2-&gtEnabled=false;
+====
+Button2-&gtEnabled=true;
+====
+Button1-&gtEnabled=false;
+====
+Button1-&gtEnabled=true;
+
++++++
+
+Что нужно сделать чтобы при клике на Button1, компонент Label1 стал неактивным? 
+====
+#
+Label1-&gtEnabled=false;
+====
+Label1-&gtEnabled=true;
+====
+Label1-&gtVisible=false;
+====
+Label1-&gtVisible=true;
+
++++++
+
+Что нужно сделать чтобы при клике на Button1, компонент Button1 стал неактивным?
+====
+#
+Button1-&gtEnabled=false;
+====
+Button1-&gtEnabled=true;
+====
+Button1-&gtVisible=false;
+====
+Button1-&gtVisible=true;
+
++++++
+
+Что нужно сделать чтобы при клике на Button1, компонент Edit1 стал неактивным? 
+====
+#
+Edit1-&gtEnabled=false;
+====
+Edit1-&gtEnabled=true;
+====
+Edit1-&gtVisible=false;
+====
+Edit1-&gtVisible=true;
+
++++++
+
+Дано переменные типа int a=4 и b=6 и только один компонент Button1. Написать программу которая вычислит сумму a+b и выведет его на Form1: 
+====
+#
+ShowMessage(a+b);
+====
+Edit1-&gtCaption=a+b;
+====
+Label1-&gtText=a+b;
+====
+Form1-&gtText=a+b;
+
++++++
+
+Дано переменные типа int x=10 и y=15. Написать программу которая вычислит сумму х+у и выведет его заголовку Form1: 
+====
+#
+Form1-&gtCaption=x+y;
+====
+Form1-&gtText=x+y;
+====
+Form1-&gtCaption=Int(x+y);
+====
+Form1-&gtText=StrToFloat(x+y);
+
++++++
+
+Какую программу надо написать, чтобы при клике по Button1 ширина формы изменилась на значение в Edit1?  
+====
+#
+Form1-&gtWidth=StrToInt(Edit1-&gtText);
+====
+Form1-&gtWidth=StrToChar(Edit1-&gtText);
+====
+Form1-&gtWidth=IntToStr(Edit1-&gtText);
+====
+Form1-&gtWidth=Edit1-&gtText;
+
++++++
+
+Какую программу надо написать, чтобы при клике по Button1 высота формы изменилась на значение в Edit1? 
+====
+#
+Form1-&gtHeight=StrToInt(Edit1-&gtText);
+====
+Form1-&gtHeight=StrToChar(Edit1-&gtText);
+====
+Form1-&gtHeight=IntToStr(Edit1-&gtText);
+====
+Form1-&gtHeight=Edit1-&gtText;
+
++++++
+
+Какую программу надо написать, чтобы при клике по Button1 цвет формы поменялся на синий ? 
+====
+#
+Form1-&gtColor=clBlue;
+====
+Form1-&gtColor=Blue;
+====
+Form1-&gtFontColor=clBlue;
+====
+Form1-&gtColor==clBlue;
+
++++++
+
+Какую программу надо написать, чтобы при клике по Button1 название Form1(заголовка формы) менялась на значение написанную на Edit1?  
+====
+#
+Form1-&gtCaption=Edit1-&gtText;
+====
+Form1-&gtText=Edit1-&gtText;
+====
+Form1-&gtCaption=Edit1-&gtCaption;
+====
+Form1-&gtCaption==Edit1-&gtCaption;
+
++++++
+
+Найдите результат функции:
+int x=16; 
+void baho(int a)
+{ int a=17; return x;}. // Здесь “x” глобальная переменная
+====
+#
+16
+====
+17
+====
+a=17
+====
+ошибка в программе
+
++++++
+
+Найдите результат функции: 
+int x=16;
+int baho(int a){ a=17; return x;} 
+====
+#
+16
+====
+17
+====
+a=16
+====
+ошибка в программе
+
++++++
+
+Дано следующие функции:  
+int tana1(int a,int b ){return  a+b;}  
+int tana2(int a,int b ){ return  a-b; }
+int tana3(int a,int b ){ return  a*b;}
+int tana4(int a,int b ){ return  a/b;}  
+найдите:  
+tana3(a,b)+tana2(a,b)+tana4(b,a)+2*tana1(b,a)=?  
+При int a=2,b=4;
+====
+#
+20
+====
+10
+====
+30
+====
+40
+
++++++
+
+Дано следующие функции:  
+int tana1(int a,int b ){return  a+b;}  
+int tana2(int a,int b ){ return  a-b; }
+int tana3(int a,int b ){ return  a*b;}
+int tana4(int a,int b ){ return  a/b;}  
+найдите:  
+tana3(a,b)+tana2(a,b)+tana4(b,a)-2*tana1(b,a)+1=?  При int a=3,b=6;
+====
+#
+0
+====
+2
+====
+6
+====
+-1
+
++++++
+
+Дано следующие функции:  
+int tana1(int a,int b ){return  a+b;}  
+int tana2(int a,int b ){ return  a-b; }
+int tana3(int a,int b ){ return  a*b;}
+int tana4(int a,int b ){ return  a/b;}  найдите:  
+tana3(a,b)+2*tana2(a,b)-tana4(b,a)+2*tana1(b,a)=?  при int a=3,b=6;
+====
+#
+26
+====
+16
+====
+-6
+====
+0
+
++++++
+
+Дано следующие функции:   
+int tana1(int a,int b ){return  a+b;}  
+int tana2(int a,int b ){ return  a-b; }
+int tana3(int a,int b ){ return  a*b;}
+int tana4(int a,int b ){ return  a/b;}  найдите:  
+tana3(a,b)+tana2(a,b)-2*tana4(b,a)+tana1(b,a)=?  при int a=4,b=8;
+====
+#
+36
+====
+46
+====
+26
+====
+16
+
++++++
+
+Дано следующие функции:  
+int tana1(int a,int b ){return  a+b;}  
+int tana2(int a,int b ){ return  a-b; }
+int tana3(int a,int b ){ return  a*b;}
+int tana4(int a,int b ){ return  a/b;}  найдите:  
+tana3(a,b)-tana2(a,b)+tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+====
+#
+50
+====
+40
+====
+30
+====
+20
+
++++++
+
+Дано следующие функции:  
+int tana1(int a,int b ){return  a+b;}  
+int tana2(int a,int b ){ return  a-b; }
+int tana3(int a,int b ){ return  a*b;}
+int tana4(int a,int b ){ return  a/b;}  найдите:  
+tana3(a,b)+4*tana2(a,b)+tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+====
+#
+30
+====
+20
+====
+40
+====
+50
+
++++++
+
+Дано следующие функции:  
+int tana1(int a,int b ){return  a+b;}  
+int tana2(int a,int b ){ return  a-b; }
+int tana3(int a,int b ){ return  a*b;}
+int tana4(int a,int b ){ return  a/b;}  найдите:  
+tana3(a,b)+3*tana2(a,b)+2*tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+====
+#
+40
+====
+50
+====
+30
+====
+20
+
++++++
+
+Дано следующие функции:  
+int tana1(int a,int b ){return  a+b;}  
+int tana2(int a,int b ){ return  a-b; }
+int tana3(int a,int b ){ return  a*b;}
+int tana4(int a,int b ){ return  a/b;}  найдите:  
+¼*tana3(a,b)+1/2*tana2(a,b)+2*tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+====
+#
+22
+====
+55
+====
+44
+====
+33
+
++++++
+
+Дано следующие функции:  
+int tana1(int a,int b ){return  a+b;}  
+int tana2(int a,int b ){ return  a-b; }
+int tana3(int a,int b ){ return  a*b;}
+int tana4(int a,int b ){ return  a/b;}  найдите:  
+tana3(a,b)+tana2(a,b)+tana4(b,a)+tana1(b,a)=? при int a=4,b=8;
+====
+#
+46
+====
+50
+====
+36
+====
+40
+
++++++
+
+Дано следующие функции:  
+int tana1(int a,int b ){return  a+b;}  
+int tana2(int a,int b ){ return  a-b; }
+int tana3(int a,int b ){ return  a*b;}
+int tana4(int a,int b ){ return  a/b;}  найдите:  
+tana3(a,b)-2*tana2(a,b)+2*tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+====
+#
+56
+====
+46
+====
+36
+====
+26
+
++++++
+
+Дано следующие функции:  
+int tana1(int a,int b ){return  a+b;}  
+int tana2(int a,int b ){ return  a-b; }
+int tana3(int a,int b ){ return  a*b;}
+int tana4(int a,int b ){ return  a/b;}  найдите:  
+½*tana3(a,b)+tana2(a,b)+2*tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+====
+#
+28
+====
+51
+====
+48
+====
+18
+
++++++
+
+Дано следующие функции:  
+int tana1(int a,int b ){return  a+b;}  
+int tana2(int a,int b ){ return  a-b; }
+int tana3(int a,int b ){ return  a*b;}
+int tana4(int a,int b ){ return  a/b;}  найдите:  
+1/32*tana3(a,b)+1/4*tana2(a,b)+1/2*tana4(b,a)+1/12*tana1(b,a)=? 
+При int a=4,b=8;
+====
+#
+2
+====
+3
+====
+4
+====
+5
+
++++++
+
+Дано следующие функции:  
+int tana1(int a,int b ){return  a+b;}  
+int tana2(int a,int b ){ return  a-b; }
+int tana3(int a,int b ){ return  a*b;}
+int tana4(int a,int b ){ return  a/b;}  найдите:  
+(tana3(a,b)+2*tana2(a,b))/(tana4(b,a)*tana1(b,a))=?  При int a=4,b=8;
+====
+#
+1
+====
+2
+====
+3
+====
+4
+
++++++
+
+Дано следующие функции:  
+int tana1(int a,int b ){return  a+b;}  
+int tana2(int a,int b ){ return  a-b; }
+int tana3(int a,int b ){ return  a*b;}
+int tana4(int a,int b ){ return  a/b;}  найдите:  
+tana3(a,b)-tana2(a,b)+2*tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+====
+#
+52
+====
+51
+====
+53
+====
+20
+
++++++
+
+Дано следующие функции:  
+int tana1(int a,int b ){return  a+b;}  
+int tana2(int a,int b ){ return  a-b; }
+int tana3(int a,int b ){ return  a*b;}
+int tana4(int a,int b ){ return  a/b;}  найдите:  
+(-1)*tana3(a,b)+tana2(a,b)+2*tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+====
+#
+-4
+====
+2
+====
+-1
+====
+40
+
++++++
+
+Дано следующие функции:  
+int tana1(int a,int b ){return  a+b;}  
+int tana2(int a,int b ){ return  a-b; }
+int tana3(int a,int b ){ return  a*b;}
+int tana4(int a,int b ){ return  a/b;}  найдите:  
+tana3(a,b)+3*tana2(a,b)+ tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+====
+#
+34
+====
+51
+====
+24
+====
+30
+
++++++
+
+Дано следующие функции:  
+int tana1(int a,int b ){return  a+b;}  
+int tana2(int a,int b ){ return  a-b; }
+int tana3(int a,int b ){ return  a*b;}
+int tana4(int a,int b ){ return  a/b;}  найдите:  
+2*tana3(a,b)+1.5*tana2(a,b)+ tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+====
+#
+72
+====
+53
+====
+32
+====
+21
+
++++++
+
+Дано следующие функции:  
+int tana1(int a,int b ){return  a+b;}  
+int tana2(int a,int b ){ return  a-b; }
+int tana3(int a,int b ){ return  a*b;}
+int tana4(int a,int b ){ return  a/b;}  найдите:  
+1.5*tana3(a,b)+12*tana2(a,b)+2*tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+====
+#
+16
+====
+14
+====
+12
+====
+10
+
++++++
+
+Дано следующие функции:  
+int tana1(int a,int b ){return  a+b;}  
+int tana2(int a,int b ){ return  a-b; }
+int tana3(int a,int b ){ return  a*b;}
+int tana4(int a,int b ){ return  a/b;}  найдите:  
+0.5*tana3(a,b)+2*tana2(a,b)+tana4(b,a)+1.5*tana1(b,a)=?  При int a=4,b=8;
+====
+#
+28
+====
+48
+====
+50
+====
+30
+
++++++
+
+Дано следующие функции:  
+int tana1(int a,int b ){return  a+b;}  
+int tana2(int a,int b ){ return  a-b; }
+int tana3(int a,int b ){ return  a*b;}
+int tana4(int a,int b ){ return  a/b;}  найдите:  
+tana3(a,b)-2* tana2(a,b)+ tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+====
+#
+54
+====
+40
+====
+32
+====
+20
+
++++++
+
+Найдите результат программы: 
+int main( ) {a=0; for (int i=0;i&lt2;i++){a=a+i;}cout&lt&lta;} 
+====
+#
+1
+====
+2
+====
+3
+====
+0
+
++++++
+
+Найдите результат программы: 
+int main(){a=0;for (int i=0;i&lt=2;i++)
+{a=a+i;}cout&lt&lta;}
+====
+#
+3
+====
+2
+====
+1
+====
+0
+
++++++
+
+Сколько раз выполнится цикл?  
+For (int i=0; i&lt4; i++) 
+====
+#
+4
+====
+3
+====
+2
+====
+5
+
++++++
+
+Сколько раз выполнится цикл?  
+For (int i=0; i&lt=4; i++) 
+====
+#
+5
+====
+4
+====
+3
+====
+6
+
++++++
+
+Найдите результат программы:  
+  int main()
+{a=2;for (int i=1;i&lt=2;i++)
+{a=a+i;}
+cout&lt&lta;} 
+====
+#
+5
+====
+3
+====
+2
+====
+6
+
++++++
+
+Найдите результат программы: 
+int main( )
+{a=3;for (int i=1;i&lt=3;i++)
+{a=a+i;}cout&lt&lta;}
+====
+#
+9
+====
+6
+====
+18
+====
+3
+
++++++
+
+Найдите результат программы: 
+int main( )
+{        int q;cin&gt&gtq;
+        if(q&gt0)
+        {
+        int t=33;
+        }
+    cout&lt&ltt&lt&ltendl; 
+return 0;} 
+====
+#
+ошибка в программе
+====
+33
+====
+30
+====
+31
+
++++++
+
+Найдите результат программы:
+int g=3; g+=4; g-=2;
+сout&lt&ltg&lt&ltendl;
+====
+#
+5
+====
+7
+====
+4
+====
+2
+
++++++
+
+Найдите результат программы: 
+#define amal(x)(x+x*2)
+cout&lt&ltamal(2 * 3);
+====
+#
+18
+====
+24
+====
+12
+====
+6
+
++++++
+
+  Найдите результат программы:
+cout &lt&lt double(12/5); 
+====
+#
+2
+====
+0
+====
+1,2
+====
+2,4
+
++++++
+
+Найдите результат программы:
+#define amal(x) x * x
+int a=4; 
+cout&lt&ltamal(a++); 
+====
+#
+20
+====
+24
+====
+12
+====
+16
+
++++++
+
+Для чего используется среда программирования Visual Studio
+====
+#
+Для программирования
+====
+Для создания макета
+====
+Для создания дизайна
+====
+Для настройки Windows
+
++++++
+
+Укажите оператор цикла в С++
+====
+#
+for
+====
+int
+====
+if
+====
+then
+
++++++
+
+Укажите оператор условия в С++
+====
+#
+if
+====
+then
+====
+for
+====
+while
+
++++++
+
+Укажите тип данных для хранения целых чисел
+====
+#
+int
+====
+float
+====
+double
+====
+system
+
++++++
+
+Укажите тип данных для хранения дробных чисел
+====
+#
+double
+====
+char
+====
+int
+====
+sign
+
++++++
+
+Сколько байт памяти занимает тип данных char?
+====
+#
+1
+====
+2
+====
+4
+====
+8
+
++++++
+
+Сколько байт памяти занимает тип данных int?
+====
+#
+4
+====
+8
+====
+2
+====
+1
+
+
 Grafikli matnlarni ekranga chiqaruvchi TextRect funksiyasininig vazifasi
 ====
 #matnni berilgan nuqta va shaklda chiqarish
