@@ -1,5415 +1,2747 @@
-
-
-Найдите результат программы после компиляции: 
-float b[6];
-b[0]=1;
-b[1]=2;
-b[2]=b[1]-1;
-cout&lt&ltb[4];
+Ma’lumotlar tuzilmasi nima?
 ====
-#
-любое число     
+# Ma’lumotlarni samarali saqlash va foydalanish usuli
 ====
-2
+Grafik interfeys asosida ishlaydi
 ====
-0
+Faqat tashqi qurilmalar uchun
 ====
-ошибка программы
+Axborotni uzatish uchun aloqa protokoli
 
 +++++
-n=8 найдите результат программы:
-    int n, s = 0;
-    cout &lt&lt "n="; cin &gt&gt n;
-    for (int i = 0; i &lt= n; i = i + 2)
-    s += i;
-    cout &lt&lt s &lt&lt endl;
+Abstrakt ma’lumotlar tuzilmasi nimani anglatadi?
 ====
-#
-20
+# Foydalanuvchi ko‘radigan, lekin ichki amalga oshirilishi yashirilgan model
 ====
-10
+Faqat ko‘rinadigan fayl tizimi
 ====
-21
+Fizik xotiraning to‘liq tavsifi
 ====
-19
+Axborotni chiqaruvchi qurilma
 
 +++++
-
-n=9 найдите результат программы:
-    int n, s = 0;
-    cout &lt&lt "n="; cin &gt&gt n;
-    for (int i = 0; i &lt= n; i++)
-    if (i % 2==1)
-        s += i;
-    cout &lt&lt s &lt&lt endl;
+Massiv qanday tuzilma hisoblanadi?
 ====
-#
-25
+# Ketma-ket joylashgan bir xil turdagi elementlar to‘plami
 ====
-35
+Faqat grafik tuzilma
 ====
-15
+Tasodifiy elementlar ketma-ketligi
 ====
-26
+Axborotni bosma holda saqlovchi tuzilma
 
 +++++
-
-n=10 найдите результат программы:
-    int n, s = 0;
-    cout &lt&lt "n="; cin &gt&gt n;
-    for (int i = 1; i &lt= n; i++)
-    if (n % i == 0)
-        s += i;
-    cout &lt&lt s &lt&lt endl;
+Stek qanday ishlaydi?
 ====
-#
-18
+# Oxirgi kirgan birinchi chiqadi (LIFO)
 ====
-16
+Birinchi kirgan birinchi chiqadi (FIFO)
 ====
-17
+Elementlar faqat o‘rtasidan chiqariladi
 ====
-19
+Faqat tasodifiy kirish orqali ishlaydi
 
 +++++
-
-n=15 найдите результат программы:
-    int n, s = 0;
-    cout &lt&lt "n="; cin &gt&gt n;
-    for (int i = 1; i &lt= n; i++)
-    if (n % i == 0)
-        s += 1;
-    cout &lt&lt s &lt&lt endl;
+Queue (navbat) qanday asosiy prinsipga ega?
 ====
-#
-4
+# Birinchi kirgan birinchi chiqadi (FIFO)
 ====
-6
+Oxirgi kirgan birinchi chiqadi (LIFO)
 ====
-5
+Faqat indeks orqali chaqiriladi
 ====
-3
+Faqat juft sonlar uchun ishlaydi
 
 +++++
-
-n=5 найдите результат программы:
-    int n, s = 0;
-    cout &lt&lt "n="; cin &gt&gt n;
-    for (int i = 1; i &lt= n; i++)
-    s *= i;
-    cout &lt&lt s &lt&lt endl;
+Algoritm tahlilining asosiy maqsadi nima?
 ====
-#
-0
+# Algoritmning samaradorligini baholash
 ====
-1
+Kod yozilish stilini aniqlash
 ====
-10
+Rasmiy dizaynni tasdiqlash
 ====
--1
+Foydalanuvchi interfeysini chizish
 
 +++++
-
-n=6 найдите результат программы:
-    int n, s = 1;
-    cout &lt&lt "n="; cin &gt&gt n;
-    for (int i = 1; i &lt= n; i++)
-    s *= i;
-    cout &lt&lt s &lt&lt endl;
+Asimptotik tahlilda O(n) nimani bildiradi?
 ====
-#
-720
+# Vazifani bajarish vaqti kirish hajmiga proporsional
 ====
-120
+Vaqt o‘zgarmas bo‘ladi
 ====
-700
+Foydalanilmaydigan algoritm
 ====
-24
+Faqat grafik chizmalar bilan bog‘liq
 
 +++++
-
-n=12 найдите результат программы:
-    int n, s = 0;
-    cout &lt&lt "n="; cin &gt&gt n;
-    for (int i = 2; i &lt= n; i++)
-    {
-        bool b = true;
-        for (int j = 2; j &lt i; j++)
-          if (i % j == 0)
-          {
-              b = false;
-              break;
-          }
-        if ( b ) s += i;
-    }
-    cout &lt&lt s &lt&lt endl;
+Abstrakt tiplar misoliga qaysi biri kiradi?
 ====
-#
-28
+# Stack (stek)
 ====
-15
+Tasma printer
 ====
-27
+Sensorli ekran
 ====
-30
+Uzatish kabeli
 
 +++++
-
-n=15 найдите результат программы:
-    int n, s = 0;
-    cout &lt&lt "n="; cin &gt&gt n;
-    for (int i = 1; i &lt= n; i++)
-    {
-        int k = 0;
-        for (int j = 1; j &lt i; j++)
-        if (i % j == 0) k++;
-        if ( k == 1 ) s += i;
-    }
-    cout &lt&lt s &lt&lt endl;
+Ma’lumotlar tuzilmalarining ikkiga bo‘linishi nimani bildiradi?
 ====
-#
-41
+# Statik va dinamik tuzilmalar
 ====
-40
+Sonli va matnli fayllar
 ====
-42
+Axborot va uskunalar
 ====
-51
+Kompyuter va telefon uchun
 
 +++++
-
-n=8 найдите результат программы:
-    int n, s = 1, i = 2;
-    cout &lt&lt "n="; cin &gt&gt n;
-    for (int k = 1; k &lt= n; k++)
-    s *= i;
-    cout &lt&lt s &lt&lt endl;
+Rekursiv algoritm nima?
 ====
-#
-256
+# O‘zini o‘zi chaqiruvchi algoritm
 ====
-128
+Faqat bitta amalni bajargan algoritm
 ====
-64
+Kodda sikl mavjud bo‘lmagan algoritm
 ====
-100
+Tashqi qurilmasiz ishlaydigan algoritm
 
 +++++
-
-n=3 найдите результат программы:
-    int n, s = 1, a;
-    cout &lt&lt "n="; cin &gt&gt n;
-    a = n;
-    for (int k = 1; k &lt= n; k++)
-    s *= a;
-    cout &lt&lt s &lt&lt endl;
+Ma’lumotlarning boshlang‘ich turi qanday bo‘ladi?
 ====
-#
-27
+# Oddiy (primitive) turlar
 ====
-9
+Chuqur o‘zaro bog‘langan modullar
 ====
-81
+Murakkab grafik komponentlar
 ====
-30
+Tarmoqli qurilma signallari
 
 +++++
-
-n=10 найдите результат программы:
-    int n, s = 0;
-    cout &lt&lt "n="; cin &gt&gt n;
-    for (int k = 1; k &lt= n; k++)
-    {
-        if (k % 5 == 0)
-            continue;
-        s += k;
-    }
-    cout &lt&lt s &lt&lt endl;
+Ma’lumotlarni ifodalash bosqichlaridan biri nima?
 ====
-#
-40
+# Kodlash
 ====
-50
+Siklga qo‘yish
 ====
-45
+Sensorli chiqarish
 ====
-30
+Blok sxema chizish
 
 +++++
-
-n=8 найдите результат программы:
-    int s = 0, i, n;
-
-    cout &lt&lt "n="; cin &gt&gt n;
-
-    for (i = 1; i &lt= n; i++)
-    if (i % 2)
-        s += i;
-    else
-        s += 2 * i;
-   cout &lt&lt s &lt&lt endl;
+Tartiblash algoritmlarining asosiy vazifasi nima?
 ====
-#
-56
+# Elementlarni ma’lum tartibda joylashtirish
 ====
-65
+Xatoliklarni yashirish
 ====
-58
+Grafik interfeys yasash
 ====
-50
+Fayl tizimlarini o‘chirish
 
 +++++
-
-n=10 найдите результат программы:
-    int s = 0, i, n;
-    cout &lt&lt "n="; cin &gt&gt n;
-    for (i = 1; i &lt= n; i++)
-    if (i % 3 == 0)
-       s += 2 * i;
-   cout &lt&lt s &lt&lt endl;
+Murakkablik darajasi O(1) bo‘lgan operatsiya qanday?
 ====
-#
-36
+# Doimiy vaqt talab qiladi
 ====
-30
+Foydalanuvchi kiritmasiga bog‘liq
 ====
-26
+Fayl hajmiga qarab o‘zgaradi
 ====
-20
+Faqat dinamik massivda ishlaydi
 
 +++++
-
-n=12 найдите результат программы:
-    int s = 0, i, n;
-    cout &lt&lt "n="; cin &gt&gt n;
-    for (i = 1; i &lt= n; i++)
-    switch ( i % 5 )
-    {
-     case 0: s += i;
-         break;
-     default : s++;
-    }
-   cout &lt&lt s &lt&lt endl;
+Ma’lumotlar tuzilmasining asosiy xususiyatlaridan biri nima?
 ====
-#
-25
+# Ma’lumotlarga kirish tezligi
 ====
-30
+Grafik interfeys dizayni
 ====
-20
+Dastur tilining versiyasi
 ====
-35
-
+Tashqi xotira o‘lchami
 +++++
-
-n=8 найдите результат программы:
-    int s = 0, i = 0, n;
-    cout &lt&lt "n="; cin &gt&gt n;
-    dastur_uz : i++;
-    s += i;
-    if (i != n)
-       goto dastur_uz;
-    else
-        s *= 2;
-   cout &lt&lt s &lt&lt endl;
+Rekursiv funksiyaning asosiy xususiyati nima?
 ====
-#
-72
+# O‘zini o‘zi chaqiradi
 ====
-60
+Faqat tashqi funksiyalarni chaqiradi
 ====
-70
+Sikl bilan ishlaydi
 ====
-64
+Faqat massivlar bilan ishlaydi
 
 +++++
-
-n=12 найдите результат программы:
-    int s = 0, i, k = 1, n;
-    cout &lt&lt "n="; cin &gt&gt n;
-    for (i = 1; i &lt= n; i++)
-    s += k;
-    k += i;
-    cout &lt&lt s &lt&lt endl;
+Rekursiya qanday hollarda to‘xtaydi?
 ====
-#
-12
+# Bazaviy holatga yetganda
 ====
-6
+Fayl ochilganda
 ====
-10
+Massiv tugaganda
 ====
-14
+Xatolik chiqqanda
 
 +++++
-
-n=9 найдите результат программы:
-    int s = 0, i, k = 1, n;
-    cout &lt&lt "n="; cin &gt&gt n;
-    for (i = 1; i &lt= n; i++)
-    k += i;
-    s += k;
-    cout &lt&lt s &lt&lt endl;
+Fibonachchi sonlarini hisoblashda rekursiya qanday ishlatiladi?
 ====
-#
-46
+# Har bir son avvalgi ikki son yig‘indisi sifatida chaqiriladi
 ====
-45
+Faqat toq sonlar olinadi
 ====
-40
+Har safar 1 ga kamaytiriladi
 ====
-47
+Natija faqat 0 bo‘ladi
 
 +++++
-
-n=6 найдите результат программы:
-    int s = 0, i, k = 1, n;
-    cout &lt&lt "n="; cin &gt&gt n;
-    for (i = 1; i &lt= n; i++)
-    {
-        k += i;
-        s += k;
-    }
-   cout &lt&lt s &lt&lt endl;
+Rekursiv algoritmda “bazaviy holat” nima?
 ====
-#
-62
+# Rekursiyani to‘xtatish sharti
 ====
-63
+Natijani ekranga chiqarish holati
 ====
-60
+Dastur ishlamay qolishi
 ====
-64
+Sonlarni teskari aylantirish
 
 +++++
-
-n=8 найдите результат программы:
-    int s = 0, i, n;
-    cout &lt&lt "n="; cin &gt&gt n;
-    for (i = 1; i &lt= n; i++)
-    if (i % 2 == 0)
-        s += i; s *= 2;
-    cout &lt&lt s &lt&lt endl;
+Rekursiv funksiyaning kamchiligi nima bo‘lishi mumkin?
 ====
-#
-40
+# Stack overflow xatoligiga olib kelishi mumkin
 ====
-50
+Doim eng samarali bo‘ladi
 ====
-30
+Faqat Pythonda ishlaydi
 ====
-42
+Xotira talab qilmaydi
 
 +++++
-
-n=8 найдите результат программы:
-    int s = 0, i, n;
-    cout &lt&lt "n="; cin &gt&gt n;
-    for (i = 1; i &lt= n; i++)
-    if (i % 2 == 0)
-    {
-          s += i; s *= 2;
-    }
-   cout &lt&lt s &lt&lt endl;
+Faktorialni rekursiv hisoblashda qanday ifoda ishlatiladi?
 ====
-#
-104
+# n * factorial(n - 1)
 ====
-105
+n + factorial(n)
 ====
-100
+n / factorial(n + 1)
 ====
-108
+n - 1 * factorial(n)
 
 +++++
-
-n=12 найдите результат программы:
-    int s = 0, i, n;
-    cout &lt&lt "n="; cin &gt&gt n;
-    for (i = 1; i &lt= n; i++)
-    if (i % 5 == 0)
-        break;
-    else
-        s += i;
-   cout &lt&lt s &lt&lt endl;
+Rekursiv funksiyalar qanday tuzilmada saqlanadi?
 ====
-#
-10
+# Stack (stek)
 ====
-20
+Queue (navbat)
 ====
-30
+Graf
 ====
-15
+Hash jadval
 
 +++++
-
-n=13 найдите результат программы:
-    int s = 0, i = 1, n;
-    cout &lt&lt "n="; cin &gt&gt n;
-    do {
-        i += 2;
-        if (i % 3 == 0)
-            s += i;
-        else
-            s++;
-    } while (i &lt= n);
-    cout &lt&lt s &lt&lt endl;
+Rekursiyani iteratsiyaga nisbatan farqlovchi jihat nima?
 ====
-#
-31
+# O‘zini chaqirish orqali ishlashi
 ====
-32
+Faoliyatini foydalanuvchi belgilar
 ====
-33
+Faqat grafik muhitda ishlashi
 ====
-30
+To‘liq kompilyatsiya talab etishi
 
 +++++
-
-n=5 найдите результат программы:
-    int s = 0, i = 1, p = 1, n;
-    cout &lt&lt "n="; cin &gt&gt n;
-    while (i &lt= n)
-    {
-          s += i;
-          p *= i;
-          i++;
-    }
-   s += p;
-   cout &lt&lt s &lt&lt endl;
+Rekursiv algoritm samaradorligi nimaga bog‘liq?
 ====
-#
-135
+# Bazaviy holatga tez yetishga
 ====
-26
+Chuqurlikdagi massivlar soniga
 ====
-100
+Monitor ekraniga
 ====
-130
+Funksiya nomining uzunligiga
 
 +++++
-
-n=10 найдите результат программы:
-    int n, s = 0, i = 0;;
-    cout &lt&lt "n="; cin &gt&gt n;
-    while (1 &gt 0)
-    {
-        i++;
-        s += i;
-        if ( i &gt= n ) break;
-    }
-    cout &lt&lt s &lt&lt endl;
+Tail-recursion nima?
 ====
-#
-55
+# Oxirgi chaqiruv rekursiv bo‘lgan funksiya
 ====
-45
+Faqat bitta parametrli funksiya
 ====
-50
+Massivni teskari o‘qish
 ====
-56
-
+Funksiya chaqirilmasligi
 +++++
-
-n=8 найдите результат программы:
-    int n, s = 0;
-    cout &lt&lt "n="; cin &gt&gt n;
-    int i = n;
-    while (i &gt 0)
-    {
-        s += i--;
-        if (i &gt= n) break;
-    }
-    cout &lt&lt s &lt&lt endl;
+Qidiruv algoritmining asosiy maqsadi nima?
 ====
-#
-36
+# Kerakli elementni topish
 ====
-63
+Grafni chizish
 ====
-25
+Fayl hajmini kamaytirish
 ====
-30
+Xotirani formatlash
 
 +++++
-
-n=10 найдите результат программы:
-    int n, s = 0;
-    cout &lt&lt "n="; cin &gt&gt n;
-    int i = 0;
-    do
-    {
-        i++;
-        s += i++;
-    } while ( i &lt n);
-    cout &lt&lt s &lt&lt endl;
+Chiziqli qidiruv qanday ishlaydi?
 ====
-#
-25
+# Elementlarni boshidan oxirigacha tekshiradi
 ====
-15
+Massivni ikkiga bo‘ladi
 ====
-20
+Faqat juft indeksli elementlarni qidiradi
 ====
-30
+Faqat oxirgi elementni tekshiradi
 
 +++++
-
-n=10 найдите результат программы:
-    int n, s = 0;
-    cout &lt&lt "n="; cin &gt&gt n;
-    int i = n;
-    do
-    {
-        s += i--;
-    } while ( i &gt 0);
-    cout &lt&lt s &lt&lt endl;
+Binar qidiruv uchun qanday shart kerak?
 ====
-#
-55
+# Massiv oldindan saralangan bo‘lishi kerak
 ====
-50
+Elementlar unikal bo‘lishi kerak
 ====
-45
+Faqat matnli ma’lumotlar bo‘lishi kerak
 ====
-60
+Massiv teskari tartibda bo‘lishi kerak
 
 +++++
-
-a=5, b=10 найдите результат программы:
-    int a, b, s = 0;
-    cout &lt&lt "a="; cin &gt&gt a;
-    cout &lt&lt "b="; cin &gt&gt b;
-    int i = 0;
-    while (i &lt= a)
-    {
-        s += i;
-        i += b;
-    }
-    cout &lt&lt s &lt&lt endl;
+Binar qidiruv qanday ishlaydi?
 ====
-#
-0
+# Har safar massivni ikkiga bo‘lib, kerakli qismini tekshiradi
 ====
-1
+Barcha elementlarni ketma-ket tekshiradi
 ====
-50
+Faqat oxirgi uchta elementni solishtiradi
 ====
-15
+Massivni aralashtirib yuboradi
 
 +++++
-
-a=3, b=4 найдите результат программы:
-    int a, b, s = 0;
-    cout &lt&lt "a="; cin &gt&gt a;
-    cout &lt&lt "b="; cin &gt&gt b;
-    int i = 0;
-    while (i &lt= a)
-    {
-        if (i % b == 0) s += i;
-        i++;
-    }
-    cout &lt&lt s &lt&lt endl;
+Chiziqli qidiruvning yomon holatdagi murakkabligi qanday?
 ====
-#
-0
+# O(n)
 ====
-12
+O(1)
 ====
-3
+O(log n)
 ====
-4
+O(n log n)
 
 +++++
-
-a=10, b=10 найдите результат программы:
-    int a, b, s = 0;
-    cout &lt&lt "a="; cin &gt&gt a;
-    cout &lt&lt "b="; cin &gt&gt b;
-    int i = 0;
-    do
-    {
-        i = i + b;
-        s += i;
-    } while ( i &lt a );
-    cout &lt&lt s &lt&lt endl;
+Binar qidiruvning eng yaxshi holatdagi murakkabligi qanday?
 ====
-#
-10
+# O(1)
 ====
-5
+O(n)
 ====
-11
+O(n^2)
 ====
-100
+O(n!)
 
 +++++
-
-a=7, b=5 найдите результат программы:
-    int a, b, s = 0;
-    cout &lt&lt "a="; cin &gt&gt a;
-    cout &lt&lt "b="; cin &gt&gt b;
-    int i = 0;
-    do
-    {
-        i++;
-        if (i % b == 0) s += i;
-    } while ( i &lt a );
-    cout &lt&lt s &lt&lt endl;
+Binar qidiruvda element topilmasa nima bo‘ladi?
 ====
-#
-5
+# Qidiruv davom etadi va oxirida topilmadi deb qaytaradi
 ====
-35
+Topilmagan element avtomatik qo‘shiladi
 ====
-7
+Qidiruv boshlanishiga qaytadi
 ====
-12
+Barcha elementlar o‘chiriladi
 
 +++++
-
-a=10, b=5 найдите результат программы:
-    int a, b, s = 0;
-    cout &lt&lt "a="; cin &gt&gt a;
-    cout &lt&lt "b="; cin &gt&gt b;
-    int i = b;
-    while (i &lt= a)
-    {
-        s += 1;
-        i++;
-    }
-    cout &lt&lt s &lt&lt endl;
+Chiziqli qidiruvda birinchi topilgan element bilan nima qilinadi?
 ====
-#
-6
+# Qidiruv to‘xtaydi
 ====
-10
+Keyingi elementga o‘tiladi
 ====
-50
+Massiv teskari aylanadi
 ====
-5
+Yangi element qo‘shiladi
 
 +++++
-
-a=11, b=6 найдите результат программы:
-    int a, b, s = 0;
-    cout &lt&lt "a="; cin &gt&gt a;
-    cout &lt&lt "b="; cin &gt&gt b;
-    int i = b;
-    while (i &lt= a)
-    {
-        s += i;
-        i++;
-    }
-    cout &lt&lt s &lt&lt endl;
+Binar qidiruv algoritmi uchun massiv qanday bo‘lishi kerak?
 ====
-#
-51
+# Saralangan
 ====
-11
+Noto‘g‘ri tartiblangan
 ====
-6
+Faqat bitta elementdan iborat
 ====
-66
+Null qiymatlardan iborat
 
 +++++
-
-a=10, b=20 найдите результат программы:
-    int a, b, s;
-    cout &lt&lt "a="; cin &gt&gt a;
-    cout &lt&lt "b="; cin &gt&gt b;
-    s = a * b;
-    while (a != b)
-    if (a &gt b) a -= b;
-        else   b -= a;
-    s /= a;
-    cout &lt&lt a &lt&lt endl;
+Qidiruv algoritmlari qaysi sohalarda qo‘llaniladi?
 ====
-#
-10
+# Ma’lumotlar bazasi, qidiruv tizimlari
 ====
-20
+Faqat grafik chizishda
 ====
-200
+Foydalanuvchi interfeysda
 ====
-100
+Qurilma drayverlarida
 
 +++++
-
-a=20, b=30 найдите результат программы:
-    int a, b, s;
-    cout &lt&lt "a="; cin &gt&gt a;
-    cout &lt&lt "b="; cin &gt&gt b;
-    s = a * b;
-    while (a != b)
-    if (a &gt b) a -= b;
-        else   b -= a;
-    s /= a;
-    cout &lt&lt s &lt&lt endl;
+Qidiruv algoritmlarining samaradorligi nimaga bog‘liq?
 ====
-#
-60
+# Elementlar soni va ma’lumotlar tartibiga
 ====
-30
+Foydalanuvchi kompyuteri ekraniga
 ====
-20
+Sensorlar holatiga
 ====
-50
+Tashqi qurilma brendiga
 
 +++++
-
-a=10, b=15 найдите результат программы:
-    int a, b, s;
-    cout &lt&lt "a="; cin &gt&gt a;
-    cout &lt&lt "b="; cin &gt&gt b;
-    s = 0;
-    while (a &gt= b)
-    {
-        s++;
-        a -= b;
-    }
-    s += a;
-    cout &lt&lt s &lt&lt endl;
+Binar qidiruv natijasi topilsa nima qaytaradi?
 ====
-#
-10
+# Elementning indeksi
 ====
-150
+Elementning matni
 ====
-25
+Null qiymat
 ====
-100
+Butun massiv
 
 +++++
-
-n=899 найдите результат программы:
-    int n, s;
-    cout &lt&lt "n="; cin &gt&gt n;
-    s = 0;
-    while (n &gt 0)
-    {
-        s += n % 10;
-        n /= 10;
-    }
-    cout &lt&lt s &lt&lt endl;
+Chiziqli qidiruvda element mavjud bo‘lmasa nima bo‘ladi?
 ====
-#
-26
+# Butun massiv tekshiriladi va -1 qaytariladi
 ====
-25
+Xatolik chiqariladi
 ====
-18
+Biror qiymat avtomatik tanlanadi
 ====
-3
+Massiv saralanadi
 
 +++++
-
-n=7 найдите результат программы:
-    int n, s = 1;
-    cout &lt&lt "n="; cin &gt&gt n;
-    while (n &gt= 2)
-    {
-          s *= n;
-          n -= 2;
-    }
-    cout &lt&lt s &lt&lt endl;
+Qidiruv algoritmlarini optimallashtirishning usuli qanday?
 ====
-#
-105
+# Ma’lumotlarni oldindan saralash
 ====
-35
+Har bir elementni ikki marta tekshirish
 ====
-102
+Tasodifiy indeks tanlash
 ====
-100
+Xotirani tozalash
 
 +++++
-
-n=10 найдите результат программы:
-    int n, s = 0;
-    cout &lt&lt "n="; cin &gt&gt n;
-    while (!( s * s &gt n))
-    s++;
-    cout &lt&lt s &lt&lt endl;
+Interpolatsion qidiruv qachon samaraliroq?
 ====
-#
-4
+# Ma’lumotlar bir tekisda taqsimlangan bo‘lsa
 ====
-6
+Ma’lumotlar kichik bo‘lsa
 ====
-5
+Faqat matn bo‘lsa
 ====
-10
-
+Grafik bo‘lsa
 +++++
-
-n=30 найдите результат программы:
-    int n, q;
-    cout &lt&lt "n="; cin &gt&gt n;
-    if (n != 1) q = n / 2;
-        else    q = 1;
-    while (!(q * q &lt= n))
-    q--;
-    cout &lt&lt q &lt&lt endl;
+Xeshlash algoritmining asosiy vazifasi nima?
 ====
-#
-5
+# Ma’lumotni unikal kalitga aylantirish
 ====
-6
+Ma’lumotni grafik ko‘rinishga o‘tkazish
 ====
-30
+Ma’lumotni avtomatik o‘chirish
 ====
-4
+Ma’lumotni ekranda aks ettirish
 
 +++++
-
-n=40 найдите результат программы:
-    int n, k = 0, s = 1;
-    cout &lt&lt "n="; cin &gt&gt n;
-    while (!(s &gt n))
-    {
-        s *= 3;
-        k++;
-    }
-    cout &lt&lt k &lt&lt endl;
+Xesh jadval nima?
 ====
-#
-4
+# Kalit-qiymat juftliklarini saqlovchi ma’lumotlar tuzilmasi
 ====
-10
+Faqat massivdan iborat tuzilma
 ====
-40
+Ikki o‘lchamli grafik fayl
 ====
-30
+Matnli fayl tuzilmasi
 
 +++++
-
-n=80 найдите результат программы:
-    int n, s = 0;
-    cout &lt&lt "n="; cin &gt&gt n;
-    while (3 &lt= n)
-    {
-        n /= 3;
-        s++;
-    }
-    cout &lt&lt s &lt&lt endl;
+Xesh funksiyasi qanday ishlaydi?
 ====
-#
-3
+# Kiruvchi qiymatni ma’lum indeksga moslab beradi
 ====
-10
+Ma’lumotni ketma-ket qidiradi
 ====
-30
+Elementlarni teskari o‘giradi
 ====
-2
+Massivni saralaydi
 
 +++++
-
-Сколько раз выполнится цикл? 
-int a=15;
-while(a&gt0)
-{--a;}
+Xesh to‘qnashuvi (collision) deganda nima tushuniladi?
 ====
-#
-15
+# Ikkita qiymat bir xil xesh indeksga ega bo‘lishi
 ====
-14
+Massiv elementlari teskari bo‘lishi
 ====
-16
+Faylning yo‘qolib qolishi
 ====
-не разу
+Grafik interfeys noto‘g‘ri chizilishi
 
 +++++
-
-Сколько раз выполнится цикл? 
-int i=1;
-while(i&gt-1)
-{cout&lt&lt i &lt&lt endl; i++;}
+Xesh to‘qnashuvlarini hal qilish usullaridan biri bu:
 ====
-#
-*Бесконечно
+# Zanjirli bog‘lash (chaining)
 ====
-Не разу
+Rekursiv tozalash
 ====
-2
+Kompressiyalash
 ====
-1
+Matnni kodlash
 
 +++++
-
-Сколько раз выполнится цикл? 
-int a=0;
-while(a-1&lt5)
-{a++;}
+Ochiq adresatsiyalash usuli nima?
 ====
-#
-6
+# Bo‘sh joy topilguncha indeksni ko‘chirish
 ====
-4
+Massivni to‘liq qayta qurish
 ====
-1
+Elementni o‘chirish
 ====
-5
+Grafni bog‘lash
 
 +++++
-
-Найдите результат программы: 
-for (int a=0; a&lt50; a+=10) {cout&lt&lta&lt&lt","}
+Xesh funksiyalar qaysi algoritmlarda keng qo‘llaniladi?
 ====
-#
-0,10,20,30,40
+# Parollarni saqlashda
 ====
- 10,20,30,40,50
+Grafik chizishda
 ====
-1,2,3,4,5
+Multimedia fayllarda
 ====
-0,10,20,30
+Sensorli ekranlarda
 
 +++++
-
-Найдите результат программы:
-int s=-1;
-for (int a=0; a&lt10; a++) {s+=a;}
-cout&lt&lt s &lt&ltendl;
+Xesh funksiyaning yaxshi bo‘lishi uchun nima kerak?
 ====
-#
-44
+# To‘qnashuv ehtimolini kamaytirishi kerak
 ====
-45
+Faqat tasodifiy sonlar hosil qilishi
 ====
-55
+Faqat harflar bilan ishlashi
 ====
-46
+Doim 0 natija qaytarishi
 
 +++++
-
-Найдите результат программы после компиляции:
-#include &ltiostream&gt
-using namespace std;
-int fact(int a)
-{
-    if (a==0) return 1;
-    else return fact(a-1)*(a+1);
-}
-int main( )
-{
-    int x=5;
-    cout &lt&lt fact(x);
-    return 0;
-}
+Xesh jadvaldagi indekslar qanday aniqlanadi?
 ====
-#
-720
+# Xesh funksiyasi orqali
 ====
-24
+Tasodifiy tanlanadi
 ====
-120
+Raqamlarni qiyoslab
 ====
-ошибка в программе
+Graf bo‘yicha
 
 +++++
-
-Найдите результат программы после компиляции:
-#include &ltiostream&gt
-using namespace std;
-int fact(int a)
-{
-    if (a==0) return 1;
-    else return fact(a-1)*(a+0);
-}
-int main()
-{
-    int x=5;
-    cout &lt&lt fact(x);
-    return 0;
-}
+Ma’lumotlar bazasida xesh funksiyalari nima uchun kerak?
 ====
-#
-120
+# Tezroq qidirish va taqqoslash uchun
 ====
-720
+Fayl nomini o‘zgartirish uchun
 ====
-24
+Rasm yuklash uchun
 ====
-ошибка в программе
+Ma’lumotlarni tahrirlash uchun
 
 +++++
-
-Найдите результат программы после компиляции: 
-int a[ ]={2,3,4,1};
-sort(a, a+4);
-for(int i=0;i&lt4;i++)
-cout&lt&lta[i]&lt&lt” “;
+Xesh jadvalning asosiy ustunligi nima?
 ====
-#
-1,2,3,4
+# Qidiruv va qo‘shish tezligi yuqori bo‘ladi
 ====
-2,3,4,1
+Xotirani tozalab turadi
 ====
-4
+Grafik interfeysni boshqaradi
 ====
-2,1
+Tasodifiy indeks yaratadi
 
 +++++
-
-Найдите результат программы после компиляции:
-#include &ltiostream&gt
-using namespace std;
-int fact(int a)
-{
-    if (a==0) return 1;
-    else return fact(a-1)*(a+1);
-}
-int main()
-{
-    int x=5;
-    cout &lt&lt fact(a);
-    return 0;
-}
+Xesh funksiyasi qanday kirishni qamrab oladi?
 ====
-#
-ошибка в программе
+# Belgilar, raqamlar yoki matnlar
 ====
-720
+Faqat rasmlar
 ====
-24
+Faqat audio fayllar
 ====
-120
+Faqat video fayllar
 
 +++++
-
-Найдите результат программы после компиляции:
-#include &ltiostream&gt
-using namespace std;
-int fact(int a)
-{
-    if (a==0) return 1;
-    else return fact(a-1)*a;
-}
-int main()
-{
-    int x=5;
-    cout &lt&lt fakt(x);
-    return 0;
-}
+Qaysi biri xesh to‘qnashuvi yuz berishining sababi bo‘lishi mumkin?
 ====
-#
-ошибка в программе
+# Bir nechta kalitlar bir xil indeksga tushishi
 ====
-152
+Qidiruv noto‘g‘ri bo‘lishi
 ====
-720
+Massiv uzun bo‘lishi
 ====
-121
+Fayl yo‘q bo‘lishi
 
 +++++
-
-Найдите результат программы после компиляции:
-#include &ltiostream&gt
-using namespace std;
-int powx(int a)
-{
-    if (a==1||a==2) return 1;
-    else
-    return powx(a-1)+powx(a-2);
-}
-int main()
-{
-    int x=8;
-    cout &lt&lt powx(x);
-    return 0;
-}
+Xesh jadvalda ma’lumotlar qanday saqlanadi?
 ====
-#
-21
+# Kalit-qiymat (key-value) juftliklarida
 ====
-34
+Faqat sonlar shaklida
 ====
-13
+Ko‘p o‘lchamli massivda
 ====
-ошибка в программе
+Rasmlar ko‘rinishida
 
 +++++
-
-Найдите результат программы после компиляции:
-#include &ltiostream&gt
-using namespace std;
-int powx(int a)
-{
-    if (a==1||a==2) return 1;
-    else
-    return powx(a-1)+powx(a-2);
-}
-int main()
-{
-    int x=8;
-    cout &lt&lt powx(a);
-    return 0;
-}
+Eng mashhur xesh algoritmlaridan biri bu:
 ====
-#
-ошибка в программе
+# SHA-256
 ====
-13
+HTML5
 ====
-21
+PNG
 ====
-34
-
+SQL
 +++++
-
-Найдите результат программы после компиляции:
-#include &ltiostream&gt
-using namespace std;
-int sqr(int a, int b)
-{
-    if (b==0) return 1;
-    else
-    return sqr(a,b-1)*a;
-}
-int main()
-{
-    int a=2,b=3;
-    cout &lt&lt sqr(a,b);
-    return 0; }
+Saralash algoritmining asosiy vazifasi nima?
 ====
-#
-8
+# Ma’lumotlarni tartibga keltirish
 ====
-4
+Ma’lumotlarni o‘chirish
 ====
-27
+Xotirani tozalash
 ====
-ошибка в программе
+Grafik chizish
 
 +++++
-
-Найдите результат программы после компиляции:
-#include &ltiostream&gt
-using namespace std;
-int sqr(int a, int b)
-{
-    if (b==0) return 1;
-    else
-    return sqr(a,b-1)*(a+1);
-}
-int main()
-{
-    int a=2,b=3;
-    cout &lt&lt sqr(a,b);
-    return 0; }
+Bubble Sort algoritmi qanday ishlaydi?
 ====
-#
-27
+# Yondosh elementlarni taqqoslab almashtiradi
 ====
-8
+Faqat indekslarni o‘zgartiradi
 ====
-5
+Elementlarni tasodifiy joylashtiradi
 ====
-ошибка в программе
+Faoliyatni rekursiyaga asoslaydi
 
 +++++
-
-Найдите результат программы после компиляции:
-float b[6];
-b[0]=1;
-b[1]=2;
-b[2]=b[1]-1;
-cout&lt&ltb[2];
+Insertion Sort algoritmining yondashuvi qanday?
 ====
-#
-1
+# Har bir elementni mos joyiga qo‘yadi
 ====
-2
+Elementlarni teskari tartibga o‘tkazadi
 ====
-4
+Faqat juft sonlarni saralaydi
 ====
-6
+Ma’lumotlarni o‘chiradi
 
 +++++
-
-Найдите результат программы после компиляции:
-#include &ltiostream&gt
-using namespace std;
-int sqr(int a)
-{
-    if (a==0) return 0;
-    if (a==1) return 1;
-    else
-    return sqr(a-1)*(a);
-}
-int main()
-{
-    int a=3;
-    cout &lt&lt sqr(a);
-    return 0; }
+Selection Sort algoritmida nima amalga oshiriladi?
 ====
-#
-6
+# Har safar eng kichik (yoki katta) element tanlanadi
 ====
-9
+Elementlar ikki baravar ortadi
 ====
-3
+Faqat juft indeksli qiymatlar o‘zgaradi
 ====
-ошибка в программе
+Xesh qiymatlar hosil qilinadi
 
 +++++
-
-Найдите результат программы после компиляции:  
-int main() {
-int s=0,k=0;
-int x[ ]={-1,2,5,-4,8,9}
-for(int i=0;i&lt6;i++)
-{ if(x[i]&lt=0) continiue;
-k++;
-s+=x[i];}
-cout&lt&ltk&lt&lt” “;
-cout&lt&lts;
+Quick Sort qanday tamoyil asosida ishlaydi?
 ====
-#
-4  24     
+# Bo‘lish va hukmronlik (Divide and Conquer)
 ====
-24  4
+FIFO tartibi
 ====
- 2  -5     
+Massivni ikki baravar uzunlashtirish
 ====
--5    2
+Stekka qo‘shish orqali
 
 +++++
-
-Покажите вариант где обявлена двумерный массив: 
+Merge Sort algoritmining yondashuvi nima?
 ====
-#
-int n,m; cin&gt&gtn&gt&gtm;
-int a[n][m];
-for(int i=0;i&ltn;i++){
-for(int j=0;j&ltm;j++){
-cout&lt&lta[i][j];}}
+# Massivni ikkiga bo‘lib, so‘ngra birlashtirish
 ====
-int a[5][5];
-for (int i=0;i&lt5;i++)
-cout&lt&lta[i][i];
+Foydalanuvchi kiritgan qiymatlar asosida
 ====
-int m;
-cin&gt&gtm;    int a[m];
-for(int i=0;i&ltm;i++) cout&lt&lta[i];
+Faqat matnli qiymatlarni saralash
 ====
-int n,m; cin&gt&gtn&gt&gtm;
-Int a[n][m]; 
-cin&gt&gta[n][m];
+Massivni to‘g‘ridan-to‘g‘ri teskari aylantirish
 
 +++++
-
-Найдите результат программы после компиляции: 
-int arr[]={11,35,62,555,989};
-int sum=0;
-for(int i=0;i&lt5;i++) {sum+=arr[i];}
-cout&lt&ltsum&lt&ltendl;
+Bubble Sort algoritmining yomon holatdagi murakkabligi qanday?
 ====
-#
-1652
+# O(n^2)
 ====
-10
+O(1)
 ====
-1600
+O(log n)
 ====
-5
+O(n log n)
 
 +++++
-
-Укажите массив имеющый двух строк и трех столбцов:
+Quick Sort algoritmining o‘rtacha ishlash murakkabligi nima?
 ====
-#
-int a[2][3];   
+# O(n log n)
 ====
-int a[][]={2,3};
+O(n^2)
 ====
-int a[3]; int a[2];    
+O(2^n)
 ====
-int a[3][2];      
+O(n!)
 
 +++++
-
-Найдите результат программы после компиляции: 
-string h[3]={Bahrom,Ilyos,Sodik};
-for(int i=0;i&lt3;i++)
-cout&lt&lth[i];
+Saralash algoritmlarida "stabil" degani nimani anglatadi?
 ====
-#
-ошибка в пограмме
+# Bir xil qiymatli elementlar joylashuvi saqlanib qoladi
 ====
-Bahrom, Ilyos,Sodik   
+Faqat toq sonlar saralanadi
 ====
-Bahrom Ilyos Sodik    
+Xotira sarfi doimiy bo‘ladi
 ====
-3
+Natija har doim teskari chiqadi
 
 +++++
-
-Как объявляются символные массивы в С++?
+Qaysi algoritm rekursiv ishlaydi?
 ====
-#
-char a[10] ;      
+# Merge Sort
 ====
-string h[5];    
+Selection Sort
 ====
-int a[9];      
+Bubble Sort
 ====
-float  a[5];
+Insertion Sort
 
 +++++
-
-Укажите ответ где массив обьявлен правильно:
+Saralash algoritmini tanlashda eng muhim omil nima?
 ====
-#
-int a[10]
+# Ma’lumot hajmi va tartibi
 ====
-int m{5}         
+Foydalanuvchi ismi
 ====
-float a(5)          
+Rasm formati
 ====
-float b[5,10]          
+Dastur nomi
 
 +++++
-
-Найдите где правильно объявлен двумерный динамический массив:
+Hech qanday qo‘shimcha xotira talab qilmaydigan saralash turi bu:
 ====
-#
-int **a;
+# In-place sort
 ====
-int }=a;
+Out-of-core sort
 ====
-int *a;
+Grafik sort
 ====
-int &a; 
+Xesh sort
 
 +++++
-
-Найдите результат программы после компиляции: 
-int b[6]={1,2,3,4,5,6};
-for (int i=0;i&lt6;i++)
-{if(b[i]%2==0)
-cout&lt&ltb[i]&lt&lt” “;
-}
+Saralash algoritmlari qaysi sohalarda qo‘llaniladi?
 ====
-#
-2 4 6
+# Ma’lumotlar bazasi, qidiruv tizimlari, grafikalar
 ====
-2 3 4 6        
+Faqat brauzer sozlamalarida
 ====
-1 2 3 4 5 6        
+Tarmoq simlarini ulanganda
 ====
-1 3 5       
+Kompyuter ekranini tozalaganda
 
 +++++
-
-Найдите результат программы после компиляции:
-int b[6]={1,2,3,4,5,6};
-int m=b[0];
-for (int i=0;i&lt6;i++)
-{ if(b[i]&ltm)
-m=b[i];}
-cout&lt&ltm&lt&ltendl;
+Heap Sort algoritmi qanday tuzilma asosida ishlaydi?
 ====
-#
-1
+# Ikkilik heap daraxt
 ====
-2
+Massivlar tarmog‘i
 ====
-6
+Xesh jadval
 ====
-3
+Graf ko‘rinishi
 
 +++++
-
-Найдите результат программы после компиляции: 
-int b[6]={1,2,1,4,1,6};
-int m=b[0],t=0;
-for (int i=0;i&lt6;i++)
-{ if(b[i]&ltm){
-m=b[i]; t=i}
-cout&lt&ltt;
+Quick Sort algoritmining eng yomon holatdagi murakkabligi qanday?
 ====
-#
-0
+# O(n^2)
 ====
-1
+O(n log n)
 ====
-3
+O(1)
 ====
-5
-
+O(log n)
 +++++
-
-Найдите результат программы после компиляции: 
-int a[5][3]={2,2,2,3,3,3,2,1,1,4,4,3,1,2,3};
-float s=0;
-for (int i=0;i&lt5;i++)
-{for(int j=0;j&lt3;j++)
-{s=s+a[i][j];}
-}
-cout&lt&lts;
+Statik massivning asosiy xususiyati nima?
 ====
-#
-36
+# O‘lchami dastlab belgilangan va o‘zgarmaydi
 ====
-15
+O‘lchami har doim oshadi
 ====
-30
+Elementlari faqat raqamlar bo‘ladi
 ====
-40
+Har doim teskari tartibda saqlanadi
 
 +++++
-
-Найдите результат программы после компиляции:
-#include &ltiostream&gt
-using namespace std;
-int main( ){
-    short a,b; double c;
-    a=3; b=2; c=a/b;
-    if (c==1) {cout &lt&lt "odin" &lt&lt endl; }
-     else    {cout &lt&lt "dva" &lt&lt endl; }
-    return 0; }
+Dinamik massivning asosiy afzalligi nima?
 ====
-#
-odin
+# O‘lchami dastur davomida o‘zgarishi mumkin
 ====
-dva
+Elementlar teskari saqlanadi
 ====
-ошибка в программе
+Faqat matnli qiymatlarni oladi
 ====
-1,5
+Xotirani faqat boshlang‘ich qiymatlarda egallaydi
 
 +++++
-
-Найдите результат программы после компиляции:
- #include &ltiostream&gt
-using namespace std;
-int main( ) {
-int a,b; float c; 
-a=3;  b=2; c=a/b;
-    switch (c) {
-        case 1  : cout &lt&lt "C++"; break;
-        case 1.5: cout &lt&lt "Программа"; break;
-        case 2  : cout &lt&lt "Пауза"; break;
-        case 2.5: cout &lt&lt "Hello"; break; }
-    return 0; }
+Chiziqli bog‘langan ro‘yhat nima?
 ====
-#
-Ошибка в программе
+# Elementlar pointerlar orqali ketma-ket bog‘langan tuzilma
 ====
-Пауза
+Massivdagi elementlarning aralash joylashuvi
 ====
-Программа
+Tasodifiy fayl ochish usuli
 ====
-Hello
+Grafik ko‘rinishda jadval
 
 +++++
-
-Найдите результат программы после компиляции: 
-#include &ltiostream&gt
-using namespace std;
-int main( ) {
-    short d;  double a,b,c;
-    a=1.5;  b=3; c=2.3;
-    d=a+b+c; 
-    cout &lt&lt d &lt&lt endl;
-return 0; }
+Bir bog‘lamli ro‘yhatda har bir tugun qanday bog‘lanadi?
 ====
-#
-6
+# Keyingi tugunga pointer orqali
 ====
-6,8
+Oldingi tugunga pointer orqali
 ====
-Ничего не выйдет    
+Bosh tugunga bog‘lanadi
 ====
-ошибка в программе  
+Tasodifiy joyga
 
 +++++
-
-Найдите результат программы после компиляции:
-#include &ltiostream&gt
-using namespace std;
-int main( ) {
-    int a; a=1500;
-    if (a%2==0)  {
-        a=a/100;
-        if (a/3==500)  {
-            if (a%4==3) { cout &lt&lt "Студент";  }
-            cout &lt&lt "Привет";  }
-        cout &lt&lt "Привет Студент"; }
-    return 0; }
+Ikki bog‘lamli ro‘yhatda har bir tugun nechta pointerga ega?
 ====
-#
-Привет Студент
+# Ikki — oldingi va keyingi tugunlarga
 ====
-Студент ПриветПривет Студент
+Faqat bittaga
 ====
-Привет
+Uchta pointer
 ====
-Студент
+Pointerlar yo‘q
 
 +++++
-
-Найдите результат программы после компиляции:
-#include &ltiostream&gt
-using namespace std;
-int main( ) {
-   int a,b,c,d;
-   a=3;  b=2;  c=4;
-   d=a+b/2*c;
-   cout &lt&lt d &lt&lt endl;
-    return 0; }
+Statik massivga yangi element qo‘shish mumkinmi?
 ====
-#
-7
+# Yo‘q, o‘lchami qat’iy
 ====
-0
+Ha, doim mumkin
 ====
-3
+Faqat boshida qo‘shish mumkin
 ====
-0,625
+Faqat oxirida qo‘shish mumkin
 
 +++++
-
-Найдите результат программы после компиляции: 
-#include &ltiostream&gt
-using namespace std;
-int main()
-{  int a,b,c; double d;
-   a=3; b=2; c=4;
-   d=b/c*sqrt(c)/pow(a,b);
-   cout &lt&lt d &lt&lt endl;
-    return 0; }
+Dinamik massivda elementni qanday qo‘shish mumkin?
 ====
-#
-ошибка в программе 
+# O‘lchamni o‘zgartirib yangi element joylash
 ====
-2,25
+Faqat o‘chirib, qayta yaratish
 ====
-21.0
+Faqat o‘lcham kamaytirish mumkin
 ====
-0.(1)
+Elementlar joyi o‘zgarmaydi
 
 +++++
-
-Найдите результат программы после компиляции: 
-#include &ltiostream&gt
-using namespace std;
-int main()
-{  double a,b,c,d;
-   a=3; b=2; c=4;
-   d=b/c*sqrt(c)/pow(a,b);
-   swap(a,d);
-   cout &lt&lt d &lt&lt endl;
-    return 0; }
+Chiziqli bog‘langan ro‘yhatda element qidirish qanday amalga oshadi?
 ====
-#
-ошибка в программе 
+# Tugunlarni ketma-ket tekshirish orqali
 ====
-1,25
+Indeks bo‘yicha to‘g‘ridan-to‘g‘ri kirish
 ====
-3
+Tasodifiy qidiruv
 ====
-1
+Massivdan foydalanish orqali
 
 +++++
-
-Найдите результат программы после компиляции: 
-#include &ltiostream&gt
-#include &ltcmath&gt
-using namespace std;
-int main( ){
-   int a,b,c;  double d;
-   a=0;  b=1; c=4;
-   d=b/c*sqrt(c)/pow(a,b);
-   swap(a,d);
-   cout &lt&lt d &lt&lt endl;
-    return 0; }
+Bir bog‘lamli ro‘yhatda elementni qanday qo‘shish mumkin?
 ====
-#
-3
+# Pointerni mos ravishda yangilash orqali
 ====
-2
+Massivga qo‘shish bilan bir xil
 ====
-0
+Elementlarni teskari tartibda almashtirish bilan
 ====
-ошибка в программе
+Yangi ro‘yhat yaratish bilan
 
 +++++
-
-Найдите результат программы после компиляции:
-#include &ltiostream&gt
-using namespace std;
-int main( ) {
-    a=10;
-    b=2;
-    if (a/b==5)
-    {
-        if (a==10)
-        {
-            if (b==2)
-            { cout &lt&lt " 0 "; return 0;}
-            cout &lt&lt " 1 "; return 0;}
-        cout &lt&lt " 2 ";}
-return 0;}
+Ikki bog‘lamli ro‘yhatda elementni o‘chirishda nimaga e’tibor beriladi?
 ====
-#
-ошибка в программе
+# Oldingi va keyingi pointerlarni to‘g‘ri bog‘lash
 ====
-0
+Faqat keyingi pointer yangilanadi
 ====
-1
+Faqat oldingi pointer yangilanadi
 ====
-2
+Pointerlar o‘chirilmaydi
 
 +++++
-
-Найдите результат программы после компиляции: 
-#include &ltiostream&gt
-using namespace std;
-int main ( ) {    
-int a,b,c; a=3; b=4; c=8;
-    bool e= a&gt=b && c&lt=b;
-    if (e)  {
-        if (e%11==0)
-        {  if (a==3)
-            {  cout &lt&lt "C++";  }
-            cout &lt&lt "Программист";
-        }
-        cout &lt&lt "Программирование";
-    }
-    return 0; }
+Statik va dinamik massiv orasidagi asosiy farq nima?
 ====
-#
-Ничего не выйдет
+# O‘lcham o‘zgartirilishi mumkin yoki yo‘qligi
 ====
-Программист   
+Ma’lumot turi
 ====
-Программирование
+Massiv elementlari soni
 ====
-C++
+Massiv nomi
 
 +++++
-
-Найдите результат программы после компиляции:
-#include &ltiostream&gt
-using namespace std;
-int main()
-{ int a,b,c;
-    a=3;  b=4; c=8;
-    bool e= a&lt=b && c&gt=b;
-    if (e)
-    {  if (e%11==0)
-        { if (a==3)
-            {  cout &lt&lt "C++";  }
-            cout &lt&lt "программист";
-        }
-        cout &lt&lt "программирование";
-    }
-    return 0;
-} 
+Chiziqli bog‘langan ro‘yhatni yaratishda qaysi operatsiya bajariladi?
 ====
-#
-программиование
+# Tugunlar uchun xotira ajratish
 ====
-C++
+Elementlarni saralash
 ====
-Ничего не выйдет   
+Elementlarni nusxalash
 ====
-программист
+Massivni tartiblash
 
 +++++
-
-Найдите результат программы после компиляции: 
-#include &ltiostream&gt
-#include &ltcmath&gt
-using namespace std;
-int main( ){
-    int a,b,c;  double d;
-    a=0;  b=2;  c=1;
-    d=(a+b)/c+pow(b,a)/b;
-    cout &lt&lt d &lt&lt endl;
-    return 0; }
+Bir bog‘lamli ro‘yhatda oxirgi tugunni topish uchun nima qilish kerak?
 ====
-#
-2,5
+# Boshidan ketma-ket tugunlarni o‘tkazish
 ====
-2
+Oxiridan boshlab qidirish
 ====
-0
+Tasodifiy element tanlash
 ====
-ошибка в программе  
+Faqat indeks yordamida
 
 +++++
-
-Найдите результат программы после компиляции: 
-#include &ltiostream&gt
-#include &ltcmath&gt
-using namespace std;
-int main( ) {
-    int a,b,c; double d;
-    a=0;  b=2; c=1;
-    d=pow(a+(b+2*c)/2,2)/(a+2*b);
-    cout &lt&lt d &lt&lt endl;
-    return 0; }
+Ikki bog‘lamli ro‘yhat qaysi holatlarda afzal?
 ====
-#
-1
+# Oldingi va keyingi elementlarga tez kira olish uchun
 ====
-2
+Faqat oddiy qidiruvda
 ====
-0
+Elementlarni massivda saqlash uchun
 ====
-ошибка в программе  
+Elementlarni grafik ko‘rinishda
 
 +++++
-
-Найдите результат программы после компиляции:
-  #include &ltiostream&gt
-using namespace std;
-int main( ) {
-    int a,b,c;
-    a=4;  b=8;  c=0;
-    bool e= a&gtb || b&gtc;
-    cout &lt&lt e &lt&lt endl;
-return 0; }
+Dinamik massiv qanday ma’lumotlarni saqlashda qulay?
 ====
-#
-1
+# O‘lchami o‘zgaruvchi ma’lumotlar uchun
 ====
-0
+Faqat matnlar uchun
 ====
--1
+Faqat raqamlar uchun
 ====
-ошибка в программе  
+Faqat bitta element uchun
 
 +++++
-
-Найдите результат программы после компиляции:
-#include &ltiostream&gt
-using namespace std;
-int main( ) {
-    short a,b,c;  a=3.8;  b=2.2; c=1.5;
-    if (b+c==3)  { 
-        if (a+b==5)  {
-            if (a+c==4)  {
-                cout &lt&lt "программа";  }
-            cout &lt&lt "урок"; }
-        cout &lt&lt "закончен"; }
-return 0; }
+Chiziqli bog‘langan ro‘yhatda yangi elementni boshiga qo‘shish uchun nimani o‘zgartirish kerak?
 ====
-#
-программаурокзакончен
+# Bosh pointer va yangi tugun pointerini
 ====
-Ничего не выйдет
+Faqat oxirgi tugunni
 ====
-урокзакончен 
+Hech narsa o‘zgarmaydi
 ====
-закончен
+Massiv o‘lchamini
 
 +++++
-
-Найдите результат программы после компиляции:
-#include &ltiostream&gt
-using namespace std;
-int main( ) {
-    short a,b,c;
-    float d; a=10;  b=3;  c=9;
-    d=(a+c+3*b)/a;
-    cout &lt&lt d &lt&lt endl;
-return 0; }
+Bir bog‘lamli ro‘yhatning kamchiligi nima?
 ====
-#
-2
+# Orqaga qaytish qiyinligi
 ====
-2,8
+Tezkor qidiruv imkoniyati
 ====
-3
+Doim o‘zgaruvchan o‘lcham
 ====
-ошибка в программе 
+Xotirani ko‘p ishlatish
 
 +++++
-
-Найдите результат программы после компиляции: 
-#include &ltiostream&gt
-using namespace std;
-int main()
-{ int a,c; a=5; c=a/4;
-    switch (c)
-    {  case 1:
-        case 3: cout &lt&lt "1"; break;
-        case 5: cout &lt&lt "2"; break;
-        default: cout &lt&lt "3";
-    }
-return 0; }
+Ikki bog‘lamli ro‘yhatda yangi elementni qo‘shish qiyinligi nimada?
 ====
-#
-1
+# Oldingi va keyingi pointerlarni to‘g‘ri bog‘lash
 ====
-2
+Faqat yangi tugunni yaratish
 ====
-3
+Massivni yangilash
 ====
-Ничего не выйдет
+Grafni chizish
 
 +++++
-
-Найдите результат программы после компиляции:
-#include &ltiostream&gt
-using namespace std;
-int main( ) {
-    int a,b,c;
-    a=5;
-    b=12;
-    c=b/a;
-    switch (c)
-    {  case 1:
-        case 3: cout &lt&lt "10"; break;
-        case 5: cout &lt&lt "15"; break;
-        default: cout &lt&lt "20";  }
-return 0; }
+Statik massiv qanday xotira taqsimotini talab qiladi?
 ====
-#
-20
+# Ketma-ket bloklar
 ====
-10
+Tasodifiy bloklar
 ====
-15
+Pointerlar to‘plami
 ====
-Ничего не выйдет
+Ikki o‘lchamli massiv
 
 +++++
-
-Найдите результат программы после компиляции: 
-#include &ltiostream&gt
-using namespace std;
-int main()
-{
-    int q=0;
-    string s="hello";
-    if (s[0]=='m')
-    {
-        q=q++;
-    }
-        cout &lt&lt q++;
-return 0; }
+Dinamik massivda bo‘sh joy yetarli bo‘lmasa nima qilinadi?
 ====
-#
-0
+# Yangi katta joy ajratilib, elementlar ko‘chiriladi
 ====
-1
+Elementlar o‘chiriladi
 ====
-2
+Elementlar teskari tartibda joylashtiriladi
 ====
-hello
-
+Programma xatolik chiqaradi
 +++++
-
-Найдите результат программы после компиляции:
-#include &ltiostream&gt
-using namespace std;
-int main( ) {
-    int a,b,q=0;
-    a=1.2;  b=2;
-    if (b+a==3)  {
-        if (a==2)  {
-            q=q++; 
-        }
-        q++;
-    }
-        cout &lt&lt q++;
-return 0; }
+Navbat (Queue) nima?
 ====
-#
-1
+# Birinchi kirgan, birinchi chiqadi (FIFO) prinsipi asosida ishlaydi
 ====
-0
+Oxirgi kirgan, birinchi chiqadi (LIFO)
 ====
-2
+Tasodifiy tartibda ishlaydi
 ====
-3
+Elementlarni doim o‘chiradi
 
 +++++
-
-Найдите результат программы после компиляции:
-#include &ltiostream&gt
-using namespace std;
-int main( ) {
-    int a,b,c;  a=10; b=5; c=7;
-    bool e = a&gt=b && c!=b || a&lt=c;
-    cout &lt&lt e &lt&lt endl;
-return 0; }
+Stek (Stack) qanday printsipda ishlaydi?
 ====
-#
-1
+# Oxirgi kirgan, birinchi chiqadi (LIFO)
 ====
-0
+Birinchi kirgan, birinchi chiqadi (FIFO)
 ====
--1
+Tasodifiy kirish
 ====
-ошибка в программе
+Elementlarni teskari tartibda chiqaradi
 
 +++++
-
-Какая структура используется для чтения из файла в консоль?
+Dek (Deque) ma’lumotlar tuzilmasining xususiyati nima?
 ====
-#
-ifstream
+# Elementlarni ikkala tomondan qo‘shish va o‘chirish mumkin
 ====
-ofstream
+Faqat oxiridan qo‘shish mumkin
 ====
-fstream
+Faqat boshidan o‘chirish mumkin
 ====
-stream
+Faqat bitta element saqlaydi
 
 +++++
-
-Какие структуры будут использоваться для записи в файл из консоли?
+Navbatni massiv yordamida tasvirlashda indekslar qanday ishlaydi?
 ====
-#
-ofstream
+# Kirish oxirgi indeksda, chiqish bosh indeksda amalga oshadi
 ====
-ifstream
+Kiruvchi va chiquvchi indekslar bir xil
 ====
-fstream
+Faqat bitta indeks bor
 ====
-stream
+Elementlar joyi o‘zgarmaydi
 
 +++++
-
-Какой спецификатор используется для записи в файл после ключевого слова ios ::  ?
+Stekni massiv yordamida tasvirlashda asosiy operatsiya nima?
 ====
-#
-out
+# Elementni oxirgi joyga qo‘shish va olib tashlash
 ====
-in
+Elementlarni tasodifiy almashtirish
 ====
-app
+Elementlarni boshlang‘ich joyga qo‘shish
 ====
-ate
+Elementlarni o‘chirib turish
 
 +++++
-
-Какой спецификатор используется для чтение из файла после ключевого слова ios ::  ?
+Chiziqli bog‘langan ro‘yhat yordamida navbat qanday tashkil qilinadi?
 ====
-#
-in
+# Har bir tugun keyingi tugunga pointer orqali bog‘langan
 ====
-out
+Tugunlar teskari bog‘langan
 ====
-app
+Elementlar massivda saqlanadi
 ====
-ate
+Xesh funktsiyasi bilan bog‘lanadi
 
 +++++
-
-Какой спецификатор используется для записи в конец файла после ключевого слова ios :: ?
+Stekda yangi elementni qo‘shish operatsiyasi nima deb ataladi?
 ====
-#
-app
+# Push
 ====
-in
+Pop
 ====
-out
+Enqueue
 ====
-ate
+Dequeue
 
 +++++
-
-Укажите объект класса в следующей программе:
-class Fakultet {
-    public: 
-    string nomi;    };
-int main( ){
-Fakultet kif;
-kif.nomi= “AT servis”;
-cout&lt&ltkif.nomi; } 
+Stekdan elementni chiqarish operatsiyasi nima deb ataladi?
 ====
-#
-kif
+# Pop
 ====
-nomi
+Push
 ====
-не имеет объекта
+Insert
 ====
-AT servis
+Remove
 
 +++++
-
-Укажите переменную класса в следующей программе:  
-class Fakultet {
-    public:
-    string nomi;    };
-int main( ){
-Fakultet kif;
-kif.nomi= “AT servis”;
-cout&lt&ltkif.nomi; }
+Navbatda element qo‘shish operatsiyasi qanday ataladi?
 ====
-#
-nomi
+# Enqueue
 ====
-kif
+Push
 ====
-не имеет переменных
+Pop
 ====
-AT servis
+Delete
 
 +++++
-
-Укажите функцию класса в следующей программе:  
-class Fakultet {
-    public: string nomi; };
-int main( ){
-Fakultet kif;
-kif.nomi= “AT servis”;
-cout&lt&ltkif.nomi; }
+Navbatdan element chiqarish operatsiyasi qanday ataladi?
 ====
-#
-не имеет
+# Dequeue
 ====
-nomi
+Pop
 ====
-kif
+Push
 ====
-AT servis
+Insert
 
 +++++
-
-Какой символ был пропущено при создании данного класса?  
-class Fakultet {
-    public:
-    string nomi;    } 
-int main( ){
-Fakultet kif;
-kif.nomi= “AT servis”;
-cout&lt&ltkif.nomi; }
+Dek tuzilmasida element qo‘shishning nechta varianti bor?
 ====
-#
-;
+# Ikkita — boshidan va oxiridan
 ====
-:
+Faqat bitta — boshidan
 ====
-::
+Faqat bitta — oxiridan
 ====
-{}
+Uchta
 
 +++++
-
-Какую задачу выполняет «name» в данном классе?    
-class Person { 
-public: string name;  int age;         
-void print( ) {
-cout &lt&lt "Имя : " &lt&lt name &lt&lt endl; 
-cout &lt&lt "Возраст : " &lt&lt age &lt&lt endl; } };
+Chiziqli bog‘langan ro‘yhat yordamida stekni yaratishda qaysi tugun qo‘shiladi?
 ====
-#
-переменная
+# Boshiga yangi tugun
 ====
-функция
+Oxiriga yangi tugun
 ====
-konstruktor
+Tasodifiy joyga
 ====
-destruktor
+Xesh jadvalga
 
 +++++
-
-Какую задачу выполняет «age» в данном классе? 
-class Person {  
-public: string name;  int age;           
-void print( ) {
-cout &lt&lt "Имя : " &lt&lt name &lt&lt endl; 
-cout &lt&lt "Возраст : " &lt&lt age &lt&lt endl; } }; 
+Massiv yordamida navbatda o‘chirish operatsiyasining murakkabligi qanday?
 ====
-#
-переменная
+# O(1)
 ====
-функция
+O(n)
 ====
-konstruktor
+O(log n)
 ====
-destruktor
+O(n log n)
 
 +++++
-
-Какую задачу выполняет «print» в данном классе?   
-class person {  
-public: string name;  int age;           
-void print( ){
-cout &lt&lt "Имя: " &lt&lt name &lt&lt endl;
-cout &lt&lt "Возраст : " &lt&lt age &lt&lt endl; } }; 
+Massiv yordamida stekda qo‘shish va o‘chirish operatsiyalarining murakkabligi nima?
 ====
-#
-функция
+# O(1)
 ====
-переменная
+O(n)
 ====
-konstruktor
+O(log n)
 ====
-destruktor
+O(n^2)
 
 +++++
-
-Определите тип функции в данном классе. 
-class person {  
-public :  string name;   int age;     
-void print( ) {
-cout &lt&lt "Имя : " &lt&lt name &lt&lt endl;
-cout &lt&lt "Возраст: " &lt&lt age &lt&lt endl; } };
+Dekni chiziqli bog‘langan ro‘yhat yordamida ifodalashda nima qo‘shiladi?
 ====
-#
-void
+# Har bir tugunga oldingi va keyingi pointerlar
 ====
-int
+Faqat keyingi pointerlar
 ====
-class
+Faqat oldingi pointerlar
 ====
-string
+Pointerlar yo‘q
 
 +++++
-
-В каком спецификаторе объявлена переменная «а» в данном классе?    
-class person {
-private:  
-string name;   int age; 
-public:  
-void set(string a, int b){
-  name = a;  age = b; }
-void print( ) {
-cout &lt&lt "Имя : " &lt&lt name &lt&lt endl;
-cout &lt&lt "Возраст : " &lt&lt age &lt&lt endl;} }; 
+Navbat va stek orasidagi asosiy farq nima?
 ====
-#
-Public
+# Navbat FIFO, stek LIFO printsipida ishlaydi
 ====
-Private
+Navbat elementlarni o‘chiradi, stek esa qo‘shadi
 ====
-Protected
+Ikkalasi ham faqat massivda ishlaydi
 ====
-Typename
+Ikkalasi ham faqat bog‘langan ro‘yhatda ishlaydi
 
 +++++
-
-Найдите результат программы:
-#include &ltiostream&gt
-using namespace std;
-template &ltclass T&gt
-T M (T a, T b){
-return a&gtb?a:b;}
-int main () {
-cout&lt&ltM &ltint&gt(4+3,6-1);
-return 0;} 
+Stek va navbatni qaysi sohada ko‘p qo‘llaniladi?
 ====
-#
-7
+# Algoritmlarda va operatsion tizimlarda
 ====
-6
+Faqat grafikalar uchun
 ====
-4
+Matematikada emas
 ====
-5
+Faqat fayl tizimida
 
 +++++
-
-В каком спецификаторе объявлена переменная «аge» в данном классе?  
-class person {
-private:  
-string name;   int age; 
-public:  
-void set(string a, int b){
-  name = a;  age = b; }
-void print( ) {
-cout &lt&lt "Имя : " &lt&lt name &lt&lt endl;
-cout &lt&lt "Возраст : " &lt&lt age &lt&lt endl; } };
+Massiv yordamida navbatning asosiy kamchiligi nima?
 ====
-#
-Private
+# Bo‘sh joydan unumli foydalanmasligi
 ====
-Public
+Elementlarni teskari joylashishi
 ====
-Protected
+Ma’lumotlarni o‘chirish qiyinligi
 ====
-Typename
+Pointerlar yo‘qligi
 
 +++++
-
-В каком спецификаторе объявлена переменная «b» в данном классе?    
-class person { 
-private:  
-string name;   int age; 
-public:  
-void set(string a, int b){
-  name = a;  age = b; }
-void print( ) {
-cout &lt&lt "Имя : " &lt&lt name &lt&lt endl;
-cout &lt&lt "Возраст : " &lt&lt age &lt&lt endl; } };
+Chiziqli bog‘langan ro‘yhat yordamida stek yaratish afzalligi nima?
 ====
-#
-Public
+# Dinamik xotira ishlatish va o‘lchamini o‘zgartirish imkoniyati
 ====
-Private
+Massivlar bilan taqqoslaganda tezligi past
 ====
-Protected
+Faqat matnli ma’lumotlar uchun
 ====
-Typename
-
+Faqat grafikalar uchun
 +++++
-
-В каком спецификаторе объявлена функция «set» в данном классе?   
-class person {
-private:  
-string name;   int age; 
-public:  
-void set(string a, int b){
-  name = a;  age = b; }
-void print( ) {
-cout &lt&lt "Имя : " &lt&lt name &lt&lt endl;
-cout &lt&lt "Возраст : " &lt&lt age &lt&lt endl; } };    
+Ustivor navbat (Priority Queue) qanday ishlaydi?
 ====
-#
-Public
+# Har doim eng yuqori ustivorga ega element birinchi olinadi
 ====
-Private
+FIFO printsipida ishlaydi
 ====
-Protected
+LIFO printsipida ishlaydi
 ====
-Typename
+Elementlar tasodifiy olinadi
 
 +++++
-
-В каком спецификаторе объявлена переменная «Value» в данном классе?      
-class Func { float Value;
-  void F(int x, float a, float b, float s){
-  a=cos(x);  b=sqrt(b*x); s=sin(-x);
-  Value=a*x*x+b*x+s;  } };       
+Navbat va ustivor navbat orasidagi farq nima?
 ====
-#
-Private
+# Ustivor navbatda elementlar ustivorga ko‘ra chiqariladi
 ====
-Public
+Navbatda elementlar tasodifiy olinadi
 ====
-Protected
+Navbat LIFO, ustivor FIFO printsipida ishlaydi
 ====
-Typename
+Ustivor navbat faqat matnli ma’lumotlarni saqlaydi
 
 +++++
-
-Найдите результат программы: 
-#include &ltiostream&gt
-using namespace std;
-class Yuza{float a; float b; public: 
-int Y(int x){ a=x; return a*a;}
-float Y(float x, float y){ a=x; b=y; return a*b;}};
-int main (){
-Yuza T; cout&lt&ltT.Y(5,2)&lt&ltendl; return 0;}
+Lug‘at (Dictionary) nima?
 ====
-#
-10
+# Kalit-qiymat juftliklarini saqlovchi ma’lumotlar tuzilmasi
 ====
-25
+Faqat raqamlarni saqlaydi
 ====
-4
+Faqat ketma-ket massivdir
 ====
-2,5
+Faqat xesh funktsiyasidan iborat
 
 +++++
-
-Найдите результат программы:
-#include &ltiostream&gt
-using namespace std;
-class Yuza{float a; float b; public: 
-int Y(int x){ a=x; return a*a;}
-float Y(float x, float y){ a=x; b=y; return a*b;}};
-int main (){
-Yuza T;  cout&lt&ltT.Y(5.2)&lt&ltendl; return 0;}
+Lug‘atni qanday ma’lumotlar tuzilmasi yordamida amalga oshirish mumkin?
 ====
-#
-25
+# Hash jadval yordamida
 ====
-10
+Massivning boshida
 ====
-4
+Chiziqli bog‘langan ro‘yhatda
 ====
-2,5
+Ikki bog‘lamli ro‘yhatda
 
 +++++
-
-Найдите результат программы:
-#include &ltiostream&gt
-using namespace std;
-class Yuza{float a; float b;  public: 
-int Y(int x){ a=x; return a*a;}
-          float Y(float x, float y){ a=x; b=y; return a*b;}};
-int main (){
-Yuza T; cout&lt&ltT.Y(1.2,2)&lt&ltendl; return 0;} 
+Chiziqli konteynerlar qaysilar?
 ====
-#
-2.4
+# Ro‘yhat, stek, navbat va dek
 ====
-4
+Graf, daraxt, xesh jadval
 ====
-3
+Fayl tizimi, operatsion tizim
 ====
-1
+HTML va CSS
 
 +++++
-
-Найдите результат программы:
-#include &ltiostream&gt
-using namespace std;
-class Yuza{float a; float b; public: 
-int Y(int x){a=x; return a*a;}
-float Y(float x, float y){a=x; b=y; return a*b;}};
-int main (){
-Yuza T; cout&lt&ltT.Y(1,2.2)&lt&ltendl; return 0;} 
+Iterator nima?
 ====
-#
-2.2
+# Ma’lumotlar tuzilmasidagi elementlarga ketma-ket kirishni ta’minlovchi obyekt
 ====
-1,44
+Yangi ma’lumot qo‘shuvchi funksiyalar
 ====
-3,2
+Elementlarni o‘chiruvchi algoritm
 ====
-4
+Ma’lumotlarni saralovchi qism
 
 +++++
-
-Найдите результат программы:
-#include &ltiostream&gt
-using namespace std;
-class calc{float a,b; public:
-double cl(double x, double y){a=x; b=y; cout&lt&lta+b&lt&ltendl;}
-int cl(int i, int j){a=i; b=j; cout&lt&lta*b&lt&ltendl;} }; 
-int main ( ) {
-calc T;  T.cl(3, 2); return 0; } 
+Iteratorning asosiy vazifasi nima?
 ====
-#
-6
+# Ma’lumotlar tuzilmasida harakatlanish
 ====
-5
+Yangi ma’lumot yaratish
 ====
-9
+Foydalanuvchi interfeysini yaratish
 ====
-4
+Xotirani boshqarish
 
 +++++
-
-Найдите результат программы:
-#include &ltiostream&gt
-using namespace std;
-class calc{float a,b; public:
-double cl(double x, double y){a=x; b=y; cout&lt&lta+b&lt&ltendl;}
-int cl(int i, int j){a=i; b=j; cout&lt&lta*b&lt&ltendl;} }; 
-int main ( ) {
-calc T;   T.cl( 3. , 2. );   return 0; } 
+Ustivor navbatda element qo‘shish operatsiyasi qanday nomlanadi?
 ====
-#
-5
+# Insert yoki Enqueue with priority
 ====
-6
+Push
 ====
-9
+Pop
 ====
-2
+Dequeue
 
 +++++
-
-Найдите результат программы:
-#include &ltiostream&gt
-using namespace std;
-class calc{float a,b; public:
-double cl(double x, double y){a=x; b=y; cout&lt&lta+b&lt&ltendl;}
-int cl(int i, int j){a=i; b=j; cout&lt&lta*b&lt&ltendl;} }; 
-int main () {
-calc T;  T.cl(6.28 ,  2. ); return 0; } 
+Iteratorlarning qaysi turi elementlarga faqat oldinga qarab harakatlanadi?
 ====
-#
-8,28
+# Forward iterator
 ====
-6,28
+Bidirectional iterator
 ====
-4,28
+Random access iterator
 ====
-3,14
+Reverse iterator
 
 +++++
-
-Найдите результат программы:
-#include &ltiostream&gt
-using namespace std;
-class calc{float a,b; public:
-double cl(double x, double y){a=x; b=y; cout&lt&lta+b&lt&ltendl;}
-int cl(int i, int j){a=i; b=j; cout&lt&lta*b&lt&ltendl;} }; 
-int main () {
-calc T;  T.cl(6,2); return 0; } 
+Random access iterator qaysi ma’lumotlar tuzilmasida keng qo‘llanadi?
 ====
-#
-12
+# Massiv va vektor kabi kontynerlarda
 ====
-36
+Bog‘langan ro‘yhatda
 ====
-4
+Hash jadvalda
 ====
-8
+Fayllarda
 
 +++++
-
-Что нужно сделать чтобы при клике на Button1, информация в Edit1 перешел в Label1 в C++ Builder? 
+Stek, navbat va dek qanday chiziqli konteynerlardir?
 ====
-#
-Label1-&gtCaption=Edit1-&gtText; 
+# Ma’lumotlar ketma-ketligi bilan ishlaydi
 ====
-Edit1-&gtText=Label1-&gtCaption; 
+Grafga o‘xshash
 ====
-Label1-&gtText=Edit1-&gtCaption; 
+Daraxtlar bilan ishlaydi
 ====
-Edit1-&gtCaption=Label1-&gtText; 
+Tasodifiy ma’lumotlarni saqlaydi
 
 +++++
-
-Найдите результат программы:
-#include &ltiostream&gt
-using namespace std;
-class calc{float a,b; public:
-double cl(double x){a=x; cout&lt&lta+a&lt&ltendl;}
-int cl(int i, int j){a=i; b=j; cout&lt&lta-b&lt&ltendl;} }; 
-int main () {
-calc T;  T.cl(6,2); return 0; } 
+Ustivor navbatni amalga oshirish uchun qaysi tuzilma ko‘pincha ishlatiladi?
 ====
-#
-4
+# Ikkilik heap (binary heap)
 ====
-12.4
+Ikkilik daraxt
 ====
-8
+Chiziqli ro‘yhat
 ====
-36
+Matritsa
 
 +++++
-
-Найдите результат программы:
-#include &ltiostream&gt
-using namespace std;
-class calc{float a,b; public:
-double cl(double x){a=x; cout&lt&lta+a&lt&ltendl;}
-int cl(int i, int j){a=i; b=j; cout&lt&lta-b&lt&ltendl;} }; 
-int main () {
-calc T;  T.cl(6.2);  return 0; } 
+Lug‘atda kalit bo‘yicha qiymat qidirish qanday murakkablikda bo‘ladi?
 ====
-#
-12.4
+# O(1) (hash jadvalda)
 ====
-4
+O(n^2)
 ====
-8
+O(log n)
 ====
-6
+O(n)
 
 +++++
-
-Найдите результат программы:
-#include &ltiostream&gt
-using namespace std;
-class calc{float a,b; public:
-double cl(double x){a=x; cout&lt&lta+a&lt&ltendl;}
-int cl(int i, int j){a=i; b=j; cout&lt&lta-b&lt&ltendl;} }; 
-int main () {
-calc T;   T.cl(4,3);  return 0; }  
+Dekda element qo‘shish va o‘chirish operatsiyalari qayerdan amalga oshirilishi mumkin?
 ====
-#
-1
+# Ikkala tomonidan ham
 ====
-7
+Faqat boshidan
 ====
-8
+Faqat oxiridan
 ====
-12
+Faqat o‘rtadan
 
 +++++
-
-Найдите результат программы:
- #include &ltiostream&gt
-using namespace std;
-class calc{float a,b; public:
-double cl(double x){a=x; cout&lt&lta+a&lt&ltendl;}
-int cl(int i, int j){a=i; b=j; cout&lt&lta-b&lt&ltendl;} }; 
-int main () {
-calc T; T.cl(5.1,3.2); return 0; } 
+Iteratorning bidirectional turi nimani ta’minlaydi?
 ====
-#
-2
+# Oldinga va orqaga harakatlanishni
 ====
-8,3
+Faqat oldinga harakatlanishni
 ====
-1,9
+Faqat tasodifiy kirishni
 ====
-6,4
+Faqat orqaga harakatlanishni
 
 +++++
-
-Найдите результат программы:
-#include &ltiostream&gt
-using namespace std;
-class Kattasi{ float a,b,c; public:
-int max( int x1, int y1 ){a=x1; b=y1; 
-return a&ltb?a:(b&ltc?b:c); }
-double max(double x2, double y2, double z2){
-a=x2; b=y2; c=z2;
-return a&gtb?a:(b&gtc?b:c);} }; 
-int main (){
-Kattasi T;
-cout&lt&ltT.max(5, 7); return 0; } 
+Iteratorlar qaysi dasturlash tillarida keng qo‘llaniladi?
 ====
-#
-5
+# C++, Java, Python va boshqalar
 ====
-7
+Faqat C tilida
 ====
-12
+Faqat HTMLda
 ====
-35
+Faqat SQLda
 
 +++++
-
-Найдите результат программы:
-#include &ltiostream&gt
-using namespace std;
-class Kattasi{ float a,b,c; public:
-int max( int x1, int y1 ){a=x1; b=y1; 
-return a&ltb?a:(b&ltc?b:c); }
-double max(double x2, double y2, double z2){
-a=x2; b=y2; c=z2;
-return a&gtb?a:(b&gtc?b:c);} }; 
-int main (){
-Kattasi T;
-cout&lt&ltT.max(2.1,6); return 0; }  
+Navbatni chiziqli bog‘langan ro‘yhat yordamida amalga oshirishda qanday ko‘rsatkichlar kerak?
 ====
-#
-2
+# Bosh va oxir ko‘rsatkichlari
 ====
-6
+Faqat bosh ko‘rsatkich
 ====
-2,1
+Faqat oxir ko‘rsatkich
 ====
-8,1
+Ko‘rsatkichlar kerak emas
 
 +++++
-
-Укажите название компонента в C++ Builder предназначенного для создания главного меню: 
+Stekda eng oxirgi qo‘shilgan elementni olish uchun qanday operatsiya ishlatiladi?
 ====
-#
-MainMenu
+# Pop
 ====
-PopupMenu
+Push
 ====
-MenuMain
+Enqueue
 ====
-TMenu
+Dequeue
 
 +++++
-
-Найдите результат программы:
-#include &ltiostream&gt
-using namespace std;
-class Kattasi{ float a,b,c; public:
-int max( int x1, int y1 ){a=x1; b=y1; 
-return a&ltb?a:b; }
-float max(float x2, float y2, float z2){
-a=x2; b=y2; c=z2;
-return a&gtb?a:(b&gtc?b:c);} }; 
-int main (){
-Kattasi T;
-cout&lt&ltT.max(5,7,4); return 0; } 
+Lug‘atdagi kalit topilmasa nima sodir bo‘ladi?
 ====
-#
-7
+# Xatolik yoki null qiymat qaytariladi
 ====
-4
+Doim yangi kalit qo‘shiladi
 ====
-5
+Qiymat avtomatik o‘zgartiriladi
 ====
-9
+Hech narsa sodir bo‘lmaydi
 
 +++++
-
-Найдите результат программы:
-#include &ltiostream&gt
-using namespace std;
-class Kattasi{ float a,b,c; public:
-int max( int x1, int y1 ){a=x1; b=y1; 
-return a&ltb?a:b; }
-float max(float x2, float y2, float z2){
-a=x2; b=y2; c=z2;
-return a&gtb?a:(b&gtc?b:c);} }; 
-int main (){
-Kattasi T;
-cout&lt&ltT.max(1.9,2); return 0; } 
+Iterator yordamida ma’lumotlar ustida qanday amallarni bajarish mumkin?
 ====
-#
-1
+# Ko‘rish, o‘zgartirish, harakatlanish
 ====
-2
+Faqat o‘chirish
 ====
-1,9
+Faqat qo‘shish
 ====
-3,9
-
+Faqat yangi ro‘yhat yaratish
 +++++
-
-Найдите результат программы:
-#include &ltiostream&gt
-using namespace std;
-template &lt typename T &gt
-T katta( T a, T b ){
-if (a&gtb) return a;
-else return b;}
-int main ( ) {
-cout&lt&ltkatta('a', 'b'); 
-return 0;} 
+Daraxt (Tree) ma’lumotlar tuzilmasi nima?
 ====
-#
-b
+# Tugunlar (node) va ularning ota-ona (parent) va bolalar (child) munosabatlarini ifodalovchi ierarxik struktura
 ====
-a
+Faqat ketma-ket massiv
 ====
- 'a', 'b' 
+Faqat graflar yig‘indisi
 ====
-ошибка в программе 
+Faqat matnli ma’lumotlar ro‘yxati
 
 +++++
-
-Найдите результат программы:
-#include &ltiostream&gt
-using namespace std;
-template &ltclass T&gt
-T add(T a, T b){
-return a; b; }
-int main( ){
-cout&lt&ltadd &ltint&gt(21,56) &lt&ltendl;
-return 0;} 
+Daraxtda ildiz (root) tugun nima?
 ====
-#
-21
+# Daraxtning eng yuqori darajadagi yagona tuguni
 ====
-56
+Har bir tugun uchun oxirgi bola
 ====
-77
+Faqat barg tugunlari
 ====
-21, 56
+Tugunlar orasidagi bog‘lanish
 
 +++++
-
-Найдите результат программы:
-#include &ltiostream&gt
-using namespace std;
-template &lt typename T &gt
-T katta( T a, T b ){
-if (a&gtb) return a;
-else return b;}
-int main ( ) {
-cout&lt&ltkatta(string("as"), string("ac"));
-return 0; } 
+Daraxtda barg (leaf) tugun nima?
 ====
-#
-as
+# Hech qanday bolasi bo‘lmagan tugun
 ====
-ac
+Har bir tugun uchun ota-ona
 ====
-a
+Faqat ildiz tugun
 ====
-ошибка в программе 
+Faqat bitta bola bo‘lgan tugun
 
 +++++
-
-Найдите результат программы: 
-#include &ltiostream&gt
-using namespace std;
-template &ltclass T&gt
-T add(T a, T b){
-return a+b; }
-int main( ){
-cout&lt&ltadd &ltfloat&gt(2.1,3.2) &lt&ltendl;
-return 0;} 
+Daraxtning chuqurligi nima?
 ====
-#
-5.3
+# Ildizdan eng chuqur barggacha bo‘lgan yo‘l uzunligi
 ====
-5
+Faqat ildiz tugunning balandligi
 ====
-2.1
+Har bir tugun soni
 ====
-3.2
+Tugunlar orasidagi masofa
 
 +++++
-
-Найдите результат программы: 
-#include &ltiostream&gt
-using namespace std;
-template &ltclass T&gt 
-class my{T a, b;
-public:
-my(T x, T y){
-a = x; b = y;}
-T add(){return a + b;} };
-int main(){
-my &ltstring&gt d("ab", "cd");
-cout &lt&lt d.add();
-return 0;} 
+Binarny daraxt nima?
 ====
-#
-abcd
+# Har bir tugunning eng ko‘p ikkita bolasi bor
 ====
-ab
+Har bir tugunning faqat bitta bolasi bor
 ====
-cd
+Har bir tugun uchta bola bilan
 ====
-cdab
+Tugunlar ketma-ket massivda joylashgan
 
 +++++
-
-Найдите результат программы:
-#include &ltiostream&gt
-using namespace std;
-template &lttypename T&gt 
-T a1(T a, T b){return a + b;}
-template &ltclass T&gt 
-T a2(T a, T b){return a&gtb?a:b;}
-int main(){
-cout&lt&lta1(8,4)+a2&ltdouble&gt(3.3,7.); 
-return 0;} 
+To‘liq binarny daraxtda nechta bola bor?
 ====
-#
-19
+# Har bir tugun 0 yoki 2 bolaga ega
 ====
-12
+Har bir tugun faqat bitta bola
 ====
-8
+Faqat ildiz tugun bola
 ====
-7
+Hech qanday bola yo‘q
 
 +++++
-
-Найдите результат программы:  
-#include &ltiostream&gt
-using namespace std;
-template &lttypename T&gt 
-T a1(T a, T b){return a + b;}
-template &ltclass T&gt 
-T a2(T a, T b){return a&gtb?a:b;}
-int main(){
-cout&lt&lta1(34,64); a2&ltdouble&gt(3.3,7.2); 
-return 0;} 
+Daraxtda otaning darajasi nimani bildiradi?
 ====
-#
-98
+# Tugunning nechta bolasi borligini
 ====
-64
+Tugunning ildizga masofasi
 ====
-34
+Tugunning umumiy soni
 ====
-7,2
+Tugunning bo‘yi
 
 +++++
-
-Найдите результат программы:  
-#include &ltiostream&gt
-using namespace std;
-template &lttypename T&gt 
-T a1(T a, T b){return a + b;}
-template &ltclass T&gt 
-T a2(T a, T b){return a&gtb?a:b;}
-int main(){
-cout&lt&lta1(15,17)-a2&ltdouble&gt(3,7); 
-return 0;} 
+Daraxt ko‘ruvi (Traversal) nima?
 ====
-#
-25
+# Daraxtdagi barcha tugunlarni tartib bilan ko‘rish jarayoni
 ====
-17
+Faqat ildiz tugunni ko‘rish
 ====
-15
+Faqat barglarni ko‘rish
 ====
-21
+Elementlarni o‘chirish
 
 +++++
-
-Что нужно сделать в C++ Builder чтобы в Label вывести "текст" ?
+Daraxtning pre-order ko‘ruvi qanday ishlaydi?
 ====
-#
-Label1-&gtCaption = “текст”;
+# Ildiz, chap bola, o‘ng bola tartibida
 ====
-Edit1-&gt Text = “текст”;
+Chap bola, ildiz, o‘ng bola
 ====
-Label1-&gtText = “текст”;
+Barglardan boshlab yuqoriga
 ====
-Edit1-&gt Caption = “текст”;
+Faqat barglarni
 
 +++++
-
-Что нужно сделать в C++ Builder чтобы в Edit1 вывести "текст"?
+Daraxtning in-order ko‘ruvi qanday ishlaydi?
 ====
-#
-Edit1-&gt Text = “текст”;
+# Chap bola, ildiz, o‘ng bola tartibida
 ====
-Label1-&gtCaption = “текст”;
+Ildiz, o‘ng bola, chap bola
 ====
-Label1-&gtText = “текст”;
+Faqat ildiz tugunni
 ====
-Edit1-&gt Caption = “текст”;
+Faqat barglarni
 
 +++++
-
-Дано переменные типа int a=5, b=8, с=а+b;  Что нужно сделать чтобы значеие "с" вывести в Label1? 
+Daraxtning post-order ko‘ruvi qanday ishlaydi?
 ====
-#
-Label1-&gtCaption=IntToStr(с);
+# Chap bola, o‘ng bola, ildiz tartibida
 ====
-Label1-&gtCaption=с;
+Ildiz, chap bola, o‘ng bola
 ====
-Label1-&gtCaption=FloatToStr(с);
+Faqat ildiz
 ====
-Label1-&gtCaption=StrToInt(с);
+Faqat barglar
 
 +++++
-
-Что нужно сделать чтобы после компиляции Button1 стал невидимым на форме? 
+Graf va daraxt orasidagi asosiy farq nima?
 ====
-#
-Button1-&gtVisible=false;
+# Daraxtda sikl (aylana) bo‘lmaydi
 ====
-Button1-&gtEnabled=false;
+Grafda faqat bitta ildiz bor
 ====
-Button1-&gtVisible=true;
+Daraxtda elementlar ketma-ket saqlanadi
 ====
-Button1-&gtEnabled=true;
+Grafda faqat ikki tugun bor
 
 +++++
-
-Укажите название компонента C++ Builder предназначенного для создания контекстоного меню: 
+Balanslangan daraxt nimani anglatadi?
 ====
-#
-PopupMenu
+# Daraxtning chap va o‘ng subdaraxtlari balansi saqlangan
 ====
-MainMenu
+Faqat ildiz tugun bor
 ====
-MenuMain
+Faqat barglar mavjud
 ====
-TMenu
+Tugunlar bitta yo‘lda joylashgan
 
 +++++
-
-Укажите на программу, которая при клике на Button1, выводит на экран надпись: "Выбрано", если поставлена галочка на объект CheckBox1:
+AVL daraxt nima?
 ====
-#
-if (CheckBox1-&gtChecked==true)  ShowMessage("Выбрано");
+# Balanslangan ikkilik qidiruv daraxti
 ====
-if (CheckBox1-&gtChecked==false)  ShowMessage("Выбрано");
+Faqat ketma-ket massiv
 ====
-if (Button1-&gtChecked-&gttrue)  ShowMessage("Выбрано");
+Grafning turli turi
 ====
-if (CheckBox1-&gtChecked&lt-true)  ShowMessage("Выбрано");
+Daraxtning barglari
 
 +++++
-
-Укажите на программу, которая при клике на Button1, выводит на экран надпись: "Выбрано", если поставлено галочка на объект RadioButton1:
+Binarny qidiruv daraxt (BST) qanday ishlaydi?
 ====
-#
-if (RadioButton1-&gtChecked==true)  ShowMessage("Выбрано"); 
+# Chap bolalar ildizdan kichik, o‘ng bolalar katta qiymatga ega
 ====
-if (RadioButton1-&gtChecked=true)  ShowMessage("Выбрано"); 
+Har doim to‘liq binarny daraxt
 ====
-if (Radio1-&gtChecked==true)  ShowMessage("Выбрано"); 
+Faqat chap bolalar katta
 ====
-if (Radio1-&gtChecked==false)  ShowMessage("Выбрано"); 
+Barchasi teng
 
 +++++
-
-С помощью каких компонентов в C++ Builder можно вести переменные из клавиатуры?
+Daraxtda chuqurlikni qanday hisoblash mumkin?
 ====
-#
-Edit
+# Ildizdan eng uzoq barggacha bo‘lgan yo‘l uzunligi
 ====
-Label
+Faqat ildiz tugunni hisoblash
 ====
-Button
+Faqat barglarni hisoblash
 ====
-BitBtn
+Har bir tugunni sanash
 
 +++++
-
-Что нужно сделать чтобы в Edit1 запретить ввод информации? 
+Daraxtni chiziqli tarzda qanday ko‘rish mumkin?
 ====
-#
-Edit1-&gtReadOnly=true;
+# Traversal yordamida
 ====
-Edit1-&gtCharCase=ecLowerCase;
+Faqat grafik ko‘rinishda
 ====
-Edit1-&gtReadOnly=false;
+Matritsada
 ====
-Edit1-&gtReadOnly==true;
+Tasodifiy
 
 +++++
-
-Что нужно сделать чтобы при клике на Button1, компонент Button2 стал невидимым? 
+Daraxtda sikl (aylana) paydo bo‘lsa, u nima bo‘ladi?
 ====
-#
-Button2-&gtVisible=false;
+# Daraxt bo‘lmaydi, grafikga aylanadi
 ====
-Button1-&gtVisible=false;
+Yangi daraxt hosil bo‘ladi
 ====
-Button2-&gtVisible=true;
+Elementlar ko‘payadi
 ====
-Button1-&gtVisible=true;
+Hech narsa o‘zgaradi
 
 +++++
-
-Что нужно сделать чтобы при клике на Button1, компонент Edit1 стал невидимым?  
+Daraxtlarda qaysi operatsiya tezkor qidiruvni ta’minlaydi?
 ====
-#
-Edit1-&gtVisible=false;
+# Binarny qidiruv daraxtlari
 ====
-Edit1-&gtVisible=true;
+Oddiy bog‘langan ro‘yhatlar
 ====
-Edit1-&gtEnabled=false;
+Massiv
 ====
-Edit1-&gtEnabled=true;
+Graf
 
 +++++
-
-Что нужно сделать чтобы при клике на Button1, компонент Label1  стал невидимым? 
+Daraxtda har bir tugunning darajasi nimani anglatadi?
 ====
-#
-Label1-&gtVisible=false;
+# Tugunning bolalari soni
 ====
-Label1-&gtVisible=true;
+Tugunning ota-ona soni
 ====
-Label1-&gtEnabled=false;
+Tugunning bo‘yi
 ====
-Label1-&gtEnabled=true;
-
+Tugunning massivi
 +++++
-
-Что нужно сделать чтобы при клике на Button1, компонент Button1 стал невидимым? 
+Binar qidiruv daraxtida (BST) chap bola qanday qiymatga ega bo‘ladi?
 ====
-#
-Button1-&gtVisible=false;
+# Ildiz tugundan kichik qiymat
 ====
-Button2-&gtVisible=false;
+Ildiz tugundan katta qiymat
 ====
-Button1-&gtEnabled=false;
+Ildiz bilan teng qiymat
 ====
-Button2-&gtEnabled=false;
+Tasodifiy qiymat
 
 +++++
-
-Что нужно сделать чтобы при клике на Button1, компонент Button2 стал неактивным? 
+Binar qidiruv daraxtida element qidiruv qanday amalga oshiriladi?
 ====
-#
-Button2-&gtEnabled=false;
+# Har bir tugunda kalit ildiz bilan solishtiriladi va chap yoki o‘ng subdaraxtga o‘tiladi
 ====
-Button2-&gtEnabled=true;
+Faqat ildizda qidiriladi
 ====
-Button1-&gtEnabled=false;
+Faqat barglarda qidiriladi
 ====
-Button1-&gtEnabled=true;
+Tasodifiy joylarda
 
 +++++
-
-Что нужно сделать чтобы при клике на Button1, компонент Label1 стал неактивным? 
+Binar qidiruv daraxtida element qo‘shish qanday amalga oshiriladi?
 ====
-#
-Label1-&gtEnabled=false;
+# Qidiruv orqali joy topilib, yangi tugun qo‘shiladi
 ====
-Label1-&gtEnabled=true;
+Har doim ildizga qo‘shiladi
 ====
-Label1-&gtVisible=false;
+Faqat barglarga qo‘shiladi
 ====
-Label1-&gtVisible=true;
+Element almashtiriladi
 
 +++++
-
-Что нужно сделать чтобы при клике на Button1, компонент Button1 стал неактивным?
+Binar qidiruv daraxtidan element o‘chirishda uchta holat bor, ularni sanang:
 ====
-#
-Button1-&gtEnabled=false;
+# Barg tugun, bitta bola, ikki bola
 ====
-Button1-&gtEnabled=true;
+Faqat bitta bola
 ====
-Button1-&gtVisible=false;
+Faqat barg tugun
 ====
-Button1-&gtVisible=true;
+Faqat ildiz tugun
 
 +++++
-
-Что нужно сделать чтобы при клике на Button1, компонент Edit1 стал неактивным? 
+Muvozanatlangan binar qidiruv daraxti nima?
 ====
-#
-Edit1-&gtEnabled=false;
+# Daraxtning chap va o‘ng subdaraxtlari balansi saqlangan daraxt
 ====
-Edit1-&gtEnabled=true;
+Faqat ildiz mavjud daraxt
 ====
-Edit1-&gtVisible=false;
+Faqat bitta bola bor
 ====
-Edit1-&gtVisible=true;
+Hech qanday bola yo‘q
 
 +++++
-
-Дано переменные типа int a=4 и b=6 и только один компонент Button1. Написать программу которая вычислит сумму a+b и выведет его на Form1: 
+AVL daraxti nimaga asoslangan?
 ====
-#
-ShowMessage(a+b);
+# Har bir tugunning chap va o‘ng subdaraxt balansi -1, 0 yoki +1 bo‘lishi kerak
 ====
-Edit1-&gtCaption=a+b;
+Faqat barglar balansi
 ====
-Label1-&gtText=a+b;
+Faqat ildiz balansi
 ====
-Form1-&gtText=a+b;
+Tasodifiy qiymatlar
 
 +++++
-
-Дано переменные типа int x=10 и y=15. Написать программу которая вычислит сумму х+у и выведет его заголовку Form1: 
+AVL daraxtida muvozanatni saqlash uchun qanday operatsiyalar qo‘llaniladi?
 ====
-#
-Form1-&gtCaption=x+y;
+# Burilishlar (rotatsiyalar)
 ====
-Form1-&gtText=x+y;
+Elementlarni o‘chirish
 ====
-Form1-&gtCaption=Int(x+y);
+Faol ko‘chiruvlar
 ====
-Form1-&gtText=StrToFloat(x+y);
+Elementlarni almashtirish
 
 +++++
-
-Какую программу надо написать, чтобы при клике по Button1 ширина формы изменилась на значение в Edit1?  
+Binar qidiruv daraxtida elementni qidirishning eng yaxshi vaqt murakkabligi qanday?
 ====
-#
-Form1-&gtWidth=StrToInt(Edit1-&gtText);
+# O(log n)
 ====
-Form1-&gtWidth=StrToChar(Edit1-&gtText);
+O(n)
 ====
-Form1-&gtWidth=IntToStr(Edit1-&gtText);
+O(n log n)
 ====
-Form1-&gtWidth=Edit1-&gtText;
+O(1)
 
 +++++
-
-Какую программу надо написать, чтобы при клике по Button1 высота формы изменилась на значение в Edit1? 
+Binar qidiruv daraxtining eng yomon holatdagi murakkabligi qanday?
 ====
-#
-Form1-&gtHeight=StrToInt(Edit1-&gtText);
+# O(n)
 ====
-Form1-&gtHeight=StrToChar(Edit1-&gtText);
+O(log n)
 ====
-Form1-&gtHeight=IntToStr(Edit1-&gtText);
+O(n log n)
 ====
-Form1-&gtHeight=Edit1-&gtText;
+O(1)
 
 +++++
-
-Какую программу надо написать, чтобы при клике по Button1 цвет формы поменялся на синий ? 
+AVL daraxtida o‘ng burilish (right rotation) nima uchun ishlatiladi?
 ====
-#
-Form1-&gtColor=clBlue;
+# Chap subdaraxt juda chuqur bo‘lganda muvozanatni tiklash uchun
 ====
-Form1-&gtColor=Blue;
+O‘ng subdaraxtni ko‘paytirish uchun
 ====
-Form1-&gtFontColor=clBlue;
+Element qo‘shish uchun
 ====
-Form1-&gtColor==clBlue;
+Element o‘chirish uchun
 
 +++++
-
-Какую программу надо написать, чтобы при клике по Button1 название Form1(заголовка формы) менялась на значение написанную на Edit1?  
+AVL daraxtida chap burilish (left rotation) nima vazifani bajaradi?
 ====
-#
-Form1-&gtCaption=Edit1-&gtText;
+# O‘ng subdaraxt juda chuqur bo‘lganda muvozanatni tiklash
 ====
-Form1-&gtText=Edit1-&gtText;
+Chap subdaraxtni ko‘paytirish
 ====
-Form1-&gtCaption=Edit1-&gtCaption;
+Elementlarni almashtirish
 ====
-Form1-&gtCaption==Edit1-&gtCaption;
+Boshqa daraxtga ko‘chirish
 
 +++++
-
-Найдите результат функции:
-int x=16; 
-void baho(int a)
-{ int a=17; return x;}. // Здесь “x” глобальная переменная
+Binar qidiruv daraxtiga yangi elementni qo‘shishdan keyin nimani tekshirish kerak?
 ====
-#
-16
+# Daraxtning muvozanati
 ====
-17
+Faqat ildiz tugunni
 ====
-a=17
+Faqat barglarni
 ====
-ошибка в программе
+Hech narsani
 
 +++++
-
-Найдите результат функции: 
-int x=16;
-int baho(int a){ a=17; return x;} 
+Element o‘chirishda agar o‘chirilayotgan tugun ikki bolaga ega bo‘lsa, nima qilinadi?
 ====
-#
-16
+# O‘chiriladigan tugun o‘rniga o‘ng subdaraxtdagi eng kichik element olinadi
 ====
-17
+Element o‘chirilib ketadi
 ====
-a=16
+Faqat chap subdaraxt ko‘chiriladi
 ====
-ошибка в программе
+Hech narsa qilinmaydi
 
 +++++
-
-Дано следующие функции:  
-int tana1(int a,int b ){return  a+b;}  
-int tana2(int a,int b ){ return  a-b; }
-int tana3(int a,int b ){ return  a*b;}
-int tana4(int a,int b ){ return  a/b;}  
-найдите:  
-tana3(a,b)+tana2(a,b)+tana4(b,a)+2*tana1(b,a)=?  
-При int a=2,b=4;
+Binar qidiruv daraxtida elementni qidirishda qaysi holatda barcha tugunlar tekshiriladi?
 ====
-#
-20
+# Daraxt chiziqli (muvozanatsiz) bo‘lsa
 ====
-10
+Har doim
 ====
-30
+Hech qachon
 ====
-40
+Faqat ildizda
 
 +++++
-
-Дано следующие функции:  
-int tana1(int a,int b ){return  a+b;}  
-int tana2(int a,int b ){ return  a-b; }
-int tana3(int a,int b ){ return  a*b;}
-int tana4(int a,int b ){ return  a/b;}  
-найдите:  
-tana3(a,b)+tana2(a,b)+tana4(b,a)-2*tana1(b,a)+1=?  При int a=3,b=6;
+AVL daraxti qaysi holatda muvozanatni tiklash uchun ikki burilish amalga oshiriladi?
 ====
-#
-0
+# Chap-o‘ng yoki o‘ng-chap holatlarida
 ====
-2
+Faqat chap chap
 ====
-6
+Faqat o‘ng o‘ng
 ====
--1
+Hech qachon
 
 +++++
-
-Дано следующие функции:  
-int tana1(int a,int b ){return  a+b;}  
-int tana2(int a,int b ){ return  a-b; }
-int tana3(int a,int b ){ return  a*b;}
-int tana4(int a,int b ){ return  a/b;}  найдите:  
-tana3(a,b)+2*tana2(a,b)-tana4(b,a)+2*tana1(b,a)=?  при int a=3,b=6;
+Binar qidiruv daraxtining qaysi xususiyati qidiruvni samarali qiladi?
 ====
-#
-26
+# Chap subdaraxtdagi barcha elementlar ildizdan kichik, o‘ngdagilar katta
 ====
-16
+Tugunlarning tartibsizligi
 ====
--6
+Faqat ildizda element bo‘lishi
 ====
-0
+Elementlar ketma-ketligi
 
 +++++
-
-Дано следующие функции:   
-int tana1(int a,int b ){return  a+b;}  
-int tana2(int a,int b ){ return  a-b; }
-int tana3(int a,int b ){ return  a*b;}
-int tana4(int a,int b ){ return  a/b;}  найдите:  
-tana3(a,b)+tana2(a,b)-2*tana4(b,a)+tana1(b,a)=?  при int a=4,b=8;
+Binar qidiruv daraxtida o‘chirishdan keyin nimani bajarish kerak?
 ====
-#
-36
+# Muvozanatni tekshirish va zarur bo‘lsa burilishlar qilish
 ====
-46
+Faqat ildizni o‘zgartirish
 ====
-26
+Element qo‘shish
 ====
-16
+Hech narsa
 
 +++++
-
-Дано следующие функции:  
-int tana1(int a,int b ){return  a+b;}  
-int tana2(int a,int b ){ return  a-b; }
-int tana3(int a,int b ){ return  a*b;}
-int tana4(int a,int b ){ return  a/b;}  найдите:  
-tana3(a,b)-tana2(a,b)+tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+Muvozanatlangan binar daraxtlar qaysi algoritmlar samaradorligini oshiradi?
 ====
-#
-50
+# Qidiruv, qo‘shish va o‘chirish
 ====
-40
+Faqat qidiruv
 ====
-30
+Faqat qo‘shish
 ====
-20
+Faqat o‘chirish
 
 +++++
-
-Дано следующие функции:  
-int tana1(int a,int b ){return  a+b;}  
-int tana2(int a,int b ){ return  a-b; }
-int tana3(int a,int b ){ return  a*b;}
-int tana4(int a,int b ){ return  a/b;}  найдите:  
-tana3(a,b)+4*tana2(a,b)+tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+Binar qidiruv daraxtining balansi buzilganda nimani bajarish kerak?
 ====
-#
-30
+# Burilishlar yordamida muvozanatni tiklash
 ====
-20
+Elementlarni almashtirish
 ====
-40
+Elementlarni o‘chirish
 ====
-50
-
+Hech narsani qilmaslik
 +++++
-
-Дано следующие функции:  
-int tana1(int a,int b ){return  a+b;}  
-int tana2(int a,int b ){ return  a-b; }
-int tana3(int a,int b ){ return  a*b;}
-int tana4(int a,int b ){ return  a/b;}  найдите:  
-tana3(a,b)+3*tana2(a,b)+2*tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+Heap daraxti nima?
 ====
-#
-40
+# Maxsus binar daraxt bo‘lib, har bir ota-ona tugun bolalaridan katta (yoki kichik) qiymatga ega
 ====
-50
+Oddiy binar daraxt
 ====
-30
+Faqat to‘liq binar daraxt
 ====
-20
+Ierarxik graflar yig‘indisi
 
 +++++
-
-Дано следующие функции:  
-int tana1(int a,int b ){return  a+b;}  
-int tana2(int a,int b ){ return  a-b; }
-int tana3(int a,int b ){ return  a*b;}
-int tana4(int a,int b ){ return  a/b;}  найдите:  
-¼*tana3(a,b)+1/2*tana2(a,b)+2*tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+Max-heap nima?
 ====
-#
-22
+# Har bir ota-ona bolalaridan katta yoki teng qiymatga ega bo‘lgan heap
 ====
-55
+Har bir ota-ona bolalaridan kichik qiymatga ega
 ====
-44
+Faqat barglar katta
 ====
-33
+Faqat ildiz kichik
 
 +++++
-
-Дано следующие функции:  
-int tana1(int a,int b ){return  a+b;}  
-int tana2(int a,int b ){ return  a-b; }
-int tana3(int a,int b ){ return  a*b;}
-int tana4(int a,int b ){ return  a/b;}  найдите:  
-tana3(a,b)+tana2(a,b)+tana4(b,a)+tana1(b,a)=? при int a=4,b=8;
+Min-heap nima?
 ====
-#
-46
+# Har bir ota-ona bolalaridan kichik yoki teng qiymatga ega bo‘lgan heap
 ====
-50
+Har bir ota-ona bolalaridan katta qiymatga ega
 ====
-36
+Faqat barglar kichik
 ====
-40
+Faqat ildiz katta
 
 +++++
-
-Дано следующие функции:  
-int tana1(int a,int b ){return  a+b;}  
-int tana2(int a,int b ){ return  a-b; }
-int tana3(int a,int b ){ return  a*b;}
-int tana4(int a,int b ){ return  a/b;}  найдите:  
-tana3(a,b)-2*tana2(a,b)+2*tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+Heap daraxti qanday ko‘rinishda tashkil etiladi?
 ====
-#
-56
+# To‘liq binar daraxt ko‘rinishida
 ====
-46
+Tasodifiy daraxt
 ====
-36
+Faqat chap yonlama daraxt
 ====
-26
+Faqat o‘ng yonlama daraxt
 
 +++++
-
-Дано следующие функции:  
-int tana1(int a,int b ){return  a+b;}  
-int tana2(int a,int b ){ return  a-b; }
-int tana3(int a,int b ){ return  a*b;}
-int tana4(int a,int b ){ return  a/b;}  найдите:  
-½*tana3(a,b)+tana2(a,b)+2*tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+Heapni massiv yordamida qanday ifodalash mumkin?
 ====
-#
-28
+# Elementlar ketma-ket joylashgan massivda ota-ona va bolalar indekslari hisoblanadi
 ====
-51
+Har bir element alohida massivda
 ====
-48
+Faqat bitta massivda ildiz
 ====
-18
+Massivda faqat barglar
 
 +++++
-
-Дано следующие функции:  
-int tana1(int a,int b ){return  a+b;}  
-int tana2(int a,int b ){ return  a-b; }
-int tana3(int a,int b ){ return  a*b;}
-int tana4(int a,int b ){ return  a/b;}  найдите:  
-1/32*tana3(a,b)+1/4*tana2(a,b)+1/2*tana4(b,a)+1/12*tana1(b,a)=? 
-При int a=4,b=8;
+Heapda ota-onaning chap bolasi indeksini massivda qanday topamiz?
 ====
-#
-2
+# 2*i + 1
 ====
-3
+i - 1
 ====
-4
+i / 2
 ====
-5
+2*i
 
 +++++
-
-Дано следующие функции:  
-int tana1(int a,int b ){return  a+b;}  
-int tana2(int a,int b ){ return  a-b; }
-int tana3(int a,int b ){ return  a*b;}
-int tana4(int a,int b ){ return  a/b;}  найдите:  
-(tana3(a,b)+2*tana2(a,b))/(tana4(b,a)*tana1(b,a))=?  При int a=4,b=8;
+Heapda ota-onaning o‘ng bolasi indeksini massivda qanday topamiz?
 ====
-#
-1
+# 2*i + 2
 ====
-2
+i + 1
 ====
-3
+i * 3
 ====
-4
+2*i - 1
 
 +++++
-
-Дано следующие функции:  
-int tana1(int a,int b ){return  a+b;}  
-int tana2(int a,int b ){ return  a-b; }
-int tana3(int a,int b ){ return  a*b;}
-int tana4(int a,int b ){ return  a/b;}  найдите:  
-tana3(a,b)-tana2(a,b)+2*tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+Heapda ota-ona tugun indeksini massivda qanday topamiz?
 ====
-#
-52
+# (i - 1) // 2
 ====
-51
+i + 1
 ====
-53
+i * 2
 ====
-20
+2*i + 1
 
 +++++
-
-Дано следующие функции:  
-int tana1(int a,int b ){return  a+b;}  
-int tana2(int a,int b ){ return  a-b; }
-int tana3(int a,int b ){ return  a*b;}
-int tana4(int a,int b ){ return  a/b;}  найдите:  
-(-1)*tana3(a,b)+tana2(a,b)+2*tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+Heap tuzilmasida qo‘shish (insert) amali qanday bajariladi?
 ====
-#
--4
+# Yangi element oxiriga qo‘yilib, yuqoriga burilishlar orqali joylashadi
 ====
-2
+Faqat oxiriga qo‘yiladi
 ====
--1
+Faqat boshidan qo‘yiladi
 ====
-40
+Element almashtiriladi
 
 +++++
-
-Дано следующие функции:  
-int tana1(int a,int b ){return  a+b;}  
-int tana2(int a,int b ){ return  a-b; }
-int tana3(int a,int b ){ return  a*b;}
-int tana4(int a,int b ){ return  a/b;}  найдите:  
-tana3(a,b)+3*tana2(a,b)+ tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+Heapda o‘chirish (delete) amali qaysi tugunni o‘chiradi odatda?
 ====
-#
-34
+# Ildiz tugunni
 ====
-51
+Oxirgi tugunni
 ====
-24
+O‘ng bolani
 ====
-30
+Chap bolani
 
 +++++
-
-Дано следующие функции:  
-int tana1(int a,int b ){return  a+b;}  
-int tana2(int a,int b ){ return  a-b; }
-int tana3(int a,int b ){ return  a*b;}
-int tana4(int a,int b ){ return  a/b;}  найдите:  
-2*tana3(a,b)+1.5*tana2(a,b)+ tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+Heapda o‘chirishdan keyin nimani bajarish kerak?
 ====
-#
-72
+# Pastga burilish (heapify) qilib muvozanatni tiklash
 ====
-53
+Element qo‘shish
 ====
-32
+Hech narsa
 ====
-21
+Massivni tozalash
 
 +++++
-
-Дано следующие функции:  
-int tana1(int a,int b ){return  a+b;}  
-int tana2(int a,int b ){ return  a-b; }
-int tana3(int a,int b ){ return  a*b;}
-int tana4(int a,int b ){ return  a/b;}  найдите:  
-1.5*tana3(a,b)+12*tana2(a,b)+2*tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+Heapify algoritmi nima uchun ishlatiladi?
 ====
-#
-16
+# Daraxtda heap xususiyatini tiklash uchun
 ====
-14
+Elementlarni o‘chirish uchun
 ====
-12
+Faqat massivni yaratish uchun
 ====
-10
+Tugunlarni almashtirish uchun
 
 +++++
-
-Дано следующие функции:  
-int tana1(int a,int b ){return  a+b;}  
-int tana2(int a,int b ){ return  a-b; }
-int tana3(int a,int b ){ return  a*b;}
-int tana4(int a,int b ){ return  a/b;}  найдите:  
-0.5*tana3(a,b)+2*tana2(a,b)+tana4(b,a)+1.5*tana1(b,a)=?  При int a=4,b=8;
+Heapni tashkil etishning tezkor usuli qaysi?
 ====
-#
-28
+# Bottom-up (pastdan yuqoriga) heapify
 ====
-48
+Top-down
 ====
-50
+Tasodifiy qo‘shish
 ====
-30
+Faqat o‘chirish
 
 +++++
-
-Дано следующие функции:  
-int tana1(int a,int b ){return  a+b;}  
-int tana2(int a,int b ){ return  a-b; }
-int tana3(int a,int b ){ return  a*b;}
-int tana4(int a,int b ){ return  a/b;}  найдите:  
-tana3(a,b)-2* tana2(a,b)+ tana4(b,a)+tana1(b,a)=?  При int a=4,b=8;
+Heapda maksimal qiymat qaerda joylashgan bo‘ladi?
 ====
-#
-54
+# Ildizda (max-heap uchun)
 ====
-40
+Barglarda
 ====
-32
+Oxirida
 ====
-20
+Chap bolada
 
 +++++
-
-Найдите результат программы: 
-int main( ) {a=0; for (int i=0;i&lt2;i++){a=a+i;}cout&lt&lta;} 
+Heapda minimal qiymat qaerda joylashgan bo‘ladi?
 ====
-#
-1
+# Ildizda (min-heap uchun)
 ====
-2
+Barglarda
 ====
-3
+Oxirida
 ====
-0
+Chap bolada
 
 +++++
-
-Найдите результат программы: 
-int main(){a=0;for (int i=0;i&lt=2;i++)
-{a=a+i;}cout&lt&lta;}
+Heapda yangi element qo‘shishning vaqt murakkabligi qancha?
 ====
-#
-3
+# O(log n)
 ====
-2
+O(n)
 ====
-1
+O(1)
 ====
-0
+O(n log n)
 
 +++++
-
-Сколько раз выполнится цикл?  
-For (int i=0; i&lt4; i++) 
+Heapda maksimal qiymatni olish qanday amalga oshiriladi?
 ====
-#
-4
+# Ildizdagi elementni olish
 ====
-3
+Oxirgi elementni olish
 ====
-2
+Barglardan qidirish
 ====
-5
+Tasodifiy elementni olish
 
 +++++
-
-Сколько раз выполнится цикл?  
-For (int i=0; i&lt=4; i++) 
+Heapda elementlarni saralash uchun qaysi algoritm ishlatiladi?
 ====
-#
-5
+# Heapsort
 ====
-4
+Bubblesort
 ====
-3
+Quicksort
 ====
-6
+Mergesort
 
 +++++
-
-Найдите результат программы:  
-  int main()
-{a=2;for (int i=1;i&lt=2;i++)
-{a=a+i;}
-cout&lt&lta;} 
+Heapda o‘chirishdan keyin heap xususiyatini tiklash uchun qanday amal bajariladi?
 ====
-#
-5
+# Heapify (pastga burilish)
 ====
-3
+Element qo‘shish
 ====
-2
+O‘ng burilish
 ====
-6
+Chap burilish
 
 +++++
-
-Найдите результат программы: 
-int main( )
-{a=3;for (int i=1;i&lt=3;i++)
-{a=a+i;}cout&lt&lta;}
+Heapdagi elementlarni qanday ko‘rish mumkin?
 ====
-#
-9
+# Traversal yordamida yoki massiv ko‘rinishida
 ====
-6
+Faqat barglar
 ====
-18
+Faqat ildiz
 ====
-3
-
+Faqat tasodifiy
 +++++
-
-Найдите результат программы: 
-int main( )
-{        int q;cin&gt&gtq;
-        if(q&gt0)
-        {
-        int t=33;
-        }
-    cout&lt&ltt&lt&ltendl; 
-return 0;} 
+Graf nima?
 ====
-#
-ошибка в программе
+# Tugunlar va ularni bog‘lovchi yoylardan iborat to‘plam
 ====
-33
+Faqat tugunlar yig‘indisi
 ====
-30
+Faqat yoylar yig‘indisi
 ====
-31
+Ierarxik daraxt
 
 +++++
-
-Найдите результат программы:
-int g=3; g+=4; g-=2;
-сout&lt&ltg&lt&ltendl;
+Qo‘shma matrisa nimani ifodalaydi?
 ====
-#
-5
+# Graflardagi tugunlar orasidagi bog‘lanishni ifodalovchi kvadrat matrisa
 ====
-7
+Faqat tugunlar ro‘yxati
 ====
-4
+Faqat yoylar ro‘yxati
 ====
-2
+Grafning og‘irligini
 
 +++++
-
-Найдите результат программы: 
-#define amal(x)(x+x*2)
-cout&lt&ltamal(2 * 3);
+Munоsabatlar matrisasi nima?
 ====
-#
-18
+# Grafdagi tugunlar orasidagi bog‘lanishlarni 0 va 1 orqali ifodalaydi
 ====
-24
+Faqat og‘irliklar
 ====
-12
+Faqat tugunlar soni
 ====
-6
+Faqat yoylar uzunligi
 
 +++++
-
-  Найдите результат программы:
-cout &lt&lt double(12/5); 
+Qo‘shnilik ro‘yxati nimani ifodalaydi?
 ====
-#
-2
+# Har bir tugun uchun unga qo‘shnilar ro‘yxati
 ====
-0
+Faqat tugunlarning tartibini
 ====
-1,2
+Faqat yoylar uzunligini
 ====
-2,4
+Faqat og‘irliklarni
 
 +++++
-
-Найдите результат программы:
-#define amal(x) x * x
-int a=4; 
-cout&lt&ltamal(a++); 
+Yoylar ro‘yxati nima?
 ====
-#
-20
+# Grafdagi barcha yoylar ro‘yxati, ularning boshlanish va tugash tugunlari bilan
 ====
-24
+Faqat tugunlar ro‘yxati
 ====
-12
+Faqat bog‘lanish darajasi
 ====
-16
+Faqat bitta tugun ro‘yxati
 
 +++++
-
-Для чего используется среда программирования Visual Studio
+Qo‘shma matrisaning o‘lchami qanday bo‘ladi?
 ====
-#
-Для программирования
+# n x n, bu yerda n — tugunlar soni
 ====
-Для создания макета
+n x m, m — yoylar soni
 ====
-Для создания дизайна
+2 x n
 ====
-Для настройки Windows
+n x 1
 
 +++++
-
-Укажите оператор цикла в С++
+Grafdagi qo‘shnilik ro‘yxati qanday ma’lumotni saqlaydi?
 ====
-#
-for
+# Har bir tugun uchun unga bevosita bog‘langan tugunlar ro‘yxatini
 ====
-int
+Faqat yoylarning sonini
 ====
-if
+Faqat tugunlarning raqamlarini
 ====
-then
+Faqat muhim tugunlarni
 
 +++++
-
-Укажите оператор условия в С++
+Munosabatlar matrisasida 0 va 1 nimani anglatadi?
 ====
-#
-if
+# 1 — bog‘lanish bor, 0 — bog‘lanish yo‘q
 ====
-then
+1 — bog‘lanish yo‘q, 0 — bor
 ====
-for
+Faqat raqamlar
 ====
-while
+Faqat indekslar
 
 +++++
-
-Укажите тип данных для хранения целых чисел
+Qo‘shma matrisada simmetriya nimani anglatadi?
 ====
-#
-int
+# Yo‘nalmagan graf
 ====
-float
+Yo‘nalgan graf
 ====
-double
+Birinchi element kichik
 ====
-system
+Elementlar teng emas
 
 +++++
-
-Укажите тип данных для хранения дробных чисел
+Yoylar ro‘yxati qaysi holat uchun qulayroq?
 ====
-#
-double
+# Grafda yoylar soni kam bo‘lsa
 ====
-char
+Grafda tugunlar soni kam bo‘lsa
 ====
-int
+Faqat to‘liq graflar uchun
 ====
-sign
+Faqat ierarxik graflar uchun
 
 +++++
-
-Сколько байт памяти занимает тип данных char?
+Qo‘shnilik ro‘yxatida tugunlar qanday tartibda berilgan?
 ====
-#
-1
+# Har bir tugun uchun unga bog‘langan tugunlarning ro‘yxati
 ====
-2
+Faqat katta tartibda
 ====
-4
+Faqat kichik tartibda
 ====
-8
+Tasodifiy tartibda
 
 +++++
-
-Сколько байт памяти занимает тип данных int?
+Yo‘nalgan grafda munosabatlar matrisasi qanday bo‘ladi?
 ====
-#
-4
+# Asimmetrik yoki simmetrik emas
 ====
-8
+Doim simmetrik
 ====
-2
+Doim asimmetrik
 ====
-1
-
+Faqat diagonal elementlari 1
 
-Grafikli matnlarni ekranga chiqaruvchi TextRect funksiyasininig vazifasi
++++++
+Qo‘shma matrisa qaysi holatda samaraliroq?
 ====
-#matnni berilgan nuqta va shaklda chiqarish
+# Graf zich bo‘lsa (ko‘p yoylar mavjud bo‘lsa)
 ====
-Matnning 1- va oxirgi qatorlarining orasidagi o’lchamlarni qaytaradi
+Graf kam yoyli bo‘lsa
 ====
-Matnning uzunligi
+Faqat yo‘nalgan graflar uchun
 ====
-Matnning balandligi
-
+Faqat yo‘nalmagan graflar uchun
 
-
 +++++
-
-
-
-
-Qiymat o'zlashtirish operatorini ko'rsating.
+Qo‘shnilik ro‘yxati qaysi holatda samaraliroq?
 ====
-#=
+# Graf kam yoyli bo‘lsa (kam zich)
 ====
-= =
+Graf zich bo‘lsa
 ====
-: :
+Faqat yo‘nalgan graflar uchun
 ====
-.
-
+Faqat yo‘nalmagan graflar uchun
 
-
 +++++
-C++ Builderda Image1 komponentasiga kompyuterning "d" diskida joylashgan "tatu.jpg" nomli rasmni yuklash kodini ko'rsating
+Grafdagi tugunlar sonini qanday belgilaymiz?
 ====
-#Image1-&gt;Picture-&gt;LoadFromFile("D:tatu.jpg");
+# n bilan
 ====
-Image-&gt;Picture-&gt;LoadFrom("D://tatu.jpg//");
+m bilan
 ====
-Image1-&gt;Picture-&gt;LoadFromPicture("D:tatu.jpg");
+k bilan
 ====
-Image1-&gt;Picture-&gt;LoadFromImage("D:tatu.jpeg");
-
+x bilan
 
-
 +++++
-
-
-
-Dastur ishchi xolatda "Edit1" komponentasiga yozilgan ma'lumotlar "Edit2" komponentasida ham bir xil namoyon bo'lish kodini ko'rsating
+Yoylar sonini qanday belgilaymiz?
 ====
-#Edit2-&gt;Text=Edit1-&gt;Text;
+# m bilan
 ====
-Edit2-&gt;Caption=Edit1-&gt;Caption;
+n bilan
 ====
-Edit1-&gt;Align=Edit2-&gt;Align;
+k bilan
 ====
-Edit2-&gt;TextValue=Edit1-&gt;TextValue;
+x bilan
 
-
-
 +++++
-
-
-
-Satrli ma'lumotni butun sonli ma'lumotga o'zgartirish funksiyasini ko'rsating.
+Grafning yo‘nalgan yoki yo‘nalmaganligini qaysi tasvir yordamida aniqlash mumkin?
 ====
-#StrToInt()
+# Qo‘shma matrisaning simmetriyasidan
 ====
-StringToInteger()
+Tugunlar ro‘yxatidan
 ====
-IntToStr()
+Yoylar ro‘yxatidan emas
 ====
-IntegerToStr()
-
+Faqat barglardan
 
-
 +++++
-
-
-
-Butun sonli ma'lumotni satrli ma'lumotga o'zgartirish funksiyasini ko'rsating.
+Grafda DFS algoritmi nima vazifani bajaradi?
 ====
-#IntToStr()
+# Grafikda chuqurlik bo‘yicha qidiruv
 ====
-StrToInt()
+Bredth bo‘yicha qidiruv
 ====
-IntegerToStr()
+Element qo‘shish
 ====
-IntegerToString()
-
-
+Element o‘chirish
 
 +++++
-
-
-
-Dastur ishga tushirilganda asosiy forma ekranning markazida paydo bo'lishi uchun uning qaysi xususiyatdan foydalaniladi?
+Grafda BFS algoritmi nima vazifani bajaradi?
 ====
-#Position
+# Grafikda kenglik bo‘yicha qidiruv
 ====
-Align
+Chuqurlik bo‘yicha qidiruv
 ====
-Aligment
+Element qo‘shish
 ====
-WindowState
-
+Element o‘chirish
 
-
 +++++
-
-
-
-Formadan kodlar oynasiga o’tish yoki aksincha qaysi tugma orqali buyruq beriladi
+Qo‘shma matrisaning elementlari nimani ko‘rsatadi?
 ====
-#F12
+# I va j tugunlari orasidagi bog‘lanishni
 ====
-F2
+Faqat tugun nomi
 ====
-F11
+Faqat og‘irlik
 ====
-Ctrl+F10
-
-
-
+Faqat yoylar uzunligi
 +++++
-
-
-
-Bir sohani nusxalash funksiyasi qaysi
+BFS algoritmi nima vazifani bajaradi?
 ====
-#CopyRect
+# Grafda eniga qarab qidiruv
 ====
-CopyMode
+Grafda tubiga qarab qidiruv
 ====
-CopyText
+Faqat element qo‘shish
 ====
-Copy
+Faqat element o‘chirish
 
-
-
 +++++
-
-
-
-Grafikli matnlarni ekranga chiqaruvchi TextExtent funksiyasininig vazifasi
-====
-#Matnning 1- va oxirgi qatorlarining orasidagi o’lchamlarni qaytaradi
-====
-Matnning uzunligi
-====
-Matnning balandligi
-====
-berilgan matnni kerakli nuqtaga chiqarish
-
-
-
-+++++
-
-
-
-TCppWebBrowser komponentasining qaysi xususiyatiga *.html faylni yo’li ko'rsatiladi?
-====
-#Navigate
-====
-LoadFromFile
-====
-WriteFromFile
-====
-OpenFile
-
-
-
-+++++
-
-
-
-Grafikli matnlarni ekranga chiqaruvchi TextWidth funksiyasininig vazifasi
-====
-#Matnning uzunligi
-====
-Matnning balandligi
-====
-Matnning 1- va oxirgi qatorlarining orasidagi o’lchamlarni qaytaradi
-====
-berilgan matnni kerakli nuqtaga chiqarish
-
-
-+++++
-
-
-
-
-
-C++ Builderda forma shaffofligini qaysi xususiyat orqali faollashtiriladi?
-====
-#AlphaBlend
-====
-AlphaBlendValue
-====
-Align
-====
-Visible
-
-
-
-+++++
-
-
-
-C++ Builderda forma shaffofligi qabul qiladigan qiymat oralig'ini ko'rsating.
-====
-#0-255
-====
-1-255
-====
-0-256
-====
-1-100
-
-
-
-+++++
-
-
-AutoSize form obyektining vazifasi
-====
-#Avtomatik o’lchamni o’rnatish 
-====
-Formatdagi sistemali tugmalar
-====
-Sarlavhani nomlash
-====
-Nusxalash
-
-
-
-+++++
-
-
-
-Align xossasining vazifasi
-====
-#Joylashuvi
-====
-Ustunlar soni
-====
-rangi
-====
-Qator va ustunning sarlavha rangi
-
-
-
-+++++
-
-
-
-C++ Builderda Edit1 komponentasida matn chiqarish uchun qanday amallar bajariladi?
-====
-#Edit1-&gt; Text = “Matn”;
-====
-Label1-&gt;Caption = “Matn”;
-====
-Label1-&gt;Text = “Matn”;
-====
-Edit1-&gt; Caption = “Matn”;
-
-
-
-+++++
-
-
-
-ColCount xossasining vazifasi 
-====
-#Ustunlar soni
-====
-rangi
-====
-Qator va ustunning sarlavha rangi
-====
-Joylashuvi
-
-
-
-+++++
-
-
-
-Color xossasining vazifasi
-====
-#rangi
-====
-Joylashuvi
-====
-Ustunlar soni
-====
-hajmi
-
-
-
-+++++
-
-
-
-C++ Builderda MaskEdit1 komponentasiga joriy vaqtni chiqarish uchun qanday amallar bajariladi? 
-====
-#MaskEdit1-&gt;Text=TimeToStr(Now());
-====
-MaskEdit1-&gt;Text=Time(Now());
-====
-MaskEdit1-&gt;Text=Time( );
-====
-MaskEdit1-&gt;Text=IntToStr(Now());
-
-
-+++++
-
-
-
-O'rnatiluvchi dastur yaratishda foydalaniladigan dastur nomini toping?
-====
-#InnoSetup Compiler
-====
-C++ Builder XE
-====
-WinRAR
-====
-Notepad
-
-
-
-+++++
-
-
-
-C++ Builderda Label komponentasida matn chiqarish uchun qanday amallar bajariladi?
-====
-#Label1-&gt;Caption = “Matn”;
-====
-Edit1-&gt; Text = “Matn”;
-====
-Label1-&gt;Text = “Matn”;
-====
-Edit1-&gt; Caption = “Matn”;
-
-
-
-+++++
-
-
-
-C++ Builderda int tipida ‘a=5, b=8, c=a+b; ’ o’zgaruvchilari berilgan, "c" o’zgaruvchini Label1 komponentasida chiqarish uchun qanday amallar bajariladi? 
-====
-#Label1-&gt;Caption=IntToStr(c);
-====
-Label1-&gt;Caption=c.StrToInt();
-====
-Label1-&gt;Caption=FloatTo(c);
-====
-Label1-&gt;Caption=StrToInt(c);
-
-
-
-+++++
-
-
-
-C++ Builderda Button1 komponentasini dastur ishchi holatida formada ko’rinmasligi uchun qanday amallarni bajarish kerak? 
-====
-#Button1-&gt;Visible=false;
-====
-Button1-&gt;Enabled=false;
-====
-Button1-&gt;Visible=true;
-====
-Button1-&gt;Enabled=true;
-
-
-
-+++++
-
-
-
-C++ Builderda joylashgan Edit1 komponentasidagi ma’lumotni Label1 komponentasiga chiqarish uchun qanday amallarni bajarish kerak? 
-====
-#Label1-&gt;Caption=Edit1-&gt;Text; 
-====
-Edit1-&gt;Text=Label1-&gt;Caption; 
-====
-Label1-&gt;Text=Edit1-&gt;Caption; 
-====
-Edit1-&gt;Caption=Label1-&gt;Text; 
-
-
-
-+++++
-
-
-
-C++ Builderda asosiy menyular yaratishga mo’ljallangan komponenta nomini ko’rsating: 
-====
-#MainMenu
-====
-PopupMenu
-====
-MenuMain
-====
-TMenu
-
-
-
-+++++
-
-
-
- C++ Builderda kontekst menyular yaratishga mo’ljallangan komponenta nomini ko’rsating: 
-====
-#PopupMenu
-====
-MainMenu
-====
-MenuMain
-====
-TMenu
-
-
-
-+++++
-
-
-
-C++ Builderda Button1 komponentasini bosganda Shape1 komponentasi kvadrat shaklini olishi uchun qanday amallar bajariladi? 
-====
-#Shape1-&gt;Shape=stSquare;
-====
-Shape1-&gt;Shape=stCircle;
-====
-Shape1-&gt;Shape=stRectangle;
-====
-Shape1-&gt;Shape=stLine;
-
-
-
-+++++
-
-
-
-C++ Builderda Label1 komponentasiga joriy vaqtni chiqarish uchun qanday amallar bajariladi? 
-====
-#Label1-&gt;Caption=TimeToStr(Now( ));
-====
-Label1-&gt;Caption=Time(Now( ));
-====
-Label1-&gt;Caption=Time( );
-====
-Label1-&gt;Caption=IntToStr(Now( ));
-
-
-
-+++++
-
-
-
-C++ Builderda Button1 komponentasi chertilganda Label1 komponentasi yashirin (ko’rinmas) xolatga o’tishi uchun qanday amallar bajariladi? 
-====
-#Label1-&gt;Visible=false;
-====
-Label1-&gt;Visible=true;
-====
-Label1-&gt;Enabled=false;
-====
-Label1-&gt;Enabled=true;
-
-
-
-+++++
-
-
-
-C++ Builderda Button1 komponentasi chertilganda Button1 komponentasi yashirin (ko’rinmas) xolatga o’tishi uchun qanday amallar bajariladi? 
-====
-#Button1-&gt;Visible=false;
-====
-Button2-&gt;Visible=false;
-====
-Button1-&gt;Enabled=false;
-====
-Button2-&gt;Enabled=false;
-
-
-
-+++++
-
-
-
-C++ Builderda Button1 komponentasi chertilganda Button2 komponentasi noaktiv (ishlamaydigan) xolatga o’tishi uchun qanday amallar bajariladi? 
-====
-#Button2-&gt;Enabled=false;
-====
-Button2-&gt;Enabled=true;
-====
-Button1-&gt;Enabled=false;
-====
-Button1-&gt;Enabled=true;
-
-
-
-+++++
-
-
-
-C++ Builderda Button1 komponentasi chertilganda Label1 komponentasi noaktiv (ishlamaydigan) xolatga o’tishi uchun qanday amallar bajariladi? 
-====
-#Label1-&gt;Enabled=false;
-====
-Label1-&gt;Enabled=true;
-====
-Label1-&gt;Visible=false;
-====
-Label1-&gt;Visible=true;
-
-
-
-+++++
-
-
-
-C++ Builderda Button1 komponentasi chertilganda Button1 komponentasi noaktiv (ishlamaydigan) xolatga o’tishi uchun qanday amallar bajariladi?
-====
-#Button1-&gt;Enabled=false;
-====
-Button1-&gt;Enabled=true;
-====
-Button1-&gt;Visible=false;
-====
-Button1-&gt;Visible=true;
-
-
-
-+++++
-
-
-
-C++ Builderda Button1 komponentasini chertganga formaning sarlovhasiga (Form1) Edit1 komponentasiga kiritilgan qiymatni chiqarish uchun qanday dastur yozish kerak? 
-====
-#Form1-&gt;Caption=Edit1-&gt;Text;
-====
-Form1-&gt;Text=Edit1-&gt;Text;
-====
-Form1-&gt;Caption=Edit1-&gt;Caption;
-====
-Form1-&gt;Caption==Edit1-&gt;Caption;
-
-
-
-+++++
-
-
-
-C++ Builderda Formaning “OnCreate” hodisasi qachon ishga tushadi? 
-====
-#Forma (yaratilganda) ishga tushganda
-====
-Forma faol bo’lganda 
-====
-Forma bir marta chertilganda
-====
-Formaga sichqon ko’rsatkichi olib kelinishi bilan
-
-
-
-+++++
-
-
-
-C++ Builderda Formaning “OnActivate” hodisasi qachon ishga tushadi?
-====
-#Forma faol bo’lganda 
-====
-Forma (yaratilganda) ishga tushganda
-====
-Forma bir marta chertilganda
-====
-Forma ikki marta chertilganda
-
-
-
-+++++
-
-
-
-C++ Builderda ADOTable komponentasiga bog'langan jadvalning aktiv satridan bitta oldingi satrni aktiv qilish buyrug'i qaysi?
-====
-#ADOTable1-&gt;Prior( );
-====
-ADOTable1-&gt; Next( );
-====
-ADOTable1-&gt;Last( );
-====
-ADOTable1-&gt;Post( );
-
-
-
-+++++
-
-
-
-C++ Builderda ADOTable komponentasiga bog'langan jadvalning aktiv satridan bitta keyingi satrni aktiv qilish buyrug'i qaysi?
-====
-#ADOTable1-&gt; Next( );
-====
-ADOTable1-&gt;First( );
-====
-ADOTable1-&gt;Prior( );
-====
-ADOTable1-&gt;Last( );
-
-
-
-+++++
-
-
-
-C++ Builderda ADOTable komponentasiga bog'langan jadvalning birinchi satrini aktiv qilish buyrug'i qaysi?
-====
-#ADOTable1-&gt;First( );
-====
-ADOTable1-&gt;Last( );
-====
-ADOTable1-&gt;Prior( );
-====
-ADOTable1-&gt;Post( );
-
-
-
-+++++
-
-
-
-C++ Builderda ADOTable komponentasiga bog'langan jadvalning oxirgi satrini aktiv qilish buyrug'i qaysi?
-====
-#ADOTable1-&gt;Last( );
-====
-ADOTable1-&gt;First( );
-====
-ADOTable1-&gt; Next( );
-====
-ADOTable1-&gt;Prior( );
-
-
-
-+++++
-
-
-Dasturchi tomonidan dastur elementlari uchun ixtiyoriy tanlangan nom nima deyiladi?
-====
-#Identifikator
-====
-Direktiva
-====
-O’zgaruvchi
-====
-Operator
-
-
-
-+++++
-
-
-
-C++ Builderda Edit1 komponentasiga katta harf registrida ma’lumot kiritish uchun qanday amallar bajariladi? 
-====
-#Edit1-&gt;CharCase=ecUpperCase;
-====
-Edit1-&gt;CharCase=ecLowerCase;
-====
-Edit1-&gt;CharCase=ecNormal;
-====
-Edit1-&gt;CharCase=true;
-
-
-
-+++++
-
-
-
-C++ Builderda Edit1 komponentasiga 5 tagacha bo’lgan simvolda ma’lumot kiritish uchun qanday amallar bajariladi? 
-====
-#Edit1-&gt;MaxLength=5;
-====
-Edit1-&gt;Length=5;
-====
-Edit1-&gt;Max=5;
-====
-Edit1-&gt;Min=5;
-
-
-
-+++++
-
-
-
-C++ Builderda Edit1 komponentasiga joriy vaqtni chiqarish uchun qanday amallar bajariladi? 
-====
-#Edit1-&gt;Text=TimeToStr(Now( ));
-====
-Edit1-&gt;Text=Time(Now( ));
-====
-Edit1-&gt;Text=Time( );
-====
-Edit1-&gt;Text=IntToStr(Now( ));
-
-
-
-+++++
-
-
-
-C++ Builderda LabeledEdit1 komponentasiga joriy vaqtni chiqarish uchun qanday amallar bajariladi? 
-====
-#LabeledEdit1-&gt;Text=TimeToStr(Now());
-====
-LabeledEdit1-&gt;Text=Time(Now());
-====
-LabeledEdit1-&gt;Text=Time( );
-====
-LabeledEdit1-&gt;Text=IntToStr(Now());
-
-
-
-+++++
-
-
-
-C++ Builderda Button1 komponentasi chertilganda Edit1 komponentasidagi ma’lumot Label1 komponentasiga o’tishi va Edit1 dagi ma’lumot o’chirilishi uchun qanday amallar bajariladi? 
-====
-#Label1-&gt;Caption=Edit1-&gt;Text; Edit1-&gt;Text="";
-====
-Label1-&gt;Caption=Edit1-&gt;Text;
-====
-Edit1-&gt;Text=Label1-&gt;Caption; Edit1-&gt;Text=" ";
-====
-Label1-&gt;Caption=Edit1-&gt;Text; Label1-&gt;Text=" ";
-
-
-
-+++++
-
-
-
-C++ Builderda Button1 komponentasi chertilganda Label1 komponentasidagi ma’lumot Edit1 komponentasiga o’tishi va Label1 dagi ma’lumot o’chirilishi uchun qanday amallar bajariladi? 
-====
-#Edit1-&gt;Text=Label1-&gt;Caption; Label1-&gt;Caption=" "; 
-====
-Edit1-&gt;Text=Label1-&gt;Caption;
-====
-Label1-&gt;Caption;=Edit1-&gt;Text; Label1-&gt;Caption=" "; 
-====
-Edit1-&gt;Text=Label1-&gt;Caption; Text1-&gt;Caption=" "; 
-
-
-
-+++++
-
-
-
-FrameRect shakllarining vazifasi yoki qiymati
-====
-#To’g’ri burchakli to’rtburchak atrof chiziqlarini 1 pikselga tenglashtirish, to’g’ri burchakli to’rtburchak fonsiz
-====
-Nuqtalar bo’yicha soha chizadi 
-====
-To’g’ri burchakli to’rtburchak.
-====
-Chegarasiz to’g’ri burchakli to’rtburchakning foni
-
-
-
-+++++
-
-
-
-FixedColor xossasining vazifasi 
-====
-#Qator va ustunning sarlavha rangi
-====
-rangi
-====
-Joylashuvi
-====
-Ustunlar soni
-
-
-
-+++++
-
-
-
-Natijalarni jadval ko’rinishini ifodalash uchun C++ Builderda Additional qo’shimcha bo’limining qaysi elementlaridan foydalanamiz?
-====
-#TStringGrid
-====
-Tcanvas
-====
-TColor
-====
-TPen
-
-
-
-+++++
-
-
-
-Grid  xossasining vazifasi 
-====
-#Bunday xossa mavjud emas
-====
-Rangi aniqlaydi
-====
-Nuqtaning bosh holati
-====
-Chiziqning ko’rinishi
-
-
-
-+++++
-
-
-
-Polygon shakllarining vazifasi yoki qiymati 
-====
-#Nuqtalar bo’yicha soha chizadi 
-====
-To’g’ri burchakli to’rtburchak.
-====
-Chegarasiz to’g’ri burchakli to’rtburchakning foni
-====
-To’g’ri burchakli to’rtburchak atrof chiziqlarini 1 pikselga tenglashtirish, to’g’ri burchakli to’rtburchak fonsiz
-
-
-
-+++++
-
-
-
-Rectangle shakllarining vazifasi yoki qiymati
-====
-#To’g’ri burchakli to’rtburchak
-====
-Chegarasiz to’g’ri burchakli to’rtburchakning foni
-====
-To’g’ri burchakli to’rtburchak atrof chiziqlarini 1 pikselga tenglashtirish, to’g’ri burchakli to’rtburchak fonsiz
-====
-Nuqtalar bo’yicha soha chizadi
-
-
-
-+++++
-
-
-
-FillRect shakllarining vazifasi yoki qiymati
-====
-#Chegarasiz to’g’ri burchakli to’rtburchakning foni
-====
-To’g’ri burchakli to’rtburchak atrof chiziqlarini 1 pikselga tenglashtirish, to’g’ri burchakli to’rtburchak fonsiz
-====
-Nuqtalar bo’yicha soha chizadi
-====
-To’g’ri burchakli to’rtburchak
-
-
-
-+++++
-
-
-
-Grafikli matnlarni ekranga chiqaruvchi TextOut funksiyasininig vazifasi
-====
-#berilgan matnni kerakli nuqtaga chiqarish
-====
-Matnning 1- va oxirgi qatorlarining orasidagi o’lchamlarni qaytaradi
-====
-Matnning uzunligi
-====
-Matnning balandligi
-
-
-
-+++++
-
-
-
-C++ Builderda Edit1 komponentasiga kritilayotgan simvollarni barchasini ‘@’ ko’rinishida chiqarish uchun qanday amallar bajariladi? 
-====
-#Edit1-&gt;PasswordChar='@';
-====
-Edit1-&gt;Password='@';
-====
-Edit1-&gt;Char='@';
-====
-Edit1-&gt;PassChar='@';
-
-
-
-+++++
-
-
-
-FixedCols xossasining vazifasi
-====
-#ustun bo’yicha sarlavha soni (odatda 1 ta)
-====
-Qator bo’yicha sarlavha soni(odatda 1 ta)
-====
-Chiziqlar qalinligi
-====
-Qatorlar soni
-
-
-
-+++++
-
-
-
-FixedRows xossasining vazifasi
-====
-#Qator bo’yicha sarlavha soni(odatda 1 ta)
-====
-ustun bo’yicha sarlavha soni (odatda 1 ta)
-====
-Chiziqlar qalinligi
-====
-Qatorlar soni
-
-
-
-+++++
-
-
-
-GridLineWidth xossasining vazifasi
-====
-#Chiziqlar qalinligi
-====
-Qator bo’yicha sarlavha soni(odatda 1 ta)
-====
-ustun bo’yicha sarlavha soni (odatda 1 ta)
-====
-Joylashuvi
-
-
-
-+++++
-
-
-
-RowCount xossasining vazifasi
+DFS algoritmi nima vazifani bajaradi?
 ====
-#Qatorlar soni
+# Grafda tubiga qarab qidiruv
 ====
-* Qator bo’yicha sarlavha soni(odatda 1 ta)
+Grafda eniga qarab qidiruv
 ====
-ustun bo’yicha sarlavha soni (odatda 1 ta)
+Elementlarni saralash
 ====
-Chiziqlar qalinligi
-
+Elementlarni o‘chirish
 
-
 +++++
-
-
-
-Handle  xossasining vazifasi 
+BFS algoritmida qaysi ma’lumot tuzilmasidan ko‘proq foydalaniladi?
 ====
-#Deskriptorop pen.
+# Navbat (queue)
 ====
-Rangi aniqlaydi
+Stek (stack)
 ====
-Nuqtaning bosh holati
+Massiv
 ====
-Chiziqning ko’rinishi
-
-
+Bog‘langan ro‘yxat
 
 +++++
-
-
-
-Mode  xossasining vazifasi
+DFS algoritmida qaysi ma’lumot tuzilmasidan ko‘proq foydalaniladi?
 ====
-#Nuqtaning bosh holati
+# Stek (stack) yoki rekursiya
 ====
-Deskriptorop pen.
+Navbat (queue)
 ====
-Rangi aniqlaydi
+Massiv
 ====
-Qatorlar soni
-
+Bog‘langan ro‘yxat
 
-
 +++++
-
-
-
-
-
-Html kengaytmali fayllarni dasturga bog'lashda qaysi komponentadan foydalaniladi?
+BFS qaysi holatlarda samaraliroq ishlaydi?
 ====
-#TCppWebBrowser
+# Eng qisqa yo‘lni topishda
 ====
-TPageProducer
+Grafning chuqurligini o‘lchashda
 ====
-TDataSource
+Faqat daraxtlar uchun
 ====
-TDataTable
-
-
+Faqat yo‘nalgan graflar uchun
 
 +++++
-
-
-
-Variant tipi qanday o'zgaruvchilarga nisbatan qo'llaniladi? 
+DFS algoritmi qaysi muammo uchun yaxshi yechim?
 ====
-#Tipi oldindan ma'lum bo'lmagan o'zgaruvchilarga
+# Tsikllarni aniqlash va yo‘l topishda
 ====
-Satrli o'zgaruvchilarga nisbatan
+Eng qisqa yo‘lni topishda
 ====
-Sonli o'zgaruvchilarga nisbatan
+Faqat ierarxik daraxtlar uchun
 ====
-Fayl tipiga nisbatan
-
+Faqat bog‘langan graflar uchun
 
-
 +++++
-
-
-
-C++ Builderda ADOTable komponentasiga bog'langan jadvalga yangi yozuv qo’shish funksiyasini toping? 
+BFS algoritmida boshlang‘ich tugundan keyin qaysi tugunlar tashrif buyuriladi?
 ====
-#ADOTable1-&gt;Insert( );
+# Barcha qo‘shni tugunlar birinchi navbatda
 ====
-ADOTable1-&gt;Last( );
+Faqat birinchi tugun
 ====
-ADOTable1-&gt;Post( );
+Faqat oxirgi tugun
 ====
-ADOTable1-&gt;Edit( );
+Faqat ierarxik tugunlar
 
-
-
 +++++
-
-
-
-C++ Builderda Button1 komponentasini bosganda, agar CheckBox1 ob’yekti tanlangan (belgilangan) bo’lsa “Tanlangan” degan yozuvni chiqarish kodini ko’rsating: 
+DFS algoritmida boshlang‘ich tugundan keyin qaysi tugunlar tashrif buyuriladi?
 ====
-#if (CheckBox1-&gt;Checked==true) ShowMessage("Tanlangan");
+# Eng chuqur qismga borilgunga qadar ketma-ket
 ====
-if (CheckBox1-&gt;Checked-&gt;false) ShowMessage("Tanlangan");
+Barcha qo‘shni tugunlar birinchi navbatda
 ====
-if (Button1-&gt;Checked==true) ShowMessage("Tanlangan");
+Faqat oxirgi tugun
 ====
-if (CheckBox1-&gt;Checked-&gt;true) ShowMessage("Tanlangan");
-
+Faqat ildiz tugun
 
-
 +++++
-
-
-
-C++ Builderda Edit1 komponentasiga kritilayotgan simvollarni barchasini ‘*’ ko’rinishida chiqarish uchun qanday amallar bajariladi? 
+BFS va DFS algoritmlarining asosiy farqi nimada?
 ====
-#Edit1-&gt;PasswordChar='*';
+# BFS eniga, DFS tubiga qarab qidiradi
 ====
-Edit1-&gt;Password='*';
+BFS faqat rekursiya, DFS faqat stek bilan ishlaydi
 ====
-Edit1-&gt;Char='*';
+DFS faqat massiv bilan, BFS faqat ro‘yxat bilan ishlaydi
 ====
-Edit1-&gt;PassChar='*';
-
-
+Hech qanday farqi yo‘q
 
 +++++
-
-
-
-C++ Builderda Edit1 komponentasiga kritilayotgan simvollarni barchasini ‘&amp;’ ko’rinishida chiqarish uchun qanday amallar bajariladi? 
+BFS algoritmi uchun boshlang‘ich tugun qanday tanlanadi?
 ====
-#Edit1-&gt;PasswordChar='&amp;';
+# Foydalanuvchi yoki muammo tomonidan beriladi
 ====
-Edit1-&gt;Password='&amp;';
+Har doim 0
 ====
-Edit1-&gt;Char='&amp;';
+Faqat oxirgi tugun
 ====
-Edit1-&gt;PassChar='&amp;';
-
+Tasodifiy
 
-
 +++++
-
-
-
-C++ Builderda BitBtn1 komponentasiga rasm qo’yishda qaysi hossadan foydalaniladi?
+DFS algoritmi uchun boshlang‘ich tugun qanday tanlanadi?
 ====
-#Glyph
+# Foydalanuvchi yoki muammo tomonidan beriladi
 ====
-Picture
+Har doim 0
 ====
-Image
+Faqat oxirgi tugun
 ====
-Graph
+Tasodifiy
 
-
-
 +++++
-
-
-
-C++ Builderda MaskEdit komponentasining qaysi hususiyati orqali maska(qolip) qo'yiladi? 
+BFS algoritmida tugunlar tashrifi qanday qayd etiladi?
 ====
-#EditMask 
+# Maxsus belgilar (visited) yordamida
 ====
-Text
+Hech qanday qayd etilmaydi
 ====
-Mask
+Faqat tugun nomi
 ====
-CharCase
-
+Faqat o‘chiriladi
 
-
 +++++
-
-
-
-C++ Builderda Image komponentasining qaysi hususiyati orqali rasm qo'yiladi? 
+DFS algoritmida tugunlar tashrifi qanday qayd etiladi?
 ====
-#Picture
+# Maxsus belgilar (visited) yordamida
 ====
-Glyph
+Hech qanday qayd etilmaydi
 ====
-Image
+Faqat tugun nomi
 ====
-Graph
-
-
+Faqat o‘chiriladi
 
 +++++
-
-
-
-C++ Builderda Button1 komponentasini bosganda Shape1 komponentasi aylana shaklini olishi uchun qanday amallar bajariladi? 
+DFS algoritmi uchun rekursiya qanday ishlaydi?
 ====
-#Shape1-&gt;Shape=stCircle;
+# Har bir tugun uchun uning qo‘shnilariga chuqurroq kirish
 ====
-Shape1-&gt;Shape=Circle;
+Faqat tugun qo‘shish
 ====
-Shape1-&gt;Shape==stCircle;
+Faqat tugun o‘chirish
 ====
-Shape1-&gt;Shape==Circle;
-
+Faqat massiv yaratish
 
-
 +++++
-
-
-
-Bevosita rekursiv funksiya nima ish bajaradi?
+BFS va DFS algoritmlarining murakkabligi qanday?
 ====
-#o’ziga -o’zi murojat qiladi
+# O(V + E), bu yerda V — tugunlar, E — yoylar soni
 ====
-o’zidan keyingisiga murojat qiladi
+O(V^2)
 ====
-ish bajarmaydi
+O(E^2)
 ====
-bir xil nomli boshqa funksiyaga murojat qiladi
+O(1)
 
-
-
 +++++
-
-
-
-C++ Builderda Button1 komponentasi chertilganda Edit1 komponentasi noaktiv (ishlamaydigan) xolatga o’tishi uchun qanday amallar bajariladi? 
+DFS algoritmi qaysi ma’lumot tuzilmasi yordamida amalga oshiriladi?
 ====
-#Edit1-&gt;Enabled=false;
+# Stek yoki rekursiv chaqiriqlar
 ====
-Edit1-&gt;Enabled=true;
+Navbat
 ====
-Edit1-&gt;Visible=false;
+Massiv
 ====
-Edit1-&gt;Visible=true;
-
+Bog‘langan ro‘yxat
 
-
 +++++
-
-
-
-C++ Builderda Formaning “OnClose” hodisasi qachon ishga tushadi? 
+BFS algoritmi qaysi sohalarda qo‘llaniladi?
 ====
-#Forma yopilishidan oldin
+# Tarmoq qidiruvlari, eng qisqa yo‘l topish
 ====
-Forma ikki marta chertilganda
+Faqat matematikada
 ====
-Formaga sichqon ko’rsatkichi olib kelinishi bilan
+Faqat rasm ishlashda
 ====
-Forma faol bo’lganda 
-
-
+Faqat fayl tizimida
 
 +++++
-
-
-
-C++ Builderda Button1 komponentasini chertganga formaning kenglik o’lchamini Edit1 komponentasiga kiritilgan qiymatga tenglash uchun qanday dastur yozish kerak? 
+DFS algoritmi qaysi sohalarda qo‘llaniladi?
 ====
-#Form1-&gt;Width=StrToInt(Edit1-&gt;Text);
+# Tsikl aniqlash, komponentlarni ajratish
 ====
-Form1-&gt;Width=StrToChar(Edit1-&gt;Text);
+Faqat tarmoqda
 ====
-Form1-&gt;Width=IntToStr(Edit1-&gt;Text);
+Faqat grafik chizishda
 ====
-Form1-&gt;Width=Edit1-&gt;Text;
-
+Faqat fayl tizimida
 
-
 +++++
-
-
-
-C++ Builderda Formaning “OnDblClick” hodisasi qachon ishga tushadi? 
+DFS algoritmida qayta tashrif buyurilmaslik uchun nima qilinadi?
 ====
-#Forma ikki marta chertilganda
+# Tashrif buyurilgan tugunlar belgilanadi
 ====
-Forma yopilishidan oldin
+Har doim qayta tashrif buyuriladi
 ====
-Forma bir marta chertilganda
+Faqat tugun nomlari yoziladi
 ====
-Forma faol bo’lganda 
-
-
-
+Hech narsa qilinmaydi
 +++++
-
-
-
-C++ Builderda Button1 komponentasini chertganga formaning balandlik o’lchamini Edit1 komponentasiga kiritilgan qiymatga tenglash uchun qanday dastur yozish kerak? 
+Graflarda eng qisqa yo‘lni aniqlash vazifasi nima?
 ====
-#Form1-&gt;Height=StrToInt(Edit1-&gt;Text);
+# Tugunlar orasidagi eng qisqa yo‘lni topish
 ====
-Form1-&gt;Height=StrToChar(Edit1-&gt;Text);
+Faqat tugunlarni sanash
 ====
-Form1-&gt;Height=IntToStr(Edit1-&gt;Text);
+Faqat yoylarni o‘chirish
 ====
-Form1-&gt;Height=Edit1-&gt;Text;
-
-
+Faqat grafni chizish
 
 +++++
-
-
-
-C++ Builderda Button1 komponentasini chertganga formaning rangini ko’k rangga o’zgartirish uchun qanday dastur yozish kerak? 
+Deykstra algoritmi qanday graflar uchun mo‘ljallangan?
 ====
-#Form1-&gt;Color=clBlue;
+# Og‘irliklari manfiy bo‘lmagan yo‘nalgan graflar
 ====
-Form1-&gt;Color=Blue;
+Faqat manfiy og‘irlikli graflar
 ====
-Form1-&gt;FontColor=clBlue;
+Faqat yo‘nalmagan graflar
 ====
-Form1-&gt;Color==clBlue;
-
+Faqat ierarxik daraxtlar
 
-
 +++++
-
-
-
-Bir xil toifali, chekli qiymatlarning tartiblangan to’plamiga nima deb ataladi?
+Ford-Bellman algoritmi qaysi holatlarda ishlaydi?
 ====
-#massiv
+# Manfiy og‘irliklarga ega bo‘lgan graflarda ham
 ====
-oqim
+Faqat manfiy og‘irliksiz graflarda
 ====
-funksiya
+Faqat yog‘och daraxtlarda
 ====
-rekursiv funksiya 
+Faqat ierarxik graflarda
 
-
-
 +++++
-
-
-
-Katta va kichik harflardan, ostki chiziq bilan boshlanadigan ketma ketlik …. deyiladi.
+Floyd-Warshall algoritmi nima vazifani bajaradi?
 ====
-#identifikator
+# Barcha tugunlar orasidagi eng qisqa yo‘llarni topish
 ====
-xizmatchi so'z
+Faqat boshlang‘ichdan bitta tugungacha yo‘lni topish
 ====
-massiv
+Faqat oxirgi tugunga yo‘l topish
 ====
-funksiya
-
+Faqat qisqa yoylarni sanash
 
-
 +++++
-
-
-
-Parametrli takrorlash operatorini ko'rsating
+Deykstra algoritmi qanday usul asosida ishlaydi?
 ====
-#for
+# Eng qisqa masofani asta-sekin yangilab boradi
 ====
-if
+Tasodifiy qidiruv
 ====
-while
+Faqat rekursiya
 ====
-switch
-
-
+Faqat stek yordamida
 
 +++++
-
-
-
-C++ Builderda Formaning “OnClick” hodisasi qachon ishga tushadi? 
+Ford-Bellman algoritmi qanday usulga asoslangan?
 ====
-#Forma bir marta chertilganda
+# Har bir yoyni takroran yangilab borish (relaksatsiya)
 ====
-Forma (yaratilganda) ishga tushganda
+Tasodifiy qidiruv
 ====
-Forma ikki marta chertilganda
+Faqat massiv bilan ishlash
 ====
-Forma yopilishidan oldin
-
+Faqat stek bilan ishlash
 
-
 +++++
-
-
-
-C++ Builderda Edit1 komponentasiga kritilayotgan simvollarni barchasini ‘#’ ko’rinishida chiqarish uchun qanday amallar bajariladi? 
+Floyd-Warshall algoritmi murakkabligi qanday?
 ====
-#Edit1-&gt;PasswordChar='#';
+# O(n^3), n — tugunlar soni
 ====
-Edit1-&gt;Password='#';
+O(n)
 ====
-Edit1-&gt;Char='#';
+O(log n)
 ====
-Edit1-&gt;PassChar='#';
+O(n!)
 
-
-
 +++++
-
-
-
-C++ Builderda Button1 komponentasini bosganda, agar RadioButton1 ob’yekti tanlangan (belgilangan) bo’lsa “Tanlangan” degan yozuvni chiqarish kodini ko’rsating: 
+Deykstra algoritmining murakkabligi qanday?
 ====
-#if (RadioButton1-&gt;Checked==true) ShowMessage("Tanlangan"); 
+# O((V + E) log V), V — tugunlar, E — yoylar soni
 ====
-if (RadioButton1-&gt;Checked=true) ShowMessage("Tanlangan"); 
+O(V)
 ====
-if (Radio1-&gt;Checked==true) ShowMessage("Tanlangan"); 
+O(E^2)
 ====
-if (Radio1-&gt;Checked==false) ShowMessage("Tanlangan"); 
-
+O(1)
 
-
 +++++
-
-
-
-C++ Builderda 2 sonni ustida arifmetik amallar bajarish uchun ularni formaga qaysi komponenta orqali to'gridan-tog'ri kiritish mumkin? 
+Ford-Bellman algoritmining murakkabligi qanday?
 ====
-#Edit
+# O(V * E)
 ====
-Label
+O(V + E)
 ====
-Button
+O(log V)
 ====
-BitBtn
-
-
+O(V^2)
 
 +++++
-
-
-
-C++ Builderda Edit1 komponentasiga ma’lumot kiritishni taqiqlash uchun qanday amallar bajariladi? 
+Floyd-Warshall algoritmi qaysi turdagi graflar uchun qo‘llaniladi?
 ====
-#Edit1-&gt;ReadOnly=true;
+# Yo‘nalgan va yo‘nalmagan graflar uchun
 ====
-Edit1-&gt;CharCase=ecLowerCase;
+Faqat yo‘nalgan graflar uchun
 ====
-Edit1-&gt;ReadOnly=false;
+Faqat yo‘nalmagan graflar uchun
 ====
-Edit1-&gt;ReadOnly==true;
-
+Faqat ierarxik daraxtlar uchun
 
-
 +++++
-
-
-
-C++ Builderda Edit1 komponentasiga kichik harf registrida ma’lumot kiritish uchun qanday amallar bajariladi? 
+Deykstra algoritmi qaysi ma’lumot tuzilmasidan foydalanadi?
 ====
-#Edit1-&gt;CharCase=ecLowerCase;
+# Minimal ustuvor navbat (priority queue)
 ====
-Edit1-&gt;CharCase=ecUpperCase;
+Oddiy navbat (queue)
 ====
-Edit1-&gt;CharCase=ecNormal;
+Stek (stack)
 ====
-Edit1-&gt;CharCase=true;
+Massiv
 
-
-
 +++++
-
-
-
-C++ Builderda Button1 komponentasi chertilganda Button2 komponentasi yashirin (ko’rinmas) xolatga o’tishi uchun qanday amallar bajariladi? 
+Ford-Bellman algoritmi qanday holatlarda xatolik yuzaga keladi?
 ====
-#Button2-&gt;Visible=false;
+# Manfiy sikllar mavjud bo‘lsa
 ====
-Button1-&gt;Visible=false;
+Faqat katta graflarda
 ====
-Button2-&gt;Visible=true;
+Faqat kichik graflarda
 ====
-Button1-&gt;Visible=true;
-
+Faqat yo‘nalgan graflarda
 
-
 +++++
-
-
-
-C++ Builderda Button1 komponentasi chertilganda Edit1 komponentasi yashirin (ko’rinmas) xolatga o’tishi uchun qanday amallar bajariladi? 
+Floyd-Warshall algoritmi qanday printsip asosida ishlaydi?
 ====
-#Edit1-&gt;Visible=false;
+# Dynamic programming
 ====
-Edit1-&gt;Visible=true;
+Greedy
 ====
-Edit1-&gt;Enabled=false;
+Divide and conquer
 ====
-Edit1-&gt;Enabled=true;
-
-
+Tasodifiy qidiruv
 
 +++++
-
-
-
-C++ dasturlash tilida funksiyalar o’z –o’zini chaqirish imkoniyatiga qaysi funksiyada ega bo’ladi?
+Deykstra algoritmi qanday vaziyatda noto‘g‘ri natija beradi?
 ====
-#rekursiv
+# Grafda manfiy og‘irliklar bo‘lsa
 ====
-getline
+Faqat kichik graflarda
 ====
-insert
+Faqat katta graflarda
 ====
-return 
-
+Faqat yo‘nalgan graflarda
 
-
 +++++
-
-
-
-Shart operatorini necha xil ko’rinishi mavjud ?
+Ford-Bellman algoritmi qanday natija beradi?
 ====
-#2
+# Har bir tugunga eng qisqa masofani
 ====
-1
+Faqat boshlang‘ich tugunga
 ====
-3
+Faqat oxirgi tugunga
 ====
-4
+Faqat yoylarga
 
-
-
 +++++
-
-
-
-Sharti keyin berilgan sikl operatori tuzilishini ko'rsating.
+Floyd-Warshall algoritmi qanday natija beradi?
 ====
-#do{sikl tanasi;} while(shart)
+# Barcha tugunlar orasidagi eng qisqa yo‘llar matrisi
 ====
-while(shart) {sikl tanasi;}
+Faqat boshlang‘ich tugunlar
 ====
-while(sikl tanasi) {shart;}
+Faqat oxirgi tugunlar
 ====
-do{shart} while(sikl tanasi;)
-
+Faqat bog‘lanishlar soni
 
-
 +++++
-
-
-
-Sharti keyin berilgan sikl operatorini ko'rsating.
+Deykstra algoritmi qaysi holatda samaraliroq?
 ====
-#do{}while()
+# Graf zich bo‘lmasa va manfiy og‘irliklarsiz bo‘lsa
 ====
-for()
+Faqat manfiy og‘irliklarda
 ====
-while()
+Faqat ierarxik daraxtlarda
 ====
-if()
+Faqat katta sikllarda
 
-
 +++++
-
-
-
-Hoshiyalarning stilini o’zgartirish elementi nomini toping?
+Ford-Bellman algoritmida nechta iteratsiya bajariladi?
 ====
-#Border Style
+# Tugunlar sonidan bitta kam
 ====
-Data access
+Hech qachon iteratsiya qilinmaydi
 ====
-On close
+Cheksiz
 ====
-On hide
-
-
+Faqat bittagina
 
 +++++
-
-
-
-MoveTo  xossasining vazifasi
+Floyd-Warshall algoritmida asosiy sikl nechta marta ishlaydi?
 ====
-#Berilgan nuqtaga o’tish.
+# Uch marta: har bir tugun uchun uch marta aylantiriladi
 ====
-Chiziq chizish(joriy nuqtadan berilgan nuqtagacha)
+Bir marta
 ====
-Tpoin ning massiv obyektlarini birlashtirish
+Ikki marta
 ====
-Qator va ustunning sarlavha rangi
-
+To‘rt marta
 
-
 +++++
-
-
-
-LineTo  xossasining vazifasi 
+Eng qisqa yo‘lni aniqlashda Deykstra algoritmida boshlang‘ich tugun qanday tanlanadi?
 ====
-#Chiziq chizish(joriy nuqtadan berilgan nuqtagacha)
+# Foydalanuvchi tomonidan belgilanadi
 ====
-Tpoin ning massiv obyektlarini birlashtirish
+Har doim 0
 ====
-Qator va ustunning sarlavha rangi
+Tasodifiy
 ====
-Berilgan nuqtaga o’tish.
+Faqat oxirgi tugun
 
-
-
 +++++
-
-
-
-Polyline xossasining vazifasi
+Ford-Bellman algoritmi qanday holatda samaraliroq?
 ====
-#Tpoin ning massiv obyektlarini birlashtirish
+# Manfiy og‘irlikli yoylar bo‘lsa
 ====
-Qator va ustunning sarlavha rangi
+Faqat musbat og‘irliklarda
 ====
-Berilgan nuqtaga o’tish.
+Faqat siklsiz graflarda
 ====
-Chiziq chizish(joriy nuqtadan berilgan nuqtagacha)
-
+Faqat kichik graflarda
 
-
 +++++
-
-
-
-Polygon shakllarining vazifasi yoki qiymati 
+Floyd-Warshall algoritmida manfiy sikllarni aniqlash mumkinmi?
 ====
-#Nuqtalar bo’yicha soha chizadi 
+# Ha, diagonal elementlar manfiy bo‘lsa sikl bor
 ====
-To’g’ri burchakli to’rtburchak.
+Yo‘q
 ====
-Chegarasiz to’g’ri burchakli to’rtburchakning foni
+Faqat Deykstra algoritmida mumkin
 ====
-To’g’ri burchakli to’rtburchak atrof chiziqlarini 1 pikselga tenglashtirish, to’g’ri burchakli to’rtburchak fonsiz
-
-
+Faqat Ford-Bellman algoritmida mumkin
 
 +++++
-
-
-
-Rectangle shakllarining vazifasi yoki qiymati
+Deykstra algoritmi qaysi ma’lumotlar tuzilmasi yordamida tezlashtiriladi?
 ====
-#To’g’ri burchakli to’rtburchak
+# Minimal ustuvor navbat (priority queue)
 ====
-Chegarasiz to’g’ri burchakli to’rtburchakning foni
+Oddiy massiv
 ====
-To’g’ri burchakli to’rtburchak atrof chiziqlarini 1 pikselga tenglashtirish, to’g’ri burchakli to’rtburchak fonsiz
+Stek
 ====
-Nuqtalar bo’yicha soha chizadi
-
+Oddiy navbat
 
-
 +++++
-
-
-
-FillRect shakllarining vazifasi yoki qiymati
+Eng qisqa yo‘lni aniqlash algoritmlaridan qaysi biri barcha tugunlar orasidagi masofani aniqlaydi?
 ====
-#Chegarasiz to’g’ri burchakli to’rtburchakning foni
+# Floyd-Warshall
 ====
-To’g’ri burchakli to’rtburchak atrof chiziqlarini 1 pikselga tenglashtirish, to’g’ri burchakli to’rtburchak fonsiz
+Deykstra
 ====
-Nuqtalar bo’yicha soha chizadi
+Ford-Bellman
 ====
-To’g’ri burchakli to’rtburchak
-
+BFS
 
