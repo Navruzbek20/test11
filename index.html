@@ -1,59 +1,111 @@
 <!DOCTYPE html>
 <html lang="uz">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>1</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-            background-color: #f9f9f9;
-        }
-        .container {
-            max-width: 600px;
-            margin: 0 auto;
-            padding: 20px;
-            background: #fff;
-            border-radius: 8px;
-            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-        }
-        h1 {
-            text-align: center;
-            color: #007BFF;
-        }
-        #fileContent {
-            white-space: pre-wrap; /* Matnni formatlash */
-            background-color: #f4f4f4;
-            padding: 10px;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-            margin-top: 20px;
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <title>Test Landing Page</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body { font-family: Arial, sans-serif; background:#f5f7fb; margin:0; }
+    .container { max-width: 900px; margin: 30px auto; background:#fff; padding:24px; border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,.08); }
+    h1 { text-align:center; }
+    .question { margin:18px 0; padding:16px; border:1px solid #e5e7eb; border-radius:10px; }
+    .question h3 { margin:0 0 10px; }
+    .options label { display:block; padding:6px 0; cursor:pointer; }
+    .correct { background:#e7f8ec; border-color:#34c759; }
+    .wrong { background:#fdecec; border-color:#ff3b30; }
+    .controls { display:flex; gap:12px; margin-top:20px; }
+    button { padding:10px 16px; border:none; border-radius:8px; cursor:pointer; }
+    .primary { background:#2563eb; color:#fff; }
+    .secondary { background:#e5e7eb; }
+    .result { margin-top:20px; padding:14px; border-radius:10px; background:#f0fdf4; color:#166534; }
+    footer { text-align:center; margin-top:20px; color:#6b7280; font-size:14px; }
+  </style>
 </head>
 <body>
-    <div class="container">
-        <h1> Matn Fayli</h1>
-        <p>:</p>
-        <div id="fileContent">Yuklanmoqda...</div>
-    </div>
+<div class="container">
+  <h1>Test tizimi (Landing Page)</h1>
+  <p><b>Format:</b> Savol, so‘ng variantlar <code>====</code> bilan ajratiladi. Birinchi variant — <b>to‘g‘ri javob</b>.</p>
 
-    <script>
-        // GitHub'dagi matn faylini yuklash
-        fetch('https://raw.githubusercontent.com/Navruzbek20/test11/refs/heads/main/akademik 810.txt') // Faylni nisbiy yo‘li
-            .then(response => {
-                if (!response.ok) {
-                    throw new Error('Fayl yuklanmadi');
-                }
-                return response.text();
-            })
-            .then(data => {
-                document.getElementById('fileContent').textContent = data; // Fayl mazmunini sahifada aks ettirish
-            })
-            .catch(error => {
-                document.getElementById('fileContent').textContent = "Xatolik yuz berdi: " + error.message;
-            });
-    </script>
+  <input type="file" id="fileInput" accept=".txt" />
+
+  <div id="quiz"></div>
+
+  <div class="controls">
+    <button class="primary" onclick="checkAnswers()">Tekshirish</button>
+    <button class="secondary" onclick="resetQuiz()">Qaytadan boshlash</button>
+  </div>
+
+  <div id="result"></div>
+
+  <footer>© Test Landing Page</footer>
+</div>
+
+<script>
+let questions = [];
+
+// Faylni o‘qish
+fileInput.addEventListener('change', e => {
+  const file = e.target.files[0];
+  if (!file) return;
+  const reader = new FileReader();
+  reader.onload = () => parseTest(reader.result);
+  reader.readAsText(file, 'UTF-8');
+});
+
+function parseTest(text) {
+  questions = [];
+  const blocks = text.split(/\n\s*\n/);
+  blocks.forEach(block => {
+    const parts = block.split('====').map(p => p.trim()).filter(Boolean);
+    if (parts.length >= 2) {
+      questions.push({
+        question: parts[0],
+        options: parts.slice(1),
+        correct: 0
+      });
+    }
+  });
+  renderQuiz();
+}
+
+function renderQuiz() {
+  const quiz = document.getElementById('quiz');
+  quiz.innerHTML = '';
+  questions.forEach((q, i) => {
+    const div = document.createElement('div');
+    div.className = 'question';
+    div.innerHTML = `<h3>${i+1}. ${q.question}</h3>` +
+      '<div class="options">' +
+      q.options.map((opt, j) =>
+        `<label><input type="radio" name="q${i}" value="${j}" /> ${opt}</label>`
+      ).join('') +
+      '</div>';
+    quiz.appendChild(div);
+  });
+}
+
+function checkAnswers() {
+  let correctCount = 0;
+  document.querySelectorAll('.question').forEach((div, i) => {
+    const selected = div.querySelector('input:checked');
+    if (!selected) return;
+    const val = Number(selected.value);
+    if (val === questions[i].correct) {
+      div.classList.add('correct');
+      correctCount++;
+    } else {
+      div.classList.add('wrong');
+    }
+  });
+  document.getElementById('result').innerHTML =
+    `<div class="result">Natija: ${correctCount} / ${questions.length}</div>`;
+}
+
+function resetQuiz() {
+  document.getElementById('quiz').innerHTML = '';
+  document.getElementById('result').innerHTML = '';
+  fileInput.value = '';
+}
+</script>
 </body>
 </html>
