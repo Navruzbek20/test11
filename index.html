@@ -2,12 +2,15 @@
 <html lang="uz">
 <head>
   <meta charset="UTF-8" />
-  <title>Test Landing Page</title>
+  <title>DMED Quiz</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
     body { font-family: Arial, sans-serif; background:#f5f7fb; margin:0; }
-    .container { max-width: 900px; margin: 30px auto; background:#fff; padding:24px; border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,.08); }
-    h1 { text-align:center; }
+    .container { max-width: 1100px; margin: 30px auto; background:#fff; padding:24px; border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,.08); }
+    h1 { text-align:center; margin-bottom:10px; }
+    .tabs { display:flex; flex-wrap:wrap; gap:8px; justify-content:center; margin-bottom:20px; }
+    .tab { padding:8px 14px; border-radius:8px; border:1px solid #c7d2fe; background:#eef2ff; cursor:pointer; }
+    .tab.active { background:#2563eb; color:#fff; }
     .question { margin:18px 0; padding:16px; border:1px solid #e5e7eb; border-radius:10px; }
     .question h3 { margin:0 0 10px; }
     .options label { display:block; padding:6px 0; cursor:pointer; }
@@ -23,11 +26,12 @@
 </head>
 <body>
 <div class="container">
-  <h1>Test tizimi (Landing Page)</h1>
-  <p><b>Format:</b> Savol, so‘ng variantlar <code>====</code> bilan ajratiladi. Birinchi variant — <b>to‘g‘ri javob</b>.</p>
+  <div style="text-align:center;color:#6b7280">© DMED Quiz</div>
+  <h1>DMED Quiz — 12 ta test (Har biri 15 tadan savol)</h1>
 
   <input type="file" id="fileInput" accept=".txt" />
 
+  <div class="tabs" id="tabs"></div>
   <div id="quiz"></div>
 
   <div class="controls">
@@ -36,42 +40,69 @@
   </div>
 
   <div id="result"></div>
-
-  <footer>© Test Landing Page</footer>
+  <footer>DMED Quiz tizimi</footer>
 </div>
 
 <script>
-let questions = [];
+let allQuizzes = {};
+let currentQuiz = null;
 
-// Faylni o‘qish
 fileInput.addEventListener('change', e => {
   const file = e.target.files[0];
   if (!file) return;
   const reader = new FileReader();
-  reader.onload = () => parseTest(reader.result);
+  reader.onload = () => parseFile(reader.result);
   reader.readAsText(file, 'UTF-8');
 });
 
-function parseTest(text) {
-  questions = [];
-  const blocks = text.split(/\n\s*\n/);
-  blocks.forEach(block => {
-    const parts = block.split('====').map(p => p.trim()).filter(Boolean);
-    if (parts.length >= 2) {
-      questions.push({
-        question: parts[0],
-        options: parts.slice(1),
-        correct: 0
-      });
-    }
+// TXT format:
+// ## Quiz 1
+// Savol
+// ==== javob (to‘g‘ri)
+// ==== variant
+//
+function parseFile(text) {
+  allQuizzes = {};
+  const sections = text.split(/##\s*/).filter(Boolean);
+  sections.forEach(sec => {
+    const lines = sec.trim().split(/\n\s*\n/);
+    const title = lines[0].trim();
+    const questions = [];
+    lines.slice(1).forEach(block => {
+      const parts = block.split('====').map(p => p.trim()).filter(Boolean);
+      if (parts.length >= 2) {
+        questions.push({ question: parts[0], options: parts.slice(1), correct: 0 });
+      }
+    });
+    allQuizzes[title] = questions;
   });
+  renderTabs();
+}
+
+function renderTabs() {
+  const tabs = document.getElementById('tabs');
+  tabs.innerHTML = '';
+  Object.keys(allQuizzes).forEach((key, i) => {
+    const btn = document.createElement('div');
+    btn.className = 'tab' + (i === 0 ? ' active' : '');
+    btn.textContent = key;
+    btn.onclick = () => selectQuiz(key, btn);
+    tabs.appendChild(btn);
+    if (i === 0) selectQuiz(key, btn);
+  });
+}
+
+function selectQuiz(key, btn) {
+  document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
+  btn.classList.add('active');
+  currentQuiz = allQuizzes[key];
   renderQuiz();
 }
 
 function renderQuiz() {
   const quiz = document.getElementById('quiz');
   quiz.innerHTML = '';
-  questions.forEach((q, i) => {
+  currentQuiz.forEach((q, i) => {
     const div = document.createElement('div');
     div.className = 'question';
     div.innerHTML = `<h3>${i+1}. ${q.question}</h3>` +
@@ -89,8 +120,7 @@ function checkAnswers() {
   document.querySelectorAll('.question').forEach((div, i) => {
     const selected = div.querySelector('input:checked');
     if (!selected) return;
-    const val = Number(selected.value);
-    if (val === questions[i].correct) {
+    if (Number(selected.value) === 0) {
       div.classList.add('correct');
       correctCount++;
     } else {
@@ -98,13 +128,12 @@ function checkAnswers() {
     }
   });
   document.getElementById('result').innerHTML =
-    `<div class="result">Natija: ${correctCount} / ${questions.length}</div>`;
+    `<div class="result">Natija: ${correctCount} / ${currentQuiz.length}</div>`;
 }
 
 function resetQuiz() {
-  document.getElementById('quiz').innerHTML = '';
+  renderQuiz();
   document.getElementById('result').innerHTML = '';
-  fileInput.value = '';
 }
 </script>
 </body>
