@@ -2,17 +2,16 @@
 <html lang="uz">
 <head>
   <meta charset="UTF-8" />
-  <title>DMED Quiz</title>
+  <title>DMED Quiz — Akademik 810</title>
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <style>
     body { font-family: Arial, sans-serif; background:#f5f7fb; margin:0; }
-    .container { max-width: 1100px; margin: 30px auto; background:#fff; padding:24px; border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,.08); }
+    .container { max-width:1100px; margin:30px auto; background:#fff; padding:24px; border-radius:12px; box-shadow:0 10px 30px rgba(0,0,0,.08); }
     h1 { text-align:center; margin-bottom:10px; }
     .tabs { display:flex; flex-wrap:wrap; gap:8px; justify-content:center; margin-bottom:20px; }
     .tab { padding:8px 14px; border-radius:8px; border:1px solid #c7d2fe; background:#eef2ff; cursor:pointer; }
     .tab.active { background:#2563eb; color:#fff; }
     .question { margin:18px 0; padding:16px; border:1px solid #e5e7eb; border-radius:10px; }
-    .question h3 { margin:0 0 10px; }
     .options label { display:block; padding:6px 0; cursor:pointer; }
     .correct { background:#e7f8ec; border-color:#34c759; }
     .wrong { background:#fdecec; border-color:#ff3b30; }
@@ -26,10 +25,8 @@
 </head>
 <body>
 <div class="container">
-  <div style="text-align:center;color:#6b7280">© DMED Quiz</div>
+  <div style="text-align:center;color:#6b7280">© DMED Quiz | Akademik 810</div>
   <h1>DMED Quiz — 12 ta test (Har biri 15 tadan savol)</h1>
-
-  <input type="file" id="fileInput" accept=".txt" />
 
   <div class="tabs" id="tabs"></div>
   <div id="quiz"></div>
@@ -40,42 +37,65 @@
   </div>
 
   <div id="result"></div>
-  <footer>DMED Quiz tizimi</footer>
+  <footer>Testlar avtomatik <b>akademik 810.txt</b> fayldan olinadi</footer>
 </div>
 
 <script>
+/*
+TXT FAYL FORMATI (akademik 810.txt):
+
+## Quiz 1
+
+Savol matni
+# To‘g‘ri javob
+Noto‘g‘ri javob
+Noto‘g‘ri javob
+Noto‘g‘ri javob
+
+Har bir savolda # bilan boshlangan variant — TO‘G‘RI javob
+Har bir quizda 15 ta savol bo‘lishi mumkin
+*/
+
 let allQuizzes = {};
-let currentQuiz = null;
+let currentQuiz = [];
 
-fileInput.addEventListener('change', e => {
-  const file = e.target.files[0];
-  if (!file) return;
-  const reader = new FileReader();
-  reader.onload = () => parseFile(reader.result);
-  reader.readAsText(file, 'UTF-8');
-});
+fetch('akademik 810.txt')
+  .then(res => res.text())
+  .then(text => parseFile(text))
+  .catch(err => alert('akademik 810.txt topilmadi'));
 
-// TXT format:
-// ## Quiz 1
-// Savol
-// ==== javob (to‘g‘ri)
-// ==== variant
-//
 function parseFile(text) {
   allQuizzes = {};
   const sections = text.split(/##\s*/).filter(Boolean);
-  sections.forEach(sec => {
-    const lines = sec.trim().split(/\n\s*\n/);
-    const title = lines[0].trim();
+
+  sections.forEach(section => {
+    const blocks = section.trim().split(/\n\s*\n/);
+    const title = blocks[0].trim();
     const questions = [];
-    lines.slice(1).forEach(block => {
-      const parts = block.split('====').map(p => p.trim()).filter(Boolean);
-      if (parts.length >= 2) {
-        questions.push({ question: parts[0], options: parts.slice(1), correct: 0 });
+
+    blocks.slice(1).forEach(block => {
+      const lines = block.split('\n').map(l => l.trim()).filter(Boolean);
+      if (lines.length >= 2) {
+        const questionText = lines[0];
+        const options = [];
+        let correctIndex = -1;
+
+        lines.slice(1).forEach((line, idx) => {
+          if (line.startsWith('#')) {
+            correctIndex = idx;
+            options.push(line.replace('#', '').trim());
+          } else {
+            options.push(line);
+          }
+        });
+
+        questions.push({ question: questionText, options, correct: correctIndex });
       }
     });
-    allQuizzes[title] = questions;
+
+    allQuizzes[title] = questions.slice(0, 15); // faqat 15 ta savol
   });
+
   renderTabs();
 }
 
@@ -105,10 +125,10 @@ function renderQuiz() {
   currentQuiz.forEach((q, i) => {
     const div = document.createElement('div');
     div.className = 'question';
-    div.innerHTML = `<h3>${i+1}. ${q.question}</h3>` +
+    div.innerHTML = `<b>${i+1}. ${q.question}</b>` +
       '<div class="options">' +
       q.options.map((opt, j) =>
-        `<label><input type="radio" name="q${i}" value="${j}" /> ${opt}</label>`
+        `<label><input type="radio" name="q${i}" value="${j}"> ${opt}</label>`
       ).join('') +
       '</div>';
     quiz.appendChild(div);
@@ -120,7 +140,7 @@ function checkAnswers() {
   document.querySelectorAll('.question').forEach((div, i) => {
     const selected = div.querySelector('input:checked');
     if (!selected) return;
-    if (Number(selected.value) === 0) {
+    if (Number(selected.value) === currentQuiz[i].correct) {
       div.classList.add('correct');
       correctCount++;
     } else {
