@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html lang="uz">
 <head>
@@ -179,7 +178,8 @@
       background: #f3f4f6;
       color: #374151;
     }
-.result { 
+    
+    .result { 
       margin-top: 30px;
       padding: 24px;
       border-radius: 16px;
@@ -230,7 +230,7 @@
 <div class="container">
   <div class="header">
     <h1>DMED Quiz</h1>
-    <div class="subtitle"> Tuzuvchi: Davletbaeva Aygul Kurbanbaevna</div>
+    <div class="subtitle">Tuzuvchi: Davletbaeva Aygul Kurbanbaevna</div>
   </div>
 
   <div class="tabs" id="tabs"></div>
@@ -245,7 +245,7 @@
   
   <div class="footer">
     <div class="copyright">© DMED Quiz</div>
-    <div style="margin-top: 8px;">DMED 2025</b></div>
+    <div style="margin-top: 8px;">DMED 2025</div>
   </div>
 </div>
 
@@ -266,7 +266,8 @@ function parseFile(text) {
 
   sections.forEach(section => {
     const blocks = section.trim().split(/\n\s*\n/);
-    const title = blocks[0].trim();
+    // Titledan ham ===== va +++++ belgilarini olib tashlash
+    const title = blocks[0].replace(/\+{2,}/g, '').replace(/={4,}/g, '').trim();
     const questions = [];
 
     blocks.slice(1).forEach(block => {
@@ -326,6 +327,7 @@ function renderTabs() {
     if (i === 0) selectQuiz(key, btn);
   });
 }
+
 function selectQuiz(key, btn) {
   document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
   btn.classList.add('active');
@@ -339,10 +341,10 @@ function renderQuiz() {
   currentQuiz.forEach((q, i) => {
     const div = document.createElement('div');
     div.className = 'question';
-    div.innerHTML = <div class="question-text">${i+1}. ${q.question}</div> +
+    div.innerHTML = `<div class="question-text">${i+1}. ${q.question}</div>` +
       '<div class="options">' +
       q.options.map((opt, j) =>
-        <label><input type="radio" name="q${i}" value="${j}"> ${opt}</label>
+        `<label><input type="radio" name="q${i}" value="${j}"> ${opt}</label>`
       ).join('') +
       '</div>';
     quiz.appendChild(div);
@@ -363,7 +365,7 @@ function checkAnswers() {
     }
   });
   document.getElementById('result').innerHTML =
-    <div class="result">🎯 Natija: ${correctCount} / ${currentQuiz.length} ta to'g'ri javob</div>;
+    `<div class="result">🎯 Natija: ${correctCount} / ${currentQuiz.length} ta to'g'ri javob</div>`;
 }
 
 function resetQuiz() {
