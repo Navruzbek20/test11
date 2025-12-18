@@ -318,7 +318,9 @@ function parseFile(text) {
     }
   });
 
-  currentQuiz = questions;
+  // Random 15 ta test tanlash
+  const shuffled = questions.sort(() => Math.random() - 0.5);
+  currentQuiz = shuffled.slice(0, 15);
   renderQuiz();
 }
 
