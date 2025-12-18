@@ -270,31 +270,39 @@ function parseFile(text) {
     const questions = [];
 
     blocks.slice(1).forEach(block => {
-      const lines = block.split('\n').map(l => l.trim()).filter(Boolean);
+      // Barcha qatorlarni olish (bo'sh qatorlarni ham)
+      const allLines = block.split('\n').map(l => l.trim());
+      
+      // Faqat ===== yoki +++++ bo'lmagan qatorlarni olish
+      const lines = allLines.filter(l => {
+        const clean = l.replace(/\+{2,}/g, '').replace(/={4,}/g, '').trim();
+        return clean.length > 0;
+      });
+      
       if (lines.length >= 2) {
-        // Savoldan +++++ va ==== belgilarini olib tashlash
+        // Birinchi qator - savol
         let questionText = lines[0].replace(/\+{2,}/g, '').replace(/={4,}/g, '').trim();
         const options = [];
         let correctIndex = -1;
 
-        lines.slice(1).forEach((line, idx) => {
-          // # bilan boshlangan - to'g'ri javob
-          let cleanLine = line;
-          if (cleanLine.startsWith('#') || cleanLine.startsWith('+')) {
-            correctIndex = idx;
-            cleanLine = cleanLine.replace(/^[#+]\s*/, '').trim();
-          }
-          // Variantlardan ham +++++ va ==== olib tashlash
-          cleanLine = cleanLine.replace(/\+{2,}/g, '').replace(/={4,}/g, '').trim();
+        // Qolgan qatorlar - javob variantlari
+        lines.slice(1).forEach((line) => {
+          let cleanLine = line.replace(/\+{2,}/g, '').replace(/={4,}/g, '').trim();
           
-          // Bo'sh qatorlarni qo'shmaslik
+          // # bilan boshlangan - to'g'ri javob
+          if (line.startsWith('#')) {
+            correctIndex = options.length;
+            cleanLine = cleanLine.replace(/^#\s*/, '').trim();
+          }
+          
+          // Bo'sh bo'lmagan javoblarni qo'shish
           if (cleanLine.length > 0) {
             options.push(cleanLine);
           }
         });
 
         // Agar savol va javoblar mavjud bo'lsa qo'shish
-        if (questionText.length > 0 && options.length > 0) {
+        if (questionText.length > 0 && options.length > 0 && correctIndex >= 0) {
           questions.push({ question: questionText, options, correct: correctIndex });
         }
       }
