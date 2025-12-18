@@ -1,3 +1,4 @@
++++++
 Ma’lumotlar tuzilmasi nima?
 ====
 # Ma’lumotlarni samarali saqlash va foydalanish usuli
