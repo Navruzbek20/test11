@@ -233,7 +233,11 @@
     <div class="subtitle">Tuzuvchi: Davletbaeva Aygul Kurbanbaevna</div>
   </div>
 
-  <div class="tabs" id="tabs"></div>
+  <div class="tabs" id="tabs">
+    <div class="tab active" onclick="loadQuiz('1.txt', this)">Quiz 1</div>
+    <div class="tab" onclick="loadQuiz('2.txt', this)">Quiz 2</div>
+  </div>
+  
   <div id="quiz"></div>
 
   <div class="controls">
@@ -250,94 +254,83 @@
 </div>
 
 <script>
-let allQuizzes = {};
 let currentQuiz = [];
+let currentFile = '1.txt';
 
-fetch('akademik 810.txt')
-  .then(res => res.text())
-  .then(text => parseFile(text))
-  .catch(err => {
-    document.getElementById('quiz').innerHTML = '<div class="loading">❌ akademik 810.txt fayli topilmadi</div>';
-  });
+// Sahifa yuklanganda birinchi testni yuklash
+loadQuiz('1.txt', document.querySelector('.tab.active'));
 
-function parseFile(text) {
-  allQuizzes = {};
-  const sections = text.split(/##\s*/).filter(Boolean);
-
-  sections.forEach(section => {
-    const blocks = section.trim().split(/\n\s*\n/);
-    // Titledan ham ===== va +++++ belgilarini olib tashlash
-    const title = blocks[0].replace(/\+{2,}/g, '').replace(/={4,}/g, '').trim();
-    const questions = [];
-
-    blocks.slice(1).forEach(block => {
-      // Barcha qatorlarni olish (bo'sh qatorlarni ham)
-      const allLines = block.split('\n').map(l => l.trim());
-      
-      // Faqat ===== yoki +++++ bo'lmagan qatorlarni olish
-      const lines = allLines.filter(l => {
-        const clean = l.replace(/\+{2,}/g, '').replace(/={4,}/g, '').trim();
-        return clean.length > 0;
-      });
-      
-      if (lines.length >= 2) {
-        // Birinchi qator - savol
-        let questionText = lines[0].replace(/\+{2,}/g, '').replace(/={4,}/g, '').trim();
-        const options = [];
-        let correctIndex = -1;
-
-        // Qolgan qatorlar - javob variantlari
-        lines.slice(1).forEach((line) => {
-          let cleanLine = line.replace(/\+{2,}/g, '').replace(/={4,}/g, '').trim();
-          
-          // # bilan boshlangan - to'g'ri javob
-          if (line.startsWith('#')) {
-            correctIndex = options.length;
-            cleanLine = cleanLine.replace(/^#\s*/, '').trim();
-          }
-          
-          // Bo'sh bo'lmagan javoblarni qo'shish
-          if (cleanLine.length > 0) {
-            options.push(cleanLine);
-          }
-        });
-
-        // Agar savol va javoblar mavjud bo'lsa qo'shish
-        if (questionText.length > 0 && options.length > 0 && correctIndex >= 0) {
-          questions.push({ question: questionText, options, correct: correctIndex });
-        }
-      }
-    });
-
-    allQuizzes[title] = questions.slice(0, 15);
-  });
-
-  renderTabs();
-}
-
-function renderTabs() {
-  const tabs = document.getElementById('tabs');
-  tabs.innerHTML = '';
-  Object.keys(allQuizzes).forEach((key, i) => {
-    const btn = document.createElement('div');
-    btn.className = 'tab' + (i === 0 ? ' active' : '');
-    btn.textContent = key;
-    btn.onclick = () => selectQuiz(key, btn);
-    tabs.appendChild(btn);
-    if (i === 0) selectQuiz(key, btn);
-  });
-}
-
-function selectQuiz(key, btn) {
+function loadQuiz(filename, btn) {
+  currentFile = filename;
+  
+  // Tablarni yangilash
   document.querySelectorAll('.tab').forEach(t => t.classList.remove('active'));
   btn.classList.add('active');
-  currentQuiz = allQuizzes[key];
+  
+  // Testlarni yuklash
+  fetch(filename)
+    .then(res => res.text())
+    .then(text => parseFile(text))
+    .catch(err => {
+      document.getElementById('quiz').innerHTML = `<div class="loading">❌ ${filename} fayli topilmadi</div>`;
+    });
+}
+
+function parseFile(text) {
+  const questions = [];
+  const blocks = text.trim().split(/\n\s*\n/);
+  
+  blocks.forEach(block => {
+    const allLines = block.split('\n').map(l => l.trim());
+    
+    // Faqat ===== yoki +++++ bo'lmagan qatorlarni olish
+    const lines = allLines.filter(l => {
+      const clean = l.replace(/\+{2,}/g, '').replace(/={4,}/g, '').trim();
+      return clean.length > 0;
+    });
+    
+    if (lines.length >= 2) {
+      // Birinchi qator - savol
+      let questionText = lines[0].replace(/\+{2,}/g, '').replace(/={4,}/g, '').trim();
+      const options = [];
+      let correctIndex = -1;
+
+      // Qolgan qatorlar - javob variantlari
+      lines.slice(1).forEach((line) => {
+        let cleanLine = line.replace(/\+{2,}/g, '').replace(/={4,}/g, '').trim();
+        
+        // # bilan boshlangan - to'g'ri javob
+        if (line.startsWith('#')) {
+          correctIndex = options.length;
+          cleanLine = cleanLine.replace(/^#\s*/, '').trim();
+        }
+        
+        // Bo'sh bo'lmagan javoblarni qo'shish
+        if (cleanLine.length > 0) {
+          options.push(cleanLine);
+        }
+      });
+
+      // Agar savol va javoblar mavjud bo'lsa qo'shish
+      if (questionText.length > 0 && options.length > 0 && correctIndex >= 0) {
+        questions.push({ question: questionText, options, correct: correctIndex });
+      }
+    }
+  });
+
+  currentQuiz = questions;
   renderQuiz();
 }
 
 function renderQuiz() {
   const quiz = document.getElementById('quiz');
   quiz.innerHTML = '';
+  
+  if (currentQuiz.length === 0) {
+    quiz.innerHTML = '<div class="loading">Testlar topilmadi</div>';
+    return;
+  }
+  
   currentQuiz.forEach((q, i) => {
     const div = document.createElement('div');
     div.className = 'question';
