@@ -217,9 +217,6 @@ Belgilar bilan
 Hech qanday
 +++++
 
-
-
-
 Excelda jadvalni qanday saqlash mumkin?
 ====
 Insert → Save
@@ -230,6 +227,7 @@ Home → Save
 ====
 Hech qanday
 +++++
+
 Internet nima?
 ====
 Kompyuter dasturi
@@ -240,6 +238,7 @@ Fayl turi
 ====
 Qurilma
 +++++
+
 Excelda katakdagi ma’lumotni nusxalash uchun qaysi tugmalar ishlatiladi?
 ====
 Ctrl+S
@@ -250,6 +249,7 @@ Ctrl+P
 ====
 Ctrl+Z
 +++++
+
 Animatsiya nima uchun kerak?
 ====
 Matnni saqlash uchun
@@ -260,6 +260,7 @@ Jadval yaratish uchun
 ====
 Rasmni joylash uchun
 +++++
+
 Ctrl + B tugmalari nima vazifani bajaradi?
 ====
 Matnni o‘chiradi
