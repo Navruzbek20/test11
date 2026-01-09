@@ -99,6 +99,7 @@ Faqat hujjat
 Hech narsa
 +++++
 
+
 Kasallik tarixida 096 formasini ochish uchun qanday amalni bajarish kerak?
 ====
 Hech narsa
@@ -171,6 +172,7 @@ Faqat direktor bilan
  Faqat admin ruxsati bilan
 +++++
 
+
 Qanday davolash turi bilan yo‘naltirish uchun direktor tasdig‘i kerak emas?
 ====
 Statsionar
@@ -201,6 +203,9 @@ Belgilar bilan
 ====
 Hech qanday
 +++++
+
+
+
 
 Excelda jadvalni qanday saqlash mumkin?
 ====
