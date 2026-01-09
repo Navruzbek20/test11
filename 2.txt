@@ -9,8 +9,9 @@ Formulalar oynasi
 ====
 Grafik maydoni
 +++++
+
  Qanday tugma yordamida taqdimotni ishga tushirish mumkin?
-=====
+====
 F1
 ====
 Ctrl + P
@@ -19,16 +20,18 @@ Ctrl + P
 ====
 Alt + Enter
 +++++
+
 Qanday funksiyalar asosiy matematik hisob-kitoblar uchun ishlatiladi?
 ====
 SUM, AVERAGE, MIN, MAX
 ====
 # + , - , * , / va SUM funksiyasi
-       ====
+====
 VLOOKUP va IF
 ====
 COUNT va CONCATENATE
 +++++
+
 Printer qaysi turga kiradi?
 ====
 Kirish (input) qurilmasi
@@ -39,6 +42,7 @@ Saqlash qurilmasi
 ====
 Tarmoq qurilmasi
 +++++
+
 PowerPointdagi har bir sahifa nima deb ataladi?
 ====
 Matn
@@ -49,6 +53,7 @@ Rasm
 ====
 Jadval
 +++++
+
 PowerPointda rasmni slaydga qanday qo‘shiladi?
 =====
 # Insert → Picture
@@ -59,6 +64,7 @@ Design → Picture
 ====
 Layout → Add Image
 +++++
+
 PowerPoint fayllarining kengaytmasi nima?
 ====
 Matnni tahrirlash uchun
@@ -69,6 +75,7 @@ Rasmlarni joylash uchun
 ====
 Slaydlarni o‘chirish uchun
 +++++
+
 PowerPoint dasturining asosiy vazifasi nima?
 ====
 Matn tahrirlash
@@ -79,6 +86,7 @@ Matn tahrirlash
 ====
 Hisobot tuzish
 +++++
+
 MS Wordda sahifa raqamini qayerdan kiritiladi?
 ====
 # Insert → Page Number menyusidan
@@ -89,6 +97,7 @@ View → Page Setup menyusidan
 ====
 File → Options bo‘limidan
 +++++
+
 Microsoft Word dasturi nima uchun ishlatiladi?
 ====
 Mushtarak tarmoqlarni boshqarish uchun
@@ -98,7 +107,8 @@ Mushtarak tarmoqlarni boshqarish uchun
 Grafik kartani sozlash uchun
 ====
 Serverlarni boshqarish uchun
-====
++++++
+
 Excelda jadvalni qanday saqlash mumkin?
 ====
 Ctrl + P
@@ -109,6 +119,7 @@ Ctrl + N
 ====
 Alt + F4
 +++++
+
 Excelda formulani kiritish qanday belgidan boshlanadi?
 ====
 +
@@ -119,6 +130,7 @@ Excelda formulani kiritish qanday belgidan boshlanadi?
 ====
 @
 +++++
+
 Ctrl + S tugmalari nima uchun ishlatiladi?
 ====
 Matnni ko‘paytirish uchun
@@ -129,6 +141,7 @@ Yangi fayl ochishd
 ====
 Chop etish uchun
 +++++
+
 Tizimda xorijiy bemor (norezident)ni qidirish qanday ma’lumotlar bo‘yicha amalga oshiriladi?
 ====
 JSHSHIR bo‘yicha
@@ -139,6 +152,7 @@ Telefon raqami bo‘yicha
 ====
 Pasport seriya orqali
 +++++
+
 Bemor birinchi marta DTMga murojaat qilganda qabulga yozish qanday amalga oshiriladi?
 ====
 Faoliyat orqali
@@ -149,6 +163,7 @@ Passport orqali
 ====
 Telefon orqali
 +++++
+
 Fizioterapevtik kursni qo‘shish uchun nima qilish kerak?
 ====
 # Yangi davolash kursi sahifasida 'Davolash rejasini qo‘shish' tugmasini bosish
@@ -159,6 +174,7 @@ Laboratoriya xulosasi kerak
 ====
 Faqat shifokor ruxsati bilan
 +++++
+
 Bemorga bir vaqtning o‘zida bir nechta analizni tayinlash mumkinmi?
 ====
 Yo‘q
@@ -169,6 +185,7 @@ Faqat bitta analiz
 ====
 Faqat laboratoriya ruxsati bilan
 +++++
+
 Xodimlardan kimlar reimbursatsiya retseptlarini yoza oladi?
 ====
 Hamshira
@@ -179,6 +196,7 @@ Laborant
 ====
 Administrator va Oila shifokorlari
 +++++
+
 Bemorning antropometrik ma’lumotlari qaerga kiritiladi?
 ====
 Profil sahifasiga
@@ -189,6 +207,7 @@ Laboratoriya bo‘limiga
 ====
 Murojaat epizodidagi korikga
 +++++
+
 Bemorni vaqtga emas, balki jonli navbatga yozish mumkinmi?
 ====
 Yo‘q
@@ -200,7 +219,6 @@ Faqat notural holatlarda
 Faqat direktor tasdiqi bilan
 +++++
 
-
 Bemorning tibbiy kartasidagi 'Joriy ko‘rik' bo‘limida 'Homiladorlik (Hisobga olish)' murojaat epizodi avtomatik yaratilishi uchun nima qilish kerak?
 ====
 Hech narsa
@@ -211,6 +229,7 @@ Faqat admin tomonidan ochish
 ====
 Faqat bemorning so‘rovi bilan
 +++++
+
 Biksni qayta sterilizatsiyaga yuborish mumkinmi?
 ====
 Yo‘q
@@ -221,6 +240,7 @@ Faqat yangi biks ishlatiladi
 ====
 Faqat direktor ruxsati bilan
 +++++
+
 23. Bemorga qanday sog‘liq guruhlarini ko‘rsatish mumkin?
 ====
 Faqat I–II
@@ -231,6 +251,7 @@ Faqat I–III
 ====
 Hech biri
 +++++
+
 Jurnallarni qaysi bo‘limda ko‘rish mumkin?
 ====
 Admin panelida emas
@@ -241,16 +262,15 @@ Faqat direktor ko‘radi
 ====
 Faqat direktor ko‘radi
 +++++
+
 Internetga oid termin hisoblangan “fayl” so‘zining izohi to‘g‘ri berilgan javobni aniqlang. 
 ====
 mashhur bo'lib, bahsga aylangan g'oya yoki rasm
 =====
 ma'lum bir mavzu bo'yicha eng qiziqarli nashrlarni yetkazadigan maqola
 ====
-
 ijtimoiy tarmoqlarda mavzu boʻyicha xabarlarni tarqatishda foydalaniladigan yorliq
 ====
-
 #kompyuterda ma'lumot saqlovchi diskning nomlangan sohasi
 
 
