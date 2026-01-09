@@ -101,7 +101,7 @@ File → Options bo‘limidan
 Microsoft Word dasturi nima uchun ishlatiladi?
 ====
 Mushtarak tarmoqlarni boshqarish uchun
-----
+====
 # Matnli hujjatlarni yaratish, tahrirlash va formatlash uchun
 ====
 Grafik kartani sozlash uchun
