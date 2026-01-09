@@ -7,7 +7,8 @@ Faoliyatni monitoring qilish
 Faqat dori hisoboti
 ====
 # Barcha javoblar to‘g‘ri
-++++
++++++
+
 DMED qo‘llab-quvvatlash xizmati bilan qanday usullar orqali bog‘lanish mumkin?
 ====
 Faqat telefon orqali
@@ -18,6 +19,7 @@ Faqat email orqali
 ====
 Faqat Telegram orqali
 +++++
+
 Bemor qaysi mobil ilova orqali shifokarga yozilishi mumkin?
 ====
 DMED PRO
@@ -39,6 +41,7 @@ Tashkilot tomonidan beriladi
 ====
 Aloqa raqami orqali
 +++++
+
 Bemor o‘zini poliklinikaga mustaqil ravishda biriktirishi mumkinmi?
 ====
 dmed.uz
@@ -47,7 +50,8 @@ dmed.uz
 gov.uz
 ====
 portal.dmed.uz
-++++
++++++
+
 DMED tizimida qanday maxfiylik turi mavjud?
 ====
 Faoliyat orqali
@@ -58,6 +62,7 @@ Passport orqali
 ====
 Telefon orqali
 +++++
+
 Reimbursatsiya retseptida 'Tabletkalar' chiqarish shakli bo‘lgan preparatni bemorga qancha miqdorda yozish mumkin?
 ====
 10 dona
@@ -68,6 +73,7 @@ Reimbursatsiya retseptida 'Tabletkalar' chiqarish shakli bo‘lgan preparatni be
 ====
 300 dona
 +++++
+
 Shifokor boshqa mutaxassisga yozilgan bemorni qabul qila oladimi?
 ====
 Yo‘q
@@ -78,6 +84,7 @@ Faqat direktor ruxsati bilan
 ====
 Faqat statsionar uchun
 +++++
+
 Bemorni statsionarga rasmiylashtirganda nima avtomatik ochiladi?
 ====
 Tug‘ruq formasi
@@ -88,6 +95,7 @@ Faqat hujjat
 ====
 Hech narsa
 +++++
+
 Shifokor qaysi statsionar ko‘rigini faqat bir marta o‘tkazishi mumkin?
 ====
 Tug‘ruq formasi
@@ -99,7 +107,6 @@ Faqat hujjat
 Hech narsa
 +++++
 
-
 Kasallik tarixida 096 formasini ochish uchun qanday amalni bajarish kerak?
 ====
 Hech narsa
@@ -110,6 +117,7 @@ Admin chaqirish
 ====
 Bemorga so'rov
 +++++
+
 Hamshira qaysi omborning tovar qoldiqlarini ko‘rib chiqishga ruxsati bor?
 ====
 Barcha omborlar 
@@ -120,6 +128,7 @@ Admin ombori
 ====
 Hech qaysi
 +++++
+
 Ctrl + Z qanday vazifa bajaradi?
 ====
 Saqlash
@@ -130,6 +139,7 @@ Nusxalash
 ====
 Chop etish
 +++++
+
 Word hujjatini qanday chop etiladi?
 ====
 File → Save
@@ -140,6 +150,7 @@ File → Table
 ====
 Hech qanday
 +++++
+
 Wordda hujjatga rasmni qanday qo‘shiladi?
 ====
 Home → Picture
@@ -149,7 +160,7 @@ Home → Picture
 File → Insert
 ====
 Insert → Print
-====
++++++
 
 Yo‘naltirish yaratishda bir nechta gospitalizatsiya maqsadini tanlash mumkinmi?
 ====
@@ -158,9 +169,10 @@ Ha
 # Yo‘q
 ====
 Faqat maxsus holatlarda
-----
+====
 Faqat admin ruxsati bilan
 +++++
+
 Davolash kursi paytida preparatga allergik reaksiya ko‘rsatilgandan so‘ng amalni bekor qilish mumkinmi?
 ====
 Yo‘q
@@ -172,7 +184,6 @@ Faqat direktor bilan
  Faqat admin ruxsati bilan
 +++++
 
-
 Qanday davolash turi bilan yo‘naltirish uchun direktor tasdig‘i kerak emas?
 ====
 Statsionar
@@ -183,6 +194,7 @@ Reanimatsiya
 ====
 Kirish
 +++++
+
 Shifokor ko‘rik paytida bemorni boshqa mutaxassisga yo‘naltira oladimi?
 ====
 Yo‘q
@@ -193,6 +205,7 @@ Faqat admin orqali
 ====
 Faqat tugatgandan so‘ng
 +++++
+
 Excelda ustunlar qanday belgilanadi?
 ====
 Raqamlar bilan
