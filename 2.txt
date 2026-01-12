@@ -1,4 +1,3 @@
-
 Excelda katak deb nimaga aytiladi?
 ====
 Butun sahifa
@@ -11,7 +10,7 @@ Grafik maydoni
 +++++
 
  Qanday tugma yordamida taqdimotni ishga tushirish mumkin?
-====
+=====
 F1
 ====
 Ctrl + P
@@ -26,7 +25,7 @@ Qanday funksiyalar asosiy matematik hisob-kitoblar uchun ishlatiladi?
 SUM, AVERAGE, MIN, MAX
 ====
 # + , - , * , / va SUM funksiyasi
-====
+       ====
 VLOOKUP va IF
 ====
 COUNT va CONCATENATE
@@ -101,7 +100,7 @@ File → Options bo‘limidan
 Microsoft Word dasturi nima uchun ishlatiladi?
 ====
 Mushtarak tarmoqlarni boshqarish uchun
-====
+----
 # Matnli hujjatlarni yaratish, tahrirlash va formatlash uchun
 ====
 Grafik kartani sozlash uchun
