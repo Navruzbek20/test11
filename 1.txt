@@ -133,7 +133,7 @@ Ctrl + Z qanday vazifa bajaradi?
 ====
 Saqlash
 ====
-#Amalni bekor qilish (Undo)
+# Amalni bekor qilish (Undo)
 ====
 Nusxalash
 ====
@@ -169,7 +169,7 @@ Ha
 # Yo‘q
 ====
 Faqat maxsus holatlarda
-====
+----
 Faqat admin ruxsati bilan
 +++++
 
